@@ -1,1 +1,86 @@
-<h1>Hello!</h1>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+		<title>Listado de Traducciones Wave</title>
+		<link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
+		<link rel="stylesheet" type="text/css" href="css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/jquery.modal.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/fresco.css" />
+		<link rel="stylesheet" type="text/css" href="css/styles.css" />
+		<link rel="icon" type="image/png" href="images/rom_64.png" sizes="64x64">
+		<script type="text/javascript" language="javascript" src="js/jquery-3.4.1.min.js"></script>
+		<script type="text/javascript" language="javascript" src="js/romhack.js?v=20221029"></script>
+		<script type="text/javascript" class="init">
+			$(document).ready(documentReady);
+		</script>
+	</head>
+	<body>
+		<div id="entryModal1" class="modal hackModal" >
+			<div class="hackNameStyle" id="hackName" ></div>
+			<div class="hackNamePics centeredAll" >
+				<img style="max-width:100%;" id="hackImageTitle" src=""/>
+			</div>
+			<div class="hackNamePics centeredAll" ><a href="#" id="hackGallery">Más imágenes</a></div>
+			<div class="hackNameAltStyle" id="hackAltName" ></div>
+
+			<div class="centeredAll">
+				<span><span class="hackItemHeader">Género:&nbsp</span><span id="hackGenre"></span></span>
+				<span><span class="hackItemHeader">Sistema:&nbsp</span><span id="hackSystem"></span></span>
+			</div>
+			<div class="centeredAll">
+				<span class="hackItemHeader">Completo:&nbsp</span><span id="hackComplete"></span>
+			</div>
+			<div class="centeredAll">
+				<span><span class="hackItemHeader">Parche:&nbsp</span><span id="hackVersion"></span></span>
+				<span><span class="hackItemHeader">Léeme:&nbsp</span><span id="hackReadme"></span></span>
+			</div>
+			<div class="hackItemHeader centeredAll">Notas:</div>
+			<div class="centeredAll" id="hackNotes"></div>
+			<div class="hackItemHeader centeredAll">ROM:</div>
+			<div class="centeredAll breakAll" id="hackRom"></div>
+		</div>
+		<h1 class="title">Traducciones Wave</h1>
+		<table id="translations" class="display" style="width:100%">
+			<thead>
+				<tr>
+					<th>Id</th>
+					<th>Nombre Alternativo</th>
+					<th>Nombre</th>
+					<th class="selectSearch">Sistema</th>
+					<th>Género</th>
+					<th>Completo</th>
+					<th>Fecha Inicial</th>
+					<th>Versión</th>
+					<th>Ficha</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<th></th>
+					<th></th>
+					<th></th>
+					<th></th>
+					<th></th>
+					<th></th>
+					<th></th>
+					<th></th>
+					<th></th>
+				</tr>
+			</tfoot>
+		</table>
+	</body>
+	<footer>
+		<script type="text/javascript" language="javascript" src="js/jquery.dataTables.min.js"></script>
+		<script type="text/javascript" language="javascript" src="js/dataTables.responsive.min.js"></script>
+		<script type="text/javascript" language="javascript" src="js/jquery.modal.min.js"></script>
+		<script type="text/javascript" language="javascript" src="js/fresco.min.js"></script>
+		<script type="text/javascript" language="javascript" src="list_archived.js?v=20240727"></script>
+		<script type="text/javascript" language="javascript" src="list.js?v=20240727"></script>
+		<script type="text/javascript" language="javascript" src="js/spanish.js"></script>
+	</footer>
+</html>

@@ -1,0 +1,74 @@
+.breakAll {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+.centeredAll {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centeredText {
+	text-align: center;
+}
+
+.title {
+	text-align: center;
+}
+.hackTitleStyle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  cursor: pointer;
+}
+
+.hackNameStyle {
+	text-align: center;
+	font-weight: bold; 
+	font-size: 150%;
+}
+
+.hackNameAltStyle {
+	text-align: center;
+	font-weight: bold; 
+	font-size: 125%;
+}
+
+.hackItemHeader {
+	font-weight: bold; 
+}
+
+@media (min-width: 600px) {
+	.fr-content-element {
+	 width: 200%; 
+	 height: 200%;
+	 margin-left: -50%;
+	 margin-top: -50%;
+	}
+
+	.fr-content {
+	 width: 200%; 
+	 height: 200%; 
+	}
+
+	.fr-stroke-color {
+		visibility:hidden
+	}
+}
+
+.hackModal {
+	overflow-wrap: break-word; 
+	max-width:500px;
+	background-color: #f9f9f9;
+}
+
+.hackNamePics {
+	max-width:100%;
+  margin-left: auto;
+  margin-right: auto;
+}
