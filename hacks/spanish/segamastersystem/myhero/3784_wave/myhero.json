@@ -1,0 +1,19 @@
+{
+  "id" : "3784",
+  "releasedBy" : "Wave",
+  "name" : "My Hero",
+  "altName" : "Seishun Scandal",
+  "system" : "Sega Master System",
+  "romDesc" : "My Hero (UE) [!].sms 32.768 bytes\\r\\nMD5: efef7361c9c37bcd6a7b84bc121af5f2\\r\\nSHA1: 7583c5fb1963c070b7bda72b447cc3fd611ddf1a\\r\\nCRC32: 62f0c23d",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\08\\31",
+  "gameDate" : "31 January 1986",
+  "version" : "1.0",
+  "downloads" : "109",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\myhero\\3784_wave",
+  "imagesFilenames" : [ "myhero_0.png", "myhero_1.png", "myhero_2.png" ],
+  "readmeFilename" : "myhero_readme.txt",
+  "patchFilename" : "myhero_patch.zip",
+  "notes" : null
+}

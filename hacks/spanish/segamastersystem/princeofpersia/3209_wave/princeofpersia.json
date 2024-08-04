@@ -1,0 +1,19 @@
+{
+  "id" : "3209",
+  "releasedBy" : "Wave",
+  "name" : "Prince of Persia",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Prince of Persia (E).sms 262.144 bytes\\r\\nCRC32: 7704287d\\r\\nMD5: 70e9b330dd6a91e7310f3c8d9a934ecc\\r\\nSHA1: 7ef7b4e2fcec69946844c186c62836c0ae34665f",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\10\\01",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "217",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\princeofpersia\\3209_wave",
+  "imagesFilenames" : [ "princeofpersia_0.png", "princeofpersia_1.png", "princeofpersia_2.png", "princeofpersia_3.png", "princeofpersia_4.png" ],
+  "readmeFilename" : "princeofpersia_readme.txt",
+  "patchFilename" : "princeofpersia_patch.zip",
+  "notes" : null
+}

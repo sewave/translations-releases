@@ -1,0 +1,19 @@
+{
+  "id" : "2876",
+  "releasedBy" : "Wave",
+  "name" : "Streets of Rage 2",
+  "altName" : "Bare Knuckle II",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Streets of Rage 2 (U) [!].bin 2.097.152 bytes\\r\\nCRC32: e01fa526\\r\\nMD5: cb75d5a6919b61efe917bea5762c1cb7\\r\\nSHA1: 8b656eec9692d88bbbb84787142aa732b44ce0be",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\01\\29",
+  "gameDate" : "20 December 1992",
+  "version" : "1.0",
+  "downloads" : "975",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\streetsofrage2\\2876_wave",
+  "imagesFilenames" : [ "streetsofrage2_0.png", "streetsofrage2_1.png", "streetsofrage2_2.png", "streetsofrage2_3.png", "streetsofrage2_4.png" ],
+  "readmeFilename" : "streetsofrage2_readme.txt",
+  "patchFilename" : "streetsofrage2_patch.zip",
+  "notes" : null
+}

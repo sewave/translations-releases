@@ -1,0 +1,19 @@
+{
+  "id" : "3453",
+  "releasedBy" : "Wave",
+  "name" : "The Lion King",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Lion King, The (E) [!].gg 524.288 bytes\\r\\nCRC32: 0cd9c20b\\r\\nMD5: b2405427e53fc2e358ea199619154fc9\\r\\nSHA1: 49f00887a297f70a51711fe18433bc168ec49fc9",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\02\\24",
+  "gameDate" : "13 January 1995",
+  "version" : "1.0",
+  "downloads" : "117",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\thelionking\\3453_wave",
+  "imagesFilenames" : [ "thelionking_0.png", "thelionking_1.png", "thelionking_2.png", "thelionking_3.png", "thelionking_4.png" ],
+  "readmeFilename" : "thelionking_readme.txt",
+  "patchFilename" : "thelionking_patch.zip",
+  "notes" : null
+}

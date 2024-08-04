@@ -1,0 +1,19 @@
+{
+  "id" : "5130",
+  "releasedBy" : "Wave",
+  "name" : "Go! Benny!",
+  "altName" : "Corre Benny",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Corre Benny (Spain) (Gluk Video) (Unl).nes\\r\\nMD5: 555f4591dc1eee05d90a2e90eeb86a3d\\r\\nSHA1: d20b29414c3f10351b1b55711f23fba192c9eb92\\r\\nCRC32: c92325a0 65552 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\30",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "55",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\gobenny\\5130_wave",
+  "imagesFilenames" : [ "gobenny_0.png", "gobenny_1.png", "gobenny_2.png", "gobenny_3.png", "gobenny_4.png" ],
+  "readmeFilename" : "gobenny_readme.txt",
+  "patchFilename" : "gobenny_patch.zip",
+  "notes" : null
+}

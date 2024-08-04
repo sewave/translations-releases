@@ -1,0 +1,19 @@
+{
+  "id" : "4369",
+  "releasedBy" : "Wave",
+  "name" : "Hogan's Alley",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Hogan's Alley (W) [!].nes\\r\\nMD5: aa78965764353f321b4bce9221128909\\r\\nSHA1: a70f09a3163b8c967c03db8c20005c828836cc4d\\r\\nCRC32: 9d39585b 24.592 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\05",
+  "gameDate" : "12 June 1984",
+  "version" : "1.0",
+  "downloads" : "102",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\hogansalley\\4369_wave",
+  "imagesFilenames" : [ "hogansalley_0.png", "hogansalley_1.png", "hogansalley_2.png", "hogansalley_3.png", "hogansalley_4.png" ],
+  "readmeFilename" : "hogansalley_readme.txt",
+  "patchFilename" : "hogansalley_patch.zip",
+  "notes" : null
+}

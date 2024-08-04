@@ -1,0 +1,19 @@
+{
+  "id" : "5131",
+  "releasedBy" : "Wave",
+  "name" : "Cosmos Cop",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Cosmos Cop (Spain) (Gluk Video) (Unl).nes\\r\\nMD5: fce7d809e44d489aea8e54780dc2eae6\\r\\nSHA1: 72f1ecb004377348d94f1fdd36b6da42e9ad0601\\r\\nCRC32: 30b25432 65552 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\30",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "69",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\cosmoscop\\5131_wave",
+  "imagesFilenames" : [ "cosmoscop_0.png", "cosmoscop_1.png", "cosmoscop_2.png", "cosmoscop_3.png", "cosmoscop_4.png" ],
+  "readmeFilename" : "cosmoscop_readme.txt",
+  "patchFilename" : "cosmoscop_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3119",
+  "releasedBy" : "Wave",
+  "name" : "Shadow Dancer",
+  "altName" : "Shadow Dancer: The Secret of Shinobi",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Shadow Dancer - The Secret of Shinobi (W) [c][!].gen 524.288 bytes\\r\\nCRC32: ebe9ad10\\r\\nMD5: 1f2a9f322e770be0a3cc2aabdf8bc575\\r\\nSHA1: c5f096b08470a564a737140b71247748608c32b6",
+  "genre" : "Acción",
+  "releaseDate" : "2017\\07\\13",
+  "gameDate" : "1990",
+  "version" : "1.01",
+  "downloads" : "574",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\shadowdancer\\3119_wave",
+  "imagesFilenames" : [ "shadowdancer_0.png", "shadowdancer_1.png", "shadowdancer_2.png", "shadowdancer_3.png", "shadowdancer_4.png" ],
+  "readmeFilename" : "shadowdancer_readme.txt",
+  "patchFilename" : "shadowdancer_patch.zip",
+  "notes" : null
+}

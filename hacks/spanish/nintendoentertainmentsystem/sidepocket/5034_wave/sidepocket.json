@@ -1,0 +1,19 @@
+{
+  "id" : "5034",
+  "releasedBy" : "Wave",
+  "name" : "Side Pocket",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Side Pocket (U) [!].nes\\r\\nMD5: 4548ccbe18d8631734a08d57d32b44fe\\r\\nSHA1: 32946fc54618078b163d88a48e535197ae149be5\\r\\nCRC32: 1fbacf06 131088 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\09\\25",
+  "gameDate" : "June 1987",
+  "version" : "1.0",
+  "downloads" : "71",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\sidepocket\\5034_wave",
+  "imagesFilenames" : [ "sidepocket_0.png", "sidepocket_1.png", "sidepocket_2.png", "sidepocket_3.png", "sidepocket_4.png" ],
+  "readmeFilename" : "sidepocket_readme.txt",
+  "patchFilename" : "sidepocket_patch.zip",
+  "notes" : null
+}

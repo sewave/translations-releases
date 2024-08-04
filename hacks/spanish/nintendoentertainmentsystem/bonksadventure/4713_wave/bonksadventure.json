@@ -1,0 +1,19 @@
+{
+  "id" : "4713",
+  "releasedBy" : "Wave",
+  "name" : "Bonk's Adventure",
+  "altName" : "FC Genjin: Frekthoropus Computerus",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Bonk's Adventure (U) [!].nes\\r\\nMD5: 377d49dbdeb4046b178fa6bcd707ceb1\\r\\nSHA1: 776c8db58d968ffacec93006c5471787a716eb2a\\r\\nCRC32: 6b53d59a 393232 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\20",
+  "gameDate" : "30 July 1993",
+  "version" : "1.1",
+  "downloads" : "156",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\bonksadventure\\4713_wave",
+  "imagesFilenames" : [ "bonksadventure_0.png", "bonksadventure_1.png", "bonksadventure_2.png", "bonksadventure_3.png", "bonksadventure_4.png" ],
+  "readmeFilename" : "bonksadventure_readme.txt",
+  "patchFilename" : "bonksadventure_patch.zip",
+  "notes" : null
+}

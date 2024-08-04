@@ -1,0 +1,19 @@
+{
+  "id" : "2921",
+  "releasedBy" : "Wave",
+  "name" : "Enduro Racer",
+  "altName" : "Super Cross",
+  "system" : "Sega Master System",
+  "romDesc" : "Enduro Racer (J).sms 262.144 bytes\\r\\nCRC32: 5d5c50b3\\r\\nMD5: a94de92b078911e71c246679c8992da1\\r\\nSHA1: 7a0216af8d4a5aeda1d42e2703f140d08b3f92f6",
+  "genre" : "Carreras",
+  "releaseDate" : "2017\\03\\20",
+  "gameDate" : "18 May 1987",
+  "version" : "1.0",
+  "downloads" : "170",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\enduroracer\\2921_wave",
+  "imagesFilenames" : [ "enduroracer_0.png", "enduroracer_1.png", "enduroracer_2.png", "enduroracer_3.png" ],
+  "readmeFilename" : "enduroracer_readme.txt",
+  "patchFilename" : "enduroracer_patch.zip",
+  "notes" : null
+}

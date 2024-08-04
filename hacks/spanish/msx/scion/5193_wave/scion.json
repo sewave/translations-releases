@@ -1,0 +1,19 @@
+{
+  "id" : "5193",
+  "releasedBy" : "Wave",
+  "name" : "Scion",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Scion (1985) (Sony) (J).rom\\r\\nMD5: 855e2bf57c9211ba347facc0b3124b0d\\r\\nSHA1: 09fbbd923e0deb82f5e20fa8ce2d842adbf4a646\\r\\nCRC32: ba3a8ea1 16384 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\12",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "29",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\scion\\5193_wave",
+  "imagesFilenames" : [ "scion_0.png", "scion_1.png", "scion_2.png", "scion_3.png" ],
+  "readmeFilename" : "scion_readme.txt",
+  "patchFilename" : "scion_patch.zip",
+  "notes" : null
+}

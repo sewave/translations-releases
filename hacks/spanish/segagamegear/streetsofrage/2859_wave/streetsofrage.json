@@ -1,0 +1,19 @@
+{
+  "id" : "2859",
+  "releasedBy" : "Wave",
+  "name" : "Streets of Rage",
+  "altName" : "Bare Knuckle: Ikari no Tekken",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Streets of Rage (U) [!].gg 262.144 bytes\\r\\nCRC32: 3d8bcf1d\\r\\nMD5: 1ece7480d21fb862a65233ba126282d3\\r\\nSHA1: ca8c8a00ee838e994b2fa17e595ddd40d898cf42",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\01\\11",
+  "gameDate" : "27 November 1992",
+  "version" : "1.0",
+  "downloads" : "206",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\streetsofrage\\2859_wave",
+  "imagesFilenames" : [ "streetsofrage_0.png", "streetsofrage_1.png", "streetsofrage_2.png", "streetsofrage_3.png", "streetsofrage_4.png" ],
+  "readmeFilename" : "streetsofrage_readme.txt",
+  "patchFilename" : "streetsofrage_patch.zip",
+  "notes" : null
+}

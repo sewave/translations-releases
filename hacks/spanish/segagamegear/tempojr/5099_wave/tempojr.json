@@ -1,0 +1,19 @@
+{
+  "id" : "5099",
+  "releasedBy" : "Wave",
+  "name" : "Tempo Jr.",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Tempo Jr. (U) [!].gg\\r\\nMD5: d5d52e216698b34a3dbe95d5990c52c8\\r\\nSHA1: a2d800d2836a03f81dd8f3dda23cd2d8bfff18a5\\r\\nCRC32: de466796 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\10\\21",
+  "gameDate" : "28 April 1995",
+  "version" : "1.0",
+  "downloads" : "56",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\tempojr\\5099_wave",
+  "imagesFilenames" : [ "tempojr_0.png", "tempojr_1.png", "tempojr_2.png", "tempojr_3.png", "tempojr_4.png" ],
+  "readmeFilename" : "tempojr_readme.txt",
+  "patchFilename" : "tempojr_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4269",
+  "releasedBy" : "Wave",
+  "name" : "Tetris",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Tetris (U) [!].nes\\r\\nMD5: ec58574d96bee8c8927884ae6e7a2508\\r\\nSHA1: 77747840541bfc62a28a5957692a98c550bd6b2b\\r\\nCRC32: 6d72c53a 49.168 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\02\\19",
+  "gameDate" : "November 1989",
+  "version" : "1.0",
+  "downloads" : "199",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\tetris\\4269_wave",
+  "imagesFilenames" : [ "tetris_0.png", "tetris_1.png", "tetris_2.png", "tetris_3.png", "tetris_4.png" ],
+  "readmeFilename" : "tetris_readme.txt",
+  "patchFilename" : "tetris_patch.zip",
+  "notes" : null
+}

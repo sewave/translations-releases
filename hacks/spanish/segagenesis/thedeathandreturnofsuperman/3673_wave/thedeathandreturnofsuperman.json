@@ -1,0 +1,19 @@
+{
+  "id" : "3673",
+  "releasedBy" : "Wave",
+  "name" : "The Death and Return of Superman",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Death and Return of Superman, The (U) [!].bin 2.097.152 bytes\\r\\nCRC32: 982242d3\\r\\nMD5: 960a409245913c8adf10c4b3ed23ab04\\r\\nSHA1: 3534d17801bd5756b10a7f8d7d95f3a8d9b74844",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\06\\30",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "287",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\thedeathandreturnofsuperman\\3673_wave",
+  "imagesFilenames" : [ "thedeathandreturnofsuperman_0.png", "thedeathandreturnofsuperman_1.png", "thedeathandreturnofsuperman_2.png", "thedeathandreturnofsuperman_3.png", "thedeathandreturnofsuperman_4.png" ],
+  "readmeFilename" : "thedeathandreturnofsuperman_readme.txt",
+  "patchFilename" : "thedeathandreturnofsuperman_patch.zip",
+  "notes" : null
+}

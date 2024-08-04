@@ -1,0 +1,19 @@
+{
+  "id" : "5214",
+  "releasedBy" : "Wave",
+  "name" : "Star Force",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Star Force (1985) (Hudson) (J).rom\\r\\nMD5: 202e2df136f4ba32d175dd8e93210bbb\\r\\nSHA1: c1746efeb4b44dcc80dfc4f429009feac91d9c48\\r\\nCRC32: c14e53a1 32768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\19",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "40",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\starforce\\5214_wave",
+  "imagesFilenames" : [ "starforce_0.png", "starforce_1.png", "starforce_2.png", "starforce_3.png", "starforce_4.png" ],
+  "readmeFilename" : "starforce_readme.txt",
+  "patchFilename" : "starforce_patch.zip",
+  "notes" : null
+}

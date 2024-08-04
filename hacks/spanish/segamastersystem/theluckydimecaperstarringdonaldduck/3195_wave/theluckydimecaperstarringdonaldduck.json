@@ -1,0 +1,19 @@
+{
+  "id" : "3195",
+  "releasedBy" : "Wave",
+  "name" : "The Lucky Dime Caper starring Donald Duck",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Lucky Dime Caper, The - Starring Donald Duck (E) [!].sms 262.144 bytes\\r\\nCRC32: a1710f13\\r\\nMD5: 653f10042a5ee5854ccf971456641a4d\\r\\nSHA1: a08815d27e431f0bee70b4ebfb870a3196c2a732",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\09\\11",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "256",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\theluckydimecaperstarringdonaldduck\\3195_wave",
+  "imagesFilenames" : [ "theluckydimecaperstarringdonaldduck_0.png", "theluckydimecaperstarringdonaldduck_1.png", "theluckydimecaperstarringdonaldduck_2.png", "theluckydimecaperstarringdonaldduck_3.png", "theluckydimecaperstarringdonaldduck_4.png" ],
+  "readmeFilename" : "theluckydimecaperstarringdonaldduck_readme.txt",
+  "patchFilename" : "theluckydimecaperstarringdonaldduck_patch.zip",
+  "notes" : null
+}

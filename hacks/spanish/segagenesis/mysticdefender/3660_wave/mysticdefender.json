@@ -1,0 +1,19 @@
+{
+  "id" : "3660",
+  "releasedBy" : "Wave",
+  "name" : "Mystic Defender",
+  "altName" : "Kujaku Ou 2: Geneishiro",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Mystic Defender (W) (REV01) [!].gen 524.288 bytes\\r\\nCRC32: 50fd5d93\\r\\nMD5: 780baa7dd2f030f0b1c64897b5d4cc10\\r\\nSHA1: aec8aefa11233699eacefdf2cf17d62f68cbdd98",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\27",
+  "gameDate" : "25 November 1989",
+  "version" : "1.1",
+  "downloads" : "327",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\mysticdefender\\3660_wave",
+  "imagesFilenames" : [ "mysticdefender_0.png", "mysticdefender_1.png", "mysticdefender_2.png", "mysticdefender_3.png", "mysticdefender_4.png" ],
+  "readmeFilename" : "mysticdefender_readme.txt",
+  "patchFilename" : "mysticdefender_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4991",
+  "releasedBy" : "Wave",
+  "name" : "Championship Lode Runner",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Championship Loderunner (SG-1000).sg\\r\\nMD5: f49d9ea611ccb9289994774406f20d06\\r\\nSHA1: a0dad095489da2bdf8ec03f1acc83f809db2371f\\r\\nCRC32: 11db4b1d 32768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\09\\11",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "41",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\championshiploderunner\\4991_wave",
+  "imagesFilenames" : [ "championshiploderunner_0.png", "championshiploderunner_1.png", "championshiploderunner_2.png", "championshiploderunner_3.png", "championshiploderunner_4.png" ],
+  "readmeFilename" : "championshiploderunner_readme.txt",
+  "patchFilename" : "championshiploderunner_patch.zip",
+  "notes" : null
+}

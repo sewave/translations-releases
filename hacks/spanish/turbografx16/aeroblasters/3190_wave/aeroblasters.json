@@ -1,0 +1,19 @@
+{
+  "id" : "3190",
+  "releasedBy" : "Wave",
+  "name" : "Aero Blasters",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Aero Blasters (U).pce 524.288 bytes\\r\\nCRC32: b03e0b32\\r\\nMD5: b2b62baab5fefafc5db6538720b503c3\\r\\nSHA1: 23b7da6a6067563af5fdf303d83adeae818cdcdf",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\09\\04",
+  "gameDate" : "02 November 1990",
+  "version" : "1.0",
+  "downloads" : "253",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\aeroblasters\\3190_wave",
+  "imagesFilenames" : [ "aeroblasters_0.png", "aeroblasters_1.png", "aeroblasters_2.png", "aeroblasters_3.png", "aeroblasters_4.png" ],
+  "readmeFilename" : "aeroblasters_readme.txt",
+  "patchFilename" : "aeroblasters_patch.zip",
+  "notes" : null
+}

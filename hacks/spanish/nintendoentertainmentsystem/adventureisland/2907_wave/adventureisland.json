@@ -1,0 +1,19 @@
+{
+  "id" : "2907",
+  "releasedBy" : "Wave",
+  "name" : "Adventure Island",
+  "altName" : "Takahashi Meijin no Bouken Jima",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Hudson's Adventure Island (U) [!].nes 65.552 bytes\\r\\nCRC32: b78c09a2\\r\\nMD5: be07098de1de3dc2512b6aa93f23ae3a\\r\\nSHA1: 22ee75b82f4a6412aa6bb940e109704975b95185",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\02\\28",
+  "gameDate" : "12 September 1986",
+  "version" : "1.0",
+  "downloads" : "648",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\adventureisland\\2907_wave",
+  "imagesFilenames" : [ "adventureisland_0.png", "adventureisland_1.png", "adventureisland_2.png", "adventureisland_3.png" ],
+  "readmeFilename" : "adventureisland_readme.txt",
+  "patchFilename" : "adventureisland_patch.zip",
+  "notes" : null
+}

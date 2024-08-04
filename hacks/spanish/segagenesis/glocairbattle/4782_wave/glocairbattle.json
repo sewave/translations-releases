@@ -1,0 +1,19 @@
+{
+  "id" : "4782",
+  "releasedBy" : "Wave",
+  "name" : "G-LOC Air Battle",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "G-LOC Air Battle (W) [c][!].bin\\r\\nMD5: 59b8fcc1e0c2113d841025e7ee0d152f\\r\\nSHA1: 81bb08c4080ca9a8af65597d1c7b11ce902c8d9e\\r\\nCRC32: f2af886e 1048576 bytes",
+  "genre" : "Simulación",
+  "releaseDate" : "2019\\07\\02",
+  "gameDate" : "26 February 1993",
+  "version" : "1.0",
+  "downloads" : "111",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\glocairbattle\\4782_wave",
+  "imagesFilenames" : [ "glocairbattle_0.png", "glocairbattle_1.png", "glocairbattle_2.png", "glocairbattle_3.png", "glocairbattle_4.png" ],
+  "readmeFilename" : "glocairbattle_readme.txt",
+  "patchFilename" : "glocairbattle_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4264",
+  "releasedBy" : "Wave",
+  "name" : "Joe & Mac",
+  "altName" : "Joe & Mac: Caveman Ninja",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Joe & Mac - Caveman Ninja (U) [!].nes\\r\\nMD5: fa45f240b40310fb3b4a7f76e7612886\\r\\nSHA1: 36bafdf6f8d531fecb3553c1923eeafac4a05c28\\r\\nCRC32: 0c4000be 262.160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\02\\19",
+  "gameDate" : "December 1992",
+  "version" : "1.0",
+  "downloads" : "143",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\joemac\\4264_wave",
+  "imagesFilenames" : [ "joemac_0.png", "joemac_1.png", "joemac_2.png", "joemac_3.png", "joemac_4.png" ],
+  "readmeFilename" : "joemac_readme.txt",
+  "patchFilename" : "joemac_patch.zip",
+  "notes" : null
+}

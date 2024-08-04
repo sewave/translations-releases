@@ -1,0 +1,19 @@
+{
+  "id" : "4506",
+  "releasedBy" : "Wave",
+  "name" : "Insector X",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Insector X (J).nes\\r\\nMD5: 26e5ada9fbac3137a94096bd5b0638ca\\r\\nSHA1: 9648bd6e381673e52e76c1476d30df063d51b076\\r\\nCRC32: 7dab812d 262.160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\05\\03",
+  "gameDate" : "20 September 1990",
+  "version" : "1.0",
+  "downloads" : "105",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\insectorx\\4506_wave",
+  "imagesFilenames" : [ "insectorx_0.png", "insectorx_1.png", "insectorx_2.png", "insectorx_3.png", "insectorx_4.png" ],
+  "readmeFilename" : "insectorx_readme.txt",
+  "patchFilename" : "insectorx_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "2686",
+  "releasedBy" : "Wave",
+  "name" : "RoboCop 2",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "RoboCop 2 (U) (PRG1) [!].nes 262.160 bytes\\r\\nCRC32: f4baa4ee\\r\\nMD5: d7904d82e8c57377ec0ec70e2fb7b89b\\r\\nSHA1: 3bb345d9801c60f0d14656f52ee1b593244b6767",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\08\\30",
+  "gameDate" : "04 February 1991",
+  "version" : "0.93",
+  "downloads" : "486",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\robocop2\\2686_wave",
+  "imagesFilenames" : [ "robocop2_0.png", "robocop2_1.png", "robocop2_2.png", "robocop2_3.png", "robocop2_4.png" ],
+  "readmeFilename" : "robocop2_readme.txt",
+  "patchFilename" : "robocop2_patch.zip",
+  "notes" : null
+}

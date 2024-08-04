@@ -1,0 +1,19 @@
+{
+  "id" : "3933",
+  "releasedBy" : "Wave",
+  "name" : "Sonic the Hedgehog 2",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Sonic The Hedgehog 2 (U) [!].gg\\r\\nMD5: 9c64846563d8b9a24400471322e53fb5\\r\\nSHA1: dabb452e416b4fa9cb83d8ddd307c2a32c3a1a7f\\r\\nCRC32: 95a18ec7 524.288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\18",
+  "gameDate" : "17 November 1992",
+  "version" : "1.0",
+  "downloads" : "103",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\sonicthehedgehog2\\3933_wave",
+  "imagesFilenames" : [ "sonicthehedgehog2_0.png", "sonicthehedgehog2_1.png", "sonicthehedgehog2_2.png", "sonicthehedgehog2_3.png", "sonicthehedgehog2_4.png" ],
+  "readmeFilename" : "sonicthehedgehog2_readme.txt",
+  "patchFilename" : "sonicthehedgehog2_patch.zip",
+  "notes" : null
+}

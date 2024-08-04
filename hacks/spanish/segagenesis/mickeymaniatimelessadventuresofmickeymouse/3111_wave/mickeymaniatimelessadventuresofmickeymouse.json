@@ -1,0 +1,19 @@
+{
+  "id" : "3111",
+  "releasedBy" : "Wave",
+  "name" : "Mickey Mania: Timeless Adventures of Mickey Mouse",
+  "altName" : "Mickey Mania",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Mickey Mania - Timeless Adventures of Mickey Mouse (U) [!].gen 2.097.152 bytes\\r\\nCRC32: 629e5963\\r\\nMD5: 965536e24760755413ae316d935710b1\\r\\nSHA1: 20779867821bab019f63ce42e3067ffafb4fe480",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\07\\03",
+  "gameDate" : "November 1994",
+  "version" : "1.0",
+  "downloads" : "519",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\mickeymaniatimelessadventuresofmickeymouse\\3111_wave",
+  "imagesFilenames" : [ "mickeymaniatimelessadventuresofmickeymouse_0.png", "mickeymaniatimelessadventuresofmickeymouse_1.png", "mickeymaniatimelessadventuresofmickeymouse_2.png", "mickeymaniatimelessadventuresofmickeymouse_3.png", "mickeymaniatimelessadventuresofmickeymouse_4.png" ],
+  "readmeFilename" : "mickeymaniatimelessadventuresofmickeymouse_readme.txt",
+  "patchFilename" : "mickeymaniatimelessadventuresofmickeymouse_patch.zip",
+  "notes" : null
+}

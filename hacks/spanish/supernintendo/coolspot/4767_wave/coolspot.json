@@ -1,0 +1,19 @@
+{
+  "id" : "4767",
+  "releasedBy" : "Wave",
+  "name" : "Cool Spot",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Cool Spot (U) [!].smc\\r\\nMD5: f0d0e5294f70b037bdf1b619db41ebd4\\r\\nSHA1: f5ef9d9367191c4fcdb84c4d11a322a9d03f89d2\\r\\nCRC32: 44e60e58 1048576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\27",
+  "gameDate" : "September 1993",
+  "version" : "1.0",
+  "downloads" : "149",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\coolspot\\4767_wave",
+  "imagesFilenames" : [ "coolspot_0.png", "coolspot_1.png", "coolspot_2.png", "coolspot_3.png", "coolspot_4.png" ],
+  "readmeFilename" : "coolspot_readme.txt",
+  "patchFilename" : "coolspot_patch.zip",
+  "notes" : null
+}

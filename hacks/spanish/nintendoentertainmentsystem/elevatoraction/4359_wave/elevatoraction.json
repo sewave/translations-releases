@@ -1,0 +1,19 @@
+{
+  "id" : "4359",
+  "releasedBy" : "Wave",
+  "name" : "Elevator Action",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Elevator Action (U) [!].nes\\r\\nMD5: 390124aa9b8811b2c0e5a35295cff50b\\r\\nSHA1: 8e1bacb45e381557ec36797a9239817c0fe04629\\r\\nCRC32: d415571f 40.976 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\04\\02",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "115",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\elevatoraction\\4359_wave",
+  "imagesFilenames" : [ "elevatoraction_0.png", "elevatoraction_1.png", "elevatoraction_2.png", "elevatoraction_3.png", "elevatoraction_4.png" ],
+  "readmeFilename" : "elevatoraction_readme.txt",
+  "patchFilename" : "elevatoraction_patch.zip",
+  "notes" : null
+}

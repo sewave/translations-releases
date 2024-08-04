@@ -1,0 +1,19 @@
+{
+  "id" : "4739",
+  "releasedBy" : "Wave",
+  "name" : "Saint Sword",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Saint Sword (U) [c][!].bin\\r\\nMD5: 43db94e560fa38ede534f4c6537283ac\\r\\nSHA1: 53e376faed7fe20c5ffe78a568dd8d2cf3fe2d1a\\r\\nCRC32: 44f66bff 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\17",
+  "gameDate" : "27 June 1991",
+  "version" : "1.0",
+  "downloads" : "156",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\saintsword\\4739_wave",
+  "imagesFilenames" : [ "saintsword_0.png", "saintsword_1.png", "saintsword_2.png", "saintsword_3.png", "saintsword_4.png" ],
+  "readmeFilename" : "saintsword_readme.txt",
+  "patchFilename" : "saintsword_patch.zip",
+  "notes" : null
+}

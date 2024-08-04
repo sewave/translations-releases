@@ -1,0 +1,19 @@
+{
+  "id" : "3763",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Double Dragon (U) [!].gen 524.288 bytes\\r\\nMD5: 6c34e2fd2b6800194dfad16fadaef820\\r\\nSHA1: f054fb2c16a78ce5f5ce20a36bf0f2634f169969\\r\\nCRC32: 054f5d53",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\08\\17",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "338",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\doubledragon\\3763_wave",
+  "imagesFilenames" : [ "doubledragon_0.png", "doubledragon_1.png", "doubledragon_2.png", "doubledragon_3.png", "doubledragon_4.png" ],
+  "readmeFilename" : "doubledragon_readme.txt",
+  "patchFilename" : "doubledragon_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4561",
+  "releasedBy" : "Wave",
+  "name" : "Bump 'n' Jump",
+  "altName" : "Buggy Popper",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Bump'n'Jump (U) [!].nes\\r\\nMD5: 9a2c449679737cd3297e9f268b3a0986\\r\\nSHA1: ad557aa7da55236f71a517ef09fe1a74fa353462\\r\\nCRC32: 79bfe095 65552 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\05\\19",
+  "gameDate" : "08 October 1986",
+  "version" : "1.0",
+  "downloads" : "98",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\bumpnjump\\4561_wave",
+  "imagesFilenames" : [ "bumpnjump_0.png", "bumpnjump_1.png", "bumpnjump_2.png", "bumpnjump_3.png", "bumpnjump_4.png" ],
+  "readmeFilename" : "bumpnjump_readme.txt",
+  "patchFilename" : "bumpnjump_patch.zip",
+  "notes" : null
+}

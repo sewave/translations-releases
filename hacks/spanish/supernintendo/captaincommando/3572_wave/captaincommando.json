@@ -1,0 +1,19 @@
+{
+  "id" : "3572",
+  "releasedBy" : "Wave",
+  "name" : "Captain Commando",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Captain Commando (E) [!].smc 2.097.152 bytes\\r\\nCRC32: 5b9aa73a\\r\\nMD5: 36f54352e7aba538529913707a734f9e\\r\\nSHA1: 92a25bad603b74df95ccadcab08015ee77bd671d",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\05\\08",
+  "gameDate" : "17 March 1995",
+  "version" : "1.1",
+  "downloads" : "280",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\captaincommando\\3572_wave",
+  "imagesFilenames" : [ "captaincommando_0.png", "captaincommando_1.png", "captaincommando_2.png", "captaincommando_3.png", "captaincommando_4.png" ],
+  "readmeFilename" : "captaincommando_readme.txt",
+  "patchFilename" : "captaincommando_patch.zip",
+  "notes" : null
+}

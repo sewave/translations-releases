@@ -1,0 +1,19 @@
+{
+  "id" : "5053",
+  "releasedBy" : "Wave",
+  "name" : "Musya",
+  "altName" : "Gousou Shinrai Densetsu Musya",
+  "system" : "Super Nintendo",
+  "romDesc" : "Musya (U) [!].smc\\r\\nMD5: 87388c5a9ea98b215a29727dc4294c05\\r\\nSHA1: 0ed1ded11d9d7c3f52e68b974dfabbe82209dc03\\r\\nCRC32: 011907a4 1048576 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2019\\10\\08",
+  "gameDate" : "21 April 1992",
+  "version" : "1.0",
+  "downloads" : "165",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\musya\\5053_wave",
+  "imagesFilenames" : [ "musya_0.png", "musya_1.png", "musya_2.png", "musya_3.png", "musya_4.png" ],
+  "readmeFilename" : "musya_readme.txt",
+  "patchFilename" : "musya_patch.zip",
+  "notes" : null
+}

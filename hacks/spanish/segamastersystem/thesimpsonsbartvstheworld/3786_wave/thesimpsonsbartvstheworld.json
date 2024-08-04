@@ -1,0 +1,19 @@
+{
+  "id" : "3786",
+  "releasedBy" : "Wave",
+  "name" : "The Simpsons: Bart vs. the World",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Simpsons, The - Bart vs. the World (E) [!].sms 262.144 bytes\\r\\nMD5: cba2ec2940619956359801618e7aab17\\r\\nSHA1: 038920e63437e05d8431e4cbab2131dd76fb3345\\r\\nCRC32: f6b2370a",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\08\\31",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "145",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\thesimpsonsbartvstheworld\\3786_wave",
+  "imagesFilenames" : [ "thesimpsonsbartvstheworld_0.png", "thesimpsonsbartvstheworld_1.png", "thesimpsonsbartvstheworld_2.png", "thesimpsonsbartvstheworld_3.png", "thesimpsonsbartvstheworld_4.png" ],
+  "readmeFilename" : "thesimpsonsbartvstheworld_readme.txt",
+  "patchFilename" : "thesimpsonsbartvstheworld_patch.zip",
+  "notes" : null
+}

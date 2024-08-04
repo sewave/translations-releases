@@ -1,0 +1,19 @@
+{
+  "id" : "4932",
+  "releasedBy" : "Wave",
+  "name" : "The Aquatic Games Starring James Pond and the Aquabats",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Aquatic Games - Starring James Pond, The (UE) [!].gen\\r\\nMD5: 0eec7f8771ca70ad5ace3d46cb4be9d4\\r\\nSHA1: 3bbd0853099f655cd33b52d32811f8ccb64b0418\\r\\nCRC32: 400f4ba7 524288 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\08\\20",
+  "gameDate" : "1993",
+  "version" : "1.1",
+  "downloads" : "106",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\theaquaticgamesstarringjamespondandtheaquabats\\4932_wave",
+  "imagesFilenames" : [ "theaquaticgamesstarringjamespondandtheaquabats_0.png", "theaquaticgamesstarringjamespondandtheaquabats_1.png", "theaquaticgamesstarringjamespondandtheaquabats_2.png", "theaquaticgamesstarringjamespondandtheaquabats_3.png", "theaquaticgamesstarringjamespondandtheaquabats_4.png" ],
+  "readmeFilename" : "theaquaticgamesstarringjamespondandtheaquabats_readme.txt",
+  "patchFilename" : "theaquaticgamesstarringjamespondandtheaquabats_patch.zip",
+  "notes" : null
+}

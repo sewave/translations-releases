@@ -1,0 +1,19 @@
+{
+  "id" : "5005",
+  "releasedBy" : "Wave",
+  "name" : "Power Drift",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Power Drift (Japan).pce\\r\\nMD5: c7f4c99ccb9f56ef954f3ccf332ce0db\\r\\nSHA1: 1ffe1111a570b0cca256a356965fd6cdf7bcf2e9\\r\\nCRC32: 25e0f6e9 524288 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\09\\16",
+  "gameDate" : "13 April 1990",
+  "version" : "1.0",
+  "downloads" : "70",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\powerdrift\\5005_wave",
+  "imagesFilenames" : [ "powerdrift_0.png", "powerdrift_1.png", "powerdrift_2.png", "powerdrift_3.png", "powerdrift_4.png" ],
+  "readmeFilename" : "powerdrift_readme.txt",
+  "patchFilename" : "powerdrift_patch.zip",
+  "notes" : null
+}

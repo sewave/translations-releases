@@ -1,0 +1,19 @@
+{
+  "id" : "3197",
+  "releasedBy" : "Wave",
+  "name" : "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+  "altName" : "Teenage Mutant Ninja Turtles: Turtles in Time",
+  "system" : "Super Nintendo",
+  "romDesc" : "Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!].smc 1.048.576 bytes\\r\\nCRC32: 5940bd99\\r\\nMD5: 807009d25eb31559974daa3e39eeccd7\\r\\nSHA1: 4f8fc0f45023e0339e501054b253c33f479a001a",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\09\\17",
+  "gameDate" : "24 July 1992",
+  "version" : "1.0",
+  "downloads" : "752",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\teenagemutantninjaturtlesivturtlesintime\\3197_wave",
+  "imagesFilenames" : [ "teenagemutantninjaturtlesivturtlesintime_0.png", "teenagemutantninjaturtlesivturtlesintime_1.png", "teenagemutantninjaturtlesivturtlesintime_2.png", "teenagemutantninjaturtlesivturtlesintime_3.png", "teenagemutantninjaturtlesivturtlesintime_4.png" ],
+  "readmeFilename" : "teenagemutantninjaturtlesivturtlesintime_readme.txt",
+  "patchFilename" : "teenagemutantninjaturtlesivturtlesintime_patch.zip",
+  "notes" : null
+}

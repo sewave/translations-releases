@@ -1,0 +1,19 @@
+{
+  "id" : "4017",
+  "releasedBy" : "Wave",
+  "name" : "Scramble Spirits",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Scramble Spirits (UE) [!].sms\\r\\nMD5: 82b9ee0920c3c46798ecd659be0a5d9a\\r\\nSHA1: 430154dc7ac1bb580c7663019ca476e5333e0508\\r\\nCRC32: 9a8b28ec 262.144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\19",
+  "gameDate" : "1988",
+  "version" : "1.0",
+  "downloads" : "104",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\scramblespirits\\4017_wave",
+  "imagesFilenames" : [ "scramblespirits_0.png", "scramblespirits_1.png", "scramblespirits_2.png", "scramblespirits_3.png", "scramblespirits_4.png" ],
+  "readmeFilename" : "scramblespirits_readme.txt",
+  "patchFilename" : "scramblespirits_patch.zip",
+  "notes" : null
+}

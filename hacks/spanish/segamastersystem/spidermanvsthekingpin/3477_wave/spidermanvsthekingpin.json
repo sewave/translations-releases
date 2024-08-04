@@ -1,0 +1,19 @@
+{
+  "id" : "3477",
+  "releasedBy" : "Wave",
+  "name" : "Spider-Man vs. the Kingpin",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Spider-Man vs. the Kingpin (UE) [!].sms 262.144 bytes\\r\\nCRC32: 908ff25c\\r\\nMD5: fa10ee70e43385e88e5d1a008716668b\\r\\nSHA1: 02ebee891d88bacdadd37a3e75e05763b7ad3c9b",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\03\\09",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "174",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\spidermanvsthekingpin\\3477_wave",
+  "imagesFilenames" : [ "spidermanvsthekingpin_0.png", "spidermanvsthekingpin_1.png", "spidermanvsthekingpin_2.png", "spidermanvsthekingpin_3.png", "spidermanvsthekingpin_4.png" ],
+  "readmeFilename" : "spidermanvsthekingpin_readme.txt",
+  "patchFilename" : "spidermanvsthekingpin_patch.zip",
+  "notes" : null
+}

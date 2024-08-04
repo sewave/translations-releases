@@ -1,0 +1,19 @@
+{
+  "id" : "5242",
+  "releasedBy" : "Wave",
+  "name" : "Destination Earthstar",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Destination Earthstar (U) [!].nes\\r\\nMD5: 5ae2e4a3f7346f0f7c38a8517906c3d8\\r\\nSHA1: 87735915491cd25274956cd9ae037c63c8849079\\r\\nCRC32: a4b27af2 65552 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\27",
+  "gameDate" : "February 1990",
+  "version" : "1.0",
+  "downloads" : "55",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\destinationearthstar\\5242_wave",
+  "imagesFilenames" : [ "destinationearthstar_0.png", "destinationearthstar_1.png", "destinationearthstar_2.png", "destinationearthstar_3.png", "destinationearthstar_4.png" ],
+  "readmeFilename" : "destinationearthstar_readme.txt",
+  "patchFilename" : "destinationearthstar_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4005",
+  "releasedBy" : "Wave",
+  "name" : "Cool Spot",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Cool Spot (U) [!].gg\\r\\nMD5: 7f55c7e4696a9ad316e57c3f14a77f39\\r\\nSHA1: c5f39a81c33327dc86b41d6f416efe09b131e14d\\r\\nCRC32: 2c758fc8 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\16",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "74",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\coolspot\\4005_wave",
+  "imagesFilenames" : [ "coolspot_0.png", "coolspot_1.png", "coolspot_2.png", "coolspot_3.png", "coolspot_4.png" ],
+  "readmeFilename" : "coolspot_readme.txt",
+  "patchFilename" : "coolspot_patch.zip",
+  "notes" : null
+}

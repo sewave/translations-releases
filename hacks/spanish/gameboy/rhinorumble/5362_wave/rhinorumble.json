@@ -1,0 +1,19 @@
+{
+  "id" : "5362",
+  "releasedBy" : "Wave",
+  "name" : "Rhino Rumble",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Rhino Rumble (U) [C][!].gbc\\r\\nMD5: ced299d2952ae83c7bbfbb64767e4634\\r\\nSHA1: 2caf47c20d8632e47c4426dd3564e76415139973\\r\\nCRC32: 73160e05 1048576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\01\\28",
+  "gameDate" : "29 March 2002",
+  "version" : "1.0",
+  "downloads" : "50",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\rhinorumble\\5362_wave",
+  "imagesFilenames" : [ "rhinorumble_0.png", "rhinorumble_1.png", "rhinorumble_2.png", "rhinorumble_3.png", "rhinorumble_4.png" ],
+  "readmeFilename" : "rhinorumble_readme.txt",
+  "patchFilename" : "rhinorumble_patch.zip",
+  "notes" : null
+}

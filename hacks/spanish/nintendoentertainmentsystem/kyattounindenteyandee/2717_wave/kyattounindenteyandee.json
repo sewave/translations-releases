@@ -1,0 +1,19 @@
+{
+  "id" : "2717",
+  "releasedBy" : "Wave",
+  "name" : "Kyattou Ninden Teyandee",
+  "altName" : "Samurai Pizza Cats",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Kyatto Ninden Teyandee (J) [!].nes 262.160 bytes\\r\\nCRC32: 6f1485ed\\r\\nMD5: e7502f63aac2f2b5f8c5dec1a501e650\\r\\nSHA1: 4366aa9d91adc80ec063667c59421b6245b0b786",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\09\\07",
+  "gameDate" : "19 July 1991",
+  "version" : "1.0",
+  "downloads" : "1458",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\kyattounindenteyandee\\2717_wave",
+  "imagesFilenames" : [ "kyattounindenteyandee_0.png", "kyattounindenteyandee_1.png", "kyattounindenteyandee_2.png", "kyattounindenteyandee_3.png", "kyattounindenteyandee_4.png" ],
+  "readmeFilename" : "kyattounindenteyandee_readme.txt",
+  "patchFilename" : "kyattounindenteyandee_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4020",
+  "releasedBy" : "Wave",
+  "name" : "Wonder Boy",
+  "altName" : "Super Wonder Boy",
+  "system" : "Sega Master System",
+  "romDesc" : "Wonder Boy (UE) [!].sms\\r\\nMD5: 7e805aa51bfb5f206c950a32ebcdab7c\\r\\nSHA1: 63149f20bf69cd2f24d0e58841fcfcdace972f49\\r\\nCRC32: 73705c02 131.072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\19",
+  "gameDate" : "22 March 1987",
+  "version" : "1.0",
+  "downloads" : "197",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\wonderboy\\4020_wave",
+  "imagesFilenames" : [ "wonderboy_0.png", "wonderboy_1.png", "wonderboy_2.png", "wonderboy_3.png", "wonderboy_4.png" ],
+  "readmeFilename" : "wonderboy_readme.txt",
+  "patchFilename" : "wonderboy_patch.zip",
+  "notes" : null
+}

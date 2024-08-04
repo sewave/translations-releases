@@ -1,0 +1,19 @@
+{
+  "id" : "3369",
+  "releasedBy" : "Wave",
+  "name" : "Rush'n Attack",
+  "altName" : "Green Beret",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Rush'n Attack (U) [!].nes 131.088 bytes\\r\\nCRC32: ed2c6a3b\\r\\nMD5: 332c8c5202d4195a567d831f1197c563\\r\\nSHA1: 0ad3979ba3c7696166fb60b0461f4409da653303",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\12\\29",
+  "gameDate" : "10 April 1987",
+  "version" : "1.0",
+  "downloads" : "282",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\rushnattack\\3369_wave",
+  "imagesFilenames" : [ "rushnattack_0.png", "rushnattack_1.png", "rushnattack_2.png", "rushnattack_3.png", "rushnattack_4.png" ],
+  "readmeFilename" : "rushnattack_readme.txt",
+  "patchFilename" : "rushnattack_patch.zip",
+  "notes" : null
+}

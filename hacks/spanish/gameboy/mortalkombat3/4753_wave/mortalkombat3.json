@@ -1,0 +1,19 @@
+{
+  "id" : "4753",
+  "releasedBy" : "Wave",
+  "name" : "Mortal Kombat 3",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Mortal Kombat 3 (U) [!].gb\\r\\nMD5: c19d61e31d6aebc12abf80d628a7bd09\\r\\nSHA1: b43626e2f20fa865783892ab8a012aa86e1dcee2\\r\\nCRC32: bf9c65fb 524288 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\06\\22",
+  "gameDate" : "November 1995",
+  "version" : "1.0",
+  "downloads" : "74",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\mortalkombat3\\4753_wave",
+  "imagesFilenames" : [ "mortalkombat3_0.png", "mortalkombat3_1.png", "mortalkombat3_2.png", "mortalkombat3_3.png", "mortalkombat3_4.png" ],
+  "readmeFilename" : "mortalkombat3_readme.txt",
+  "patchFilename" : "mortalkombat3_patch.zip",
+  "notes" : null
+}

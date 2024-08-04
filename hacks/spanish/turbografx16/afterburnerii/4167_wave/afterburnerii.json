@@ -1,0 +1,19 @@
+{
+  "id" : "4167",
+  "releasedBy" : "Wave",
+  "name" : "After Burner II",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "After Burner II (J).pce\\r\\nMD5: ac0cdee014e725e428fde5774751ff8d\\r\\nSHA1: 50b9d22fe5179aee5cb95022472714ef8483841f\\r\\nCRC32: ca72a828 524.288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\01\\11",
+  "gameDate" : "28 September 1990",
+  "version" : "1.0",
+  "downloads" : "100",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\afterburnerii\\4167_wave",
+  "imagesFilenames" : [ "afterburnerii_0.png", "afterburnerii_1.png", "afterburnerii_2.png", "afterburnerii_3.png", "afterburnerii_4.png" ],
+  "readmeFilename" : "afterburnerii_readme.txt",
+  "patchFilename" : "afterburnerii_patch.zip",
+  "notes" : null
+}

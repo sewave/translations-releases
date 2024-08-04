@@ -1,0 +1,19 @@
+{
+  "id" : "4347",
+  "releasedBy" : "Wave",
+  "name" : "Raid on Bungeling Bay",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Raid on Bungeling Bay (U) [!].nes\\r\\nMD5: 7728550357cc8f6bde097627885000ac\\r\\nSHA1: 31c0f267ff8246db4c206c460ca6c99cd3390f8d\\r\\nCRC32: b1155ae3 24.592 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\03\\28",
+  "gameDate" : "22 February 1985",
+  "version" : "1.0",
+  "downloads" : "78",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\raidonbungelingbay\\4347_wave",
+  "imagesFilenames" : [ "raidonbungelingbay_0.png", "raidonbungelingbay_1.png", "raidonbungelingbay_2.png", "raidonbungelingbay_3.png", "raidonbungelingbay_4.png" ],
+  "readmeFilename" : "raidonbungelingbay_readme.txt",
+  "patchFilename" : "raidonbungelingbay_patch.zip",
+  "notes" : null
+}

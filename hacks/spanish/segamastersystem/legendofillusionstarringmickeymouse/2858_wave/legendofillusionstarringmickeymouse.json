@@ -1,0 +1,19 @@
+{
+  "id" : "2858",
+  "releasedBy" : "Wave",
+  "name" : "Legend of Illusion: Starring Mickey Mouse",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Legend of Illusion Starring Mickey Mouse (U) [!].sms 524.288 bytes\\r\\nCRC32: 6350e649\\r\\nMD5: 4a69a56a8efff7863feca11f1d6547e3\\r\\nSHA1: 62adbd8e5a41d08c4745e9fbb1c51f0091c9dea6",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\01\\11",
+  "gameDate" : "November 1998",
+  "version" : "1.0",
+  "downloads" : "358",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\legendofillusionstarringmickeymouse\\2858_wave",
+  "imagesFilenames" : [ "legendofillusionstarringmickeymouse_0.png", "legendofillusionstarringmickeymouse_1.png", "legendofillusionstarringmickeymouse_2.png", "legendofillusionstarringmickeymouse_3.png", "legendofillusionstarringmickeymouse_4.png" ],
+  "readmeFilename" : "legendofillusionstarringmickeymouse_readme.txt",
+  "patchFilename" : "legendofillusionstarringmickeymouse_patch.zip",
+  "notes" : null
+}

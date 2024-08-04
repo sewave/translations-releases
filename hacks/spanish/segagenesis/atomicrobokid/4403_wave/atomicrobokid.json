@@ -1,0 +1,19 @@
+{
+  "id" : "4403",
+  "releasedBy" : "Wave",
+  "name" : "Atomic Robo-Kid",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Atomic Robo-Kid (U) [c][!].bin\\r\\nMD5: 1742442f5472eb25bf202e85c481c50e\\r\\nSHA1: 38115bc07f11885b4e4c19f92508f729ad6c8765\\r\\nCRC32: 7cd8169e 524.288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\16",
+  "gameDate" : "13 December 1990",
+  "version" : "1.0",
+  "downloads" : "150",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\atomicrobokid\\4403_wave",
+  "imagesFilenames" : [ "atomicrobokid_0.png", "atomicrobokid_1.png", "atomicrobokid_2.png", "atomicrobokid_3.png", "atomicrobokid_4.png" ],
+  "readmeFilename" : "atomicrobokid_readme.txt",
+  "patchFilename" : "atomicrobokid_patch.zip",
+  "notes" : null
+}

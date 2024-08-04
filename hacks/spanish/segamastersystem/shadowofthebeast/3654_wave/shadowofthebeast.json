@@ -1,0 +1,19 @@
+{
+  "id" : "3654",
+  "releasedBy" : "Wave",
+  "name" : "Shadow of the Beast",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Shadow of the Beast (E) [!].sms 262.144 bytes\\r\\nCRC32: 1575581d\\r\\nMD5: abc8a9e43c588c7d0535cc8305bdbf94\\r\\nSHA1: 45943b021cbaee80a149b80ddb6f3fb5eb8b9e43",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\15",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "128",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\shadowofthebeast\\3654_wave",
+  "imagesFilenames" : [ "shadowofthebeast_0.png", "shadowofthebeast_1.png", "shadowofthebeast_2.png", "shadowofthebeast_3.png", "shadowofthebeast_4.png" ],
+  "readmeFilename" : "shadowofthebeast_readme.txt",
+  "patchFilename" : "shadowofthebeast_patch.zip",
+  "notes" : null
+}

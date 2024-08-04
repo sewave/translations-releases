@@ -1,0 +1,19 @@
+{
+  "id" : "4768",
+  "releasedBy" : "Wave",
+  "name" : "Baku Baku Animal",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Baku Baku Animals (B) [!].sms\\r\\nMD5: 8a94ded3d95aa46dae8800b92e66d3ee\\r\\nSHA1: 07d8f300b3a3542734fcd24fa8312fe99fbfef0e\\r\\nCRC32: 35d84dc2 262144 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\06\\27",
+  "gameDate" : "1998",
+  "version" : "1.0",
+  "downloads" : "76",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\bakubakuanimal\\4768_wave",
+  "imagesFilenames" : [ "bakubakuanimal_0.png", "bakubakuanimal_1.png", "bakubakuanimal_2.png", "bakubakuanimal_3.png", "bakubakuanimal_4.png" ],
+  "readmeFilename" : "bakubakuanimal_readme.txt",
+  "patchFilename" : "bakubakuanimal_patch.zip",
+  "notes" : null
+}

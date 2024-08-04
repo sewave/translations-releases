@@ -1,0 +1,19 @@
+{
+  "id" : "4815",
+  "releasedBy" : "Wave",
+  "name" : "Cool World",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Cool World (USA, Europe).gb\\r\\nMD5: 79bb2ba29c937253dd964142713a7869\\r\\nSHA1: 1919495cc83c4126c90d6cfa2e14427b6364da3a\\r\\nCRC32: a193c0d0 131072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\07\\11",
+  "gameDate" : "June 1993",
+  "version" : "1.0",
+  "downloads" : "68",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\coolworld\\4815_wave",
+  "imagesFilenames" : [ "coolworld_0.png", "coolworld_1.png", "coolworld_2.png", "coolworld_3.png", "coolworld_4.png" ],
+  "readmeFilename" : "coolworld_readme.txt",
+  "patchFilename" : "coolworld_patch.zip",
+  "notes" : null
+}

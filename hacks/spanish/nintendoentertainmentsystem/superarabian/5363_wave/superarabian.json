@@ -1,0 +1,19 @@
+{
+  "id" : "5363",
+  "releasedBy" : "Wave",
+  "name" : "Super Arabian",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Super Arabian (J).nes\\r\\nMD5: 4f468a50ef3e23807e74c9770868d08c\\r\\nSHA1: 95a1dedb3f23ff4f1e71b5f518fd7622163ec8cd\\r\\nCRC32: f2988a21 24592 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\01\\28",
+  "gameDate" : "25 July 1985",
+  "version" : "1.0",
+  "downloads" : "60",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\superarabian\\5363_wave",
+  "imagesFilenames" : [ "superarabian_0.png", "superarabian_1.png", "superarabian_2.png", "superarabian_3.png", "superarabian_4.png" ],
+  "readmeFilename" : "superarabian_readme.txt",
+  "patchFilename" : "superarabian_patch.zip",
+  "notes" : null
+}

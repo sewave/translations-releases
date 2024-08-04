@@ -1,0 +1,19 @@
+{
+  "id" : "5211",
+  "releasedBy" : "Wave",
+  "name" : "Pippols",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Pippols (1985) (Konami) (J).rom\\r\\nMD5: f4afc761cda302c78f20f81c1922aa36\\r\\nSHA1: 10e63eba7d2b10d946822f21e7fd106f5dfab632\\r\\nCRC32: be6a5e19 16384 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\19",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "32",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\pippols\\5211_wave",
+  "imagesFilenames" : [ "pippols_0.png", "pippols_1.png", "pippols_2.png", "pippols_3.png" ],
+  "readmeFilename" : "pippols_readme.txt",
+  "patchFilename" : "pippols_patch.zip",
+  "notes" : null
+}

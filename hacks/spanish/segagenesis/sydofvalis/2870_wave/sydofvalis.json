@@ -1,0 +1,19 @@
+{
+  "id" : "2870",
+  "releasedBy" : "Wave",
+  "name" : "Syd of Valis",
+  "altName" : "Valis SD",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Syd of Valis (U) [!].bin 524.288 bytes\\r\\nCRC32: 37dc0108\\r\\nMD5: a81d327574d49aab69c2a6fe4cdc893a\\r\\nSHA1: 36e010f16791816108d395fce39b39ab0a49268c",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\01\\23",
+  "gameDate" : "14 February 1992",
+  "version" : "1.1",
+  "downloads" : "459",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\sydofvalis\\2870_wave",
+  "imagesFilenames" : [ "sydofvalis_0.png", "sydofvalis_1.png", "sydofvalis_2.png", "sydofvalis_3.png", "sydofvalis_4.png" ],
+  "readmeFilename" : "sydofvalis_readme.txt",
+  "patchFilename" : "sydofvalis_patch.zip",
+  "notes" : null
+}

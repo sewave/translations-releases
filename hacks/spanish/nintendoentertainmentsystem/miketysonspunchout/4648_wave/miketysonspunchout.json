@@ -1,0 +1,19 @@
+{
+  "id" : "4648",
+  "releasedBy" : "Wave",
+  "name" : "Mike Tyson's Punch Out!!",
+  "altName" : "Punch Out!!",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Mike Tyson's Punch-Out!! (U) (PRG1) [!].nes\\r\\nMD5: c119a5a9b0e2959ad5d11562f9f4ce55\\r\\nSHA1: 0f0c2c2e294ff8ce255a618964728c935fd8963b\\r\\nCRC32: 3df8e170 262160 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\06\\06",
+  "gameDate" : "October 1987",
+  "version" : "1.0",
+  "downloads" : "191",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\miketysonspunchout\\4648_wave",
+  "imagesFilenames" : [ "miketysonspunchout_0.png", "miketysonspunchout_1.png", "miketysonspunchout_2.png", "miketysonspunchout_3.png", "miketysonspunchout_4.png" ],
+  "readmeFilename" : "miketysonspunchout_readme.txt",
+  "patchFilename" : "miketysonspunchout_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3038",
+  "releasedBy" : "Wave",
+  "name" : "Batman Returns",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Batman Returns (U) [!].gg 262.144 bytes\\r\\nCRC32: 7ac4a3ca\\r\\nMD5: 1e8cfd2f30e9ad733f602cf2de696ba9\\r\\nSHA1: 85994b2f506c7bded0b02a59d96b1d949e48d518",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\05\\21",
+  "gameDate" : "23 October 1992",
+  "version" : "1.0",
+  "downloads" : "200",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\batmanreturns\\3038_wave",
+  "imagesFilenames" : [ "batmanreturns_0.png", "batmanreturns_1.png", "batmanreturns_2.png", "batmanreturns_3.png", "batmanreturns_4.png" ],
+  "readmeFilename" : "batmanreturns_readme.txt",
+  "patchFilename" : "batmanreturns_patch.zip",
+  "notes" : null
+}

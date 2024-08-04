@@ -1,0 +1,19 @@
+{
+  "id" : "3491",
+  "releasedBy" : "Wave",
+  "name" : "Ghosts 'n Goblins",
+  "altName" : "Makai-Mura",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Ghosts 'N Goblins (U) [!].nes 131.088 bytes\\r\\nCRC32: 87ed54aa\\r\\nMD5: 6dd3872fff67b4f324a740aa87ac2b93\\r\\nSHA1: 8de81d363e11cecb570a9d18237f7b56b2b659db",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\03\\16",
+  "gameDate" : "13 June 1986",
+  "version" : "1.0",
+  "downloads" : "305",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\ghostsngoblins\\3491_wave",
+  "imagesFilenames" : [ "ghostsngoblins_0.png", "ghostsngoblins_1.png", "ghostsngoblins_2.png", "ghostsngoblins_3.png", "ghostsngoblins_4.png" ],
+  "readmeFilename" : "ghostsngoblins_readme.txt",
+  "patchFilename" : "ghostsngoblins_patch.zip",
+  "notes" : null
+}

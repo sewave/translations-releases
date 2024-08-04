@@ -1,0 +1,19 @@
+{
+  "id" : "4758",
+  "releasedBy" : "Wave",
+  "name" : "Athena",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Athena (U) [!].nes\\r\\nMD5: 766b9bdb269df5a3f409a08d7b615bf0\\r\\nSHA1: 8526bf8919b36a891af39cfe447186fb5795af28\\r\\nCRC32: 14d42113 131088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\22",
+  "gameDate" : "05 June 1987",
+  "version" : "1.0",
+  "downloads" : "158",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\athena\\4758_wave",
+  "imagesFilenames" : [ "athena_0.png", "athena_1.png", "athena_2.png", "athena_3.png", "athena_4.png" ],
+  "readmeFilename" : "athena_readme.txt",
+  "patchFilename" : "athena_patch.zip",
+  "notes" : null
+}

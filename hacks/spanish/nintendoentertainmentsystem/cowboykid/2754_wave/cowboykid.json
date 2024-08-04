@@ -1,0 +1,19 @@
+{
+  "id" : "2754",
+  "releasedBy" : "Wave",
+  "name" : "Cowboy Kid",
+  "altName" : "Western Kids",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Cowboy Kid (U) [!].nes 524.304 bytes\\r\\nCRC32: b150ae9a\\r\\nMD5: 2ac82902cbd1bcb2526508822a290550\\r\\nSHA1: 3f12e2ac5e074e7970735d896331bb7e5ef5bb73",
+  "genre" : "Acción",
+  "releaseDate" : "2016\\10\\17",
+  "gameDate" : "13 September 1991",
+  "version" : "1.0",
+  "downloads" : "399",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\cowboykid\\2754_wave",
+  "imagesFilenames" : [ "cowboykid_0.png", "cowboykid_1.png", "cowboykid_2.png", "cowboykid_3.png", "cowboykid_4.png" ],
+  "readmeFilename" : "cowboykid_readme.txt",
+  "patchFilename" : "cowboykid_patch.zip",
+  "notes" : null
+}

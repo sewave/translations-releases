@@ -1,0 +1,19 @@
+{
+  "id" : "4050",
+  "releasedBy" : "Wave",
+  "name" : "Spawn",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Spawn (U) [!].smc\\r\\nMD5: fa499b552c4c9cccd089802147b5dcd5\\r\\nSHA1: f3d8b7ff4127899131fc9253be8b30f7a8bab717\\r\\nCRC32: 4e1dafd0 3.145.728 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\12\\01",
+  "gameDate" : "October 1995",
+  "version" : "1.0",
+  "downloads" : "364",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\spawn\\4050_wave",
+  "imagesFilenames" : [ "spawn_0.png", "spawn_1.png", "spawn_2.png", "spawn_3.png", "spawn_4.png" ],
+  "readmeFilename" : "spawn_readme.txt",
+  "patchFilename" : "spawn_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4401",
+  "releasedBy" : "Wave",
+  "name" : "Air Fortress",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Air Fortress (U) [!].nes\\r\\nMD5: 8087e6f5349d84fb6f14e67bc3cbb386\\r\\nSHA1: 1b72fc01e717b2f498960dc52bf31d2f0f2feeb3\\r\\nCRC32: b8fd02b7 163.856 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\16",
+  "gameDate" : "17 August 1987",
+  "version" : "1.0",
+  "downloads" : "119",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\airfortress\\4401_wave",
+  "imagesFilenames" : [ "airfortress_0.png", "airfortress_1.png", "airfortress_2.png", "airfortress_3.png", "airfortress_4.png" ],
+  "readmeFilename" : "airfortress_readme.txt",
+  "patchFilename" : "airfortress_patch.zip",
+  "notes" : null
+}

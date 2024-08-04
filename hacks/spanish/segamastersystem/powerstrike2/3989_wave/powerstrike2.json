@@ -1,0 +1,19 @@
+{
+  "id" : "3989",
+  "releasedBy" : "Wave",
+  "name" : "Power Strike 2",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Power Strike 2 (E) [!].sms\\r\\nMD5: bd7898393b716aff69132934bf7dccb8\\r\\nSHA1: 3bcffd47294f25b25cccb7f42c3a9c3f74333d73\\r\\nCRC32: a109a6fe 524.288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\09",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "139",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\powerstrike2\\3989_wave",
+  "imagesFilenames" : [ "powerstrike2_0.png", "powerstrike2_1.png", "powerstrike2_2.png", "powerstrike2_3.png", "powerstrike2_4.png" ],
+  "readmeFilename" : "powerstrike2_readme.txt",
+  "patchFilename" : "powerstrike2_patch.zip",
+  "notes" : null
+}

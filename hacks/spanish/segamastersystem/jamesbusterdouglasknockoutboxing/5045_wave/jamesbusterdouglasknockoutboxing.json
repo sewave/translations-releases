@@ -1,0 +1,19 @@
+{
+  "id" : "5045",
+  "releasedBy" : "Wave",
+  "name" : "James \"Buster\" Douglas Knockout Boxing",
+  "altName" : "Heavyweight Champ",
+  "system" : "Sega Master System",
+  "romDesc" : "Heavyweight Champ (E) [!].sms\\r\\nMD5: 08431e57a5ecf6cbfb1fdb757d496541\\r\\nSHA1: 7e2523061df0c08b7df7b446b5504c4eb0fea163\\r\\nCRC32: fdab876a 262144 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\10\\01",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "44",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\jamesbusterdouglasknockoutboxing\\5045_wave",
+  "imagesFilenames" : [ "jamesbusterdouglasknockoutboxing_0.png", "jamesbusterdouglasknockoutboxing_1.png", "jamesbusterdouglasknockoutboxing_2.png", "jamesbusterdouglasknockoutboxing_3.png", "jamesbusterdouglasknockoutboxing_4.png" ],
+  "readmeFilename" : "jamesbusterdouglasknockoutboxing_readme.txt",
+  "patchFilename" : "jamesbusterdouglasknockoutboxing_patch.zip",
+  "notes" : null
+}

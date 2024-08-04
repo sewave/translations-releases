@@ -1,0 +1,19 @@
+{
+  "id" : "3580",
+  "releasedBy" : "Wave",
+  "name" : "Jurassic Park",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Jurassic Park (UE) [!].gg 524.288 bytes\\r\\nCRC32: bd6f2321\\r\\nMD5: a3158baab261c5ddbcd4328d01e33a94\\r\\nSHA1: 0425dc09465a4b7be78ab7aa46107987ba61e82a",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\03",
+  "gameDate" : "30 July 1993",
+  "version" : "1.0",
+  "downloads" : "121",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\jurassicpark\\3580_wave",
+  "imagesFilenames" : [ "jurassicpark_0.png", "jurassicpark_1.png", "jurassicpark_2.png", "jurassicpark_3.png", "jurassicpark_4.png" ],
+  "readmeFilename" : "jurassicpark_readme.txt",
+  "patchFilename" : "jurassicpark_patch.zip",
+  "notes" : null
+}

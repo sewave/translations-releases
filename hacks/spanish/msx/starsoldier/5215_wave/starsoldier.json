@@ -1,0 +1,19 @@
+{
+  "id" : "5215",
+  "releasedBy" : "Wave",
+  "name" : "Star Soldier",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Star Soldier (1986) (Hudson) (J).rom\\r\\nMD5: 5009b3eb94b67ceecb026685c1d9ae89\\r\\nSHA1: 6a56b46b8bf014b25863433d6d96e64641a93eef\\r\\nCRC32: 0b3d975d 32768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\19",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "32",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\starsoldier\\5215_wave",
+  "imagesFilenames" : [ "starsoldier_0.png", "starsoldier_1.png", "starsoldier_2.png", "starsoldier_3.png", "starsoldier_4.png" ],
+  "readmeFilename" : "starsoldier_readme.txt",
+  "patchFilename" : "starsoldier_patch.zip",
+  "notes" : null
+}

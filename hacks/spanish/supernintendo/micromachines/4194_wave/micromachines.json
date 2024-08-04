@@ -1,0 +1,19 @@
+{
+  "id" : "4194",
+  "releasedBy" : "Wave",
+  "name" : "Micro Machines",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Micro Machines (U) [!].smc\\r\\nMD5: b447b20f378bff1342338c5c1acc0e53\\r\\nSHA1: 282c4f27d08a9def36dc4e7fe71deaaf0a5f2b43\\r\\nCRC32: 364e68bb 524.288 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\01\\21",
+  "gameDate" : "December 1994",
+  "version" : "1.0",
+  "downloads" : "141",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\micromachines\\4194_wave",
+  "imagesFilenames" : [ "micromachines_0.png", "micromachines_1.png", "micromachines_2.png", "micromachines_3.png", "micromachines_4.png" ],
+  "readmeFilename" : "micromachines_readme.txt",
+  "patchFilename" : "micromachines_patch.zip",
+  "notes" : null
+}

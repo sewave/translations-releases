@@ -1,0 +1,19 @@
+{
+  "id" : "4241",
+  "releasedBy" : "Wave",
+  "name" : "Vixen 357",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Vixen 357 (J) [!].gen\\r\\nMD5: 4ad9e56271eb9f5aee6c7c6d05e498b4\\r\\nSHA1: 460037301df0d67947bd17eddb38a3011896cb43\\r\\nCRC32: 3afa2d7b 1.048.576 bytes",
+  "genre" : "Estrategia",
+  "releaseDate" : "2019\\02\\18",
+  "gameDate" : "23 October 1992",
+  "version" : "1.2",
+  "downloads" : "410",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\vixen357\\4241_wave",
+  "imagesFilenames" : [ "vixen357_0.png", "vixen357_1.png", "vixen357_2.png", "vixen357_3.png", "vixen357_4.png" ],
+  "readmeFilename" : "vixen357_readme.txt",
+  "patchFilename" : "vixen357_patch.zip",
+  "notes" : null
+}

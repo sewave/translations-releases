@@ -1,0 +1,19 @@
+{
+  "id" : "4103",
+  "releasedBy" : "Wave",
+  "name" : "The Blues Brothers",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Blues Brothers, The (U) [!].gb\\r\\nMD5: ceaedf86193a8708a8a67e0e472b57fb\\r\\nSHA1: 9dca8b83a5d73270319cf05396fcca8e6027e7b0\\r\\nCRC32: adb66eff 131.072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\12\\23",
+  "gameDate" : "June 1992",
+  "version" : "1.0",
+  "downloads" : "74",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\thebluesbrothers\\4103_wave",
+  "imagesFilenames" : [ "thebluesbrothers_0.png", "thebluesbrothers_1.png", "thebluesbrothers_2.png", "thebluesbrothers_3.png", "thebluesbrothers_4.png" ],
+  "readmeFilename" : "thebluesbrothers_readme.txt",
+  "patchFilename" : "thebluesbrothers_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5364",
+  "releasedBy" : "Wave",
+  "name" : "Super Boy 4",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Super Boy 4 (Korea) (Unl).sms\\r\\nMD5: eb7d7db5ab98b0b7812552644fb95fe8\\r\\nSHA1: 9b4be448b81f96391ef9667b1923abc53a9c59d9\\r\\nCRC32: b995b4f0 262144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\01\\28",
+  "gameDate" : "20 December 1992",
+  "version" : "1.0",
+  "downloads" : "67",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\superboy4\\5364_wave",
+  "imagesFilenames" : [ "superboy4_0.png", "superboy4_1.png", "superboy4_2.png", "superboy4_3.png", "superboy4_4.png" ],
+  "readmeFilename" : "superboy4_readme.txt",
+  "patchFilename" : "superboy4_patch.zip",
+  "notes" : null
+}

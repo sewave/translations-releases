@@ -1,0 +1,19 @@
+{
+  "id" : "3812",
+  "releasedBy" : "Wave",
+  "name" : "Ghoul Patrol",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Ghoul Patrol (U).smc 1.048.576 bytes\\r\\nMD5: 657fa94cff4464cbc58c476ea642299a\\r\\nSHA1: bea0a40772574ae5e3896699d94f161339329c59\\r\\nCRC32: ea16b5a2",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\09\\13",
+  "gameDate" : "November 1994",
+  "version" : "1.0",
+  "downloads" : "307",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\ghoulpatrol\\3812_wave",
+  "imagesFilenames" : [ "ghoulpatrol_0.png", "ghoulpatrol_1.png", "ghoulpatrol_2.png", "ghoulpatrol_3.png", "ghoulpatrol_4.png" ],
+  "readmeFilename" : "ghoulpatrol_readme.txt",
+  "patchFilename" : "ghoulpatrol_patch.zip",
+  "notes" : null
+}

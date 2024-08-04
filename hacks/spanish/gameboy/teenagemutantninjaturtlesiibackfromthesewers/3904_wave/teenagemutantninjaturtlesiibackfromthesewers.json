@@ -1,0 +1,19 @@
+{
+  "id" : "3904",
+  "releasedBy" : "Wave",
+  "name" : "Teenage Mutant Ninja Turtles II: Back From the Sewers",
+  "altName" : "Teenage Mutant Ninja Turtles 2 Teenage Mutant Hero Turtles II: Back From the Sewers",
+  "system" : "Game Boy",
+  "romDesc" : "Teenage Mutant Ninja Turtles - Back From the Sewers (U) [!].gb\\r\\nMD5: 0221de99d11f50f79430c8ff9b430994\\r\\nSHA1: 08aabd7be3d4b78a8b124a58afae4fec758b225f\\r\\nCRC32: 44f51c73 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\04",
+  "gameDate" : "15 November 1991",
+  "version" : "1.0",
+  "downloads" : "149",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\teenagemutantninjaturtlesiibackfromthesewers\\3904_wave",
+  "imagesFilenames" : [ "teenagemutantninjaturtlesiibackfromthesewers_0.png", "teenagemutantninjaturtlesiibackfromthesewers_1.png", "teenagemutantninjaturtlesiibackfromthesewers_2.png", "teenagemutantninjaturtlesiibackfromthesewers_3.png", "teenagemutantninjaturtlesiibackfromthesewers_4.png" ],
+  "readmeFilename" : "teenagemutantninjaturtlesiibackfromthesewers_readme.txt",
+  "patchFilename" : "teenagemutantninjaturtlesiibackfromthesewers_patch.zip",
+  "notes" : null
+}

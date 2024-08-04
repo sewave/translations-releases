@@ -1,0 +1,19 @@
+{
+  "id" : "2826",
+  "releasedBy" : "Wave",
+  "name" : "Teenage Mutant Ninja Turtles: Tournament Fighters",
+  "altName" : "Teenage Mutant Hero Turtles: Tournament Fighters",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Teenage Mutant Ninja Turtles - Tournament Fighters (U) [!].nes 262.160 bytes\\r\\nCRC32: ac05464f\\r\\nMD5: 2029e6af90f987fa2ac7aa5d19edfdb4\\r\\nSHA1: 182f901142530a509a7c9f5831b5a7f7f4c923a8",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2016\\12\\20",
+  "gameDate" : "January 1994",
+  "version" : "1.0",
+  "downloads" : "492",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\teenagemutantninjaturtlestournamentfighters\\2826_wave",
+  "imagesFilenames" : [ "teenagemutantninjaturtlestournamentfighters_0.png", "teenagemutantninjaturtlestournamentfighters_1.png", "teenagemutantninjaturtlestournamentfighters_2.png", "teenagemutantninjaturtlestournamentfighters_3.png", "teenagemutantninjaturtlestournamentfighters_4.png" ],
+  "readmeFilename" : "teenagemutantninjaturtlestournamentfighters_readme.txt",
+  "patchFilename" : "teenagemutantninjaturtlestournamentfighters_patch.zip",
+  "notes" : null
+}

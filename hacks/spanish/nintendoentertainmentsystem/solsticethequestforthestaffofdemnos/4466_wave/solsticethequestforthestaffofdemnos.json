@@ -1,0 +1,19 @@
+{
+  "id" : "4466",
+  "releasedBy" : "Wave",
+  "name" : "Solstice: The Quest for the Staff of Demnos",
+  "altName" : "Solstice: Sanjigen Meikyuu no Kyoujuu",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Solstice - The Quest for the Staff of Demnos (U) [!].nes\\r\\nMD5: a42e31d875d0573ba858de365628f608\\r\\nSHA1: 992da7fac9248204cddcdf2e37412007359603ba\\r\\nCRC32: 1d60732e 131.088 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\04\\25",
+  "gameDate" : "June 1990",
+  "version" : "1.0",
+  "downloads" : "135",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\solsticethequestforthestaffofdemnos\\4466_wave",
+  "imagesFilenames" : [ "solsticethequestforthestaffofdemnos_0.png", "solsticethequestforthestaffofdemnos_1.png", "solsticethequestforthestaffofdemnos_2.png", "solsticethequestforthestaffofdemnos_3.png", "solsticethequestforthestaffofdemnos_4.png" ],
+  "readmeFilename" : "solsticethequestforthestaffofdemnos_readme.txt",
+  "patchFilename" : "solsticethequestforthestaffofdemnos_patch.zip",
+  "notes" : null
+}

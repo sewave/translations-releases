@@ -1,0 +1,19 @@
+{
+  "id" : "4088",
+  "releasedBy" : "Wave",
+  "name" : "Super Nova",
+  "altName" : "Darius Force",
+  "system" : "Super Nintendo",
+  "romDesc" : "Darius Force (J).smc\\r\\nMD5: 576e89ea12fc942b9a4f4b03df5f72b9\\r\\nSHA1: 8f45123bcbdcd02fef42dfbd131704a3b1e7226d\\r\\nCRC32: 3e828e49 1.048.576 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\12\\18",
+  "gameDate" : "24 December 1993",
+  "version" : "1.0",
+  "downloads" : "197",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\supernova\\4088_wave",
+  "imagesFilenames" : [ "supernova_0.png", "supernova_1.png", "supernova_2.png", "supernova_3.png", "supernova_4.png" ],
+  "readmeFilename" : "supernova_readme.txt",
+  "patchFilename" : "supernova_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4484",
+  "releasedBy" : "Wave",
+  "name" : "Antarctic Adventure",
+  "altName" : "",
+  "system" : "ColecoVision",
+  "romDesc" : "Antarctic Adventure (1984) (Konami).col\\r\\nMD5: 1ea45edc04bc4df444a38e50f8a75d5d\\r\\nSHA1: 00db7cf9bd66aecac3d9368dd205680781b2e542\\r\\nCRC32: 275c800e 16.384 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\04\\30",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "29",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\colecovision\\antarcticadventure\\4484_wave",
+  "imagesFilenames" : [ "antarcticadventure_0.png", "antarcticadventure_1.png", "antarcticadventure_2.png", "antarcticadventure_3.png", "antarcticadventure_4.png" ],
+  "readmeFilename" : "antarcticadventure_readme.txt",
+  "patchFilename" : "antarcticadventure_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4063",
+  "releasedBy" : "Wave",
+  "name" : "Super Off-Road",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Super Off-Road (E) [!].sms\\r\\nMD5: e3d3dfde69345e1f62cce512e9010bf8\\r\\nSHA1: 804cd74bbcf452613f6c3a722be1c94338499813\\r\\nCRC32: 54f68c2a 131.072 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2018\\12\\05",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "83",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\superoffroad\\4063_wave",
+  "imagesFilenames" : [ "superoffroad_0.png", "superoffroad_1.png", "superoffroad_2.png", "superoffroad_3.png", "superoffroad_4.png" ],
+  "readmeFilename" : "superoffroad_readme.txt",
+  "patchFilename" : "superoffroad_patch.zip",
+  "notes" : null
+}

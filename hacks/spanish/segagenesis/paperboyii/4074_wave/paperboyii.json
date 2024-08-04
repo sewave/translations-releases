@@ -1,0 +1,19 @@
+{
+  "id" : "4074",
+  "releasedBy" : "Wave",
+  "name" : "Paperboy II",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Paperboy II (U) [!].bin\\r\\nMD5: 93a22de4e043056ead9f3bd4a7f659e0\\r\\nSHA1: 6421c26000bec21d0c808252c5d9ce75b75cb8a4\\r\\nCRC32: 1de28bb1 1.048.576 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\12\\10",
+  "gameDate" : "01 June 1992",
+  "version" : "1.0",
+  "downloads" : "155",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\paperboyii\\4074_wave",
+  "imagesFilenames" : [ "paperboyii_0.png", "paperboyii_1.png", "paperboyii_2.png", "paperboyii_3.png", "paperboyii_4.png" ],
+  "readmeFilename" : "paperboyii_readme.txt",
+  "patchFilename" : "paperboyii_patch.zip",
+  "notes" : null
+}

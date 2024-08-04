@@ -1,0 +1,19 @@
+{
+  "id" : "5123",
+  "releasedBy" : "Wave",
+  "name" : "Super R-Type",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Super R-Type (U) [!].smc\\r\\nMD5: cfcd1ff3da5309e5021efaa58012058d\\r\\nSHA1: 44b0a3b66756b04ebc5753f78613feadb85d6b74\\r\\nCRC32: 8b22c830 1048576 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\27",
+  "gameDate" : "13 July 1991",
+  "version" : "1.0",
+  "downloads" : "106",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\superrtype\\5123_wave",
+  "imagesFilenames" : [ "superrtype_0.png", "superrtype_1.png", "superrtype_2.png", "superrtype_3.png", "superrtype_4.png" ],
+  "readmeFilename" : "superrtype_readme.txt",
+  "patchFilename" : "superrtype_patch.zip",
+  "notes" : null
+}

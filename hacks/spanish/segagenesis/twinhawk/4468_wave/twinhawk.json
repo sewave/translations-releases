@@ -1,0 +1,19 @@
+{
+  "id" : "4468",
+  "releasedBy" : "Wave",
+  "name" : "Twin Hawk",
+  "altName" : "Daisenpuu",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Twin Hawk (JE) [!].bin\\r\\nMD5: ebd5c5829e6992542770773e276ebac3\\r\\nSHA1: f884f2a41dd50f4c1a17c26da7f2d31093bb36b6\\r\\nCRC32: a2ec8c67 524.288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\25",
+  "gameDate" : "23 June 1990",
+  "version" : "1.0",
+  "downloads" : "142",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\twinhawk\\4468_wave",
+  "imagesFilenames" : [ "twinhawk_0.png", "twinhawk_1.png", "twinhawk_2.png", "twinhawk_3.png", "twinhawk_4.png" ],
+  "readmeFilename" : "twinhawk_readme.txt",
+  "patchFilename" : "twinhawk_patch.zip",
+  "notes" : null
+}

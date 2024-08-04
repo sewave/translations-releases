@@ -1,0 +1,19 @@
+{
+  "id" : "3554",
+  "releasedBy" : "Wave",
+  "name" : "Michael Jackson's Moonwalker",
+  "altName" : "Moonwalker",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Michael Jackson's Moonwalker (W) (REV01) [!].gen 524.288 bytes\\r\\nCRC32: 11ce1f9e\\r\\nMD5: 73b63cac3f15bfe4a7bad170654878a9\\r\\nSHA1: 70d9b760c87196af364492512104fa18c9d69cce",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\04\\20",
+  "gameDate" : "24 August 1990",
+  "version" : "1.0",
+  "downloads" : "434",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\michaeljacksonsmoonwalker\\3554_wave",
+  "imagesFilenames" : [ "michaeljacksonsmoonwalker_0.png", "michaeljacksonsmoonwalker_1.png", "michaeljacksonsmoonwalker_2.png", "michaeljacksonsmoonwalker_3.png", "michaeljacksonsmoonwalker_4.png" ],
+  "readmeFilename" : "michaeljacksonsmoonwalker_readme.txt",
+  "patchFilename" : "michaeljacksonsmoonwalker_patch.zip",
+  "notes" : null
+}

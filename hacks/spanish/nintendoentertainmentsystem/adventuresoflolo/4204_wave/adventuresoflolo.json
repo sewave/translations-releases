@@ -1,0 +1,19 @@
+{
+  "id" : "4204",
+  "releasedBy" : "Wave",
+  "name" : "Adventures of Lolo",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Adventures of Lolo (U) [!].nes\\r\\nMD5: 72a5692523ad5ab51cf2272a06d669d0\\r\\nSHA1: 355e2a11e6e585dab55635766c43bc4c0e5d6968\\r\\nCRC32: d9c4cbf7 65.552 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\01\\27",
+  "gameDate" : "April 1989",
+  "version" : "1.0",
+  "downloads" : "221",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\adventuresoflolo\\4204_wave",
+  "imagesFilenames" : [ "adventuresoflolo_0.png", "adventuresoflolo_1.png", "adventuresoflolo_2.png", "adventuresoflolo_3.png", "adventuresoflolo_4.png" ],
+  "readmeFilename" : "adventuresoflolo_readme.txt",
+  "patchFilename" : "adventuresoflolo_patch.zip",
+  "notes" : null
+}

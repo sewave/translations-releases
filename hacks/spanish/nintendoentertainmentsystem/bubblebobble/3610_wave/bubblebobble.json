@@ -1,0 +1,19 @@
+{
+  "id" : "3610",
+  "releasedBy" : "Wave",
+  "name" : "Bubble Bobble",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Bubble Bobble (U) [!].nes 163.856 bytes\\r\\nCRC32: d3a91b41\\r\\nMD5: e6cb4e0faf2e944b2a0c8d78a399ac7f\\r\\nSHA1: 0e40052299ada46f6c2d1172323366f872f90570",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\25",
+  "gameDate" : "30 October 1987",
+  "version" : "1.0",
+  "downloads" : "273",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\bubblebobble\\3610_wave",
+  "imagesFilenames" : [ "bubblebobble_0.png", "bubblebobble_1.png", "bubblebobble_2.png", "bubblebobble_3.png", "bubblebobble_4.png" ],
+  "readmeFilename" : "bubblebobble_readme.txt",
+  "patchFilename" : "bubblebobble_patch.zip",
+  "notes" : null
+}

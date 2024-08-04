@@ -1,0 +1,19 @@
+{
+  "id" : "4026",
+  "releasedBy" : "Wave",
+  "name" : "R-Type",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "R-Type (U) [!].gb\\r\\nMD5: 972dc35b3b2bd0762999b1ae48da94f6\\r\\nSHA1: 28531a4eb668477df98caf0e87cedc0e5fdfe53b\\r\\nCRC32: e0f23fc0 131.072 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\23",
+  "gameDate" : "19 March 1991",
+  "version" : "1.0",
+  "downloads" : "93",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\rtype\\4026_wave",
+  "imagesFilenames" : [ "rtype_0.png", "rtype_1.png", "rtype_2.png", "rtype_3.png", "rtype_4.png" ],
+  "readmeFilename" : "rtype_readme.txt",
+  "patchFilename" : "rtype_patch.zip",
+  "notes" : null
+}

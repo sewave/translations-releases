@@ -1,0 +1,19 @@
+{
+  "id" : "4980",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon",
+  "altName" : "Double Dragon: The Revenge of Billy Lee",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Double Dragon (U) [!].gg\\r\\nMD5: b45d73e40ce8f6e76dced24ee921871a\\r\\nSHA1: baebe28fc7549cbb06c94fcb36a3c40231933c01\\r\\nCRC32: 1307a290 262144 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2019\\09\\06",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "57",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\doubledragon\\4980_wave",
+  "imagesFilenames" : [ "doubledragon_0.png", "doubledragon_1.png", "doubledragon_2.png", "doubledragon_3.png", "doubledragon_4.png" ],
+  "readmeFilename" : "doubledragon_readme.txt",
+  "patchFilename" : "doubledragon_patch.zip",
+  "notes" : null
+}

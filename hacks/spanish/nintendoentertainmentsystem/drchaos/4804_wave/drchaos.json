@@ -1,0 +1,19 @@
+{
+  "id" : "4804",
+  "releasedBy" : "Wave",
+  "name" : "Dr. Chaos",
+  "altName" : "Dr. Chaos: Jigoku no Tobira",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Dr. Chaos (U) [!].nes\\r\\nMD5: 40f69533967d8d9e5496191b7ddb6482\\r\\nSHA1: ce489cf4d432fda3c345c0735ec4d550959296bd\\r\\nCRC32: 406bda35 131088 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2019\\07\\08",
+  "gameDate" : "November 1988",
+  "version" : "1.0",
+  "downloads" : "134",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\drchaos\\4804_wave",
+  "imagesFilenames" : [ "drchaos_0.png", "drchaos_1.png", "drchaos_2.png", "drchaos_3.png", "drchaos_4.png" ],
+  "readmeFilename" : "drchaos_readme.txt",
+  "patchFilename" : "drchaos_patch.zip",
+  "notes" : null
+}

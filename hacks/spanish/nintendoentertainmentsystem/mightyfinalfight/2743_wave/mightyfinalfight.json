@@ -1,0 +1,19 @@
+{
+  "id" : "2743",
+  "releasedBy" : "Wave",
+  "name" : "Mighty Final Fight",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Mighty Final Fight (U) [!].nes 262.160 bytes\\r\\nCRC32: 15eb0bee\\r\\nMD5: 1355eccce09d3e9554ff9120387f64b0\\r\\nSHA1: 1bb410bc457694fe3109791b6be8f75bf157b8c8",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2016\\10\\06",
+  "gameDate" : "11 June 1993",
+  "version" : "1.0",
+  "downloads" : "869",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\mightyfinalfight\\2743_wave",
+  "imagesFilenames" : [ "mightyfinalfight_0.png", "mightyfinalfight_1.png", "mightyfinalfight_2.png", "mightyfinalfight_3.png", "mightyfinalfight_4.png" ],
+  "readmeFilename" : "mightyfinalfight_readme.txt",
+  "patchFilename" : "mightyfinalfight_patch.zip",
+  "notes" : null
+}

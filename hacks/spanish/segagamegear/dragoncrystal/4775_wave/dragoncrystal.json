@@ -1,0 +1,19 @@
+{
+  "id" : "4775",
+  "releasedBy" : "Wave",
+  "name" : "Dragon Crystal",
+  "altName" : "Dragon Crystal: Tsurani no Meikyuu",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Dragon Crystal (U) [!].gg\\r\\nMD5: 8431baccd169025f79c9cbc44e31622d\\r\\nSHA1: 6d53f32001d419a5b5e9c16cb62e07e548d2f44a\\r\\nCRC32: 0ef2ed93 131072 bytes",
+  "genre" : "Rol / Acción",
+  "releaseDate" : "2019\\07\\02",
+  "gameDate" : "22 December 1990",
+  "version" : "1.0",
+  "downloads" : "86",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\dragoncrystal\\4775_wave",
+  "imagesFilenames" : [ "dragoncrystal_0.png", "dragoncrystal_1.png", "dragoncrystal_2.png", "dragoncrystal_3.png", "dragoncrystal_4.png" ],
+  "readmeFilename" : "dragoncrystal_readme.txt",
+  "patchFilename" : "dragoncrystal_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "2672",
+  "releasedBy" : "Wave",
+  "name" : "Scooby-Doo Mystery",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Scooby Doo Mystery (USA).md or Scooby Doo Mystery (W) [!].bin\\r\\nCRC32: 7bb9dd9b\\r\\nMD5: f27ea503631e67c05860926099d97f7a\\r\\nSHA1: ccc9542d964de5bdc1e9101620cae40dd98e7127",
+  "genre" : "Aventura",
+  "releaseDate" : "2016\\07\\04",
+  "gameDate" : "1995",
+  "version" : "0.9",
+  "downloads" : "1317",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\scoobydoomystery\\2672_wave",
+  "imagesFilenames" : [ "scoobydoomystery_0.png", "scoobydoomystery_1.png", "scoobydoomystery_2.png", "scoobydoomystery_3.png" ],
+  "readmeFilename" : "scoobydoomystery_readme.txt",
+  "patchFilename" : "scoobydoomystery_patch.zip",
+  "notes" : null
+}

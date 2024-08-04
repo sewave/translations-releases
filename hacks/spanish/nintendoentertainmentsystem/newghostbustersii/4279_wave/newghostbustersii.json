@@ -1,0 +1,19 @@
+{
+  "id" : "4279",
+  "releasedBy" : "Wave",
+  "name" : "New Ghostbusters II",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "New Ghostbusters II (E) [!].nes\\r\\nMD5: 8009cdf7ef0e79251388c1ddcb2dd506\\r\\nSHA1: 1e1cca1663aca0dd0d3372e842eaac8fcd245802\\r\\nCRC32: 9d72b9d1 262.160 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\02\\24",
+  "gameDate" : "26 December 1990",
+  "version" : "1.0",
+  "downloads" : "181",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\newghostbustersii\\4279_wave",
+  "imagesFilenames" : [ "newghostbustersii_0.png", "newghostbustersii_1.png", "newghostbustersii_2.png", "newghostbustersii_3.png", "newghostbustersii_4.png" ],
+  "readmeFilename" : "newghostbustersii_readme.txt",
+  "patchFilename" : "newghostbustersii_patch.zip",
+  "notes" : null
+}

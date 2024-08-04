@@ -1,0 +1,19 @@
+{
+  "id" : "4049",
+  "releasedBy" : "Wave",
+  "name" : "Sega Chess",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Sega Chess (EB) [!].sms\\r\\nMD5: 92334e9e52eeb8d27606e319b1f8b617\\r\\nSHA1: 2c386825dce99b340084b28bdf90fb4ee7107317\\r\\nCRC32: a8061aef 262.144 bytes",
+  "genre" : "Juego de Mesa",
+  "releaseDate" : "2018\\12\\01",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "95",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\segachess\\4049_wave",
+  "imagesFilenames" : [ "segachess_0.png", "segachess_1.png", "segachess_2.png", "segachess_3.png", "segachess_4.png" ],
+  "readmeFilename" : "segachess_readme.txt",
+  "patchFilename" : "segachess_patch.zip",
+  "notes" : null
+}

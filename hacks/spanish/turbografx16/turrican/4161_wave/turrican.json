@@ -1,0 +1,19 @@
+{
+  "id" : "4161",
+  "releasedBy" : "Wave",
+  "name" : "Turrican",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Turrican (U).pce\\r\\nMD5: 52d40c4e0a8435308c22c69a54e4baae\\r\\nSHA1: a5830c0d5cd94e3c6f33e1799bb123857400b1bc\\r\\nCRC32: eb045edf 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\01\\08",
+  "gameDate" : "August 1991",
+  "version" : "1.0",
+  "downloads" : "99",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\turrican\\4161_wave",
+  "imagesFilenames" : [ "turrican_0.png", "turrican_1.png", "turrican_2.png", "turrican_3.png", "turrican_4.png" ],
+  "readmeFilename" : "turrican_readme.txt",
+  "patchFilename" : "turrican_patch.zip",
+  "notes" : null
+}

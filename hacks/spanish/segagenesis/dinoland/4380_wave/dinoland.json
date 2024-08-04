@@ -1,0 +1,19 @@
+{
+  "id" : "4380",
+  "releasedBy" : "Wave",
+  "name" : "Dino Land",
+  "altName" : "Chou Touryuu Retsuden: Dino Land",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Dino Land (U) [!].bin\\r\\nMD5: 804c5c0644d9318ba294ee6ef6503933\\r\\nSHA1: e55937e48a0c348ba3db731a8722dae7f39dede5\\r\\nCRC32: 5fe351b8 524.288 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\04\\09",
+  "gameDate" : "25 January 1991",
+  "version" : "1.0",
+  "downloads" : "127",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\dinoland\\4380_wave",
+  "imagesFilenames" : [ "dinoland_0.png", "dinoland_1.png", "dinoland_2.png", "dinoland_3.png", "dinoland_4.png" ],
+  "readmeFilename" : "dinoland_readme.txt",
+  "patchFilename" : "dinoland_patch.zip",
+  "notes" : null
+}

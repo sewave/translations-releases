@@ -1,0 +1,19 @@
+{
+  "id" : "3612",
+  "releasedBy" : "Wave",
+  "name" : "Bubble Bobble",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Bubble Bobble (U) [!].gg 262.144 bytes\\r\\nCRC32: fba338c5\\r\\nMD5: 4f08cab3e252c2e3979ef33e9e59f294\\r\\nSHA1: c2c99d798bd0d4960021743a55e74644ad9020c6",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\25",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "109",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\bubblebobble\\3612_wave",
+  "imagesFilenames" : [ "bubblebobble_0.png", "bubblebobble_1.png", "bubblebobble_2.png", "bubblebobble_3.png", "bubblebobble_4.png" ],
+  "readmeFilename" : "bubblebobble_readme.txt",
+  "patchFilename" : "bubblebobble_patch.zip",
+  "notes" : null
+}

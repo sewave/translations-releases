@@ -1,0 +1,19 @@
+{
+  "id" : "5274",
+  "releasedBy" : "Wave",
+  "name" : "Doki Doki Penguin Land",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Doki Doki Penguin Land (1985) (Pony Cannon) (J).rom\\r\\nMD5: 15f5f13185a90b1497867e14318150fe\\r\\nSHA1: 6b12bb291e1a98a43ccff8ceb94d23585848febc\\r\\nCRC32: 652d0e39 32768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\12\\05",
+  "gameDate" : "November 1985",
+  "version" : "1.0",
+  "downloads" : "32",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\dokidokipenguinland\\5274_wave",
+  "imagesFilenames" : [ "dokidokipenguinland_0.png", "dokidokipenguinland_1.png", "dokidokipenguinland_2.png", "dokidokipenguinland_3.png" ],
+  "readmeFilename" : "dokidokipenguinland_readme.txt",
+  "patchFilename" : "dokidokipenguinland_patch.zip",
+  "notes" : null
+}

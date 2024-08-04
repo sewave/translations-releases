@@ -1,0 +1,19 @@
+{
+  "id" : "3423",
+  "releasedBy" : "Wave",
+  "name" : "Taz-Mania",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Taz-Mania (E) [!].sms 262.144 bytes\\r\\nCRC32: 7cc3e837\\r\\nMD5: cfc878f0163933fcfcc89e134fbeb31f\\r\\nSHA1: ac98f23ddc24609cb77bb13102e0386f8c2a4a76",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\01\\27",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "162",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\tazmania\\3423_wave",
+  "imagesFilenames" : [ "tazmania_0.png", "tazmania_1.png", "tazmania_2.png", "tazmania_3.png", "tazmania_4.png" ],
+  "readmeFilename" : "tazmania_readme.txt",
+  "patchFilename" : "tazmania_patch.zip",
+  "notes" : null
+}

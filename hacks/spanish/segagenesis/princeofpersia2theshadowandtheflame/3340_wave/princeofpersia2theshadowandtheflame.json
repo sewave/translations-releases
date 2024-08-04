@@ -1,0 +1,19 @@
+{
+  "id" : "3340",
+  "releasedBy" : "Wave",
+  "name" : "Prince of Persia 2: The Shadow and the Flame",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Prince of Persia 2 - The Shadow and The Flame (Beta).bin 2.097.152 bytes\\r\\nCRC32: 3ab44d46\\r\\nMD5: dc580653e3edc6c6b01cb1bfacc947b4\\r\\nSHA1: ba63dc1e521bee68b4121b626061ebb203ac63c6",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\12\\10",
+  "gameDate" : "Unreleased",
+  "version" : "1.0",
+  "downloads" : "382",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\princeofpersia2theshadowandtheflame\\3340_wave",
+  "imagesFilenames" : [ "princeofpersia2theshadowandtheflame_0.png", "princeofpersia2theshadowandtheflame_1.png", "princeofpersia2theshadowandtheflame_2.png", "princeofpersia2theshadowandtheflame_3.png", "princeofpersia2theshadowandtheflame_4.png" ],
+  "readmeFilename" : "princeofpersia2theshadowandtheflame_readme.txt",
+  "patchFilename" : "princeofpersia2theshadowandtheflame_patch.zip",
+  "notes" : null
+}

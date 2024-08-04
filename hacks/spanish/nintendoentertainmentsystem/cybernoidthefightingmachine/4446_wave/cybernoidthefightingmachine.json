@@ -1,0 +1,19 @@
+{
+  "id" : "4446",
+  "releasedBy" : "Wave",
+  "name" : "Cybernoid: The Fighting Machine",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Cybernoid - The Fighting Machine (U) [!].nes\\r\\nMD5: d92b83dc05a5addbd1c0afde2126ce8f\\r\\nSHA1: 7310c85d5abadf9ce2e0bc830e2b4b9c2121b24c\\r\\nCRC32: e3a6d7f6 65.552 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\22",
+  "gameDate" : "December 1989",
+  "version" : "1.0",
+  "downloads" : "111",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\cybernoidthefightingmachine\\4446_wave",
+  "imagesFilenames" : [ "cybernoidthefightingmachine_0.png", "cybernoidthefightingmachine_1.png", "cybernoidthefightingmachine_2.png", "cybernoidthefightingmachine_3.png", "cybernoidthefightingmachine_4.png" ],
+  "readmeFilename" : "cybernoidthefightingmachine_readme.txt",
+  "patchFilename" : "cybernoidthefightingmachine_patch.zip",
+  "notes" : null
+}

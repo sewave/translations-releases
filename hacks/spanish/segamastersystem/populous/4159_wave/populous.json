@@ -1,0 +1,19 @@
+{
+  "id" : "4159",
+  "releasedBy" : "Wave",
+  "name" : "Populous",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Populous (E) [!].sms\\r\\nMD5: cc694ca94c4d74b487983332facc8b86\\r\\nSHA1: d6142584b9796a96941b6a95bda14cf137b47085\\r\\nCRC32: c7a1fdef 262.144 bytes",
+  "genre" : "Estrategia",
+  "releaseDate" : "2019\\01\\08",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "107",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\populous\\4159_wave",
+  "imagesFilenames" : [ "populous_0.png", "populous_1.png", "populous_2.png", "populous_3.png", "populous_4.png" ],
+  "readmeFilename" : "populous_readme.txt",
+  "patchFilename" : "populous_patch.zip",
+  "notes" : null
+}

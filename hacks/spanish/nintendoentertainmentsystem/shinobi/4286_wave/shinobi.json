@@ -1,0 +1,19 @@
+{
+  "id" : "4286",
+  "releasedBy" : "Wave",
+  "name" : "Shinobi",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Shinobi (Tengen) [!].nes\\r\\nMD5: 9c1757938afcb84370766e2a5073755e\\r\\nSHA1: cbcf67f077d335c2bfeff6deb5c9c3d4d177d95d\\r\\nCRC32: f4aa0c2e 262.160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\03\\01",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "154",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\shinobi\\4286_wave",
+  "imagesFilenames" : [ "shinobi_0.png", "shinobi_1.png", "shinobi_2.png", "shinobi_3.png", "shinobi_4.png" ],
+  "readmeFilename" : "shinobi_readme.txt",
+  "patchFilename" : "shinobi_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4929",
+  "releasedBy" : "Wave",
+  "name" : "Action 52",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Action 52 (Active Enterprises) (REVA) [!].nes\\r\\nMD5: dcd2c8fd954effd36c47440980499261\\r\\nSHA1: 67af5fc47f5a93485e900f22ce302f6f61b5c709\\r\\nCRC32: 7fa90614 2097168 bytes",
+  "genre" : "Otros",
+  "releaseDate" : "2019\\08\\17",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "92",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\action52\\4929_wave",
+  "imagesFilenames" : [ "action52_0.png", "action52_1.png", "action52_2.png", "action52_3.png", "action52_4.png" ],
+  "readmeFilename" : "action52_readme.txt",
+  "patchFilename" : "action52_patch.zip",
+  "notes" : null
+}

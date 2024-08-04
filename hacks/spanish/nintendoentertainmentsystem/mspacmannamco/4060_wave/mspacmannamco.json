@@ -1,0 +1,19 @@
+{
+  "id" : "4060",
+  "releasedBy" : "Wave",
+  "name" : "Ms. Pac-Man (Namco)",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Ms. Pac-Man (U) [!].nes\\r\\nMD5: 7a47a5ff752c46409d8c1e4c8170426b\\r\\nSHA1: 9bb7fc771a991ea036fbb0ae97f7af41aaae7826\\r\\nCRC32: 51a0c9de 40.976 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\12\\05",
+  "gameDate" : "November 1993",
+  "version" : "1.0",
+  "downloads" : "120",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\mspacmannamco\\4060_wave",
+  "imagesFilenames" : [ "mspacmannamco_0.png", "mspacmannamco_1.png", "mspacmannamco_2.png", "mspacmannamco_3.png", "mspacmannamco_4.png" ],
+  "readmeFilename" : "mspacmannamco_readme.txt",
+  "patchFilename" : "mspacmannamco_patch.zip",
+  "notes" : null
+}

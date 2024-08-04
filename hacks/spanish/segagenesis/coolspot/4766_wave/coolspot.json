@@ -1,0 +1,19 @@
+{
+  "id" : "4766",
+  "releasedBy" : "Wave",
+  "name" : "Cool Spot",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Cool Spot (U) [!].gen\\r\\nMD5: 74aeac0e83d75842ebee4cb86a89acd1\\r\\nSHA1: 9a214e0eab58ddb8e9d752e41fce2ce08e6c39a7\\r\\nCRC32: f024c1a1 1048576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\27",
+  "gameDate" : "18 February 1994",
+  "version" : "1.0",
+  "downloads" : "156",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\coolspot\\4766_wave",
+  "imagesFilenames" : [ "coolspot_0.png", "coolspot_1.png", "coolspot_2.png", "coolspot_3.png", "coolspot_4.png" ],
+  "readmeFilename" : "coolspot_readme.txt",
+  "patchFilename" : "coolspot_patch.zip",
+  "notes" : null
+}

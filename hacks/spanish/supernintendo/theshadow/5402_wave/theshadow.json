@@ -1,0 +1,19 @@
+{
+  "id" : "5402",
+  "releasedBy" : "Wave",
+  "name" : "The Shadow",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Shadow, The (USA) (Proto 1).sfc\\r\\nMD5: bb103f88b7e4c432acc337cba93f2077\\r\\nSHA1: 130618b7eb2449f564152ff0583353612babd483\\r\\nCRC32: 13380511 2097152 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2020\\02\\11",
+  "gameDate" : "Unreleased",
+  "version" : "1.0",
+  "downloads" : "90",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\theshadow\\5402_wave",
+  "imagesFilenames" : [ "theshadow_0.png", "theshadow_1.png", "theshadow_2.png", "theshadow_3.png", "theshadow_4.png" ],
+  "readmeFilename" : "theshadow_readme.txt",
+  "patchFilename" : "theshadow_patch.zip",
+  "notes" : null
+}

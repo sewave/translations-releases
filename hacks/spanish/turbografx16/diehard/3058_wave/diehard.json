@@ -1,0 +1,19 @@
+{
+  "id" : "3058",
+  "releasedBy" : "Wave",
+  "name" : "Die Hard",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Die Hard (Japan).pce 524.288 bytes\\r\\nCRC32: 1b5b1cb1\\r\\nMD5: 7dd298a6e9f2abce6f85d262ec37f483\\r\\nSHA1: 96aeca126bb6ac0ca0df5ee260a8a1ee25f44d6d",
+  "genre" : "Acción",
+  "releaseDate" : "2017\\07\\27",
+  "gameDate" : "28 September 1990",
+  "version" : "1.1",
+  "downloads" : "315",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\diehard\\3058_wave",
+  "imagesFilenames" : [ "diehard_0.png", "diehard_1.png", "diehard_2.png", "diehard_3.png", "diehard_4.png" ],
+  "readmeFilename" : "diehard_readme.txt",
+  "patchFilename" : "diehard_patch.zip",
+  "notes" : null
+}

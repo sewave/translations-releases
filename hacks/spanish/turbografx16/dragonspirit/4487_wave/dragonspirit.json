@@ -1,0 +1,19 @@
+{
+  "id" : "4487",
+  "releasedBy" : "Wave",
+  "name" : "Dragon Spirit",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Dragon Spirit (U).pce\\r\\nMD5: 1fe13078c7aba4ef0777d5a470d56986\\r\\nSHA1: 3bdd082360335232715633b469da71ab2597279d\\r\\nCRC32: 086f148c 262144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\30",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "86",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\dragonspirit\\4487_wave",
+  "imagesFilenames" : [ "dragonspirit_0.png", "dragonspirit_1.png", "dragonspirit_2.png", "dragonspirit_3.png", "dragonspirit_4.png" ],
+  "readmeFilename" : "dragonspirit_readme.txt",
+  "patchFilename" : "dragonspirit_patch.zip",
+  "notes" : null
+}

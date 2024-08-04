@@ -1,0 +1,19 @@
+{
+  "id" : "3613",
+  "releasedBy" : "Wave",
+  "name" : "Mega Man Xtreme",
+  "altName" : "RockMan X: Cyber Mission",
+  "system" : "Game Boy",
+  "romDesc" : "Megaman Xtreme (U) [C][!].gbc 1.048.576 bytes\\r\\nCRC32: 3a4d94d5\\r\\nMD5: 4681f5b931a2e60ca163facd1adf56ed\\r\\nSHA1: c877449ba0889fdcacf23c49b0611d0ca57283c5",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\27",
+  "gameDate" : "20 October 2000",
+  "version" : "1.1",
+  "downloads" : "1154",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\megamanxtreme\\3613_wave",
+  "imagesFilenames" : [ "megamanxtreme_0.png", "megamanxtreme_1.png", "megamanxtreme_2.png", "megamanxtreme_3.png", "megamanxtreme_4.png" ],
+  "readmeFilename" : "megamanxtreme_readme.txt",
+  "patchFilename" : "megamanxtreme_patch.zip",
+  "notes" : null
+}

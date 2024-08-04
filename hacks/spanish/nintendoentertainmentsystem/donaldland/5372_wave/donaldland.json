@@ -1,0 +1,19 @@
+{
+  "id" : "5372",
+  "releasedBy" : "Wave",
+  "name" : "Donald Land",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Donald Land (Japan).nes\\r\\nMD5: 6caf22ae3c306835ddfa146c49affaea\\r\\nSHA1: 6b409c51da8518fdad8d588c79fdfcf34c2ffcf3\\r\\nCRC32: bcc857f4 262160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\02\\01",
+  "gameDate" : "29 January 1988",
+  "version" : "1.0",
+  "downloads" : "57",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\donaldland\\5372_wave",
+  "imagesFilenames" : [ "donaldland_0.png", "donaldland_1.png", "donaldland_2.png", "donaldland_3.png", "donaldland_4.png" ],
+  "readmeFilename" : "donaldland_readme.txt",
+  "patchFilename" : "donaldland_patch.zip",
+  "notes" : null
+}

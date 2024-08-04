@@ -1,0 +1,19 @@
+{
+  "id" : "3744",
+  "releasedBy" : "Wave",
+  "name" : "Quartet",
+  "altName" : "Double Target: Cynthia no Nemuri",
+  "system" : "Sega Master System",
+  "romDesc" : "Quartet (UE) [!].sms 131.072 bytes\\r\\nMD5: 63af7fce5106cc3de1e1b116c112095b\\r\\nSHA1: 08a3484e862a284f6038b7cd0dfc745a8b7c6c51\\r\\nCRC32: e0f34fa6",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\08\\10",
+  "gameDate" : "18 January 1987",
+  "version" : "1.0",
+  "downloads" : "133",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\quartet\\3744_wave",
+  "imagesFilenames" : [ "quartet_0.png", "quartet_1.png", "quartet_2.png", "quartet_3.png", "quartet_4.png" ],
+  "readmeFilename" : "quartet_readme.txt",
+  "patchFilename" : "quartet_patch.zip",
+  "notes" : null
+}

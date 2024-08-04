@@ -1,0 +1,19 @@
+{
+  "id" : "2888",
+  "releasedBy" : "Wave",
+  "name" : "The Punisher",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Punisher, The (U) [!].bin 2.097.152 bytes\\r\\nCRC32: 695cd8b8\\r\\nMD5: 0711541847d139a7dae88958b68f92ee\\r\\nSHA1: 4ef2675e728903925a7b865daa75ed66bbe24829",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\03\\01",
+  "gameDate" : "01 June 1994",
+  "version" : "1.1",
+  "downloads" : "558",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\thepunisher\\2888_wave",
+  "imagesFilenames" : [ "thepunisher_0.png", "thepunisher_1.png", "thepunisher_2.png", "thepunisher_3.png", "thepunisher_4.png" ],
+  "readmeFilename" : "thepunisher_readme.txt",
+  "patchFilename" : "thepunisher_patch.zip",
+  "notes" : null
+}

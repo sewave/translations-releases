@@ -1,0 +1,19 @@
+{
+  "id" : "5163",
+  "releasedBy" : "Wave",
+  "name" : "Ghost Manor",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Ghost Manor (USA).pce\\r\\nMD5: 2f2d4d92c14ba5770edd5f449507aac8\\r\\nSHA1: 7092a265599194a280eca9314b496079cc49dcbd\\r\\nCRC32: 2db4c1fd 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\05",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "62",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\ghostmanor\\5163_wave",
+  "imagesFilenames" : [ "ghostmanor_0.png", "ghostmanor_1.png", "ghostmanor_2.png", "ghostmanor_3.png", "ghostmanor_4.png" ],
+  "readmeFilename" : "ghostmanor_readme.txt",
+  "patchFilename" : "ghostmanor_patch.zip",
+  "notes" : null
+}

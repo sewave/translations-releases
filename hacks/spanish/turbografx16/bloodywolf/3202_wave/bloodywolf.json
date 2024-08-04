@@ -1,0 +1,19 @@
+{
+  "id" : "3202",
+  "releasedBy" : "Wave",
+  "name" : "Bloody Wolf",
+  "altName" : "Narazumono Sentou Butai: Bloody Wolf",
+  "system" : "PC Engine",
+  "romDesc" : "Bloody Wolf (U).pce 524.288 bytes\\r\\nCRC32: 37baf6bc\\r\\nMD5: f19869d1823a28e8472452baf697cf56\\r\\nSHA1: 45f8762414fb6b581b6159908cc35b2607ecf237",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\09\\24",
+  "gameDate" : "01 September 1989",
+  "version" : "1.0",
+  "downloads" : "253",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\bloodywolf\\3202_wave",
+  "imagesFilenames" : [ "bloodywolf_0.png", "bloodywolf_1.png", "bloodywolf_2.png", "bloodywolf_3.png", "bloodywolf_4.png" ],
+  "readmeFilename" : "bloodywolf_readme.txt",
+  "patchFilename" : "bloodywolf_patch.zip",
+  "notes" : null
+}

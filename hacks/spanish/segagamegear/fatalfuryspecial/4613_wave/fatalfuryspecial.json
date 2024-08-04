@@ -1,0 +1,19 @@
+{
+  "id" : "4613",
+  "releasedBy" : "Wave",
+  "name" : "Fatal Fury Special",
+  "altName" : "Garou Densetsu Special",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Fatal Fury Special (U) [!].gg\\r\\nMD5: 4292c099f98cc0c6d03025f0729f64df\\r\\nSHA1: 7ce20ca34b7bc91ba7e73f830b40830ad6bafbc8\\r\\nCRC32: 449787e2 524288 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\05\\31",
+  "gameDate" : "25 November 1994",
+  "version" : "1.0",
+  "downloads" : "57",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\fatalfuryspecial\\4613_wave",
+  "imagesFilenames" : [ "fatalfuryspecial_0.png", "fatalfuryspecial_1.png", "fatalfuryspecial_2.png", "fatalfuryspecial_3.png", "fatalfuryspecial_4.png" ],
+  "readmeFilename" : "fatalfuryspecial_readme.txt",
+  "patchFilename" : "fatalfuryspecial_patch.zip",
+  "notes" : null
+}

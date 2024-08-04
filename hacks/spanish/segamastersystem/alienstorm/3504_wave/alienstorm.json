@@ -1,0 +1,19 @@
+{
+  "id" : "3504",
+  "releasedBy" : "Wave",
+  "name" : "Alien Storm",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Alien Storm (E) [!].sms 262.656 bytes\\r\\nCRC32: 62a2846f\\r\\nMD5: fe200aacdaf99f81b6f5adfc79ac5e21\\r\\nSHA1: d10fd429f780ccd6e9c62a6b6447ff58faf755da",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\03\\23",
+  "gameDate" : "October 1991",
+  "version" : "1.0",
+  "downloads" : "173",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\alienstorm\\3504_wave",
+  "imagesFilenames" : [ "alienstorm_0.png", "alienstorm_1.png", "alienstorm_2.png", "alienstorm_3.png", "alienstorm_4.png" ],
+  "readmeFilename" : "alienstorm_readme.txt",
+  "patchFilename" : "alienstorm_patch.zip",
+  "notes" : null
+}

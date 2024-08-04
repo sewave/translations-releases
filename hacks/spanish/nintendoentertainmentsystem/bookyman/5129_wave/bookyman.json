@@ -1,0 +1,19 @@
+{
+  "id" : "5129",
+  "releasedBy" : "Wave",
+  "name" : "Booky Man",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Booky Man (Spain) (Gluk Video) (Unl).nes\\r\\nMD5: 84d0098e3718885d479072cc2218756f\\r\\nSHA1: fca4651e01f3282e890b481774b237ec41708fd3\\r\\nCRC32: de1bdbf3 24592 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\10\\30",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "51",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\bookyman\\5129_wave",
+  "imagesFilenames" : [ "bookyman_0.png", "bookyman_1.png", "bookyman_2.png" ],
+  "readmeFilename" : "bookyman_readme.txt",
+  "patchFilename" : "bookyman_patch.zip",
+  "notes" : null
+}

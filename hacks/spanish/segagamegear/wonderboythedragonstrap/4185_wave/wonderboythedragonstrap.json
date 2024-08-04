@@ -1,0 +1,19 @@
+{
+  "id" : "4185",
+  "releasedBy" : "Wave",
+  "name" : "Wonder Boy: The Dragon's Trap",
+  "altName" : "Monster World II: Dragon no Wana",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Wonder Boy - The Dragon's Trap (E) [!].gg\\r\\nMD5: 0e8146c23d7947b4677b9b2ca12850e0\\r\\nSHA1: d98344a2c644ce9a0184e8f836271c038aa16a23\\r\\nCRC32: a74c97a7 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\01\\16",
+  "gameDate" : "27 March 1992",
+  "version" : "1.0",
+  "downloads" : "136",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\wonderboythedragonstrap\\4185_wave",
+  "imagesFilenames" : [ "wonderboythedragonstrap_0.png", "wonderboythedragonstrap_1.png", "wonderboythedragonstrap_2.png", "wonderboythedragonstrap_3.png", "wonderboythedragonstrap_4.png" ],
+  "readmeFilename" : "wonderboythedragonstrap_readme.txt",
+  "patchFilename" : "wonderboythedragonstrap_patch.zip",
+  "notes" : null
+}

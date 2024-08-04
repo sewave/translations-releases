@@ -1,0 +1,19 @@
+{
+  "id" : "2897",
+  "releasedBy" : "Wave",
+  "name" : "Don Doko Don 2",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Don Doko Don 2 (J).nes 393.232 bytes\\r\\nCRC32: b04ece9e\\r\\nMD5: 116d9a34e5c5fc9a0912c1ec11ace157\\r\\nSHA1: d1f3a33cabdb2f075ecc5b60820241fe94216ba9",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\02\\20",
+  "gameDate" : "31 January 1992",
+  "version" : "1.0",
+  "downloads" : "911",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\dondokodon2\\2897_wave",
+  "imagesFilenames" : [ "dondokodon2_0.png", "dondokodon2_1.png", "dondokodon2_2.png", "dondokodon2_3.png", "dondokodon2_4.png" ],
+  "readmeFilename" : "dondokodon2_readme.txt",
+  "patchFilename" : "dondokodon2_patch.zip",
+  "notes" : null
+}

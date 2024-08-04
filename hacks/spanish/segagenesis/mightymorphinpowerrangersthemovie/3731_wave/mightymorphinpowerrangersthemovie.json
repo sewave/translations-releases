@@ -1,0 +1,19 @@
+{
+  "id" : "3731",
+  "releasedBy" : "Wave",
+  "name" : "Mighty Morphin Power Rangers: The Movie",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Mighty Morphin Power Rangers - The Movie (U) [!].bin 2.097.152 bytes\\r\\nMD5: bbf3c7bfad1e2110da1469c711949709\\r\\nSHA1: 866d7ccc204e45d188594dde99c2ea836912a136\\r\\nCRC32: aa941cbc",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\08\\03",
+  "gameDate" : "1995",
+  "version" : "1.0",
+  "downloads" : "349",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\mightymorphinpowerrangersthemovie\\3731_wave",
+  "imagesFilenames" : [ "mightymorphinpowerrangersthemovie_0.png", "mightymorphinpowerrangersthemovie_1.png", "mightymorphinpowerrangersthemovie_2.png", "mightymorphinpowerrangersthemovie_3.png", "mightymorphinpowerrangersthemovie_4.png" ],
+  "readmeFilename" : "mightymorphinpowerrangersthemovie_readme.txt",
+  "patchFilename" : "mightymorphinpowerrangersthemovie_patch.zip",
+  "notes" : null
+}

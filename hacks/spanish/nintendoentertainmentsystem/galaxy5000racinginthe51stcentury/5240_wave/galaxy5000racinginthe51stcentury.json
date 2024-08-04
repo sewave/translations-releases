@@ -1,0 +1,19 @@
+{
+  "id" : "5240",
+  "releasedBy" : "Wave",
+  "name" : "Galaxy 5000: Racing in the 51st Century",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Galaxy 5000 (U) [!].nes\\r\\nMD5: 87cfe186d691f75c4e01623f54946f91\\r\\nSHA1: cd11e05e8eaed1d3158e88857df0fce270ae7ff6\\r\\nCRC32: 37b3ad54 262160 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\11\\27",
+  "gameDate" : "February 1991",
+  "version" : "1.0",
+  "downloads" : "63",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\galaxy5000racinginthe51stcentury\\5240_wave",
+  "imagesFilenames" : [ "galaxy5000racinginthe51stcentury_0.png", "galaxy5000racinginthe51stcentury_1.png", "galaxy5000racinginthe51stcentury_2.png", "galaxy5000racinginthe51stcentury_3.png", "galaxy5000racinginthe51stcentury_4.png" ],
+  "readmeFilename" : "galaxy5000racinginthe51stcentury_readme.txt",
+  "patchFilename" : "galaxy5000racinginthe51stcentury_patch.zip",
+  "notes" : null
+}

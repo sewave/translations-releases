@@ -1,0 +1,19 @@
+{
+  "id" : "3701",
+  "releasedBy" : "Wave",
+  "name" : "The Simpsons: Bart vs. The Space Mutants",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Simpsons, The - Bart vs The Space Mutants (UE) (REV01) [!].gen 524.288 bytes\\r\\nCRC32: db70e8ca\\r\\nMD5: b87cb990d9238f252a4dd89077aa180e\\r\\nSHA1: 2d42143c83ec3b4167860520ee0a9030ef563333",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\07\\13",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "323",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\thesimpsonsbartvsthespacemutants\\3701_wave",
+  "imagesFilenames" : [ "thesimpsonsbartvsthespacemutants_0.png", "thesimpsonsbartvsthespacemutants_1.png", "thesimpsonsbartvsthespacemutants_2.png", "thesimpsonsbartvsthespacemutants_3.png", "thesimpsonsbartvsthespacemutants_4.png" ],
+  "readmeFilename" : "thesimpsonsbartvsthespacemutants_readme.txt",
+  "patchFilename" : "thesimpsonsbartvsthespacemutants_patch.zip",
+  "notes" : null
+}

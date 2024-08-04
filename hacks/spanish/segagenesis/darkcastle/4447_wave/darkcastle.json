@@ -1,0 +1,19 @@
+{
+  "id" : "4447",
+  "releasedBy" : "Wave",
+  "name" : "Dark Castle",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Dark Castle (UE) [!].bin\\r\\nMD5: 56965eb7dde9bc22d16ffa72331c0e09\\r\\nSHA1: 23e1ad9822338362113e55087d60fb9a1674bf8a\\r\\nCRC32: 0464aca4 524.288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\04\\22",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "140",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\darkcastle\\4447_wave",
+  "imagesFilenames" : [ "darkcastle_0.png", "darkcastle_1.png", "darkcastle_2.png", "darkcastle_3.png", "darkcastle_4.png" ],
+  "readmeFilename" : "darkcastle_readme.txt",
+  "patchFilename" : "darkcastle_patch.zip",
+  "notes" : null
+}

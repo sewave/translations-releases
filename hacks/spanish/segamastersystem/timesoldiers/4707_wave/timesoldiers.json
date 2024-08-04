@@ -1,0 +1,19 @@
+{
+  "id" : "4707",
+  "releasedBy" : "Wave",
+  "name" : "Time Soldiers",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Time Soldiers (USA, Europe).sms\\r\\nMD5: dbc9260009dd0838d0e31de51d57d078\\r\\nSHA1: 89842cb30cc3ba626901a5da41481f6d157ebd15\\r\\nCRC32: 51bd14be 262144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\06\\13",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "88",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\timesoldiers\\4707_wave",
+  "imagesFilenames" : [ "timesoldiers_0.png", "timesoldiers_1.png", "timesoldiers_2.png", "timesoldiers_3.png", "timesoldiers_4.png" ],
+  "readmeFilename" : "timesoldiers_readme.txt",
+  "patchFilename" : "timesoldiers_patch.zip",
+  "notes" : null
+}

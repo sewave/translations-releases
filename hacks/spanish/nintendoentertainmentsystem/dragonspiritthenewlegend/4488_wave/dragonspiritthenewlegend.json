@@ -1,0 +1,19 @@
+{
+  "id" : "4488",
+  "releasedBy" : "Wave",
+  "name" : "Dragon Spirit: The New Legend",
+  "altName" : "Dragon Spirit: Aratanaru Densetsu",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Dragon Spirit - The New Legend (U) [!].nes\\r\\nMD5: f4284501969a05ef76e53fe43d193729\\r\\nSHA1: 01b206f8cba9669fc6166a62b78c1522475d863a\\r\\nCRC32: fd719491 262160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\30",
+  "gameDate" : "14 April 1989",
+  "version" : "1.0",
+  "downloads" : "155",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\dragonspiritthenewlegend\\4488_wave",
+  "imagesFilenames" : [ "dragonspiritthenewlegend_0.png", "dragonspiritthenewlegend_1.png", "dragonspiritthenewlegend_2.png", "dragonspiritthenewlegend_3.png", "dragonspiritthenewlegend_4.png" ],
+  "readmeFilename" : "dragonspiritthenewlegend_readme.txt",
+  "patchFilename" : "dragonspiritthenewlegend_patch.zip",
+  "notes" : null
+}

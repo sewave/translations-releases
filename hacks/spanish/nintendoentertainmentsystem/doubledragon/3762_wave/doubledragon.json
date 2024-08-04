@@ -1,0 +1,19 @@
+{
+  "id" : "3762",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Double Dragon (U) [!].nes 262.160 bytes\\r\\nMD5: 79aa819580967ffb27a9698efbf493b9\\r\\nSHA1: 84698b12f4e56a37c67bb47359758124c9b012bb\\r\\nCRC32: 62afe166",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\08\\17",
+  "gameDate" : "08 April 1988",
+  "version" : "1.0",
+  "downloads" : "402",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\doubledragon\\3762_wave",
+  "imagesFilenames" : [ "doubledragon_0.png", "doubledragon_1.png", "doubledragon_2.png", "doubledragon_3.png", "doubledragon_4.png" ],
+  "readmeFilename" : "doubledragon_readme.txt",
+  "patchFilename" : "doubledragon_patch.zip",
+  "notes" : null
+}

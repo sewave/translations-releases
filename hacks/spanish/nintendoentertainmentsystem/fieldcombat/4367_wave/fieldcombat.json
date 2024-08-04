@@ -1,0 +1,19 @@
+{
+  "id" : "4367",
+  "releasedBy" : "Wave",
+  "name" : "Field Combat",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Field Combat (J).nes\\r\\nMD5: 1407f35d0206eec13536b548391be83f\\r\\nSHA1: 1a3a57484dcd53c1d6de56c0fa5ac4e6f3413ae7\\r\\nCRC32: 90d93924 24.592 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\05",
+  "gameDate" : "09 July 1985",
+  "version" : "1.0",
+  "downloads" : "107",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\fieldcombat\\4367_wave",
+  "imagesFilenames" : [ "fieldcombat_0.png", "fieldcombat_1.png", "fieldcombat_2.png", "fieldcombat_3.png", "fieldcombat_4.png" ],
+  "readmeFilename" : "fieldcombat_readme.txt",
+  "patchFilename" : "fieldcombat_patch.zip",
+  "notes" : null
+}

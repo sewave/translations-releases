@@ -1,0 +1,19 @@
+{
+  "id" : "4534",
+  "releasedBy" : "Wave",
+  "name" : "Snake It",
+  "altName" : "Eat It!",
+  "system" : "MSX",
+  "romDesc" : "Snake-It (1986) (Hal) (J).rom\\r\\nMD5: 7bacb69889a402d4a759949026fb5675\\r\\nSHA1: 7300d44a753dacf582d3079ed09eafc9dd629530\\r\\nCRC32: 4a44bf23 32768 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\05\\07",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "36",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\snakeit\\4534_wave",
+  "imagesFilenames" : [ "snakeit_0.png", "snakeit_1.png", "snakeit_2.png", "snakeit_3.png", "snakeit_4.png" ],
+  "readmeFilename" : "snakeit_readme.txt",
+  "patchFilename" : "snakeit_patch.zip",
+  "notes" : null
+}

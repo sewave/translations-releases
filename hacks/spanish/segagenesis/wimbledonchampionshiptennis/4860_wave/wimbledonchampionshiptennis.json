@@ -1,0 +1,19 @@
+{
+  "id" : "4860",
+  "releasedBy" : "Wave",
+  "name" : "Wimbledon Championship Tennis",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Wimbledon Championship Tennis (USA).md\\r\\nMD5: 7978bb18dc7c6269f6b5c2178b93b407\\r\\nSHA1: db9083fd257d7cb718a010bdc525980f254e2c66\\r\\nCRC32: f9142aee 1048576 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\07\\24",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "110",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\wimbledonchampionshiptennis\\4860_wave",
+  "imagesFilenames" : [ "wimbledonchampionshiptennis_0.png", "wimbledonchampionshiptennis_1.png", "wimbledonchampionshiptennis_2.png", "wimbledonchampionshiptennis_3.png", "wimbledonchampionshiptennis_4.png" ],
+  "readmeFilename" : "wimbledonchampionshiptennis_readme.txt",
+  "patchFilename" : "wimbledonchampionshiptennis_patch.zip",
+  "notes" : null
+}

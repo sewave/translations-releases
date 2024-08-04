@@ -1,0 +1,19 @@
+{
+  "id" : "2827",
+  "releasedBy" : "Wave",
+  "name" : "Bram Stoker's Dracula",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Bram Stoker's Dracula (U) [!].nes 262.160 bytes\\r\\nCRC32: f5321963\\r\\nMD5: 582fe67072d38c52bba7f7efa509bbe7\\r\\nSHA1: 7619bac804f9be52b6411bd54a0af2528511582a",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\12\\24",
+  "gameDate" : "September 1993",
+  "version" : "1.0",
+  "downloads" : "380",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\bramstokersdracula\\2827_wave",
+  "imagesFilenames" : [ "bramstokersdracula_0.png", "bramstokersdracula_1.png", "bramstokersdracula_2.png", "bramstokersdracula_3.png", "bramstokersdracula_4.png" ],
+  "readmeFilename" : "bramstokersdracula_readme.txt",
+  "patchFilename" : "bramstokersdracula_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "2884",
+  "releasedBy" : "Wave",
+  "name" : "Super Street Fighter II: The New Challengers",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Super Street Fighter II - The New Challengers (U) [c][!].bin 5.242.880 bytes\\r\\nCRC32: 165defbf\\r\\nMD5: 75950e3aa9357a21715ffe2fa51a454c\\r\\nSHA1: 9ce6e69db9d28386f7542dacd3e3ead28eacf2a4",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2017\\02\\07",
+  "gameDate" : "25 June 1994",
+  "version" : "1.0",
+  "downloads" : "595",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\superstreetfighteriithenewchallengers\\2884_wave",
+  "imagesFilenames" : [ "superstreetfighteriithenewchallengers_0.png", "superstreetfighteriithenewchallengers_1.png", "superstreetfighteriithenewchallengers_2.png", "superstreetfighteriithenewchallengers_3.png", "superstreetfighteriithenewchallengers_4.png" ],
+  "readmeFilename" : "superstreetfighteriithenewchallengers_readme.txt",
+  "patchFilename" : "superstreetfighteriithenewchallengers_patch.zip",
+  "notes" : null
+}

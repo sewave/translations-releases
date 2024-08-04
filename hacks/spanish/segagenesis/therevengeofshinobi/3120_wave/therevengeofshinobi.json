@@ -1,0 +1,19 @@
+{
+  "id" : "3120",
+  "releasedBy" : "Wave",
+  "name" : "The Revenge of Shinobi",
+  "altName" : "The Super Shinobi",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Revenge of Shinobi, The (W) (REV00) [!].gen 524.288 bytes\\r\\nCRC32: 5c7e5ea6\\r\\nMD5: c296021f74ab1192ed7e1865cdebc972\\r\\nSHA1: d5807a44d2059aa4ff27ecb7bdc749fbb0382550",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\07\\10",
+  "gameDate" : "02 December 1989",
+  "version" : "1.0",
+  "downloads" : "669",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\therevengeofshinobi\\3120_wave",
+  "imagesFilenames" : [ "therevengeofshinobi_0.png", "therevengeofshinobi_1.png", "therevengeofshinobi_2.png", "therevengeofshinobi_3.png", "therevengeofshinobi_4.png" ],
+  "readmeFilename" : "therevengeofshinobi_readme.txt",
+  "patchFilename" : "therevengeofshinobi_patch.zip",
+  "notes" : null
+}

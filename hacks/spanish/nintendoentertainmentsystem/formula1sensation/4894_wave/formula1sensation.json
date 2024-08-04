@@ -1,0 +1,19 @@
+{
+  "id" : "4894",
+  "releasedBy" : "Wave",
+  "name" : "Formula 1 Sensation",
+  "altName" : "F-1 Sensation",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "F-1 Sensation (J).nes\\r\\nMD5: 432309cdcb51256b64cd0645746d78ae\\r\\nSHA1: 04aeededf0c42b214acfbe6e03e5c63171d67797\\r\\nCRC32: 6a2be608 262160 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\08\\09",
+  "gameDate" : "29 January 1993",
+  "version" : "1.2",
+  "downloads" : "131",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\formula1sensation\\4894_wave",
+  "imagesFilenames" : [ "formula1sensation_0.png", "formula1sensation_1.png", "formula1sensation_2.png", "formula1sensation_3.png", "formula1sensation_4.png" ],
+  "readmeFilename" : "formula1sensation_readme.txt",
+  "patchFilename" : "formula1sensation_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4121",
+  "releasedBy" : "Wave",
+  "name" : "Snow Brothers",
+  "altName" : "Snow Bros.: Nick & Tom",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Snow Brothers (U) [!].nes\\r\\nMD5: 493df46ac731036292d606ae2aaf76bf\\r\\nSHA1: 352b295953f5dc817f9a1daf4f5a6d781971cab8\\r\\nCRC32: 701f4326 262.160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\12\\29",
+  "gameDate" : "November 1991",
+  "version" : "1.0",
+  "downloads" : "187",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\snowbrothers\\4121_wave",
+  "imagesFilenames" : [ "snowbrothers_0.png", "snowbrothers_1.png", "snowbrothers_2.png", "snowbrothers_3.png", "snowbrothers_4.png" ],
+  "readmeFilename" : "snowbrothers_readme.txt",
+  "patchFilename" : "snowbrothers_patch.zip",
+  "notes" : null
+}

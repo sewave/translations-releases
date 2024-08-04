@@ -1,0 +1,19 @@
+{
+  "id" : "5083",
+  "releasedBy" : "Wave",
+  "name" : "Dropzone",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Dropzone (Europe).nes\\r\\nMD5: be3506de82bd5ac2a776c71e6a528b78\\r\\nSHA1: 2705e49291e2dea9b739816be4857bd403577006\\r\\nCRC32: ab29ab28 65552 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\19",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "58",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\dropzone\\5083_wave",
+  "imagesFilenames" : [ "dropzone_0.png", "dropzone_1.png", "dropzone_2.png", "dropzone_3.png", "dropzone_4.png" ],
+  "readmeFilename" : "dropzone_readme.txt",
+  "patchFilename" : "dropzone_patch.zip",
+  "notes" : null
+}

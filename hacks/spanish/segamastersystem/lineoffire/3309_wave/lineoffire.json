@@ -1,0 +1,19 @@
+{
+  "id" : "3309",
+  "releasedBy" : "Wave",
+  "name" : "Line of Fire",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Line of Fire (E) [!].sms 524.288 bytes\\r\\nCRC32: cb09f355\\r\\nMD5: 1597ad705990a66e90262ef7b1141b64\\r\\nSHA1: 985f78bcaf64bb088d64517f80b0acc7f5034b24",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\11\\26",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "176",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\lineoffire\\3309_wave",
+  "imagesFilenames" : [ "lineoffire_0.png", "lineoffire_1.png", "lineoffire_2.png", "lineoffire_3.png", "lineoffire_4.png" ],
+  "readmeFilename" : "lineoffire_readme.txt",
+  "patchFilename" : "lineoffire_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3917",
+  "releasedBy" : "Wave",
+  "name" : "Hang-On 2",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Hang-On 2 (SG-1000).sg\\r\\nMD5: 314c865decbe6f578d9bfa23f27a08e6\\r\\nSHA1: e636e889d4e81c024ee7dae8943c2b8d9d4a5414\\r\\nCRC32: 9be3c6bd 32.768 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2018\\10\\11",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "50",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\hangon2\\3917_wave",
+  "imagesFilenames" : [ "hangon2_0.png", "hangon2_1.png", "hangon2_2.png", "hangon2_3.png", "hangon2_4.png" ],
+  "readmeFilename" : "hangon2_readme.txt",
+  "patchFilename" : "hangon2_patch.zip",
+  "notes" : null
+}

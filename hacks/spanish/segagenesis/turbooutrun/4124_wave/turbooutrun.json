@@ -1,0 +1,19 @@
+{
+  "id" : "4124",
+  "releasedBy" : "Wave",
+  "name" : "Turbo Outrun",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Turbo Outrun (JE) [c][!].gen\\r\\nMD5: 32fb1f12205e350cfe2bb66616043b59\\r\\nSHA1: 3e4b9881dde758ef7bb090b39d3556d9bc0d9f1e\\r\\nCRC32: 0c661369 524.288 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2018\\12\\29",
+  "gameDate" : "27 March 1992",
+  "version" : "1.0",
+  "downloads" : "196",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\turbooutrun\\4124_wave",
+  "imagesFilenames" : [ "turbooutrun_0.png", "turbooutrun_1.png", "turbooutrun_2.png", "turbooutrun_3.png", "turbooutrun_4.png" ],
+  "readmeFilename" : "turbooutrun_readme.txt",
+  "patchFilename" : "turbooutrun_patch.zip",
+  "notes" : null
+}

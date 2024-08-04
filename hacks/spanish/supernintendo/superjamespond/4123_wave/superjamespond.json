@@ -1,0 +1,19 @@
+{
+  "id" : "4123",
+  "releasedBy" : "Wave",
+  "name" : "Super James Pond",
+  "altName" : "Super James Pond II",
+  "system" : "Super Nintendo",
+  "romDesc" : "Super James Pond (U).smc\\r\\nMD5: 14df5ecb8cc0b7cb11e3a0968da3d2a0\\r\\nSHA1: b8cbc41a93787a41f1ee253041fa8dda14c51475\\r\\nCRC32: d7c34122 524.288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\12\\29",
+  "gameDate" : "23 July 1993",
+  "version" : "1.0",
+  "downloads" : "141",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\superjamespond\\4123_wave",
+  "imagesFilenames" : [ "superjamespond_0.png", "superjamespond_1.png", "superjamespond_2.png", "superjamespond_3.png", "superjamespond_4.png" ],
+  "readmeFilename" : "superjamespond_readme.txt",
+  "patchFilename" : "superjamespond_patch.zip",
+  "notes" : null
+}

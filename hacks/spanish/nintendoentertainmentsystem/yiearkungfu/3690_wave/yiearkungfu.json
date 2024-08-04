@@ -1,0 +1,19 @@
+{
+  "id" : "3690",
+  "releasedBy" : "Wave",
+  "name" : "Yie Ar Kung-Fu",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Yie Ar Kung-Fu (J) (V1.4) [!].nes 24.592 bytes\\r\\nCRC32: 0d526208\\r\\nMD5: b48db05c48af5a75220a4043a17dde90\\r\\nSHA1: afd2b46265e14ab87fbddf054252fb2d4b5ad257",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2018\\07\\06",
+  "gameDate" : "22 April 1985",
+  "version" : "1.0",
+  "downloads" : "254",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\yiearkungfu\\3690_wave",
+  "imagesFilenames" : [ "yiearkungfu_0.png", "yiearkungfu_1.png", "yiearkungfu_2.png", "yiearkungfu_3.png", "yiearkungfu_4.png" ],
+  "readmeFilename" : "yiearkungfu_readme.txt",
+  "patchFilename" : "yiearkungfu_patch.zip",
+  "notes" : null
+}

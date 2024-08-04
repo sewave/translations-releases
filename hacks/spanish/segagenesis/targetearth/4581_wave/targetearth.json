@@ -1,0 +1,19 @@
+{
+  "id" : "4581",
+  "releasedBy" : "Wave",
+  "name" : "Target Earth",
+  "altName" : "Assault Suit Leynos",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Target Earth (U) [!].bin\\r\\nMD5: ae816c5017578267060fd4733586cba7\\r\\nSHA1: e19f7a02f140882e0364f11cd096aec712e56f83\\r\\nCRC32: cddf62d3 524288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\05\\25",
+  "gameDate" : "16 March 1990",
+  "version" : "1.0",
+  "downloads" : "166",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\targetearth\\4581_wave",
+  "imagesFilenames" : [ "targetearth_0.png", "targetearth_1.png", "targetearth_2.png", "targetearth_3.png", "targetearth_4.png" ],
+  "readmeFilename" : "targetearth_readme.txt",
+  "patchFilename" : "targetearth_patch.zip",
+  "notes" : null
+}

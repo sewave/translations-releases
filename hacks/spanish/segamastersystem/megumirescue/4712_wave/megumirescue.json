@@ -1,0 +1,19 @@
+{
+  "id" : "4712",
+  "releasedBy" : "Wave",
+  "name" : "Megumi Rescue",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Megumi Rescue (J) [!].sms\\r\\nMD5: fd834dbb87682c674f7d7ed917355021\\r\\nSHA1: 7bd156cf8dc2ad07c666ac58ccb3c0ff6671b93f\\r\\nCRC32: 29bc7fad 131072 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\06\\13",
+  "gameDate" : "30 July 1988",
+  "version" : "1.0",
+  "downloads" : "89",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\megumirescue\\4712_wave",
+  "imagesFilenames" : [ "megumirescue_0.png", "megumirescue_1.png", "megumirescue_2.png" ],
+  "readmeFilename" : "megumirescue_readme.txt",
+  "patchFilename" : "megumirescue_patch.zip",
+  "notes" : null
+}

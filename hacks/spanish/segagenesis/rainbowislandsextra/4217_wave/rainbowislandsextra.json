@@ -1,0 +1,19 @@
+{
+  "id" : "4217",
+  "releasedBy" : "Wave",
+  "name" : "Rainbow Islands Extra",
+  "altName" : "Rainbow Islands: The Story of Bubble Bobble 2",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Rainbow Islands - The Story of Bubble Bobble 2 (J) [c][!].bin\\r\\nMD5: 30682a233a4afba0b0065d0e98b5c6cc\\r\\nSHA1: e35fcc88e37d1691cd2572967e1ae193fcd303eb\\r\\nCRC32: c74dcb35 524.288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\02\\01",
+  "gameDate" : "05 October 1990",
+  "version" : "1.0",
+  "downloads" : "186",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\rainbowislandsextra\\4217_wave",
+  "imagesFilenames" : [ "rainbowislandsextra_0.png", "rainbowislandsextra_1.png", "rainbowislandsextra_2.png", "rainbowislandsextra_3.png", "rainbowislandsextra_4.png" ],
+  "readmeFilename" : "rainbowislandsextra_readme.txt",
+  "patchFilename" : "rainbowislandsextra_patch.zip",
+  "notes" : null
+}

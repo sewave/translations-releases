@@ -1,0 +1,19 @@
+{
+  "id" : "3949",
+  "releasedBy" : "Wave",
+  "name" : "Tom and Jerry: The Movie",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Tom and Jerry - The Movie (U) [!].gg\\r\\nMD5: c0246eed0c11ebe7a9b144a00ed61df1\\r\\nSHA1: 514f8bc2e9306f4005d5a8aa2dc49304d48bfc82\\r\\nCRC32: 5cd33ff2 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\25",
+  "gameDate" : "July 1993",
+  "version" : "1.0",
+  "downloads" : "78",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\tomandjerrythemovie\\3949_wave",
+  "imagesFilenames" : [ "tomandjerrythemovie_0.png", "tomandjerrythemovie_1.png", "tomandjerrythemovie_2.png", "tomandjerrythemovie_3.png", "tomandjerrythemovie_4.png" ],
+  "readmeFilename" : "tomandjerrythemovie_readme.txt",
+  "patchFilename" : "tomandjerrythemovie_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3629",
+  "releasedBy" : "Wave",
+  "name" : "Tinhead",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Tinhead (U) [!].gen 1.048.576 bytes\\r\\nCRC32: d6724b84\\r\\nMD5: 18763de130d8fa52a8dabbcafa8e7185\\r\\nSHA1: e5acf758e76c95017a6ad50ab0f6ae2db5c9e8bc",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\01",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "243",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\tinhead\\3629_wave",
+  "imagesFilenames" : [ "tinhead_0.png", "tinhead_1.png", "tinhead_2.png", "tinhead_3.png", "tinhead_4.png" ],
+  "readmeFilename" : "tinhead_readme.txt",
+  "patchFilename" : "tinhead_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3188",
+  "releasedBy" : "Wave",
+  "name" : "Castlevania II: Belmont’s Revenge",
+  "altName" : "Dracula Densetsu II",
+  "system" : "Game Boy",
+  "romDesc" : "Castlevania II - Belmont's Revenge (U) [!].gb 131.072 bytes\\r\\nCRC32: 8875c8fe\\r\\nMD5: 7c65e9da405d2225d079f75e56276822\\r\\nSHA1: 696b9ad1e9cfb7112977c9a7c05cf64fe8423d8a",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\09\\04",
+  "gameDate" : "07 December 1991",
+  "version" : "1.0",
+  "downloads" : "487",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\castlevaniaiibelmontsrevenge\\3188_wave",
+  "imagesFilenames" : [ "castlevaniaiibelmontsrevenge_0.png", "castlevaniaiibelmontsrevenge_1.png", "castlevaniaiibelmontsrevenge_2.png", "castlevaniaiibelmontsrevenge_3.png", "castlevaniaiibelmontsrevenge_4.png" ],
+  "readmeFilename" : "castlevaniaiibelmontsrevenge_readme.txt",
+  "patchFilename" : "castlevaniaiibelmontsrevenge_patch.zip",
+  "notes" : null
+}

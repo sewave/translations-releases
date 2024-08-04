@@ -1,0 +1,19 @@
+{
+  "id" : "5284",
+  "releasedBy" : "Wave",
+  "name" : "Champion Ice Hockey",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Champion Ice Hockey (1986) (Pony Cannon) (J).rom\\r\\nMD5: 9626a8b01a0d22173f9980b52e9771d4\\r\\nSHA1: ebb46dd4cf36407ad82d9f50d9bef3e938dc144e\\r\\nCRC32: bf4b018f 32768 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\12\\08",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "27",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\championicehockey\\5284_wave",
+  "imagesFilenames" : [ "championicehockey_0.png", "championicehockey_1.png", "championicehockey_2.png", "championicehockey_3.png", "championicehockey_4.png" ],
+  "readmeFilename" : "championicehockey_readme.txt",
+  "patchFilename" : "championicehockey_patch.zip",
+  "notes" : null
+}

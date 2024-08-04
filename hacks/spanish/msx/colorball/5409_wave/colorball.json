@@ -1,0 +1,19 @@
+{
+  "id" : "5409",
+  "releasedBy" : "Wave",
+  "name" : "Color Ball",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Color Ball (1983) (Hudson) (J).rom\\r\\nMD5: 51d3e2426907224ab2244315cb05132c\\r\\nSHA1: ac391fe51f69e0a55fe3ab66c8ec3f2792dd5d08\\r\\nCRC32: 12552a1f 8192 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2020\\02\\18",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "11",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\colorball\\5409_wave",
+  "imagesFilenames" : [ "colorball_0.png", "colorball_1.png", "colorball_2.png", "colorball_3.png", "colorball_4.png" ],
+  "readmeFilename" : "colorball_readme.txt",
+  "patchFilename" : "colorball_patch.zip",
+  "notes" : null
+}

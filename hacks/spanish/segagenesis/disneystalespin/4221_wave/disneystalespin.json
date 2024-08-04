@@ -1,0 +1,19 @@
+{
+  "id" : "4221",
+  "releasedBy" : "Wave",
+  "name" : "Disney's TaleSpin",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Tale Spin (UE) [!].bin\\r\\nMD5: 2ac0d4208641095358d663b3eb17b397\\r\\nSHA1: 9b6ab86fea23adb3cfba38b893278d856540c8b8\\r\\nCRC32: f5c0c8d0 524.288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\02\\01",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "178",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\disneystalespin\\4221_wave",
+  "imagesFilenames" : [ "disneystalespin_0.png", "disneystalespin_1.png", "disneystalespin_2.png", "disneystalespin_3.png", "disneystalespin_4.png" ],
+  "readmeFilename" : "disneystalespin_readme.txt",
+  "patchFilename" : "disneystalespin_patch.zip",
+  "notes" : null
+}

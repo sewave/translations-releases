@@ -1,0 +1,19 @@
+{
+  "id" : "4319",
+  "releasedBy" : "Wave",
+  "name" : "Castle of Deceit",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Castle of Deceit (Bunch) [!].nes\\r\\nMD5: 5cb37d0e566c5aa2e6445630cc390a62\\r\\nSHA1: 0ddf18b2eb1c9d44829b9eb19d2655a310fecf68\\r\\nCRC32: 02e20d38 131.088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\03\\16",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "125",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\castleofdeceit\\4319_wave",
+  "imagesFilenames" : [ "castleofdeceit_0.png", "castleofdeceit_1.png", "castleofdeceit_2.png", "castleofdeceit_3.png", "castleofdeceit_4.png" ],
+  "readmeFilename" : "castleofdeceit_readme.txt",
+  "patchFilename" : "castleofdeceit_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3310",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon V: The Shadow Falls",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Double Dragon V - The Shadow Falls (U) [!].gen 3.145.728 bytes\\r\\nCRC32: 27e59e35\\r\\nMD5: 0b2d342a98a3436faceaf539cbedf698\\r\\nSHA1: 53402b7c43cd20bf4cbaf40d1ba5062e3823f4bd",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2017\\11\\26",
+  "gameDate" : "01 August 1994",
+  "version" : "1.0",
+  "downloads" : "332",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\doubledragonvtheshadowfalls\\3310_wave",
+  "imagesFilenames" : [ "doubledragonvtheshadowfalls_0.png", "doubledragonvtheshadowfalls_1.png", "doubledragonvtheshadowfalls_2.png", "doubledragonvtheshadowfalls_3.png", "doubledragonvtheshadowfalls_4.png" ],
+  "readmeFilename" : "doubledragonvtheshadowfalls_readme.txt",
+  "patchFilename" : "doubledragonvtheshadowfalls_patch.zip",
+  "notes" : null
+}

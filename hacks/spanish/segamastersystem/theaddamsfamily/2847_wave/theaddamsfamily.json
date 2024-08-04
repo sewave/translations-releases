@@ -1,0 +1,19 @@
+{
+  "id" : "2847",
+  "releasedBy" : "Wave",
+  "name" : "The Addams Family",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Addams Family, The (E) [!].sms 262.144 bytes\\r\\nCRC32: 72420f38\\r\\nMD5: 09202bc26fcf19ebd3ffcbd80e23ed9d\\r\\nSHA1: 3fc6ccc556a1e4eb376f77eef8f16b1ff76a17d0",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\01\\10",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "230",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\theaddamsfamily\\2847_wave",
+  "imagesFilenames" : [ "theaddamsfamily_0.png", "theaddamsfamily_1.png", "theaddamsfamily_2.png", "theaddamsfamily_3.png", "theaddamsfamily_4.png" ],
+  "readmeFilename" : "theaddamsfamily_readme.txt",
+  "patchFilename" : "theaddamsfamily_patch.zip",
+  "notes" : null
+}

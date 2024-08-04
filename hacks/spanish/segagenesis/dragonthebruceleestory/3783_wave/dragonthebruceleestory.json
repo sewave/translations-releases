@@ -1,0 +1,19 @@
+{
+  "id" : "3783",
+  "releasedBy" : "Wave",
+  "name" : "Dragon: The Bruce Lee Story",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Dragon - The Bruce Lee Story (U) [!].bin 2.097.152 bytes\\r\\nMD5: 94ebb9a19bbb7b5749bf07ab3ce8fbb9\\r\\nSHA1: 01b45b9865282124253264c5f2e3d3338858ff92\\r\\nCRC32: efe850e5",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2018\\08\\31",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "217",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\dragonthebruceleestory\\3783_wave",
+  "imagesFilenames" : [ "dragonthebruceleestory_0.png", "dragonthebruceleestory_1.png", "dragonthebruceleestory_2.png", "dragonthebruceleestory_3.png", "dragonthebruceleestory_4.png" ],
+  "readmeFilename" : "dragonthebruceleestory_readme.txt",
+  "patchFilename" : "dragonthebruceleestory_patch.zip",
+  "notes" : null
+}

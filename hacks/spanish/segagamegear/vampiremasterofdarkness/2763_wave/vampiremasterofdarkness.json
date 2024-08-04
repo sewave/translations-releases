@@ -1,0 +1,19 @@
+{
+  "id" : "2763",
+  "releasedBy" : "Wave",
+  "name" : "Vampire: Master of Darkness",
+  "altName" : "In the Wake of Vampire Master of Darkness",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Vampire - Master of Darkness (U) [!].gg 262.144 bytes\\r\\nCRC32: 7ec64025\\r\\nMD5: 1e068538747f6d4d99888221a50b7e06\\r\\nSHA1: 14e6b1e886355d902b34acdf503eced8df88afe4",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\09\\17",
+  "gameDate" : "23 October 1992",
+  "version" : "1.3",
+  "downloads" : "247",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\vampiremasterofdarkness\\2763_wave",
+  "imagesFilenames" : [ "vampiremasterofdarkness_0.png", "vampiremasterofdarkness_1.png", "vampiremasterofdarkness_2.png", "vampiremasterofdarkness_3.png", "vampiremasterofdarkness_4.png" ],
+  "readmeFilename" : "vampiremasterofdarkness_readme.txt",
+  "patchFilename" : "vampiremasterofdarkness_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4899",
+  "releasedBy" : "Wave",
+  "name" : "James Bond 007: The Duel",
+  "altName" : "007 Shitou",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "James Bond 007 - The Duel (UE) [!].gen\\r\\nMD5: b81db9e2ae0f50bfc484e03a2caac95c\\r\\nSHA1: e880bfad98d0e6f9b73db63ea85fb0a103b0e1e7\\r\\nCRC32: 291a3e4b 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\08\\02",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "120",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\jamesbond007theduel\\4899_wave",
+  "imagesFilenames" : [ "jamesbond007theduel_0.png", "jamesbond007theduel_1.png", "jamesbond007theduel_2.png", "jamesbond007theduel_3.png", "jamesbond007theduel_4.png" ],
+  "readmeFilename" : "jamesbond007theduel_readme.txt",
+  "patchFilename" : "jamesbond007theduel_patch.zip",
+  "notes" : null
+}

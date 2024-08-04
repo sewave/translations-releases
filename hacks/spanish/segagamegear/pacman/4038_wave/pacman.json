@@ -1,0 +1,19 @@
+{
+  "id" : "4038",
+  "releasedBy" : "Wave",
+  "name" : "Pac-Man",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Pac-Man (USA, Europe).gg\\r\\nMD5: e6985998d25d6c4fe36c2b8041244bb4\\r\\nSHA1: d78b6aac927692f1b67e6a4b7494e2c7e709ae17\\r\\nCRC32: a16c5e58 131.072 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\11\\27",
+  "gameDate" : "29 January 1991",
+  "version" : "1.0",
+  "downloads" : "79",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\pacman\\4038_wave",
+  "imagesFilenames" : [ "pacman_0.png", "pacman_1.png", "pacman_2.png", "pacman_3.png", "pacman_4.png" ],
+  "readmeFilename" : "pacman_readme.txt",
+  "patchFilename" : "pacman_patch.zip",
+  "notes" : null
+}

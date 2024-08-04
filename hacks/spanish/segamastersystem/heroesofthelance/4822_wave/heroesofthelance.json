@@ -1,0 +1,19 @@
+{
+  "id" : "4822",
+  "releasedBy" : "Wave",
+  "name" : "Heroes of the Lance",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Heroes of the Lance (U) [!].sms\\r\\nMD5: 1dcacb5969fb4a0d4e9c7fec67227cce\\r\\nSHA1: 16b2219a1493c06d18c973fc550ea563c3116207\\r\\nCRC32: cde13ffb 524288 bytes",
+  "genre" : "Rol / Acción",
+  "releaseDate" : "2019\\07\\15",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "108",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\heroesofthelance\\4822_wave",
+  "imagesFilenames" : [ "heroesofthelance_0.png", "heroesofthelance_1.png", "heroesofthelance_2.png", "heroesofthelance_3.png", "heroesofthelance_4.png" ],
+  "readmeFilename" : "heroesofthelance_readme.txt",
+  "patchFilename" : "heroesofthelance_patch.zip",
+  "notes" : null
+}

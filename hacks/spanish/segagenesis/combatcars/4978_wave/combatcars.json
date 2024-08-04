@@ -1,0 +1,19 @@
+{
+  "id" : "4978",
+  "releasedBy" : "Wave",
+  "name" : "Combat Cars",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Combat Cars (UE) [!].bin\\r\\nMD5: d951bf2f27fcfd5641261f82dc3c7c47\\r\\nSHA1: 0c7ca93b412c8ab5753ae047de49a3e41271cc3b\\r\\nCRC32: e439b101 1048576 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\09\\06",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "100",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\combatcars\\4978_wave",
+  "imagesFilenames" : [ "combatcars_0.png", "combatcars_1.png", "combatcars_2.png", "combatcars_3.png", "combatcars_4.png" ],
+  "readmeFilename" : "combatcars_readme.txt",
+  "patchFilename" : "combatcars_patch.zip",
+  "notes" : null
+}

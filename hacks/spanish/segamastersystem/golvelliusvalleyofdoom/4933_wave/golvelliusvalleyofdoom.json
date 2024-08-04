@@ -1,0 +1,19 @@
+{
+  "id" : "4933",
+  "releasedBy" : "Wave",
+  "name" : "Golvellius: Valley of Doom",
+  "altName" : "Maou Golvellius",
+  "system" : "Sega Master System",
+  "romDesc" : "Golvellius - Valley of Doom (UE) [!].sms\\r\\nMD5: 2101295c258cb6b845bdb72be617691d\\r\\nSHA1: cb8c2de9a8e91c0e4e60e5d4d9958e671d84da4c\\r\\nCRC32: a51376fe 262144 bytes",
+  "genre" : "Rol / Acción",
+  "releaseDate" : "2019\\08\\17",
+  "gameDate" : "14 August 1988",
+  "version" : "1.0",
+  "downloads" : "150",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\golvelliusvalleyofdoom\\4933_wave",
+  "imagesFilenames" : [ "golvelliusvalleyofdoom_0.png", "golvelliusvalleyofdoom_1.png", "golvelliusvalleyofdoom_2.png", "golvelliusvalleyofdoom_3.png", "golvelliusvalleyofdoom_4.png" ],
+  "readmeFilename" : "golvelliusvalleyofdoom_readme.txt",
+  "patchFilename" : "golvelliusvalleyofdoom_patch.zip",
+  "notes" : null
+}

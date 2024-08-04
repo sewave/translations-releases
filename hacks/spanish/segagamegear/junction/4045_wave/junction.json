@@ -1,0 +1,19 @@
+{
+  "id" : "4045",
+  "releasedBy" : "Wave",
+  "name" : "Junction",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Junction (U).gg\\r\\nMD5: 7dd2ef762d2284a0e551447a9ee11458\\r\\nSHA1: 70cac7959d29903ad22316e9f5edf60834381d27\\r\\nCRC32: a8ef36a7 131.072 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2018\\12\\01",
+  "gameDate" : "24 February 1991",
+  "version" : "1.0",
+  "downloads" : "61",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\junction\\4045_wave",
+  "imagesFilenames" : [ "junction_0.png", "junction_1.png", "junction_2.png", "junction_3.png", "junction_4.png" ],
+  "readmeFilename" : "junction_readme.txt",
+  "patchFilename" : "junction_patch.zip",
+  "notes" : null
+}

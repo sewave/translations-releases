@@ -1,0 +1,19 @@
+{
+  "id" : "4209",
+  "releasedBy" : "Wave",
+  "name" : "Ice Climber",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Ice Climber (U) [!].nes\\r\\nMD5: d35f9979f206897df94fb5425e23fc85\\r\\nSHA1: 09d97003bf9d676f24a75cf3e1dced28cda3be59\\r\\nCRC32: 70044a74 24.592 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\01\\27",
+  "gameDate" : "30 January 1985",
+  "version" : "1.0",
+  "downloads" : "278",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\iceclimber\\4209_wave",
+  "imagesFilenames" : [ "iceclimber_0.png", "iceclimber_1.png", "iceclimber_2.png", "iceclimber_3.png", "iceclimber_4.png" ],
+  "readmeFilename" : "iceclimber_readme.txt",
+  "patchFilename" : "iceclimber_patch.zip",
+  "notes" : null
+}

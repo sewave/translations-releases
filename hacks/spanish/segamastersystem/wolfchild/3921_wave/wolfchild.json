@@ -1,0 +1,19 @@
+{
+  "id" : "3921",
+  "releasedBy" : "Wave",
+  "name" : "Wolfchild",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Wolf Child (UE) [!].sms\\r\\nMD5: 08eb9bf02f5eb4e238f791f27d65449a\\r\\nSHA1: 92873f8d7b81a57114b135a2dfffc58d45643703\\r\\nCRC32: 1f8efa1d 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\11",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "102",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\wolfchild\\3921_wave",
+  "imagesFilenames" : [ "wolfchild_0.png", "wolfchild_1.png", "wolfchild_2.png", "wolfchild_3.png", "wolfchild_4.png" ],
+  "readmeFilename" : "wolfchild_readme.txt",
+  "patchFilename" : "wolfchild_patch.zip",
+  "notes" : null
+}

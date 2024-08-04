@@ -1,0 +1,19 @@
+{
+  "id" : "3999",
+  "releasedBy" : "Wave",
+  "name" : "Ms. Pac-man",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Ms. Pac-man (E) [!].sms\\r\\nMD5: e492a237f62ea6a5b7e71ff1a3fc0f33\\r\\nSHA1: 4dd7cb303793792edd9a4c717a727f46db857dae\\r\\nCRC32: 3cd816c6 131.072 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\11\\12",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "103",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\mspacman\\3999_wave",
+  "imagesFilenames" : [ "mspacman_0.png", "mspacman_1.png", "mspacman_2.png", "mspacman_3.png", "mspacman_4.png" ],
+  "readmeFilename" : "mspacman_readme.txt",
+  "patchFilename" : "mspacman_patch.zip",
+  "notes" : null
+}

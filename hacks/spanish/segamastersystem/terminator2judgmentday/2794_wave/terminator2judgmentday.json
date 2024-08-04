@@ -1,0 +1,19 @@
+{
+  "id" : "2794",
+  "releasedBy" : "Wave",
+  "name" : "Terminator 2: Judgment Day",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Terminator 2 - Judgment Day (E) [!].sms 262.144 bytes\\r\\nCRC32: ac56104f\\r\\nMD5: cc2454eebbbfab7ba99851a923dfdaaf\\r\\nSHA1: a8fe50e27fa9d44f3bd05d249a964352a32d1799",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2016\\11\\19",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "257",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\terminator2judgmentday\\2794_wave",
+  "imagesFilenames" : [ "terminator2judgmentday_0.png", "terminator2judgmentday_1.png", "terminator2judgmentday_2.png", "terminator2judgmentday_3.png", "terminator2judgmentday_4.png" ],
+  "readmeFilename" : "terminator2judgmentday_readme.txt",
+  "patchFilename" : "terminator2judgmentday_patch.zip",
+  "notes" : null
+}

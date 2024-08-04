@@ -1,0 +1,19 @@
+{
+  "id" : "3181",
+  "releasedBy" : "Wave",
+  "name" : "Juuouki",
+  "altName" : "Altered Beast",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Juuouki (J) [!].nes 262.160 bytes\\r\\nCRC32: 4de1c214\\r\\nMD5: 3cf0e744813aeb6b19460d4f82fc832b\\r\\nSHA1: dbdbb9cc04feaaa8cea5998a3be52adac910bce8",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\08\\27",
+  "gameDate" : "20 July 1990",
+  "version" : "1.0",
+  "downloads" : "269",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\juuouki\\3181_wave",
+  "imagesFilenames" : [ "juuouki_0.png", "juuouki_1.png", "juuouki_2.png", "juuouki_3.png", "juuouki_4.png" ],
+  "readmeFilename" : "juuouki_readme.txt",
+  "patchFilename" : "juuouki_patch.zip",
+  "notes" : null
+}

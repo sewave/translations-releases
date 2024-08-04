@@ -1,0 +1,19 @@
+{
+  "id" : "3091",
+  "releasedBy" : "Wave",
+  "name" : "Twin Cobra",
+  "altName" : "Kyuukyoku Tiger",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Twin Cobra (U) [!].nes 262.160 bytes\\r\\nCRC32: 24643875\\r\\nMD5: 71109c1c36462be5b1f42467070c268c\\r\\nSHA1: 029ec13b5ce19b1566a93467b4227cbeb411edee",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\06\\26",
+  "gameDate" : "04 August 1989",
+  "version" : "1.0",
+  "downloads" : "240",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\twincobra\\3091_wave",
+  "imagesFilenames" : [ "twincobra_0.png", "twincobra_1.png", "twincobra_2.png", "twincobra_3.png" ],
+  "readmeFilename" : "twincobra_readme.txt",
+  "patchFilename" : "twincobra_patch.zip",
+  "notes" : null
+}

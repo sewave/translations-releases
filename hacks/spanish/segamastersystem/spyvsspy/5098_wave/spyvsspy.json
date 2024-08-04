@@ -1,0 +1,19 @@
+{
+  "id" : "5098",
+  "releasedBy" : "Wave",
+  "name" : "Spy vs. Spy",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Spy vs. Spy (UE) [!].sms\\r\\nMD5: c6adc5db40d0db75c9c167e4bb2ed918\\r\\nSHA1: feab16dd8b807b88395e91c67e9ff52f8f7aa7e4\\r\\nCRC32: 78d7faab 32768 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\10\\21",
+  "gameDate" : "20 September 1986",
+  "version" : "1.0",
+  "downloads" : "56",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\spyvsspy\\5098_wave",
+  "imagesFilenames" : [ "spyvsspy_0.png", "spyvsspy_1.png", "spyvsspy_2.png", "spyvsspy_3.png", "spyvsspy_4.png" ],
+  "readmeFilename" : "spyvsspy_readme.txt",
+  "patchFilename" : "spyvsspy_patch.zip",
+  "notes" : null
+}

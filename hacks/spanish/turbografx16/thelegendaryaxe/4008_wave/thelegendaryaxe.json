@@ -1,0 +1,19 @@
+{
+  "id" : "4008",
+  "releasedBy" : "Wave",
+  "name" : "The Legendary Axe",
+  "altName" : "Makyou Densetsu",
+  "system" : "PC Engine",
+  "romDesc" : "Legendary Axe, The (USA).pce\\r\\nMD5: f69b506237ce7d05e7f839d2cc96ab5a\\r\\nSHA1: fc9829a802e400a088652b331e8522472f7ab2a0\\r\\nCRC32: 2d211007 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\16",
+  "gameDate" : "23 September 1988",
+  "version" : "1.0",
+  "downloads" : "142",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\thelegendaryaxe\\4008_wave",
+  "imagesFilenames" : [ "thelegendaryaxe_0.png", "thelegendaryaxe_1.png", "thelegendaryaxe_2.png", "thelegendaryaxe_3.png", "thelegendaryaxe_4.png" ],
+  "readmeFilename" : "thelegendaryaxe_readme.txt",
+  "patchFilename" : "thelegendaryaxe_patch.zip",
+  "notes" : null
+}

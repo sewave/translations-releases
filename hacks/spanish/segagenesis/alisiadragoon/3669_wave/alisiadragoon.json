@@ -1,0 +1,19 @@
+{
+  "id" : "3669",
+  "releasedBy" : "Wave",
+  "name" : "Alisia Dragoon",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Alisia Dragoon (U) [!].bin 1.048.576 bytes\\r\\nCRC32: d28d5c40\\r\\nMD5: 77be06102101759f30b416d80872c8da\\r\\nSHA1: 69bf7a9ebcb851e0d571f93b26d785ca87621b01",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\30",
+  "gameDate" : "23 April 1992",
+  "version" : "1.0",
+  "downloads" : "545",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\alisiadragoon\\3669_wave",
+  "imagesFilenames" : [ "alisiadragoon_0.png", "alisiadragoon_1.png", "alisiadragoon_2.png", "alisiadragoon_3.png", "alisiadragoon_4.png" ],
+  "readmeFilename" : "alisiadragoon_readme.txt",
+  "patchFilename" : "alisiadragoon_patch.zip",
+  "notes" : null
+}

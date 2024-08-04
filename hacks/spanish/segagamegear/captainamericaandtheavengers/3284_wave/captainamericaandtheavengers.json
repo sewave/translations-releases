@@ -1,0 +1,19 @@
+{
+  "id" : "3284",
+  "releasedBy" : "Wave",
+  "name" : "Captain America and the Avengers",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Captain America and the Avengers (U) [!].gg 262.144 bytes\\r\\nCRC32: 5675dfdd\\r\\nMD5: dfb20211ef127b605849abfd85300afc\\r\\nSHA1: 4b859174d57cc4a5a575f8aa9547a83d08e6c117",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\11\\12",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "142",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\captainamericaandtheavengers\\3284_wave",
+  "imagesFilenames" : [ "captainamericaandtheavengers_0.png", "captainamericaandtheavengers_1.png", "captainamericaandtheavengers_2.png", "captainamericaandtheavengers_3.png", "captainamericaandtheavengers_4.png" ],
+  "readmeFilename" : "captainamericaandtheavengers_readme.txt",
+  "patchFilename" : "captainamericaandtheavengers_patch.zip",
+  "notes" : null
+}

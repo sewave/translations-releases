@@ -1,0 +1,19 @@
+{
+  "id" : "4841",
+  "releasedBy" : "Wave",
+  "name" : "Bubble and Squeak",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Bubble and Squeak (U) [!].bin\\r\\nMD5: 316c4eec04d89235978d17d06da33bba\\r\\nSHA1: 0457b0220c86f58d8249cbd5987f63c5439d460c\\r\\nCRC32: 28c4a006 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\07\\18",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "125",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\bubbleandsqueak\\4841_wave",
+  "imagesFilenames" : [ "bubbleandsqueak_0.png", "bubbleandsqueak_1.png", "bubbleandsqueak_2.png", "bubbleandsqueak_3.png", "bubbleandsqueak_4.png" ],
+  "readmeFilename" : "bubbleandsqueak_readme.txt",
+  "patchFilename" : "bubbleandsqueak_patch.zip",
+  "notes" : null
+}

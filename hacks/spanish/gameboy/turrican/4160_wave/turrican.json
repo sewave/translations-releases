@@ -1,0 +1,19 @@
+{
+  "id" : "4160",
+  "releasedBy" : "Wave",
+  "name" : "Turrican",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Turrican (UE) [!].gb\\r\\nMD5: 6534eff4dff0000f66a0059f0b84e71e\\r\\nSHA1: 3023b2b831be9fe7db62857f1b353700a1c31c75\\r\\nCRC32: 2359bf0c 131.072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\01\\08",
+  "gameDate" : "November 1991",
+  "version" : "1.0",
+  "downloads" : "80",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\turrican\\4160_wave",
+  "imagesFilenames" : [ "turrican_0.png", "turrican_1.png", "turrican_2.png", "turrican_3.png", "turrican_4.png" ],
+  "readmeFilename" : "turrican_readme.txt",
+  "patchFilename" : "turrican_patch.zip",
+  "notes" : null
+}

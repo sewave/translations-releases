@@ -1,0 +1,19 @@
+{
+  "id" : "4202",
+  "releasedBy" : "Wave",
+  "name" : "Adventures of Lolo 2",
+  "altName" : "Adventures of Lolo",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Adventures of Lolo 2 (U) [!].nes\\r\\nMD5: 0f8eac497adc07858685b8e84e59a56b\\r\\nSHA1: 47d217722bc2375163ebb4b0821dd6eb3acb38ff\\r\\nCRC32: 862ab1e5 65.552 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\01\\27",
+  "gameDate" : "06 January 1990",
+  "version" : "1.0",
+  "downloads" : "193",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\adventuresoflolo2\\4202_wave",
+  "imagesFilenames" : [ "adventuresoflolo2_0.png", "adventuresoflolo2_1.png", "adventuresoflolo2_2.png", "adventuresoflolo2_3.png", "adventuresoflolo2_4.png" ],
+  "readmeFilename" : "adventuresoflolo2_readme.txt",
+  "patchFilename" : "adventuresoflolo2_patch.zip",
+  "notes" : null
+}

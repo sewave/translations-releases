@@ -1,0 +1,19 @@
+{
+  "id" : "4205",
+  "releasedBy" : "Wave",
+  "name" : "Battleship",
+  "altName" : "Kaisen Game: Navy Blue",
+  "system" : "Game Boy",
+  "romDesc" : "Battleship (U) [M][!].gb\\r\\nMD5: d4f7ade01af0818a79bc809cf96118bb\\r\\nSHA1: d3efb4afebcf94b191a66797a6bae2c90ba92c6a\\r\\nCRC32: fef62da5 65.536 bytes",
+  "genre" : "Estrategia por Turnos",
+  "releaseDate" : "2019\\01\\27",
+  "gameDate" : "22 December 1992",
+  "version" : "1.0",
+  "downloads" : "76",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\battleship\\4205_wave",
+  "imagesFilenames" : [ "battleship_0.png", "battleship_1.png", "battleship_2.png", "battleship_3.png", "battleship_4.png" ],
+  "readmeFilename" : "battleship_readme.txt",
+  "patchFilename" : "battleship_patch.zip",
+  "notes" : null
+}

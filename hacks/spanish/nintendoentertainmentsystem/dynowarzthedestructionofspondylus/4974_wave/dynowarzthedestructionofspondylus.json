@@ -1,0 +1,19 @@
+{
+  "id" : "4974",
+  "releasedBy" : "Wave",
+  "name" : "Dynowarz: The Destruction of Spondylus",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Dynowarz - The Destruction of Spondylus (U) [!].nes\\r\\nMD5: 7846fdd087d7d8705eab634087bba3bc\\r\\nSHA1: 8a43530dac34a78b052c7702577bea91ea59cfee\\r\\nCRC32: d05a18b7 262160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\09\\06",
+  "gameDate" : "April 1990",
+  "version" : "1.0",
+  "downloads" : "79",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\dynowarzthedestructionofspondylus\\4974_wave",
+  "imagesFilenames" : [ "dynowarzthedestructionofspondylus_0.png", "dynowarzthedestructionofspondylus_1.png", "dynowarzthedestructionofspondylus_2.png", "dynowarzthedestructionofspondylus_3.png", "dynowarzthedestructionofspondylus_4.png" ],
+  "readmeFilename" : "dynowarzthedestructionofspondylus_readme.txt",
+  "patchFilename" : "dynowarzthedestructionofspondylus_patch.zip",
+  "notes" : null
+}

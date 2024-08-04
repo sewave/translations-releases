@@ -1,0 +1,19 @@
+{
+  "id" : "2784",
+  "releasedBy" : "Wave",
+  "name" : "Hook",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Hook (U) [!].nes 262.160 bytes\\r\\nCRC32: b5902c20\\r\\nMD5: 673d873d0879ec4a1b003dd7899e6dab\\r\\nSHA1: 37efdb13a6088bf770c14bc3562ede7a7975599f",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\11\\11",
+  "gameDate" : "27 March 1992",
+  "version" : "1.0",
+  "downloads" : "316",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\hook\\2784_wave",
+  "imagesFilenames" : [ "hook_0.png", "hook_1.png", "hook_2.png", "hook_3.png", "hook_4.png" ],
+  "readmeFilename" : "hook_readme.txt",
+  "patchFilename" : "hook_patch.zip",
+  "notes" : null
+}

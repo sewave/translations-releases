@@ -1,0 +1,19 @@
+{
+  "id" : "4191",
+  "releasedBy" : "Wave",
+  "name" : "Gulkave",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Gulkave (SG-1000) [!].sg\\r\\nMD5: 43c23a134aec3ab424405780ff729d54\\r\\nSHA1: 3fb197d16b25bc128a2866c4b78b0535ab8dc412\\r\\nCRC32: 15a754a3 32.768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\16",
+  "gameDate" : "1986",
+  "version" : "1.1",
+  "downloads" : "63",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\gulkave\\4191_wave",
+  "imagesFilenames" : [ "gulkave_0.png", "gulkave_1.png", "gulkave_2.png", "gulkave_3.png", "gulkave_4.png" ],
+  "readmeFilename" : "gulkave_readme.txt",
+  "patchFilename" : "gulkave_patch.zip",
+  "notes" : null
+}

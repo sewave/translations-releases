@@ -1,0 +1,19 @@
+{
+  "id" : "5022",
+  "releasedBy" : "Wave",
+  "name" : "Disney's The Little Mermaid",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Little Mermaid, The (U) [!].gb\\r\\nMD5: a4dee5de1b4c3d9083f307d910fa0c3f\\r\\nSHA1: 9c7d7a82d0eeb4d7b4f4b7ae35e5ebd80c93d780\\r\\nCRC32: d7c517e5 131072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\09\\20",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "61",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\disneysthelittlemermaid\\5022_wave",
+  "imagesFilenames" : [ "disneysthelittlemermaid_0.png", "disneysthelittlemermaid_1.png", "disneysthelittlemermaid_2.png", "disneysthelittlemermaid_3.png", "disneysthelittlemermaid_4.png" ],
+  "readmeFilename" : "disneysthelittlemermaid_readme.txt",
+  "patchFilename" : "disneysthelittlemermaid_patch.zip",
+  "notes" : null
+}

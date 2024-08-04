@@ -1,0 +1,19 @@
+{
+  "id" : "3370",
+  "releasedBy" : "Wave",
+  "name" : "Ristar",
+  "altName" : "Ristar: The Shooting Star",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Ristar (UE) [!].gen 2.097.152 bytes\\r\\nCRC32: 6511aa61\\r\\nMD5: ecf9d0bac130fed7b6a54a67d7b27df7\\r\\nSHA1: 1d15ff596dd4f3b2c1212a2e0c6e2b72f62c001e",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\12\\29",
+  "gameDate" : "16 February 1995",
+  "version" : "1.0",
+  "downloads" : "609",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\ristar\\3370_wave",
+  "imagesFilenames" : [ "ristar_0.png", "ristar_1.png", "ristar_2.png", "ristar_3.png", "ristar_4.png" ],
+  "readmeFilename" : "ristar_readme.txt",
+  "patchFilename" : "ristar_patch.zip",
+  "notes" : null
+}

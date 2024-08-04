@@ -1,0 +1,19 @@
+{
+  "id" : "3745",
+  "releasedBy" : "Wave",
+  "name" : "Running Battle",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Running Battle (E) [!].sms 262.144 bytes\\r\\nMD5: c32c95222ce705c0c93732a8922f7453\\r\\nSHA1: 8f680b3a9782304a2f879f6590dc78ea4e366163\\r\\nCRC32: 1fdae719",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\08\\10",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "138",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\runningbattle\\3745_wave",
+  "imagesFilenames" : [ "runningbattle_0.png", "runningbattle_1.png", "runningbattle_2.png", "runningbattle_3.png", "runningbattle_4.png" ],
+  "readmeFilename" : "runningbattle_readme.txt",
+  "patchFilename" : "runningbattle_patch.zip",
+  "notes" : null
+}

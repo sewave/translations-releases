@@ -1,0 +1,19 @@
+{
+  "id" : "2719",
+  "releasedBy" : "Wave",
+  "name" : "Werewolf: The Last Warrior",
+  "altName" : "Chou Jinrou Senki Warwolf Warwolf Chronicles",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Werewolf - The Last Warrior (U) [!].nes 262.160 bytes\\r\\nCRC32: 19af4032\\r\\nMD5: 19ad8f9c1e6ac449e3ac82e33bda7b2f\\r\\nSHA1: 8580b3deeddfa75c12dfe2f6cab8d062e52fdb34",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\09\\11",
+  "gameDate" : "November 1990",
+  "version" : "1.0",
+  "downloads" : "388",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\werewolfthelastwarrior\\2719_wave",
+  "imagesFilenames" : [ "werewolfthelastwarrior_0.png", "werewolfthelastwarrior_1.png", "werewolfthelastwarrior_2.png", "werewolfthelastwarrior_3.png", "werewolfthelastwarrior_4.png" ],
+  "readmeFilename" : "werewolfthelastwarrior_readme.txt",
+  "patchFilename" : "werewolfthelastwarrior_patch.zip",
+  "notes" : null
+}

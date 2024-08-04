@@ -1,0 +1,19 @@
+{
+  "id" : "5191",
+  "releasedBy" : "Wave",
+  "name" : "Konami's Ping Pong",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "konami's ping pong (1985) (konami) (j).rom\\r\\nMD5: 9352eca87ee56a2e1e5db813fd686b91\\r\\nSHA1: ae5b8e69732a23aee102bcd996ad06225f1b3eba\\r\\nCRC32: 3f200491 16384 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\11\\12",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "34",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\konamispingpong\\5191_wave",
+  "imagesFilenames" : [ "konamispingpong_0.png", "konamispingpong_1.png", "konamispingpong_2.png", "konamispingpong_3.png", "konamispingpong_4.png" ],
+  "readmeFilename" : "konamispingpong_readme.txt",
+  "patchFilename" : "konamispingpong_patch.zip",
+  "notes" : null
+}

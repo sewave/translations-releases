@@ -1,0 +1,19 @@
+{
+  "id" : "2742",
+  "releasedBy" : "Wave",
+  "name" : "Danan the Jungle Fighter",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Danan the Jungle Fighter (E) [!].sms 262.144 bytes\\r\\nCRC32: ae4a28d7\\r\\nMD5: 6b0fc60aa886c060bf1a16ea97b4f441\\r\\nSHA1: c99f2562117a2bf7100a3992608e9a2bcb50df35",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\10\\06",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "312",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\dananthejunglefighter\\2742_wave",
+  "imagesFilenames" : [ "dananthejunglefighter_0.png", "dananthejunglefighter_1.png", "dananthejunglefighter_2.png", "dananthejunglefighter_3.png", "dananthejunglefighter_4.png" ],
+  "readmeFilename" : "dananthejunglefighter_readme.txt",
+  "patchFilename" : "dananthejunglefighter_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "2925",
+  "releasedBy" : "Wave",
+  "name" : "Time Diver: Eon Man",
+  "altName" : "Time Diver: Avenger",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Time Diver Eon Man (U) (Prototype).nes 262.160 bytes\\r\\nCRC32: 9562d0d5\\r\\nMD5: 7746ff8a57b5c906a8be46f40e2a417b\\r\\nSHA1: eec46b641b8ec301857bb088a45112784d002b7b",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\03\\20",
+  "gameDate" : "Unreleased",
+  "version" : "1.0",
+  "downloads" : "354",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\timedivereonman\\2925_wave",
+  "imagesFilenames" : [ "timedivereonman_0.png", "timedivereonman_1.png", "timedivereonman_2.png", "timedivereonman_3.png", "timedivereonman_4.png" ],
+  "readmeFilename" : "timedivereonman_readme.txt",
+  "patchFilename" : "timedivereonman_patch.zip",
+  "notes" : null
+}

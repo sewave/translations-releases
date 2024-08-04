@@ -1,0 +1,19 @@
+{
+  "id" : "4979",
+  "releasedBy" : "Wave",
+  "name" : "Die Hard",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Die Hard (U) [!].nes\\r\\nMD5: c6f5c88bcb6f974828c3af013fe57bdc\\r\\nSHA1: 47d52828efaf573f4f4675f0571a603ba8fcf7e3\\r\\nCRC32: 65eec6e7 262160 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2019\\09\\10",
+  "gameDate" : "19 July 1991",
+  "version" : "1.1",
+  "downloads" : "269",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\diehard\\4979_wave",
+  "imagesFilenames" : [ "diehard_0.png", "diehard_1.png", "diehard_2.png", "diehard_3.png", "diehard_4.png" ],
+  "readmeFilename" : "diehard_readme.txt",
+  "patchFilename" : "diehard_patch.zip",
+  "notes" : null
+}

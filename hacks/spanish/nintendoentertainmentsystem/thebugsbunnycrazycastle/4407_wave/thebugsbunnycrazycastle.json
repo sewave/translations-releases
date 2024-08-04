@@ -1,0 +1,19 @@
+{
+  "id" : "4407",
+  "releasedBy" : "Wave",
+  "name" : "The Bugs Bunny Crazy Castle",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Bugs Bunny Crazy Castle, The (U) [!].nes\\r\\nMD5: 9ae4058cced0d2514a169eca3311e5d0\\r\\nSHA1: 3769f52f919019098c4dd3ce81e029a015e720dd\\r\\nCRC32: db0c3656 98.320 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\04\\16",
+  "gameDate" : "August 1989",
+  "version" : "1.0",
+  "downloads" : "113",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\thebugsbunnycrazycastle\\4407_wave",
+  "imagesFilenames" : [ "thebugsbunnycrazycastle_0.png", "thebugsbunnycrazycastle_1.png", "thebugsbunnycrazycastle_2.png", "thebugsbunnycrazycastle_3.png", "thebugsbunnycrazycastle_4.png" ],
+  "readmeFilename" : "thebugsbunnycrazycastle_readme.txt",
+  "patchFilename" : "thebugsbunnycrazycastle_patch.zip",
+  "notes" : null
+}

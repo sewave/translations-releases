@@ -1,0 +1,19 @@
+{
+  "id" : "3574",
+  "releasedBy" : "Wave",
+  "name" : "The Addams Family",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Addams Family, The (U) [!].smc 1.048.576 bytes\\r\\nCRC32: 2e8034ab\\r\\nMD5: 278a88adb028a8e4c279b9b468b592ed\\r\\nSHA1: 3f6863985a8c6cfad71867c2349aa0ac79cb1274",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\03",
+  "gameDate" : "March 1992",
+  "version" : "1.0",
+  "downloads" : "281",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\theaddamsfamily\\3574_wave",
+  "imagesFilenames" : [ "theaddamsfamily_0.png", "theaddamsfamily_1.png", "theaddamsfamily_2.png", "theaddamsfamily_3.png", "theaddamsfamily_4.png" ],
+  "readmeFilename" : "theaddamsfamily_readme.txt",
+  "patchFilename" : "theaddamsfamily_patch.zip",
+  "notes" : null
+}

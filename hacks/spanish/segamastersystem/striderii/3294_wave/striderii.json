@@ -1,0 +1,19 @@
+{
+  "id" : "3294",
+  "releasedBy" : "Wave",
+  "name" : "Strider II",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Strider II (UE) [!].sms 262.144 bytes\\r\\nCRC32: b8f0915a\\r\\nMD5: 8336c9a48390889fb3e17cd6f9471ae1\\r\\nSHA1: f9d58bd9a5a99f2fd26fb411b0783fcd220249a4",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\11\\18",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "189",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\striderii\\3294_wave",
+  "imagesFilenames" : [ "striderii_0.png", "striderii_1.png", "striderii_2.png", "striderii_3.png", "striderii_4.png" ],
+  "readmeFilename" : "striderii_readme.txt",
+  "patchFilename" : "striderii_patch.zip",
+  "notes" : null
+}

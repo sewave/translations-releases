@@ -1,0 +1,19 @@
+{
+  "id" : "5361",
+  "releasedBy" : "Wave",
+  "name" : "Mr. Chin's Gourmet Paradise",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Mr. Chin's Gourmet Paradise (U) [!].gb\\r\\nMD5: 1efbb42c4db24e5e42e778d969ba1f5d\\r\\nSHA1: 1b510734463a5095fa94786fc233b57587ee402d\\r\\nCRC32: d03e59aa 65536 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\01\\28",
+  "gameDate" : "October 1990",
+  "version" : "1.0",
+  "downloads" : "43",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\mrchinsgourmetparadise\\5361_wave",
+  "imagesFilenames" : [ "mrchinsgourmetparadise_0.png", "mrchinsgourmetparadise_1.png", "mrchinsgourmetparadise_2.png", "mrchinsgourmetparadise_3.png", "mrchinsgourmetparadise_4.png" ],
+  "readmeFilename" : "mrchinsgourmetparadise_readme.txt",
+  "patchFilename" : "mrchinsgourmetparadise_patch.zip",
+  "notes" : null
+}

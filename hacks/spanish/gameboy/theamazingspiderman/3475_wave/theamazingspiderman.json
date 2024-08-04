@@ -1,0 +1,19 @@
+{
+  "id" : "3475",
+  "releasedBy" : "Wave",
+  "name" : "The Amazing Spider-Man",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Amazing Spider-Man, The (UE) [!].gb 65.536 bytes\\r\\nCRC32: 2a4eafe4\\r\\nMD5: 4a967a8f1dd6f627e8b72950739c26d4\\r\\nSHA1: 0effb4580efeaa323174a960bfd521fa28a18959",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\03\\09",
+  "gameDate" : "July 1990",
+  "version" : "1.0",
+  "downloads" : "154",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\theamazingspiderman\\3475_wave",
+  "imagesFilenames" : [ "theamazingspiderman_0.png", "theamazingspiderman_1.png", "theamazingspiderman_2.png", "theamazingspiderman_3.png", "theamazingspiderman_4.png" ],
+  "readmeFilename" : "theamazingspiderman_readme.txt",
+  "patchFilename" : "theamazingspiderman_patch.zip",
+  "notes" : null
+}

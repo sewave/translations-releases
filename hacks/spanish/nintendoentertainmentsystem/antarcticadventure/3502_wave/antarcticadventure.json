@@ -1,0 +1,19 @@
+{
+  "id" : "3502",
+  "releasedBy" : "Wave",
+  "name" : "Antarctic Adventure",
+  "altName" : "Kekkyoku Nankyoku Daibouken",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Antarctic Adventure (J) [!].nes 24.592 bytes\\r\\nCRC32: 9da252b4\\r\\nMD5: ca7a3966079d541c81113e834b087e3b\\r\\nSHA1: c1644ba07ddb7f741247e342daf8bfdc6e33f548",
+  "genre" : "Carreras",
+  "releaseDate" : "2018\\03\\23",
+  "gameDate" : "22 April 1985",
+  "version" : "1.0",
+  "downloads" : "278",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\antarcticadventure\\3502_wave",
+  "imagesFilenames" : [ "antarcticadventure_0.png", "antarcticadventure_1.png", "antarcticadventure_2.png", "antarcticadventure_3.png", "antarcticadventure_4.png" ],
+  "readmeFilename" : "antarcticadventure_readme.txt",
+  "patchFilename" : "antarcticadventure_patch.zip",
+  "notes" : null
+}

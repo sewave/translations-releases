@@ -1,0 +1,19 @@
+{
+  "id" : "3708",
+  "releasedBy" : "Wave",
+  "name" : "Gain Ground",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Gain Ground (UE) [!].sms 262.144 bytes\\r\\nMD5: 7d54230748fa41bb62b6f08e5dcede08\\r\\nSHA1: 62c0ca61ad8f679f90f253ab6bbffd0c7737a8c0\\r\\nCRC32: 3ec5e627",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\07\\20",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "131",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\gainground\\3708_wave",
+  "imagesFilenames" : [ "gainground_0.png", "gainground_1.png", "gainground_2.png", "gainground_3.png", "gainground_4.png" ],
+  "readmeFilename" : "gainground_readme.txt",
+  "patchFilename" : "gainground_patch.zip",
+  "notes" : null
+}

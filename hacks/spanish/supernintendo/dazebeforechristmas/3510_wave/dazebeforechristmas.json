@@ -1,0 +1,19 @@
+{
+  "id" : "3510",
+  "releasedBy" : "Wave",
+  "name" : "Daze Before Christmas",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Daze Before Christmas (E).smc 2.097.152 bytes\\r\\nCRC32: 59909eb5\\r\\nMD5: e1e3ce8a9d1b9ccaf059101add37314f\\r\\nSHA1: 5e63cc5c05add8f1493485b5ce488f91e43a2553",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\03\\29",
+  "gameDate" : "November 1994",
+  "version" : "1.0",
+  "downloads" : "243",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\dazebeforechristmas\\3510_wave",
+  "imagesFilenames" : [ "dazebeforechristmas_0.png", "dazebeforechristmas_1.png", "dazebeforechristmas_2.png", "dazebeforechristmas_3.png", "dazebeforechristmas_4.png" ],
+  "readmeFilename" : "dazebeforechristmas_readme.txt",
+  "patchFilename" : "dazebeforechristmas_patch.zip",
+  "notes" : null
+}

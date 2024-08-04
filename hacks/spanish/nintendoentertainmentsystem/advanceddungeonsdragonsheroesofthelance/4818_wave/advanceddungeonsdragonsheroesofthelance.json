@@ -1,0 +1,19 @@
+{
+  "id" : "4818",
+  "releasedBy" : "Wave",
+  "name" : "Advanced Dungeons & Dragons: Heroes of the Lance",
+  "altName" : "Dragon Lance: Heroes of the Lance",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Advanced Dungeons & Dragons - Heroes of the Lance (U) [!].nes\\r\\nMD5: 01d8a23d55fdd23b0f5c97b8dfb1e81a\\r\\nSHA1: d9328b02916d365c97ed21074333257968e55f91\\r\\nCRC32: e880d426 262160 bytes",
+  "genre" : "Rol / Acción",
+  "releaseDate" : "2019\\07\\11",
+  "gameDate" : "January 1991",
+  "version" : "1.0",
+  "downloads" : "160",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\advanceddungeonsdragonsheroesofthelance\\4818_wave",
+  "imagesFilenames" : [ "advanceddungeonsdragonsheroesofthelance_0.png", "advanceddungeonsdragonsheroesofthelance_1.png", "advanceddungeonsdragonsheroesofthelance_2.png", "advanceddungeonsdragonsheroesofthelance_3.png", "advanceddungeonsdragonsheroesofthelance_4.png" ],
+  "readmeFilename" : "advanceddungeonsdragonsheroesofthelance_readme.txt",
+  "patchFilename" : "advanceddungeonsdragonsheroesofthelance_patch.zip",
+  "notes" : null
+}

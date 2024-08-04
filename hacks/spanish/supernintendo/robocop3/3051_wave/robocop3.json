@@ -1,0 +1,19 @@
+{
+  "id" : "3051",
+  "releasedBy" : "Wave",
+  "name" : "RoboCop 3",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Robocop 3 (U).smc 1.048.576 bytes\\r\\nCRC32: 3502f9b3\\r\\nMD5: cfbd78608d84c42bbc6b7d553dd858a0\\r\\nSHA1: 3a6c174a37c4a505464d3df05f45c9b1fcf75843",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\05\\29",
+  "gameDate" : "September 1992",
+  "version" : "1.0",
+  "downloads" : "393",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\robocop3\\3051_wave",
+  "imagesFilenames" : [ "robocop3_0.png", "robocop3_1.png", "robocop3_2.png", "robocop3_3.png", "robocop3_4.png" ],
+  "readmeFilename" : "robocop3_readme.txt",
+  "patchFilename" : "robocop3_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5116",
+  "releasedBy" : "Wave",
+  "name" : "Nintendo World Cup",
+  "altName" : "Nekketsu Koukou Soccer-Bu: World Cup Hen",
+  "system" : "Game Boy",
+  "romDesc" : "Nintendo World Cup (U) [!].gb\\r\\nMD5: c9200b1be878f079cee6cbebbeaa27ea\\r\\nSHA1: 9308dadfeb1becb81fe35015397df6e8e8ead06e\\r\\nCRC32: 96c24e13 131072 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\10\\27",
+  "gameDate" : "June 1991",
+  "version" : "1.0",
+  "downloads" : "64",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\nintendoworldcup\\5116_wave",
+  "imagesFilenames" : [ "nintendoworldcup_0.png", "nintendoworldcup_1.png", "nintendoworldcup_2.png", "nintendoworldcup_3.png", "nintendoworldcup_4.png" ],
+  "readmeFilename" : "nintendoworldcup_readme.txt",
+  "patchFilename" : "nintendoworldcup_patch.zip",
+  "notes" : null
+}

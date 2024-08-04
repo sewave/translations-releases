@@ -1,0 +1,19 @@
+{
+  "id" : "2722",
+  "releasedBy" : "Wave",
+  "name" : "Vice: Project Doom",
+  "altName" : "Gun-Dec",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Gun-Dec (J).nes 262.160 bytes\\r\\nCRC32: 4b08e280\\r\\nMD5: 500fb76166df6cca24a2b0c65c605262\\r\\nSHA1: dbf0b269578fc9125503181f50815aa35290e7ae",
+  "genre" : "Acción",
+  "releaseDate" : "2016\\09\\15",
+  "gameDate" : "26 April 1991",
+  "version" : "1.0",
+  "downloads" : "606",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\viceprojectdoom\\2722_wave",
+  "imagesFilenames" : [ "viceprojectdoom_0.png", "viceprojectdoom_1.png", "viceprojectdoom_2.png", "viceprojectdoom_3.png", "viceprojectdoom_4.png" ],
+  "readmeFilename" : "viceprojectdoom_readme.txt",
+  "patchFilename" : "viceprojectdoom_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3697",
+  "releasedBy" : "Wave",
+  "name" : "Jurassic Park 2: The Chaos Continues",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Jurassic Park 2 - The Chaos Continues (UE) (M4) [!].gb 262.144 bytes\\r\\nCRC32: af3d2e95\\r\\nMD5: b94eb524347bb0a8a5c151b59ad63cfa\\r\\nSHA1: b3df5f3bf73b42696261247c4c9c425a81322bb0",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\07\\13",
+  "gameDate" : "December 1994",
+  "version" : "1.0",
+  "downloads" : "139",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\jurassicpark2thechaoscontinues\\3697_wave",
+  "imagesFilenames" : [ "jurassicpark2thechaoscontinues_0.png", "jurassicpark2thechaoscontinues_1.png", "jurassicpark2thechaoscontinues_2.png", "jurassicpark2thechaoscontinues_3.png", "jurassicpark2thechaoscontinues_4.png" ],
+  "readmeFilename" : "jurassicpark2thechaoscontinues_readme.txt",
+  "patchFilename" : "jurassicpark2thechaoscontinues_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4039",
+  "releasedBy" : "Wave",
+  "name" : "Solomon no Kagi: Oujo Rihita no Namida",
+  "altName" : "Solomon's Key: The Tears of Princess Lihita",
+  "system" : "Sega Master System",
+  "romDesc" : "Solomon no Kagi - Oujo Rihita no Namida (J) [!].sms\\r\\nMD5: cfa84806075e017e29ffcdd0127fe647\\r\\nSHA1: 875f35d0775609776ec75ea2a8fa2297643e906c\\r\\nCRC32: 11645549 131.072 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2018\\11\\27",
+  "gameDate" : "17 April 1988",
+  "version" : "1.0",
+  "downloads" : "113",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\solomonnokagioujorihitanonamida\\4039_wave",
+  "imagesFilenames" : [ "solomonnokagioujorihitanonamida_0.png", "solomonnokagioujorihitanonamida_1.png", "solomonnokagioujorihitanonamida_2.png", "solomonnokagioujorihitanonamida_3.png" ],
+  "readmeFilename" : "solomonnokagioujorihitanonamida_readme.txt",
+  "patchFilename" : "solomonnokagioujorihitanonamida_patch.zip",
+  "notes" : null
+}

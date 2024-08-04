@@ -1,0 +1,19 @@
+{
+  "id" : "3528",
+  "releasedBy" : "Wave",
+  "name" : "Superman",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Superman (U) [!].gg 262.144 bytes\\r\\nCRC32: 73df5a15\\r\\nMD5: 1adf05e9ac786d9b46bb8d2b8043669d\\r\\nSHA1: 8e0d837cf285d8669d30ef1328453949cea70a6a",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\04\\06",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "108",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\superman\\3528_wave",
+  "imagesFilenames" : [ "superman_0.png", "superman_1.png", "superman_2.png", "superman_3.png", "superman_4.png" ],
+  "readmeFilename" : "superman_readme.txt",
+  "patchFilename" : "superman_patch.zip",
+  "notes" : null
+}

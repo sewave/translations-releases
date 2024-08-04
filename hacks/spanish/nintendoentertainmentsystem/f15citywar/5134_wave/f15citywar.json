@@ -1,0 +1,19 @@
+{
+  "id" : "5134",
+  "releasedBy" : "Wave",
+  "name" : "F-15 City War",
+  "altName" : "F15 City War",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "F15 City War (Spain) (Gluk Video) (Unl).nes\\r\\nMD5: 3f120f70f75e5f9e9959958c3329d45d\\r\\nSHA1: 0c82e1fc0fd57be59a501268a18e4372ddede241\\r\\nCRC32: 7b82a7a2 65552 bytes",
+  "genre" : "Simulación",
+  "releaseDate" : "2019\\10\\30",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "58",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\f15citywar\\5134_wave",
+  "imagesFilenames" : [ "f15citywar_0.png", "f15citywar_1.png", "f15citywar_2.png", "f15citywar_3.png", "f15citywar_4.png" ],
+  "readmeFilename" : "f15citywar_readme.txt",
+  "patchFilename" : "f15citywar_patch.zip",
+  "notes" : null
+}

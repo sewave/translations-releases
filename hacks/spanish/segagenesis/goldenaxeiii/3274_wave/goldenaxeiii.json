@@ -1,0 +1,19 @@
+{
+  "id" : "3274",
+  "releasedBy" : "Wave",
+  "name" : "Golden Axe III",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Golden Axe III (J) [!].bin 1.048.576 bytes\\r\\nCRC32: c7862ea3\\r\\nMD5: 7d9f963c9c2e22b542516edd03ada6f6\\r\\nSHA1: cd9ecc1df4e01d69af9bebcf45bbd944f1b17f9f",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\11\\04",
+  "gameDate" : "25 June 1993",
+  "version" : "1.0",
+  "downloads" : "914",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\goldenaxeiii\\3274_wave",
+  "imagesFilenames" : [ "goldenaxeiii_0.png", "goldenaxeiii_1.png", "goldenaxeiii_2.png", "goldenaxeiii_3.png", "goldenaxeiii_4.png" ],
+  "readmeFilename" : "goldenaxeiii_readme.txt",
+  "patchFilename" : "goldenaxeiii_patch.zip",
+  "notes" : null
+}

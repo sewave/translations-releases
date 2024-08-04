@@ -1,0 +1,19 @@
+{
+  "id" : "3048",
+  "releasedBy" : "Wave",
+  "name" : "RoboCop 3",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Robocop 3 (UE) [!].gen 524.288 bytes\\r\\nCRC32: 34fb7b27\\r\\nMD5: e1c98a74abc694c39c577f1cc4e7a2b6\\r\\nSHA1: 7860eb700d85801831ea14501b47bcaa1753c9fc",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\05\\29",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "356",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\robocop3\\3048_wave",
+  "imagesFilenames" : [ "robocop3_0.png", "robocop3_1.png", "robocop3_2.png", "robocop3_3.png", "robocop3_4.png" ],
+  "readmeFilename" : "robocop3_readme.txt",
+  "patchFilename" : "robocop3_patch.zip",
+  "notes" : null
+}

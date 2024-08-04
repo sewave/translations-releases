@@ -1,0 +1,19 @@
+{
+  "id" : "3512",
+  "releasedBy" : "Wave",
+  "name" : "Sunman",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Sunman (E) (Prototype).nes 262.160 bytes\\r\\nCRC32: 2bce4dc7\\r\\nMD5: 2e828058a1bd96d04ecdd04954e54c30\\r\\nSHA1: 326e2f4d3be11a9cd8e7a0c8dc345ba9ecc7d1a9",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\03\\29",
+  "gameDate" : "Unreleased",
+  "version" : "1.0",
+  "downloads" : "223",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\sunman\\3512_wave",
+  "imagesFilenames" : [ "sunman_0.png", "sunman_1.png", "sunman_2.png", "sunman_3.png", "sunman_4.png" ],
+  "readmeFilename" : "sunman_readme.txt",
+  "patchFilename" : "sunman_patch.zip",
+  "notes" : null
+}

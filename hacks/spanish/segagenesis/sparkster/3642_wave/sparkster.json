@@ -1,0 +1,19 @@
+{
+  "id" : "3642",
+  "releasedBy" : "Wave",
+  "name" : "Sparkster",
+  "altName" : "Sparkster: Rocket Knight Adventures 2",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Sparkster (U) [!].gen 1.048.576 bytes\\r\\nCRC32: 6bdb14ed\\r\\nMD5: d3ddbc9a45653aa790bb922c7b68ce44\\r\\nSHA1: d6e2f4aa87633aeea2ec1c05a6100b8905549095",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\08",
+  "gameDate" : "23 September 1994",
+  "version" : "1.0",
+  "downloads" : "336",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\sparkster\\3642_wave",
+  "imagesFilenames" : [ "sparkster_0.png", "sparkster_1.png", "sparkster_2.png", "sparkster_3.png", "sparkster_4.png" ],
+  "readmeFilename" : "sparkster_readme.txt",
+  "patchFilename" : "sparkster_patch.zip",
+  "notes" : null
+}

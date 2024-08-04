@@ -1,0 +1,19 @@
+{
+  "id" : "4214",
+  "releasedBy" : "Wave",
+  "name" : "The Berenstain Bears: Camping Adventure",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Berenstain Bears', The - Camping Adventure (U) [!].gg\\r\\nMD5: 0063255819682649ed682a50a0e8a440\\r\\nSHA1: a35bef59a59df2a6d3dc4b8d3fe2e4cc79464537\\r\\nCRC32: a4bb9ffb 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\02\\01",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "58",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\theberenstainbearscampingadventure\\4214_wave",
+  "imagesFilenames" : [ "theberenstainbearscampingadventure_0.png", "theberenstainbearscampingadventure_1.png", "theberenstainbearscampingadventure_2.png", "theberenstainbearscampingadventure_3.png", "theberenstainbearscampingadventure_4.png" ],
+  "readmeFilename" : "theberenstainbearscampingadventure_readme.txt",
+  "patchFilename" : "theberenstainbearscampingadventure_patch.zip",
+  "notes" : null
+}

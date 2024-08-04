@@ -1,0 +1,19 @@
+{
+  "id" : "5341",
+  "releasedBy" : "Wave",
+  "name" : "Adventure Island II: Aliens in Paradise",
+  "altName" : "Takahashi Meijin no Boukenjima III",
+  "system" : "Game Boy",
+  "romDesc" : "Adventure Island II (UE) [!].gb\\r\\nMD5: ed2444afe317452e29c1c2258da6963c\\r\\nSHA1: 1964fd5708150aa9f71c0a79d552466fd5bf5bf8\\r\\nCRC32: 783066cf 262144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\01\\22",
+  "gameDate" : "26 February 1993",
+  "version" : "1.0",
+  "downloads" : "63",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\adventureislandiialiensinparadise\\5341_wave",
+  "imagesFilenames" : [ "adventureislandiialiensinparadise_0.png", "adventureislandiialiensinparadise_1.png", "adventureislandiialiensinparadise_2.png", "adventureislandiialiensinparadise_3.png", "adventureislandiialiensinparadise_4.png" ],
+  "readmeFilename" : "adventureislandiialiensinparadise_readme.txt",
+  "patchFilename" : "adventureislandiialiensinparadise_patch.zip",
+  "notes" : null
+}

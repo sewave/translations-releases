@@ -1,0 +1,19 @@
+{
+  "id" : "3711",
+  "releasedBy" : "Wave",
+  "name" : "Ninja Gaiden",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Ninja Gaiden (E) [!].sms 262.144 bytes\\r\\nMD5: 2cd25b3d9a1ced329a551d7fc3c0f01e\\r\\nSHA1: 4c65db563e8407444020ab7fd93fc45193ae923a\\r\\nCRC32: 1b1d8cc2",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\07\\20",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "224",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\ninjagaiden\\3711_wave",
+  "imagesFilenames" : [ "ninjagaiden_0.png", "ninjagaiden_1.png", "ninjagaiden_2.png", "ninjagaiden_3.png", "ninjagaiden_4.png" ],
+  "readmeFilename" : "ninjagaiden_readme.txt",
+  "patchFilename" : "ninjagaiden_patch.zip",
+  "notes" : null
+}

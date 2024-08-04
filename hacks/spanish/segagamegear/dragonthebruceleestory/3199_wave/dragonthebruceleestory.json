@@ -1,0 +1,19 @@
+{
+  "id" : "3199",
+  "releasedBy" : "Wave",
+  "name" : "Dragon: The Bruce Lee Story",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Dragon - The Bruce Lee Story (U) [!].gg 262.144 bytes\\r\\nCRC32: 17f588e8\\r\\nMD5: 81e7bea1c445540544002a5ccf91fe3c\\r\\nSHA1: 60c7cbe782c3df094452835076b9425c329c82ee",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\09\\17",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "131",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\dragonthebruceleestory\\3199_wave",
+  "imagesFilenames" : [ "dragonthebruceleestory_0.png", "dragonthebruceleestory_1.png", "dragonthebruceleestory_2.png", "dragonthebruceleestory_3.png", "dragonthebruceleestory_4.png" ],
+  "readmeFilename" : "dragonthebruceleestory_readme.txt",
+  "patchFilename" : "dragonthebruceleestory_patch.zip",
+  "notes" : null
+}

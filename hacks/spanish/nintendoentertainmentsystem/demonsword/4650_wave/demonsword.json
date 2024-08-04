@@ -1,0 +1,19 @@
+{
+  "id" : "4650",
+  "releasedBy" : "Wave",
+  "name" : "Demon Sword",
+  "altName" : "Fudou Myouou Den The Acala Legend",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Demon Sword (U) [!].nes\\r\\nMD5: f9dadb280cd34b5af77867d5642cbb86\\r\\nSHA1: 50b01973e0877805a1f32858fb2d4b69c65404ac\\r\\nCRC32: 2b324834 262160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\06",
+  "gameDate" : "29 March 1988",
+  "version" : "1.0",
+  "downloads" : "123",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\demonsword\\4650_wave",
+  "imagesFilenames" : [ "demonsword_0.png", "demonsword_1.png", "demonsword_2.png", "demonsword_3.png", "demonsword_4.png" ],
+  "readmeFilename" : "demonsword_readme.txt",
+  "patchFilename" : "demonsword_patch.zip",
+  "notes" : null
+}

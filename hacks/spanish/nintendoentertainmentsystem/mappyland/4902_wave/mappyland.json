@@ -1,0 +1,19 @@
+{
+  "id" : "4902",
+  "releasedBy" : "Wave",
+  "name" : "Mappy-Land",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Mappy-Land (U) [!].nes\\r\\nMD5: d80c89a478dfd14ffce44fa02a670055\\r\\nSHA1: 68168cd5ae72adc614858a0b03a62934e47481b3\\r\\nCRC32: 4e8ebcfe 163856 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\08\\02",
+  "gameDate" : "26 November 1986",
+  "version" : "1.0",
+  "downloads" : "91",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\mappyland\\4902_wave",
+  "imagesFilenames" : [ "mappyland_0.png", "mappyland_1.png", "mappyland_2.png", "mappyland_3.png", "mappyland_4.png" ],
+  "readmeFilename" : "mappyland_readme.txt",
+  "patchFilename" : "mappyland_patch.zip",
+  "notes" : null
+}

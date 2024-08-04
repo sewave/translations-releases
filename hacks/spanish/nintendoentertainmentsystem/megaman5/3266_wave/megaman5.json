@@ -1,0 +1,19 @@
+{
+  "id" : "3266",
+  "releasedBy" : "Wave",
+  "name" : "Mega Man 5",
+  "altName" : "Rockman 5: Blues no Wana!?",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Megaman V (U) [!].nes 524.304 bytes\\r\\nCRC32: 5e023291\\r\\nMD5: d7d22bf9edfb16469975f7f4d8da518f\\r\\nSHA1: 1748e9b6ecff0c01dd14ecc7a48575e74f88b778",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\10\\30",
+  "gameDate" : "04 December 1992",
+  "version" : "1.0",
+  "downloads" : "541",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\megaman5\\3266_wave",
+  "imagesFilenames" : [ "megaman5_0.png", "megaman5_1.png", "megaman5_2.png", "megaman5_3.png", "megaman5_4.png" ],
+  "readmeFilename" : "megaman5_readme.txt",
+  "patchFilename" : "megaman5_patch.zip",
+  "notes" : null
+}

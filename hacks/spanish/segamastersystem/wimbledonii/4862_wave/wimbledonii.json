@@ -1,0 +1,19 @@
+{
+  "id" : "4862",
+  "releasedBy" : "Wave",
+  "name" : "Wimbledon II",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Wimbledon II (Europe).sms\\r\\nMD5: 41fa7c376327e7fa851103c0407e8e53\\r\\nSHA1: 55dd4aaa92de4bdaa1d8b6463a34887f4a8baa28\\r\\nCRC32: 7f3afe58 262144 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\07\\24",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "61",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\wimbledonii\\4862_wave",
+  "imagesFilenames" : [ "wimbledonii_0.png", "wimbledonii_1.png", "wimbledonii_2.png", "wimbledonii_3.png", "wimbledonii_4.png" ],
+  "readmeFilename" : "wimbledonii_readme.txt",
+  "patchFilename" : "wimbledonii_patch.zip",
+  "notes" : null
+}

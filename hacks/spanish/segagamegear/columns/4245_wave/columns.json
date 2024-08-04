@@ -1,0 +1,19 @@
+{
+  "id" : "4245",
+  "releasedBy" : "Wave",
+  "name" : "Columns",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Columns (U) [!].gg\\r\\nMD5: 90bd4681e3e4b07445eaf35e83b223db\\r\\nSHA1: 05b73f39a90fd59e01262cbd3f4e7a21575d468a\\r\\nCRC32: 83fa26d9 32.768 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\02\\12",
+  "gameDate" : "06 October 1990",
+  "version" : "1.0",
+  "downloads" : "54",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\columns\\4245_wave",
+  "imagesFilenames" : [ "columns_0.png", "columns_1.png", "columns_2.png", "columns_3.png", "columns_4.png" ],
+  "readmeFilename" : "columns_readme.txt",
+  "patchFilename" : "columns_patch.zip",
+  "notes" : null
+}

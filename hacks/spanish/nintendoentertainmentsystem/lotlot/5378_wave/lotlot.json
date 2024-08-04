@@ -1,0 +1,19 @@
+{
+  "id" : "5378",
+  "releasedBy" : "Wave",
+  "name" : "Lot Lot",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Lot Lot (Japan).nes\\r\\nMD5: 112406d15da9c31fe9fb54ed008f42c4\\r\\nSHA1: fc85c2e19a019746fe9865f2bcfd25c04a2717bc\\r\\nCRC32: 8b7ac605 40976 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2020\\02\\01",
+  "gameDate" : "21 December 1985",
+  "version" : "1.0",
+  "downloads" : "42",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\lotlot\\5378_wave",
+  "imagesFilenames" : [ "lotlot_0.png", "lotlot_1.png", "lotlot_2.png", "lotlot_3.png", "lotlot_4.png" ],
+  "readmeFilename" : "lotlot_readme.txt",
+  "patchFilename" : "lotlot_patch.zip",
+  "notes" : null
+}

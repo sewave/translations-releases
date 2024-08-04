@@ -1,0 +1,19 @@
+{
+  "id" : "4803",
+  "releasedBy" : "Wave",
+  "name" : "Final Zone",
+  "altName" : "FZ Senki Axis",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Final Zone (JU) [!].bin\\r\\nMD5: 0cbb16c044d7c8e7366d954b5e844d1a\\r\\nSHA1: e891e5c89fa13e3f9813d5a45feeed0cb7710acb\\r\\nCRC32: 731fa4a1 524288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\07\\08",
+  "gameDate" : "12 October 1990",
+  "version" : "1.0",
+  "downloads" : "141",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\finalzone\\4803_wave",
+  "imagesFilenames" : [ "finalzone_0.png", "finalzone_1.png", "finalzone_2.png", "finalzone_3.png", "finalzone_4.png" ],
+  "readmeFilename" : "finalzone_readme.txt",
+  "patchFilename" : "finalzone_patch.zip",
+  "notes" : null
+}

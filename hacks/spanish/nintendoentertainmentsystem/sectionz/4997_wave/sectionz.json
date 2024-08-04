@@ -1,0 +1,19 @@
+{
+  "id" : "4997",
+  "releasedBy" : "Wave",
+  "name" : "Section-Z",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Section Z (U) [!].nes\\r\\nMD5: 15d915cb1e6e944e4b17ad2ae72d6137\\r\\nSHA1: 93e3548481f35111602f2fbf0e843bea4dfec56c\\r\\nCRC32: 3ce543e6 131088 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\09\\11",
+  "gameDate" : "25 May 1987",
+  "version" : "1.0",
+  "downloads" : "77",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\sectionz\\4997_wave",
+  "imagesFilenames" : [ "sectionz_0.png", "sectionz_1.png", "sectionz_2.png", "sectionz_3.png", "sectionz_4.png" ],
+  "readmeFilename" : "sectionz_readme.txt",
+  "patchFilename" : "sectionz_patch.zip",
+  "notes" : null
+}

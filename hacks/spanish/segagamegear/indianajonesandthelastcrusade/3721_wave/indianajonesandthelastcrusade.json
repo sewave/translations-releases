@@ -1,0 +1,19 @@
+{
+  "id" : "3721",
+  "releasedBy" : "Wave",
+  "name" : "Indiana Jones and the Last Crusade",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Indiana Jones and the Last Crusade (U).gg 262.144 bytes\\r\\nMD5: 2e35b02770efca0e818be126dfdeab6f\\r\\nSHA1: a171c8f9ded70023588a3736f8b031d45b6c32de\\r\\nCRC32: 8c048325",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\07\\27",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "85",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\indianajonesandthelastcrusade\\3721_wave",
+  "imagesFilenames" : [ "indianajonesandthelastcrusade_0.png", "indianajonesandthelastcrusade_1.png", "indianajonesandthelastcrusade_2.png", "indianajonesandthelastcrusade_3.png", "indianajonesandthelastcrusade_4.png" ],
+  "readmeFilename" : "indianajonesandthelastcrusade_readme.txt",
+  "patchFilename" : "indianajonesandthelastcrusade_patch.zip",
+  "notes" : null
+}

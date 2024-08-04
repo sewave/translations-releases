@@ -1,0 +1,19 @@
+{
+  "id" : "3567",
+  "releasedBy" : "Wave",
+  "name" : "Circus Charlie",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Circus Charlie (J) [!].nes 24.592 bytes\\r\\nCRC32: da673c95\\r\\nMD5: 6244f9b2c47e19fbaaef221bf706d34d\\r\\nSHA1: ea2754a9061ee0db8ede01c39c3347cfc17f6e81",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\04\\27",
+  "gameDate" : "04 March 1986",
+  "version" : "1.0",
+  "downloads" : "320",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\circuscharlie\\3567_wave",
+  "imagesFilenames" : [ "circuscharlie_0.png", "circuscharlie_1.png", "circuscharlie_2.png", "circuscharlie_3.png", "circuscharlie_4.png" ],
+  "readmeFilename" : "circuscharlie_readme.txt",
+  "patchFilename" : "circuscharlie_patch.zip",
+  "notes" : null
+}

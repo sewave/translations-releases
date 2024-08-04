@@ -1,0 +1,19 @@
+{
+  "id" : "3800",
+  "releasedBy" : "Wave",
+  "name" : "Splatterhouse 3",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Splatterhouse Part 3 (J) [c][!].gen 2.097.152 bytes\\r\\nMD5: 7277b3202363800a03e6790d3810f362\\r\\nSHA1: 1fcb8adfdb19cb772adabac14e78c560d4f2e718\\r\\nCRC32: 31b83d22",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\09\\06",
+  "gameDate" : "18 March 1993",
+  "version" : "1.0",
+  "downloads" : "223",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\splatterhouse3\\3800_wave",
+  "imagesFilenames" : [ "splatterhouse3_0.png", "splatterhouse3_1.png", "splatterhouse3_2.png", "splatterhouse3_3.png", "splatterhouse3_4.png" ],
+  "readmeFilename" : "splatterhouse3_readme.txt",
+  "patchFilename" : "splatterhouse3_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4730",
+  "releasedBy" : "Wave",
+  "name" : "Bubsy in Claws Encounters of the Furred Kind",
+  "altName" : "Yamaneko Bubsy no Daibouken",
+  "system" : "Super Nintendo",
+  "romDesc" : "Bubsy in Claws Encounters of the Furred Kind (U) [!].smc\\r\\nMD5: 6ac508bddbabc699f181d7858ccfcf0f\\r\\nSHA1: 9f6ff6264e0361e074f9cfee2ec4976866a781c5\\r\\nCRC32: 444a52c1 2097152 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\17",
+  "gameDate" : "May 1993",
+  "version" : "1.0",
+  "downloads" : "142",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\bubsyinclawsencountersofthefurredkind\\4730_wave",
+  "imagesFilenames" : [ "bubsyinclawsencountersofthefurredkind_0.png", "bubsyinclawsencountersofthefurredkind_1.png", "bubsyinclawsencountersofthefurredkind_2.png", "bubsyinclawsencountersofthefurredkind_3.png", "bubsyinclawsencountersofthefurredkind_4.png" ],
+  "readmeFilename" : "bubsyinclawsencountersofthefurredkind_readme.txt",
+  "patchFilename" : "bubsyinclawsencountersofthefurredkind_patch.zip",
+  "notes" : null
+}

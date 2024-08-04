@@ -1,0 +1,19 @@
+{
+  "id" : "3798",
+  "releasedBy" : "Wave",
+  "name" : "Bart Simpson's Escape From Camp Deadly",
+  "altName" : "Bart no Survival Camp",
+  "system" : "Game Boy",
+  "romDesc" : "Simpsons, The - Escape from Camp Deadly (U) [!].gb 131.072 bytes\\r\\nMD5: e731fa23d9cd0c3d4dec7d5565beef61\\r\\nSHA1: 89b7b2d4684d703ea5d323e3aaf4910dcdbc47d3\\r\\nCRC32: 5546a382",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\09\\06",
+  "gameDate" : "November 1991",
+  "version" : "1.0",
+  "downloads" : "133",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\bartsimpsonsescapefromcampdeadly\\3798_wave",
+  "imagesFilenames" : [ "bartsimpsonsescapefromcampdeadly_0.png", "bartsimpsonsescapefromcampdeadly_1.png", "bartsimpsonsescapefromcampdeadly_2.png", "bartsimpsonsescapefromcampdeadly_3.png", "bartsimpsonsescapefromcampdeadly_4.png" ],
+  "readmeFilename" : "bartsimpsonsescapefromcampdeadly_readme.txt",
+  "patchFilename" : "bartsimpsonsescapefromcampdeadly_patch.zip",
+  "notes" : null
+}

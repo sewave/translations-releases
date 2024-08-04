@@ -1,0 +1,19 @@
+{
+  "id" : "2824",
+  "releasedBy" : "Wave",
+  "name" : "Takahashi Meijin no Bouken Jima IV",
+  "altName" : "Adventure Island 4 Hudson’s Adventure Island IV",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Takahashi Meijin no Bouken Shima IV (J).nes 393.232 bytes\\r\\nCRC32: 5ecfd3dc\\r\\nMD5: dd53d022bb0b8d5a8d464690b14a0b30\\r\\nSHA1: e73efd3e932b9e3501ce9c77418bdbf0d59d75cd",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\12\\18",
+  "gameDate" : "24 June 1994",
+  "version" : "1.1",
+  "downloads" : "521",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\takahashimeijinnoboukenjimaiv\\2824_wave",
+  "imagesFilenames" : [ "takahashimeijinnoboukenjimaiv_0.png", "takahashimeijinnoboukenjimaiv_1.png", "takahashimeijinnoboukenjimaiv_2.png", "takahashimeijinnoboukenjimaiv_3.png", "takahashimeijinnoboukenjimaiv_4.png" ],
+  "readmeFilename" : "takahashimeijinnoboukenjimaiv_readme.txt",
+  "patchFilename" : "takahashimeijinnoboukenjimaiv_patch.zip",
+  "notes" : null
+}

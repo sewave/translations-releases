@@ -1,0 +1,19 @@
+{
+  "id" : "3961",
+  "releasedBy" : "Wave",
+  "name" : "Machine Gun Joe",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Machine Gun Joe (J) [!].sms\\r\\nMD5: 2d59b3d27f022b04a597e767e6660ca9\\r\\nSHA1: 33c21d164fd3cdf7aa9e7e0fe1a3ae5a491bd9f5\\r\\nCRC32: 9d549e08 32.768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\01",
+  "gameDate" : "21 April 1986",
+  "version" : "1.0",
+  "downloads" : "90",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\machinegunjoe\\3961_wave",
+  "imagesFilenames" : [ "machinegunjoe_0.png", "machinegunjoe_1.png", "machinegunjoe_2.png", "machinegunjoe_3.png", "machinegunjoe_4.png" ],
+  "readmeFilename" : "machinegunjoe_readme.txt",
+  "patchFilename" : "machinegunjoe_patch.zip",
+  "notes" : null
+}

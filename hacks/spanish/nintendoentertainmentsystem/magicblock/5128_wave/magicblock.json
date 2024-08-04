@@ -1,0 +1,19 @@
+{
+  "id" : "5128",
+  "releasedBy" : "Wave",
+  "name" : "Magic Block",
+  "altName" : "El Bloque Magico",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Bloque Magico, El (Spain) (Gluk Video) (Unl).nes\\r\\nMD5: 2013d7e28da250028f98ca5c5bdfb405\\r\\nSHA1: a2d5976e97c43fb080328a505c1c8ad606ce1df8\\r\\nCRC32: f587ef3d 65552 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\10\\30",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "59",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\magicblock\\5128_wave",
+  "imagesFilenames" : [ "magicblock_0.png", "magicblock_1.png", "magicblock_2.png", "magicblock_3.png", "magicblock_4.png" ],
+  "readmeFilename" : "magicblock_readme.txt",
+  "patchFilename" : "magicblock_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4132",
+  "releasedBy" : "Wave",
+  "name" : "Mega Turrican",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Mega Turrican (U) [!].bin\\r\\nMD5: 8d73db292f0f4c838e72086fb3d5896b\\r\\nSHA1: 180285dbfc1613489f1c20e9fd6c2b154dec7fe2\\r\\nCRC32: fe898cc9 1.048.576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\01\\03",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "308",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\megaturrican\\4132_wave",
+  "imagesFilenames" : [ "megaturrican_0.png", "megaturrican_1.png", "megaturrican_2.png", "megaturrican_3.png", "megaturrican_4.png" ],
+  "readmeFilename" : "megaturrican_readme.txt",
+  "patchFilename" : "megaturrican_patch.zip",
+  "notes" : null
+}

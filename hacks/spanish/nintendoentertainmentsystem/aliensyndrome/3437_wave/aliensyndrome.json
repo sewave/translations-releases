@@ -1,0 +1,19 @@
+{
+  "id" : "3437",
+  "releasedBy" : "Wave",
+  "name" : "Alien Syndrome",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Alien Syndrome (Tengen) [!].nes 262.160 bytes\\r\\nCRC32: 9e8351af\\r\\nMD5: 5b87e0a19b65de73d41cf0a6df88b47b\\r\\nSHA1: 23e03135514d88297444438a490d222f2f54be4f",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\02\\12",
+  "gameDate" : "02 December 1988",
+  "version" : "1.1",
+  "downloads" : "331",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\aliensyndrome\\3437_wave",
+  "imagesFilenames" : [ "aliensyndrome_0.png", "aliensyndrome_1.png", "aliensyndrome_2.png", "aliensyndrome_3.png", "aliensyndrome_4.png" ],
+  "readmeFilename" : "aliensyndrome_readme.txt",
+  "patchFilename" : "aliensyndrome_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4533",
+  "releasedBy" : "Wave",
+  "name" : "Metroid",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Metroid (USA).nes\\r\\nMD5: d77c8053168da14b360bf5caeccc5964\\r\\nSHA1: ecf39ec5a33e6a6f832f03e8ffc61c5d53f4f90b\\r\\nCRC32: a2c89cb9 131088 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2019\\05\\07",
+  "gameDate" : "15 August 1987",
+  "version" : "1.0",
+  "downloads" : "228",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\metroid\\4533_wave",
+  "imagesFilenames" : [ "metroid_0.png", "metroid_1.png", "metroid_2.png", "metroid_3.png", "metroid_4.png" ],
+  "readmeFilename" : "metroid_readme.txt",
+  "patchFilename" : "metroid_patch.zip",
+  "notes" : null
+}

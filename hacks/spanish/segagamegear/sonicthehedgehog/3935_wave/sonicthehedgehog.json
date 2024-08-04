@@ -1,0 +1,19 @@
+{
+  "id" : "3935",
+  "releasedBy" : "Wave",
+  "name" : "Sonic the Hedgehog",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Sonic The Hedgehog (U) (V1.1) [!].gg\\r\\nMD5: b1de7027824c434ce8de59782705f5c9\\r\\nSHA1: 7dbbbca2229e74fcb8f90ec794aa6e5cb168e489\\r\\nCRC32: d163356e 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\18",
+  "gameDate" : "28 December 1991",
+  "version" : "1.0",
+  "downloads" : "113",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\sonicthehedgehog\\3935_wave",
+  "imagesFilenames" : [ "sonicthehedgehog_0.png", "sonicthehedgehog_1.png", "sonicthehedgehog_2.png", "sonicthehedgehog_3.png", "sonicthehedgehog_4.png" ],
+  "readmeFilename" : "sonicthehedgehog_readme.txt",
+  "patchFilename" : "sonicthehedgehog_patch.zip",
+  "notes" : null
+}

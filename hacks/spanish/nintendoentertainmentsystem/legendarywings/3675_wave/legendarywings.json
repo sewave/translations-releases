@@ -1,0 +1,19 @@
+{
+  "id" : "3675",
+  "releasedBy" : "Wave",
+  "name" : "Legendary Wings",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Legendary Wings (U) [!].nes 131.088 bytes\\r\\nCRC32: 91109f99\\r\\nMD5: 524b8bbec8d33123829c5c48339551fa\\r\\nSHA1: 087a470b4d723501daf66deb77b6b2be3324675d",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\06\\30",
+  "gameDate" : "July 1988",
+  "version" : "1.0",
+  "downloads" : "215",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\legendarywings\\3675_wave",
+  "imagesFilenames" : [ "legendarywings_0.png", "legendarywings_1.png", "legendarywings_2.png", "legendarywings_3.png", "legendarywings_4.png" ],
+  "readmeFilename" : "legendarywings_readme.txt",
+  "patchFilename" : "legendarywings_patch.zip",
+  "notes" : null
+}

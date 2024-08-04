@@ -1,0 +1,19 @@
+{
+  "id" : "5314",
+  "releasedBy" : "Wave",
+  "name" : "The Bugs Bunny Crazy Castle II",
+  "altName" : "Mickey Mouse II",
+  "system" : "Game Boy",
+  "romDesc" : "Bugs Bunny - Crazy Castle II (U) [!].gb\\r\\nMD5: 8963803e642dbfbe4f5f3bc5a567785d\\r\\nSHA1: 1e4c8c8fe8b6c34f76cd0da876442f14299da725\\r\\nCRC32: a973e604 131072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\12\\16",
+  "gameDate" : "26 April 1991",
+  "version" : "1.0",
+  "downloads" : "63",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\thebugsbunnycrazycastleii\\5314_wave",
+  "imagesFilenames" : [ "thebugsbunnycrazycastleii_0.png", "thebugsbunnycrazycastleii_1.png", "thebugsbunnycrazycastleii_2.png", "thebugsbunnycrazycastleii_3.png", "thebugsbunnycrazycastleii_4.png" ],
+  "readmeFilename" : "thebugsbunnycrazycastleii_readme.txt",
+  "patchFilename" : "thebugsbunnycrazycastleii_patch.zip",
+  "notes" : null
+}

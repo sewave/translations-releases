@@ -1,0 +1,19 @@
+{
+  "id" : "4285",
+  "releasedBy" : "Wave",
+  "name" : "Shadow of the Beast II",
+  "altName" : "Shadow of the Beast II: Juushin no Jubaku",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Shadow of the Beast 2 (UE) [!].gen\\r\\nMD5: 596c1dda590f4b6611132206c9184970\\r\\nSHA1: 260a497348313c22f2d1a626150b0915990720c2\\r\\nCRC32: 2dede3db 1.048.576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\03\\01",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "180",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\shadowofthebeastii\\4285_wave",
+  "imagesFilenames" : [ "shadowofthebeastii_0.png", "shadowofthebeastii_1.png", "shadowofthebeastii_2.png", "shadowofthebeastii_3.png", "shadowofthebeastii_4.png" ],
+  "readmeFilename" : "shadowofthebeastii_readme.txt",
+  "patchFilename" : "shadowofthebeastii_patch.zip",
+  "notes" : null
+}

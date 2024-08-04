@@ -1,0 +1,19 @@
+{
+  "id" : "3011",
+  "releasedBy" : "Wave",
+  "name" : "Mortal Kombat 2",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Mortal Kombat 2 (E) [!].sms 524.288 bytes\\r\\nCRC32: 2663bf18\\r\\nMD5: c60f62f13a60bc585822bfd2d68ba75c\\r\\nSHA1: 12bd887efb87f410d3b65bf9e6dfe2745b345539",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2017\\05\\08",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "227",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\mortalkombat2\\3011_wave",
+  "imagesFilenames" : [ "mortalkombat2_0.png", "mortalkombat2_1.png", "mortalkombat2_2.png", "mortalkombat2_3.png", "mortalkombat2_4.png" ],
+  "readmeFilename" : "mortalkombat2_readme.txt",
+  "patchFilename" : "mortalkombat2_patch.zip",
+  "notes" : null
+}

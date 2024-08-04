@@ -1,0 +1,19 @@
+{
+  "id" : "4372",
+  "releasedBy" : "Wave",
+  "name" : "Space Invaders '91",
+  "altName" : "Space Invaders '90",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Space Invaders 91 (U) [c][!].bin\\r\\nMD5: b12002f1e35c5116dc4a2a8d64b4687e\\r\\nSHA1: d8046f1c703ea7c2d7f9f3f08702db7706f56cb4\\r\\nCRC32: bb83b528 262.144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\05",
+  "gameDate" : "07 September 1990",
+  "version" : "1.0",
+  "downloads" : "134",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\spaceinvaders91\\4372_wave",
+  "imagesFilenames" : [ "spaceinvaders91_0.png", "spaceinvaders91_1.png", "spaceinvaders91_2.png", "spaceinvaders91_3.png", "spaceinvaders91_4.png" ],
+  "readmeFilename" : "spaceinvaders91_readme.txt",
+  "patchFilename" : "spaceinvaders91_patch.zip",
+  "notes" : null
+}

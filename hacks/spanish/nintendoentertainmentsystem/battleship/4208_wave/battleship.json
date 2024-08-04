@@ -1,0 +1,19 @@
+{
+  "id" : "4208",
+  "releasedBy" : "Wave",
+  "name" : "Battleship",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Battleship (U) [!].nes\\r\\nMD5: 05493b63a01703c1388224360d526fa4\\r\\nSHA1: 7de90355d9e1bf4d37cbbad57e9a77e5e833fa24\\r\\nCRC32: 89d3bdbc 65.552 bytes",
+  "genre" : "Estrategia por Turnos",
+  "releaseDate" : "2019\\01\\27",
+  "gameDate" : "September 1993",
+  "version" : "1.0",
+  "downloads" : "110",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\battleship\\4208_wave",
+  "imagesFilenames" : [ "battleship_0.png", "battleship_1.png", "battleship_2.png", "battleship_3.png", "battleship_4.png" ],
+  "readmeFilename" : "battleship_readme.txt",
+  "patchFilename" : "battleship_patch.zip",
+  "notes" : null
+}

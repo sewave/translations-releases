@@ -1,0 +1,19 @@
+{
+  "id" : "3761",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon 2: The Revenge",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Double Dragon 2 - The Revenge (J) [!].gen 524.288 bytes\\r\\nMD5: 57169954f90bfef473f4952b9633e57a\\r\\nSHA1: 68dc151ada307ed0ed34f98873e0be5f65f1b573\\r\\nCRC32: a8bfdbd6",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\08\\17",
+  "gameDate" : "20 December 1991",
+  "version" : "1.0",
+  "downloads" : "311",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\doubledragon2therevenge\\3761_wave",
+  "imagesFilenames" : [ "doubledragon2therevenge_0.png", "doubledragon2therevenge_1.png", "doubledragon2therevenge_2.png", "doubledragon2therevenge_3.png", "doubledragon2therevenge_4.png" ],
+  "readmeFilename" : "doubledragon2therevenge_readme.txt",
+  "patchFilename" : "doubledragon2therevenge_patch.zip",
+  "notes" : null
+}

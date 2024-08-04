@@ -1,0 +1,19 @@
+{
+  "id" : "3551",
+  "releasedBy" : "Wave",
+  "name" : "1942",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "1942 (JU) [!].nes 40.976 bytes\\r\\nCRC32: e9cf747f\\r\\nMD5: 4f90905fd77c1c9456bd5dfe1ceddc34\\r\\nSHA1: dfb068f72e9eb44e8dbdb181c235da6ccf6fb4bc",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\04\\20",
+  "gameDate" : "11 December 1985",
+  "version" : "1.0",
+  "downloads" : "358",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\1942\\3551_wave",
+  "imagesFilenames" : [ "1942_0.png", "1942_1.png", "1942_2.png", "1942_3.png" ],
+  "readmeFilename" : "1942_readme.txt",
+  "patchFilename" : "1942_patch.zip",
+  "notes" : null
+}

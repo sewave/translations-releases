@@ -1,0 +1,19 @@
+{
+  "id" : "5020",
+  "releasedBy" : "Wave",
+  "name" : "Shanghai Pocket",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Shanghai Pocket (U) (V1.1) [C][!].gbc\\r\\nMD5: f7e13de010decf104efa3db865971f34\\r\\nSHA1: adbf1a18dea69e46c3dbccec03e09668912f12a7\\r\\nCRC32: d8fac36c 1048576 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\09\\20",
+  "gameDate" : "December 1998",
+  "version" : "1.0",
+  "downloads" : "54",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\shanghaipocket\\5020_wave",
+  "imagesFilenames" : [ "shanghaipocket_0.png", "shanghaipocket_1.png", "shanghaipocket_2.png", "shanghaipocket_3.png", "shanghaipocket_4.png" ],
+  "readmeFilename" : "shanghaipocket_readme.txt",
+  "patchFilename" : "shanghaipocket_patch.zip",
+  "notes" : null
+}

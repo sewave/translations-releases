@@ -1,0 +1,19 @@
+{
+  "id" : "3287",
+  "releasedBy" : "Wave",
+  "name" : "Gargoyles",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Gargoyles (U) [!].bin 3.145.728 bytes\\r\\nCRC32: 2d965364\\r\\nMD5: 182b253e376b3ed4c51be1f87a95aa29\\r\\nSHA1: 2b76764ca1e5a26e406e42c5f8dbd5b8df915522",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\11\\18",
+  "gameDate" : "15 May 1995",
+  "version" : "1.1",
+  "downloads" : "517",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\gargoyles\\3287_wave",
+  "imagesFilenames" : [ "gargoyles_0.png", "gargoyles_1.png", "gargoyles_2.png", "gargoyles_3.png", "gargoyles_4.png" ],
+  "readmeFilename" : "gargoyles_readme.txt",
+  "patchFilename" : "gargoyles_patch.zip",
+  "notes" : null
+}

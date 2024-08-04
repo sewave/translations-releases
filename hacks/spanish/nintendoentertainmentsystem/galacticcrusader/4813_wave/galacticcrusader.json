@@ -1,0 +1,19 @@
+{
+  "id" : "4813",
+  "releasedBy" : "Wave",
+  "name" : "Galactic Crusader",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Galactic Crusader (Bunch) [!].nes\\r\\nMD5: 38f2c01e1b944541b76afdc8fad63400\\r\\nSHA1: 2647d4f6b7346fa399ed79e1c19dabc1c045889c\\r\\nCRC32: ce3f8820 65552 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\07\\11",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "82",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\galacticcrusader\\4813_wave",
+  "imagesFilenames" : [ "galacticcrusader_0.png", "galacticcrusader_1.png", "galacticcrusader_2.png", "galacticcrusader_3.png", "galacticcrusader_4.png" ],
+  "readmeFilename" : "galacticcrusader_readme.txt",
+  "patchFilename" : "galacticcrusader_patch.zip",
+  "notes" : null
+}

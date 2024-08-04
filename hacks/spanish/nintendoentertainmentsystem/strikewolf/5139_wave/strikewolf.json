@@ -1,0 +1,19 @@
+{
+  "id" : "5139",
+  "releasedBy" : "Wave",
+  "name" : "Strike Wolf",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Strike Wolf (MGC-014) [!].nes\\r\\nMD5: ec88c197ccdfeffdd964f1d4a09466eb\\r\\nSHA1: a25bfd8f0cf77ee96f6b07deebe6313eb3787ea3\\r\\nCRC32: 21264238 262160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\03",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "60",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\strikewolf\\5139_wave",
+  "imagesFilenames" : [ "strikewolf_0.png", "strikewolf_1.png", "strikewolf_2.png", "strikewolf_3.png", "strikewolf_4.png" ],
+  "readmeFilename" : "strikewolf_readme.txt",
+  "patchFilename" : "strikewolf_patch.zip",
+  "notes" : null
+}

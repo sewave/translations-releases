@@ -1,0 +1,19 @@
+{
+  "id" : "4765",
+  "releasedBy" : "Wave",
+  "name" : "Fire & Forget 2",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Fire & Forget 2 (E) [!].sms\\r\\nMD5: d27d8fee8f711db361a71817864bd139\\r\\nSHA1: f934b35d27330cc2737d6a2d590dcef56004b983\\r\\nCRC32: f6ad7b1d 262144 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\06\\27",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "68",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\fireforget2\\4765_wave",
+  "imagesFilenames" : [ "fireforget2_0.png", "fireforget2_1.png", "fireforget2_2.png", "fireforget2_3.png", "fireforget2_4.png" ],
+  "readmeFilename" : "fireforget2_readme.txt",
+  "patchFilename" : "fireforget2_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4322",
+  "releasedBy" : "Wave",
+  "name" : "Lode Runner",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Lode Runner (U) [!].nes\\r\\nMD5: 8e074813a094594c29c1d4c43e4bdbc5\\r\\nSHA1: ea09aec11efc4b42ebc644ea243c2284001fe34f\\r\\nCRC32: cd4bf911 24.592 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\03\\16",
+  "gameDate" : "31 July 1984",
+  "version" : "1.0",
+  "downloads" : "144",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\loderunner\\4322_wave",
+  "imagesFilenames" : [ "loderunner_0.png", "loderunner_1.png", "loderunner_2.png", "loderunner_3.png", "loderunner_4.png" ],
+  "readmeFilename" : "loderunner_readme.txt",
+  "patchFilename" : "loderunner_patch.zip",
+  "notes" : null
+}

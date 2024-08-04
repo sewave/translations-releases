@@ -1,0 +1,19 @@
+{
+  "id" : "5346",
+  "releasedBy" : "Wave",
+  "name" : "The Karate Kid",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Karate Kid, The (U) [!].nes\\r\\nMD5: ecd9129338544fac5a5451e4d5ff103b\\r\\nSHA1: 4bf8a8670145e130a1e5dfb1e9b10c035bfc7a6f\\r\\nCRC32: d71252b9 65552 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\01\\22",
+  "gameDate" : "November 1987",
+  "version" : "1.0",
+  "downloads" : "59",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\thekaratekid\\5346_wave",
+  "imagesFilenames" : [ "thekaratekid_0.png", "thekaratekid_1.png", "thekaratekid_2.png", "thekaratekid_3.png", "thekaratekid_4.png" ],
+  "readmeFilename" : "thekaratekid_readme.txt",
+  "patchFilename" : "thekaratekid_patch.zip",
+  "notes" : null
+}

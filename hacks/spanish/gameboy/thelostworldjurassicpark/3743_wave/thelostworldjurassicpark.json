@@ -1,0 +1,19 @@
+{
+  "id" : "3743",
+  "releasedBy" : "Wave",
+  "name" : "The Lost World: Jurassic Park",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Lost World, The - Jurassic Park (U) [S][!].gb 524.288 bytes\\r\\nMD5: 81ad77f41587aab8e452f42cc0252e26\\r\\nSHA1: 68bf63ba6a6c9f3a71a933d6f00e5212c66dcd03\\r\\nCRC32: 391f532a",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\08\\10",
+  "gameDate" : "December 1997",
+  "version" : "1.0",
+  "downloads" : "117",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\thelostworldjurassicpark\\3743_wave",
+  "imagesFilenames" : [ "thelostworldjurassicpark_0.png", "thelostworldjurassicpark_1.png", "thelostworldjurassicpark_2.png", "thelostworldjurassicpark_3.png", "thelostworldjurassicpark_4.png" ],
+  "readmeFilename" : "thelostworldjurassicpark_readme.txt",
+  "patchFilename" : "thelostworldjurassicpark_patch.zip",
+  "notes" : null
+}

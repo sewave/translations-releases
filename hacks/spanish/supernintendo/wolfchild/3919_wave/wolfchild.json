@@ -1,0 +1,19 @@
+{
+  "id" : "3919",
+  "releasedBy" : "Wave",
+  "name" : "Wolfchild",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Wolf Child (U) [!].smc\\r\\nMD5: a7541f6554a7fa1aab250039ce24bcd8\\r\\nSHA1: 40ef16824bce5300c90130f340b1a2ebc94a8901\\r\\nCRC32: 13bfb3a0 1.048.576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\11",
+  "gameDate" : "June 1993",
+  "version" : "1.0",
+  "downloads" : "199",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\wolfchild\\3919_wave",
+  "imagesFilenames" : [ "wolfchild_0.png", "wolfchild_1.png", "wolfchild_2.png", "wolfchild_3.png", "wolfchild_4.png" ],
+  "readmeFilename" : "wolfchild_readme.txt",
+  "patchFilename" : "wolfchild_patch.zip",
+  "notes" : null
+}

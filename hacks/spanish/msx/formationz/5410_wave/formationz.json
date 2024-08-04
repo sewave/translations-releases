@@ -1,0 +1,19 @@
+{
+  "id" : "5410",
+  "releasedBy" : "Wave",
+  "name" : "Formation Z",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Formation Z (1985) (Jaleco) (J).rom\\r\\nMD5: 9add9b8b02369b48a507494df5c7303e\\r\\nSHA1: c0d33b513704adc56718b1f56c1062718683c77c\\r\\nCRC32: 37b55d09 32768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2020\\02\\18",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "17",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\formationz\\5410_wave",
+  "imagesFilenames" : [ "formationz_0.png", "formationz_1.png", "formationz_2.png", "formationz_3.png", "formationz_4.png" ],
+  "readmeFilename" : "formationz_readme.txt",
+  "patchFilename" : "formationz_patch.zip",
+  "notes" : null
+}

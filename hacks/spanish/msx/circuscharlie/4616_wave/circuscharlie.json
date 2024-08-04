@@ -1,0 +1,19 @@
+{
+  "id" : "4616",
+  "releasedBy" : "Wave",
+  "name" : "Circus Charlie",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Circus Charlie (1984) (Konami) (J).rom\\r\\nMD5: 5995cc6f08fdc9e883ecce34d1398029\\r\\nSHA1: ae6d0efd55def94274f4cec459df8927d132675a\\r\\nCRC32: 83b8d8f3 16384 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\05\\31",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "41",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\circuscharlie\\4616_wave",
+  "imagesFilenames" : [ "circuscharlie_0.png", "circuscharlie_1.png", "circuscharlie_2.png", "circuscharlie_3.png", "circuscharlie_4.png" ],
+  "readmeFilename" : "circuscharlie_readme.txt",
+  "patchFilename" : "circuscharlie_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5120",
+  "releasedBy" : "Wave",
+  "name" : "Nintendo World Cup",
+  "altName" : "Nekketsu Koukou Dodgeball Bu: Soccer Hen",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Nintendo World Cup (USA).nes\\r\\nMD5: fc0cd7c1b00d73d18e1f8af142c98fb8\\r\\nSHA1: 75a2abb0d34be656ee98a9417f85a90ea4a2cbf8\\r\\nCRC32: 88b55f68 262160 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\10\\27",
+  "gameDate" : "18 May 1990",
+  "version" : "1.0",
+  "downloads" : "86",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\nintendoworldcup\\5120_wave",
+  "imagesFilenames" : [ "nintendoworldcup_0.png", "nintendoworldcup_1.png", "nintendoworldcup_2.png", "nintendoworldcup_3.png", "nintendoworldcup_4.png" ],
+  "readmeFilename" : "nintendoworldcup_readme.txt",
+  "patchFilename" : "nintendoworldcup_patch.zip",
+  "notes" : null
+}

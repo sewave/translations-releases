@@ -1,0 +1,19 @@
+{
+  "id" : "3246",
+  "releasedBy" : "Wave",
+  "name" : "Hook",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Hook (U) (29252).smc 1.048.576 bytes\\r\\nCRC32: 82ff23bc\\r\\nMD5: 77742b53c27ac1db25af2ea8ace3d63f\\r\\nSHA1: b2ebb39efcf8a09450fb3c4731812a7c2541d336",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\10\\22",
+  "gameDate" : "17 July 1992",
+  "version" : "1.0",
+  "downloads" : "418",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\hook\\3246_wave",
+  "imagesFilenames" : [ "hook_0.png", "hook_1.png", "hook_2.png", "hook_3.png", "hook_4.png" ],
+  "readmeFilename" : "hook_readme.txt",
+  "patchFilename" : "hook_patch.zip",
+  "notes" : null
+}

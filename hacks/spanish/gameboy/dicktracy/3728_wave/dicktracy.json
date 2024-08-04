@@ -1,0 +1,19 @@
+{
+  "id" : "3728",
+  "releasedBy" : "Wave",
+  "name" : "Dick Tracy",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Dick Tracy (U).gb 131.072 bytes\\r\\nMD5: ab5f50d0e31a07e19739453bb9a2d328\\r\\nSHA1: 906361b2066c2b48500b9b709f7b4ed1018309c0\\r\\nCRC32: a308b86b",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\08\\03",
+  "gameDate" : "December 1991",
+  "version" : "1.0",
+  "downloads" : "115",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\dicktracy\\3728_wave",
+  "imagesFilenames" : [ "dicktracy_0.png", "dicktracy_1.png", "dicktracy_2.png", "dicktracy_3.png", "dicktracy_4.png" ],
+  "readmeFilename" : "dicktracy_readme.txt",
+  "patchFilename" : "dicktracy_patch.zip",
+  "notes" : null
+}

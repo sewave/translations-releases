@@ -1,0 +1,19 @@
+{
+  "id" : "4810",
+  "releasedBy" : "Wave",
+  "name" : "Top Gun",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Top Gun (U) (PRG1) [!].nes\\r\\nMD5: ac956bd3edb35ccc907561d5a98735da\\r\\nSHA1: 6e233846ca3bb2f50b0176cc31f5cd9667a635f5\\r\\nCRC32: 0c9a67a8 131088 bytes",
+  "genre" : "Simulación",
+  "releaseDate" : "2019\\07\\11",
+  "gameDate" : "November 1987",
+  "version" : "1.0",
+  "downloads" : "94",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\topgun\\4810_wave",
+  "imagesFilenames" : [ "topgun_0.png", "topgun_1.png", "topgun_2.png", "topgun_3.png", "topgun_4.png" ],
+  "readmeFilename" : "topgun_readme.txt",
+  "patchFilename" : "topgun_patch.zip",
+  "notes" : null
+}

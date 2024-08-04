@@ -1,0 +1,19 @@
+{
+  "id" : "5295",
+  "releasedBy" : "Wave",
+  "name" : "Elevator Action",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Elevator Action (1985) (Taito) (J).rom\\r\\nMD5: 4ececca3e5358198c39747d08d3e5f66\\r\\nSHA1: 6cbddd118afe63e79cb8a40f8aa879df1c7590e1\\r\\nCRC32: 39886593 32768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\12\\12",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "31",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\elevatoraction\\5295_wave",
+  "imagesFilenames" : [ "elevatoraction_0.png", "elevatoraction_1.png", "elevatoraction_2.png", "elevatoraction_3.png", "elevatoraction_4.png" ],
+  "readmeFilename" : "elevatoraction_readme.txt",
+  "patchFilename" : "elevatoraction_patch.zip",
+  "notes" : null
+}

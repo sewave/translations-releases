@@ -1,0 +1,19 @@
+{
+  "id" : "4348",
+  "releasedBy" : "Wave",
+  "name" : "Wrecking Crew",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Wrecking Crew (W) [!].nes\\r\\nMD5: b9abb75ac20aae1f6ba5a5da178d69e0\\r\\nSHA1: 31635f1a5255fe8954c5a275b067f603bb7af408\\r\\nCRC32: 658d4fd4 40.976 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\03\\28",
+  "gameDate" : "18 June 1985",
+  "version" : "1.0",
+  "downloads" : "119",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\wreckingcrew\\4348_wave",
+  "imagesFilenames" : [ "wreckingcrew_0.png", "wreckingcrew_1.png", "wreckingcrew_2.png", "wreckingcrew_3.png", "wreckingcrew_4.png" ],
+  "readmeFilename" : "wreckingcrew_readme.txt",
+  "patchFilename" : "wreckingcrew_patch.zip",
+  "notes" : null
+}

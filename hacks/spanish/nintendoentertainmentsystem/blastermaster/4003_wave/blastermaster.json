@@ -1,0 +1,19 @@
+{
+  "id" : "4003",
+  "releasedBy" : "Wave",
+  "name" : "Blaster Master",
+  "altName" : "Chou-Wakusei Senki MetaFight",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Blaster Master (U) [!].nes\\r\\nMD5: 9c96408f7a7aa0da2c3b723759699506\\r\\nSHA1: adb89b4923bb34805a39c141baf227849a27ce41\\r\\nCRC32: 52bcf64a 262.160 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2018\\11\\16",
+  "gameDate" : "17 June 1988",
+  "version" : "1.0",
+  "downloads" : "269",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\blastermaster\\4003_wave",
+  "imagesFilenames" : [ "blastermaster_0.png", "blastermaster_1.png", "blastermaster_2.png", "blastermaster_3.png", "blastermaster_4.png" ],
+  "readmeFilename" : "blastermaster_readme.txt",
+  "patchFilename" : "blastermaster_patch.zip",
+  "notes" : null
+}

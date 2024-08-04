@@ -1,0 +1,19 @@
+{
+  "id" : "3698",
+  "releasedBy" : "Wave",
+  "name" : "Life Force",
+  "altName" : "Salamander",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Salamander (J) [!].nes 131.088 bytes\\r\\nCRC32: bf822264\\r\\nMD5: 7a7039c30d9c5ce48bf9022e894c0ffa\\r\\nSHA1: a4765f3c10d56d0a727b2209c83768807f36c666",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\07\\13",
+  "gameDate" : "25 September 1987",
+  "version" : "1.0",
+  "downloads" : "181",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\lifeforce\\3698_wave",
+  "imagesFilenames" : [ "lifeforce_0.png", "lifeforce_1.png", "lifeforce_2.png", "lifeforce_3.png", "lifeforce_4.png" ],
+  "readmeFilename" : "lifeforce_readme.txt",
+  "patchFilename" : "lifeforce_patch.zip",
+  "notes" : null
+}

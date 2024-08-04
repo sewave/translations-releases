@@ -1,0 +1,19 @@
+{
+  "id" : "2684",
+  "releasedBy" : "Wave",
+  "name" : "Dragon Warrior III",
+  "altName" : "Dragon Quest III: Soshite Densetsu e...",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Dragon Warrior III (U).nes 524.304 bytes\\r\\nCRC32: 0eb63e83\\r\\nMD5: 3ef863d2df43e805bad70f74f0ccd909\\r\\nSHA1: a867549bad1cba4cd6f6dd51743e78596b982bd8",
+  "genre" : "Rol",
+  "releaseDate" : "2016\\08\\02",
+  "gameDate" : "10 February 1988",
+  "version" : "0.9",
+  "downloads" : "1032",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\dragonwarrioriii\\2684_wave",
+  "imagesFilenames" : [ "dragonwarrioriii_0.png", "dragonwarrioriii_1.png", "dragonwarrioriii_2.png", "dragonwarrioriii_3.png", "dragonwarrioriii_4.png" ],
+  "readmeFilename" : "dragonwarrioriii_readme.txt",
+  "patchFilename" : "dragonwarrioriii_patch.zip",
+  "notes" : null
+}

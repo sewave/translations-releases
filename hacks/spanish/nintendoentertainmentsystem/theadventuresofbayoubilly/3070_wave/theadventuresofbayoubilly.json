@@ -1,0 +1,19 @@
+{
+  "id" : "3070",
+  "releasedBy" : "Wave",
+  "name" : "The Adventures of Bayou Billy",
+  "altName" : "Mad City",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Mad City (J) [!].nes 262.160 bytes\\r\\nCRC32: b28d64fc\\r\\nMD5: ceae892a71b63cbf7534c04cd09f2819\\r\\nSHA1: fcad4b5bc48e2f6e46f081e01d6cefa33a3a7e0c",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\03\\01",
+  "gameDate" : "12 August 1988",
+  "version" : "1.2",
+  "downloads" : "303",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\theadventuresofbayoubilly\\3070_wave",
+  "imagesFilenames" : [ "theadventuresofbayoubilly_0.png", "theadventuresofbayoubilly_1.png", "theadventuresofbayoubilly_2.png", "theadventuresofbayoubilly_3.png", "theadventuresofbayoubilly_4.png" ],
+  "readmeFilename" : "theadventuresofbayoubilly_readme.txt",
+  "patchFilename" : "theadventuresofbayoubilly_patch.zip",
+  "notes" : null
+}

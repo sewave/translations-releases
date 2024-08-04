@@ -1,0 +1,19 @@
+{
+  "id" : "3684",
+  "releasedBy" : "Wave",
+  "name" : "Commando",
+  "altName" : "Senjou no Ookami",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Commando (U) [!].nes 131.088 bytes\\r\\nCRC32: 41492df6\\r\\nMD5: 04763afda47b3d10375059c7dbed8bd2\\r\\nSHA1: b665b128215f7cf0dcdf91e7ba75fc406885216c",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\07\\06",
+  "gameDate" : "27 September 1986",
+  "version" : "1.0",
+  "downloads" : "196",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\commando\\3684_wave",
+  "imagesFilenames" : [ "commando_0.png", "commando_1.png", "commando_2.png", "commando_3.png", "commando_4.png" ],
+  "readmeFilename" : "commando_readme.txt",
+  "patchFilename" : "commando_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5096",
+  "releasedBy" : "Wave",
+  "name" : "George Foreman's KO Boxing",
+  "altName" : "Heavyweight Champ",
+  "system" : "Sega Game Gear",
+  "romDesc" : "George Foreman's KO Boxing (USA, Europe).gg\\r\\nMD5: c5d2aadb57d9827a24c69a80014b4ecf\\r\\nSHA1: 5b3e3e3b88079108a4379c2428e70007d62c7b51\\r\\nCRC32: 58b44585 131072 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\10\\21",
+  "gameDate" : "27 December 1991",
+  "version" : "1.0",
+  "downloads" : "39",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\georgeforemanskoboxing\\5096_wave",
+  "imagesFilenames" : [ "georgeforemanskoboxing_0.png", "georgeforemanskoboxing_1.png", "georgeforemanskoboxing_2.png", "georgeforemanskoboxing_3.png", "georgeforemanskoboxing_4.png" ],
+  "readmeFilename" : "georgeforemanskoboxing_readme.txt",
+  "patchFilename" : "georgeforemanskoboxing_patch.zip",
+  "notes" : null
+}

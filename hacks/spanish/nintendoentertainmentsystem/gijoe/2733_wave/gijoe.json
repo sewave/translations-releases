@@ -1,0 +1,19 @@
+{
+  "id" : "2733",
+  "releasedBy" : "Wave",
+  "name" : "G.I. Joe",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "G.I. Joe (U) [!].nes 393.232 bytes\\r\\nCRC32: 394fd25a\\r\\nMD5: 13c45cfa08f421655737394539055567\\r\\nSHA1: d64aee0326d862664eeb35a9010cae31217a0c69",
+  "genre" : "Acción",
+  "releaseDate" : "2016\\09\\20",
+  "gameDate" : "January 1991",
+  "version" : "1.0",
+  "downloads" : "494",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\gijoe\\2733_wave",
+  "imagesFilenames" : [ "gijoe_0.png", "gijoe_1.png", "gijoe_2.png", "gijoe_3.png", "gijoe_4.png" ],
+  "readmeFilename" : "gijoe_readme.txt",
+  "patchFilename" : "gijoe_patch.zip",
+  "notes" : null
+}

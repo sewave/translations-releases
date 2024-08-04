@@ -1,0 +1,19 @@
+{
+  "id" : "3352",
+  "releasedBy" : "Wave",
+  "name" : "The Incredible Hulk",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Incredible Hulk, The (U) [!].gg 524.288 bytes\\r\\nCRC32: d7055f88\\r\\nMD5: 7b239c8ae257cb78c46a8affa9bc8226\\r\\nSHA1: 0410dafce21e5f40263ccb39871188ca84f7dd22",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\12\\23",
+  "gameDate" : "1995",
+  "version" : "1.0",
+  "downloads" : "140",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\theincrediblehulk\\3352_wave",
+  "imagesFilenames" : [ "theincrediblehulk_0.png", "theincrediblehulk_1.png", "theincrediblehulk_2.png", "theincrediblehulk_3.png", "theincrediblehulk_4.png" ],
+  "readmeFilename" : "theincrediblehulk_readme.txt",
+  "patchFilename" : "theincrediblehulk_patch.zip",
+  "notes" : null
+}

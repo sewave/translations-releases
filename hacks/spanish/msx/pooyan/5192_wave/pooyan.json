@@ -1,0 +1,19 @@
+{
+  "id" : "5192",
+  "releasedBy" : "Wave",
+  "name" : "Pooyan",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Pooyan (1985) (Hudson) (J).rom\\r\\nMD5: f38f3aa7da1635cb8a6397304bd3a0eb\\r\\nSHA1: 692a55393e8eef0800a612c01456e9cecd9c1418\\r\\nCRC32: 558a09f6 16384 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\12",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "31",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\pooyan\\5192_wave",
+  "imagesFilenames" : [ "pooyan_0.png", "pooyan_1.png", "pooyan_2.png", "pooyan_3.png", "pooyan_4.png" ],
+  "readmeFilename" : "pooyan_readme.txt",
+  "patchFilename" : "pooyan_patch.zip",
+  "notes" : null
+}

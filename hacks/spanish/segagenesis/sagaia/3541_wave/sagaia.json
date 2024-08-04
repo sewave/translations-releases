@@ -1,0 +1,19 @@
+{
+  "id" : "3541",
+  "releasedBy" : "Wave",
+  "name" : "Sagaia",
+  "altName" : "Darius II",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Sagaia (U) [c][!].gen 1.048.576 bytes\\r\\nCRC32: f1e22f43\\r\\nMD5: c9ab9dd499c7d56772fccbd2ec2ae465\\r\\nSHA1: 0aa2632da5ec3c1db21b273bcb8630d84b7bb805",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\04\\13",
+  "gameDate" : "20 December 1990",
+  "version" : "1.0",
+  "downloads" : "254",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\sagaia\\3541_wave",
+  "imagesFilenames" : [ "sagaia_0.png", "sagaia_1.png", "sagaia_2.png", "sagaia_3.png", "sagaia_4.png" ],
+  "readmeFilename" : "sagaia_readme.txt",
+  "patchFilename" : "sagaia_patch.zip",
+  "notes" : null
+}

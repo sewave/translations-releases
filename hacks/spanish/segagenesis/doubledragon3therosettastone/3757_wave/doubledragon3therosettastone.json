@@ -1,0 +1,19 @@
+{
+  "id" : "3757",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon 3: The Rosetta Stone",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Double Dragon 3 - The Rosetta Stone (UE) [!].gen 1.048.576 bytes\\r\\nMD5: 783a70fd1a6339d947a2ba8556bd7bba\\r\\nSHA1: 663dfeebd21409942bcc446633b9b9f0dd238aa8\\r\\nCRC32: b36ab75c",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\08\\17",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "275",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\doubledragon3therosettastone\\3757_wave",
+  "imagesFilenames" : [ "doubledragon3therosettastone_0.png", "doubledragon3therosettastone_1.png", "doubledragon3therosettastone_2.png", "doubledragon3therosettastone_3.png", "doubledragon3therosettastone_4.png" ],
+  "readmeFilename" : "doubledragon3therosettastone_readme.txt",
+  "patchFilename" : "doubledragon3therosettastone_patch.zip",
+  "notes" : null
+}

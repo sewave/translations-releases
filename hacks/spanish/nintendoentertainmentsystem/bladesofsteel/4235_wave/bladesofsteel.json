@@ -1,0 +1,19 @@
+{
+  "id" : "4235",
+  "releasedBy" : "Wave",
+  "name" : "Blades of Steel",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Blades of Steel (U) [!].nes\\r\\nMD5: 46ee7db0d4c3d4b77512ee1db6f10ae1\\r\\nSHA1: 1aa1e36483d766ece1e8a72409bf12397ff262d6\\r\\nCRC32: b9bcf910 131.088 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\02\\05",
+  "gameDate" : "December 1988",
+  "version" : "1.0",
+  "downloads" : "146",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\bladesofsteel\\4235_wave",
+  "imagesFilenames" : [ "bladesofsteel_0.png", "bladesofsteel_1.png", "bladesofsteel_2.png", "bladesofsteel_3.png", "bladesofsteel_4.png" ],
+  "readmeFilename" : "bladesofsteel_readme.txt",
+  "patchFilename" : "bladesofsteel_patch.zip",
+  "notes" : null
+}

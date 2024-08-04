@@ -1,0 +1,19 @@
+{
+  "id" : "3832",
+  "releasedBy" : "Wave",
+  "name" : "Mortal Kombat II",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Mortal Kombat II (U) [!].gb\\r\\nMD5: ce2927987765182b9c69f26f758656e9\\r\\nSHA1: b8d400ee3d78a38f721f97e5222108d3586d2e63\\r\\nCRC32: bfaeadd0 262.144 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2018\\09\\21",
+  "gameDate" : "September 1994",
+  "version" : "1.0",
+  "downloads" : "111",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\mortalkombatii\\3832_wave",
+  "imagesFilenames" : [ "mortalkombatii_0.png", "mortalkombatii_1.png", "mortalkombatii_2.png", "mortalkombatii_3.png", "mortalkombatii_4.png" ],
+  "readmeFilename" : "mortalkombatii_readme.txt",
+  "patchFilename" : "mortalkombatii_patch.zip",
+  "notes" : null
+}

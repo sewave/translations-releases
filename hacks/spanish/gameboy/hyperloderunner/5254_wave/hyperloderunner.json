@@ -1,0 +1,19 @@
+{
+  "id" : "5254",
+  "releasedBy" : "Wave",
+  "name" : "Hyper Lode Runner",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Hyper Lode Runner (JU) [!].gb\\r\\nMD5: dc79b733997e469e961e2d850448db23\\r\\nSHA1: 261da795c7b4155f1b8083acc55da78699c8a0de\\r\\nCRC32: b3a86164 32768 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\12\\01",
+  "gameDate" : "21 September 1989",
+  "version" : "1.0",
+  "downloads" : "50",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\hyperloderunner\\5254_wave",
+  "imagesFilenames" : [ "hyperloderunner_0.png", "hyperloderunner_1.png", "hyperloderunner_2.png", "hyperloderunner_3.png", "hyperloderunner_4.png" ],
+  "readmeFilename" : "hyperloderunner_readme.txt",
+  "patchFilename" : "hyperloderunner_patch.zip",
+  "notes" : null
+}

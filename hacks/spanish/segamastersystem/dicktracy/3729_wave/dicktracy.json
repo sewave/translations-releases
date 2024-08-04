@@ -1,0 +1,19 @@
+{
+  "id" : "3729",
+  "releasedBy" : "Wave",
+  "name" : "Dick Tracy",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Dick Tracy (UE) [!].sms 262.144 bytes\\r\\nMD5: 1dcaf7d1ea7caaaa716f0ec43c3f828a\\r\\nSHA1: b788f0394aafbc213e6fa6dcfae40ebb7659f533\\r\\nCRC32: f6fab48d",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\08\\03",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "109",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\dicktracy\\3729_wave",
+  "imagesFilenames" : [ "dicktracy_0.png", "dicktracy_1.png", "dicktracy_2.png", "dicktracy_3.png", "dicktracy_4.png" ],
+  "readmeFilename" : "dicktracy_readme.txt",
+  "patchFilename" : "dicktracy_patch.zip",
+  "notes" : null
+}

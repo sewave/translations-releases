@@ -1,0 +1,19 @@
+{
+  "id" : "3050",
+  "releasedBy" : "Wave",
+  "name" : "RoboCop 3",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Robocop 3 (U) [!].gg 262.144 bytes\\r\\nCRC32: 069a0704\\r\\nMD5: ae7121e6ce2831e1b700515b6060acaf\\r\\nSHA1: 8de7c9ac95b734af9e3fbe5700ac4c6599799702",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\05\\29",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "137",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\robocop3\\3050_wave",
+  "imagesFilenames" : [ "robocop3_0.png", "robocop3_1.png", "robocop3_2.png", "robocop3_3.png", "robocop3_4.png" ],
+  "readmeFilename" : "robocop3_readme.txt",
+  "patchFilename" : "robocop3_patch.zip",
+  "notes" : null
+}

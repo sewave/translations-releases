@@ -1,0 +1,19 @@
+{
+  "id" : "5308",
+  "releasedBy" : "Wave",
+  "name" : "The Legend of Kage",
+  "altName" : "Kage no Densetsu",
+  "system" : "MSX",
+  "romDesc" : "Kageno Densetsu (1986) (Taito) (J).rom\\r\\nMD5: 8e59c543f38bf4ca3986e7117d68f87d\\r\\nSHA1: ffc8c57b26f2f495bd77efac5b815efe9c25336c\\r\\nCRC32: 69367e10 32768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\12\\16",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "33",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\thelegendofkage\\5308_wave",
+  "imagesFilenames" : [ "thelegendofkage_0.png", "thelegendofkage_1.png", "thelegendofkage_2.png", "thelegendofkage_3.png", "thelegendofkage_4.png" ],
+  "readmeFilename" : "thelegendofkage_readme.txt",
+  "patchFilename" : "thelegendofkage_patch.zip",
+  "notes" : null
+}

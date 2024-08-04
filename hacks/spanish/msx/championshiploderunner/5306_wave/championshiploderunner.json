@@ -1,0 +1,19 @@
+{
+  "id" : "5306",
+  "releasedBy" : "Wave",
+  "name" : "Championship Lode Runner",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Championship Lode Runner (1985) (Sony) (J).rom\\r\\nMD5: 4180cc41bf2efb3033c2e7ef867cc87e\\r\\nSHA1: 650381b96f36e74a4eaf5ae3f924f6f8deac7100\\r\\nCRC32: 2f75e79c 32768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\12\\16",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "26",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\championshiploderunner\\5306_wave",
+  "imagesFilenames" : [ "championshiploderunner_0.png", "championshiploderunner_1.png", "championshiploderunner_2.png" ],
+  "readmeFilename" : "championshiploderunner_readme.txt",
+  "patchFilename" : "championshiploderunner_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4299",
+  "releasedBy" : "Wave",
+  "name" : "Forgotten Worlds",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Forgotten Worlds (E) [!].sms\\r\\nMD5: 68cc1711bb89921da1f215f323f3bb2d\\r\\nSHA1: 3f034429b23b6976c961595c1bcbd68826cb760d\\r\\nCRC32: 38c53916 262.144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\03\\06",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "114",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\forgottenworlds\\4299_wave",
+  "imagesFilenames" : [ "forgottenworlds_0.png", "forgottenworlds_1.png", "forgottenworlds_2.png", "forgottenworlds_3.png", "forgottenworlds_4.png" ],
+  "readmeFilename" : "forgottenworlds_readme.txt",
+  "patchFilename" : "forgottenworlds_patch.zip",
+  "notes" : null
+}

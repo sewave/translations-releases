@@ -1,0 +1,19 @@
+{
+  "id" : "2922",
+  "releasedBy" : "Wave",
+  "name" : "Conquest of the Crystal Palace",
+  "altName" : "Matendo Douji Tendou: Heavenly Child",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Conquest of the Crystal Palace (U) [!].nes 262.160 bytes\\r\\nCRC32: 0a362909\\r\\nMD5: edb710ff29cafdc131a6c26c952829d2\\r\\nSHA1: 9369adbb9bdc25861877285773d14c747e48c500",
+  "genre" : "Acción",
+  "releaseDate" : "2017\\03\\20",
+  "gameDate" : "24 August 1990",
+  "version" : "1.0",
+  "downloads" : "352",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\conquestofthecrystalpalace\\2922_wave",
+  "imagesFilenames" : [ "conquestofthecrystalpalace_0.png", "conquestofthecrystalpalace_1.png", "conquestofthecrystalpalace_2.png", "conquestofthecrystalpalace_3.png", "conquestofthecrystalpalace_4.png" ],
+  "readmeFilename" : "conquestofthecrystalpalace_readme.txt",
+  "patchFilename" : "conquestofthecrystalpalace_patch.zip",
+  "notes" : null
+}

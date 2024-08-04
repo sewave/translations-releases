@@ -1,0 +1,19 @@
+{
+  "id" : "3688",
+  "releasedBy" : "Wave",
+  "name" : "Streets of Rage 2",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Streets of Rage 2 (E) [!].sms 524.288 bytes\\r\\nCRC32: 04e9c089\\r\\nMD5: e680b108e67caf02e4fb77d419f48358\\r\\nSHA1: cc18171a860711f6ad18ff89254dd7bd05c54654",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\07\\06",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "180",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\streetsofrage2\\3688_wave",
+  "imagesFilenames" : [ "streetsofrage2_0.png", "streetsofrage2_1.png", "streetsofrage2_2.png", "streetsofrage2_3.png", "streetsofrage2_4.png" ],
+  "readmeFilename" : "streetsofrage2_readme.txt",
+  "patchFilename" : "streetsofrage2_patch.zip",
+  "notes" : null
+}

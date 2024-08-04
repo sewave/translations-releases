@@ -1,0 +1,19 @@
+{
+  "id" : "4460",
+  "releasedBy" : "Wave",
+  "name" : "Cyber Core",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Cyber Core (U).pce\\r\\nMD5: c16b1aee2d7023b410dd5e513c4aec0b\\r\\nSHA1: d0765259b06b12dfda66d8b861954ebc62022440\\r\\nCRC32: 4cfb6e3e 393.216 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\25",
+  "gameDate" : "09 March 1990",
+  "version" : "1.0",
+  "downloads" : "75",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\cybercore\\4460_wave",
+  "imagesFilenames" : [ "cybercore_0.png", "cybercore_1.png", "cybercore_2.png", "cybercore_3.png", "cybercore_4.png" ],
+  "readmeFilename" : "cybercore_readme.txt",
+  "patchFilename" : "cybercore_patch.zip",
+  "notes" : null
+}

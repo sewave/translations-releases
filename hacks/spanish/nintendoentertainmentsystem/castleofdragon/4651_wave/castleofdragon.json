@@ -1,0 +1,19 @@
+{
+  "id" : "4651",
+  "releasedBy" : "Wave",
+  "name" : "Castle of Dragon",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Castle of Dragon (U) [!].nes\\r\\nMD5: 57aba10a0955ed8633b841e870351f7d\\r\\nSHA1: 795761bbfa1616d266c17dfbc5ff0f00c41e5275\\r\\nCRC32: 1c24cc9d 131088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\08",
+  "gameDate" : "17 February 1990",
+  "version" : "1.1",
+  "downloads" : "127",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\castleofdragon\\4651_wave",
+  "imagesFilenames" : [ "castleofdragon_0.png", "castleofdragon_1.png", "castleofdragon_2.png", "castleofdragon_3.png", "castleofdragon_4.png" ],
+  "readmeFilename" : "castleofdragon_readme.txt",
+  "patchFilename" : "castleofdragon_patch.zip",
+  "notes" : null
+}

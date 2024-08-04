@@ -1,0 +1,19 @@
+{
+  "id" : "4830",
+  "releasedBy" : "Wave",
+  "name" : "Star Wars (JVC)",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Star Wars (U) [!].nes\\r\\nMD5: 2196b9d3dcce0a29d82a707f63761bc6\\r\\nSHA1: 372cbd8991c8a1d5ed15189b47d5990fba5d4485\\r\\nCRC32: eb506bf9 262160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\07\\15",
+  "gameDate" : "15 November 1991",
+  "version" : "1.0",
+  "downloads" : "119",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\starwarsjvc\\4830_wave",
+  "imagesFilenames" : [ "starwarsjvc_0.png", "starwarsjvc_1.png", "starwarsjvc_2.png", "starwarsjvc_3.png", "starwarsjvc_4.png" ],
+  "readmeFilename" : "starwarsjvc_readme.txt",
+  "patchFilename" : "starwarsjvc_patch.zip",
+  "notes" : null
+}

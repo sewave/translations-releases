@@ -1,0 +1,19 @@
+{
+  "id" : "5043",
+  "releasedBy" : "Wave",
+  "name" : "Killer Instinct",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Killer Instinct (USA, Europe) (SGB Enhanced).gb\\r\\nMD5: ba8628a70339843c2ee8a294b840e8d6\\r\\nSHA1: 65ae38588abc0e699b244b0854f698ddf72c7b46\\r\\nCRC32: ac793b54 524288 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\10\\01",
+  "gameDate" : "November 1995",
+  "version" : "1.0",
+  "downloads" : "71",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\killerinstinct\\5043_wave",
+  "imagesFilenames" : [ "killerinstinct_0.png", "killerinstinct_1.png", "killerinstinct_2.png", "killerinstinct_3.png", "killerinstinct_4.png" ],
+  "readmeFilename" : "killerinstinct_readme.txt",
+  "patchFilename" : "killerinstinct_patch.zip",
+  "notes" : null
+}

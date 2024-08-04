@@ -1,0 +1,19 @@
+{
+  "id" : "4797",
+  "releasedBy" : "Wave",
+  "name" : "Alfred Chicken",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Alfred Chicken (USA).gb\\r\\nMD5: cac921f8eec70d5ccd8a2db8f473a084\\r\\nSHA1: 80c39d93ca58d0d6144fe7f7bdd47c3a4fcf0438\\r\\nCRC32: 3b9c3bc6 131072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\07\\08",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "69",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\alfredchicken\\4797_wave",
+  "imagesFilenames" : [ "alfredchicken_0.png", "alfredchicken_1.png", "alfredchicken_2.png", "alfredchicken_3.png", "alfredchicken_4.png" ],
+  "readmeFilename" : "alfredchicken_readme.txt",
+  "patchFilename" : "alfredchicken_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4358",
+  "releasedBy" : "Wave",
+  "name" : "Elevator Action",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Elevator Action (U) [!].gb\\r\\nMD5: 7876945a990ea94ac6b1fe5cf01bc00f\\r\\nSHA1: c0c9de672a31f314e98392160fc343cf46ee98b9\\r\\nCRC32: b749a927 65.536 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\02",
+  "gameDate" : "09 August 1991",
+  "version" : "1.0",
+  "downloads" : "74",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\elevatoraction\\4358_wave",
+  "imagesFilenames" : [ "elevatoraction_0.png", "elevatoraction_1.png", "elevatoraction_2.png", "elevatoraction_3.png", "elevatoraction_4.png" ],
+  "readmeFilename" : "elevatoraction_readme.txt",
+  "patchFilename" : "elevatoraction_patch.zip",
+  "notes" : null
+}

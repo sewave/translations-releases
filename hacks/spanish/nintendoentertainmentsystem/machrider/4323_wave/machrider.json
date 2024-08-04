@@ -1,0 +1,19 @@
+{
+  "id" : "4323",
+  "releasedBy" : "Wave",
+  "name" : "Mach Rider",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Mach Rider (JU) (PRG0) [!].nes\\r\\nMD5: 3437293b6b88e5804fb49328bded4ad8\\r\\nSHA1: a202684e317adacd50db0e6cb6902ecd4334fc06\\r\\nCRC32: bee56098 40.976 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\03\\16",
+  "gameDate" : "18 October 1985",
+  "version" : "1.0",
+  "downloads" : "133",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\machrider\\4323_wave",
+  "imagesFilenames" : [ "machrider_0.png", "machrider_1.png", "machrider_2.png", "machrider_3.png", "machrider_4.png" ],
+  "readmeFilename" : "machrider_readme.txt",
+  "patchFilename" : "machrider_patch.zip",
+  "notes" : null
+}

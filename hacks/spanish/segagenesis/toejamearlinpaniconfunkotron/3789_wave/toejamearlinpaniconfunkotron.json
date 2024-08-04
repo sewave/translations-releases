@@ -1,0 +1,19 @@
+{
+  "id" : "3789",
+  "releasedBy" : "Wave",
+  "name" : "ToeJam & Earl in Panic on Funkotron",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Toejam & Earl in Panic on Funkotron (U) [!].gen 2.097.152 bytes\\r\\nMD5: 7ee9f6a3d28a94d7298bb9813478e504\\r\\nSHA1: 0ea0da09183eb01d030515beeb40c1427c6e1f07\\r\\nCRC32: aa021bdd",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\08\\31",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "343",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\toejamearlinpaniconfunkotron\\3789_wave",
+  "imagesFilenames" : [ "toejamearlinpaniconfunkotron_0.png", "toejamearlinpaniconfunkotron_1.png", "toejamearlinpaniconfunkotron_2.png", "toejamearlinpaniconfunkotron_3.png", "toejamearlinpaniconfunkotron_4.png" ],
+  "readmeFilename" : "toejamearlinpaniconfunkotron_readme.txt",
+  "patchFilename" : "toejamearlinpaniconfunkotron_patch.zip",
+  "notes" : null
+}

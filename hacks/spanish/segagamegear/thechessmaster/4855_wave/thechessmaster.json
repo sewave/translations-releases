@@ -1,0 +1,19 @@
+{
+  "id" : "4855",
+  "releasedBy" : "Wave",
+  "name" : "The Chessmaster",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Chessmaster, The (U) [!].gg\\r\\nMD5: b24d5c5548acb3b35aaf02802b3bb7d5\\r\\nSHA1: daea9a76dedc080b9965cfa32e2ddb1eaaaab0b4\\r\\nCRC32: da811ba6 131072 bytes",
+  "genre" : "Juego de Mesa",
+  "releaseDate" : "2019\\07\\24",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "54",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\thechessmaster\\4855_wave",
+  "imagesFilenames" : [ "thechessmaster_0.png", "thechessmaster_1.png", "thechessmaster_2.png", "thechessmaster_3.png", "thechessmaster_4.png" ],
+  "readmeFilename" : "thechessmaster_readme.txt",
+  "patchFilename" : "thechessmaster_patch.zip",
+  "notes" : null
+}

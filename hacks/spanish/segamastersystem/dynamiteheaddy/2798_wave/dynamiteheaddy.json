@@ -1,0 +1,19 @@
+{
+  "id" : "2798",
+  "releasedBy" : "Wave",
+  "name" : "Dynamite Headdy",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Dynamite Headdy (B) [!].sms 524.288 bytes\\r\\nCRC32: 7db5b0fa\\r\\nMD5: 7f57481d870465fc3a6412d87f0a8e38\\r\\nSHA1: 12877c1c9bfba6462606717cf0a94f700ac970e4",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\11\\21",
+  "gameDate" : "05 August 1994",
+  "version" : "1.0",
+  "downloads" : "255",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\dynamiteheaddy\\2798_wave",
+  "imagesFilenames" : [ "dynamiteheaddy_0.png", "dynamiteheaddy_1.png", "dynamiteheaddy_2.png", "dynamiteheaddy_3.png", "dynamiteheaddy_4.png" ],
+  "readmeFilename" : "dynamiteheaddy_readme.txt",
+  "patchFilename" : "dynamiteheaddy_patch.zip",
+  "notes" : null
+}

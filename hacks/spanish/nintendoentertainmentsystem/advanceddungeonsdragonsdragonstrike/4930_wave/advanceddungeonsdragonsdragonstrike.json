@@ -1,0 +1,19 @@
+{
+  "id" : "4930",
+  "releasedBy" : "Wave",
+  "name" : "Advanced Dungeons & Dragons: Dragon Strike",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Advanced Dungeons & Dragons - Dragon Strike (U) [!].nes\\r\\nMD5: 75869f905c1f78544c65946bba32aa40\\r\\nSHA1: 273f99684dbdfcf27cfca58136132898217bfbc5\\r\\nCRC32: 4c87cdde 524304 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2019\\08\\17",
+  "gameDate" : "July 1992",
+  "version" : "1.0",
+  "downloads" : "119",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\advanceddungeonsdragonsdragonstrike\\4930_wave",
+  "imagesFilenames" : [ "advanceddungeonsdragonsdragonstrike_0.png", "advanceddungeonsdragonsdragonstrike_1.png", "advanceddungeonsdragonsdragonstrike_2.png", "advanceddungeonsdragonsdragonstrike_3.png", "advanceddungeonsdragonsdragonstrike_4.png" ],
+  "readmeFilename" : "advanceddungeonsdragonsdragonstrike_readme.txt",
+  "patchFilename" : "advanceddungeonsdragonsdragonstrike_patch.zip",
+  "notes" : null
+}

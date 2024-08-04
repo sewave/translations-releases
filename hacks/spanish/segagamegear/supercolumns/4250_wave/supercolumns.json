@@ -1,0 +1,19 @@
+{
+  "id" : "4250",
+  "releasedBy" : "Wave",
+  "name" : "Super Columns",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Super Columns (U) [!].gg\\r\\nMD5: 8f1de0caa864beed2a61f391795b0a10\\r\\nSHA1: ce59845e973b7fb7b3b2121b35a95fba5727df62\\r\\nCRC32: 8ba43af3 131.072 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\02\\12",
+  "gameDate" : "1995",
+  "version" : "1.0",
+  "downloads" : "66",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\supercolumns\\4250_wave",
+  "imagesFilenames" : [ "supercolumns_0.png", "supercolumns_1.png", "supercolumns_2.png", "supercolumns_3.png", "supercolumns_4.png" ],
+  "readmeFilename" : "supercolumns_readme.txt",
+  "patchFilename" : "supercolumns_patch.zip",
+  "notes" : null
+}

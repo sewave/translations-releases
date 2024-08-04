@@ -1,0 +1,19 @@
+{
+  "id" : "5007",
+  "releasedBy" : "Wave",
+  "name" : "B-Wings",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "B-Wings (J) [!].nes\\r\\nMD5: 1b24f09725092a2526fde24426eb6bc8\\r\\nSHA1: c0ba99ec176c2082609f4f9705432feb7fc0921c\\r\\nCRC32: 15a4facb 40976 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\09\\16",
+  "gameDate" : "03 June 1986",
+  "version" : "1.0",
+  "downloads" : "108",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\bwings\\5007_wave",
+  "imagesFilenames" : [ "bwings_0.png", "bwings_1.png", "bwings_2.png", "bwings_3.png", "bwings_4.png" ],
+  "readmeFilename" : "bwings_readme.txt",
+  "patchFilename" : "bwings_patch.zip",
+  "notes" : null
+}

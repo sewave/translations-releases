@@ -1,0 +1,19 @@
+{
+  "id" : "4047",
+  "releasedBy" : "Wave",
+  "name" : "Ms. Pac-Man",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Ms. Pac-Man (U).smc\\r\\nMD5: f62625b0f5b12482d31f2fc5e7097410\\r\\nSHA1: 5cf53b3706560e9b3b3ffb2ea688b7ff95475969\\r\\nCRC32: 74d210d3 262.144 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\12\\01",
+  "gameDate" : "September 1996",
+  "version" : "1.0",
+  "downloads" : "173",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\mspacman\\4047_wave",
+  "imagesFilenames" : [ "mspacman_0.png", "mspacman_1.png", "mspacman_2.png", "mspacman_3.png", "mspacman_4.png" ],
+  "readmeFilename" : "mspacman_readme.txt",
+  "patchFilename" : "mspacman_patch.zip",
+  "notes" : null
+}

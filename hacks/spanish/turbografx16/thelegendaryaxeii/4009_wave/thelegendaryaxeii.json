@@ -1,0 +1,19 @@
+{
+  "id" : "4009",
+  "releasedBy" : "Wave",
+  "name" : "The Legendary Axe II",
+  "altName" : "Ankoku Densetsu",
+  "system" : "PC Engine",
+  "romDesc" : "Legendary Axe II, The (USA).pce\\r\\nMD5: fbcbb34f678f6f70795bde96d295bc2f\\r\\nSHA1: 3d537fbd2a7181639d297b829ce3f7d7556e831b\\r\\nCRC32: 220ebf91 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\16",
+  "gameDate" : "07 September 1990",
+  "version" : "1.0",
+  "downloads" : "142",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\thelegendaryaxeii\\4009_wave",
+  "imagesFilenames" : [ "thelegendaryaxeii_0.png", "thelegendaryaxeii_1.png", "thelegendaryaxeii_2.png", "thelegendaryaxeii_3.png", "thelegendaryaxeii_4.png" ],
+  "readmeFilename" : "thelegendaryaxeii_readme.txt",
+  "patchFilename" : "thelegendaryaxeii_patch.zip",
+  "notes" : null
+}

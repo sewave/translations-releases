@@ -1,0 +1,19 @@
+{
+  "id" : "3426",
+  "releasedBy" : "Wave",
+  "name" : "Animaniacs",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Animaniacs (U) [!].smc 1.048.576 bytes\\r\\nCRC32: cf0f14d2\\r\\nMD5: ff08ca993882bfe2ab860865897bfe77\\r\\nSHA1: edc84730448268ecf1271681bc789feef89eca38",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\02\\03",
+  "gameDate" : "November 1994",
+  "version" : "1.0",
+  "downloads" : "495",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\animaniacs\\3426_wave",
+  "imagesFilenames" : [ "animaniacs_0.png", "animaniacs_1.png", "animaniacs_2.png", "animaniacs_3.png", "animaniacs_4.png" ],
+  "readmeFilename" : "animaniacs_readme.txt",
+  "patchFilename" : "animaniacs_patch.zip",
+  "notes" : null
+}

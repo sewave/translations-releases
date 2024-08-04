@@ -1,0 +1,19 @@
+{
+  "id" : "3649",
+  "releasedBy" : "Wave",
+  "name" : "Assault City",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Assault City - Light Phaser Version (E) [!].sms 262.144 bytes\\r\\nCRC32: 861b6e79\\r\\nMD5: 4354119b151d9129d31918865db9b1c9\\r\\nSHA1: 835217550ecb92422d887a3353ff43890c71566b",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\06\\15",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "110",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\assaultcity\\3649_wave",
+  "imagesFilenames" : [ "assaultcity_0.png", "assaultcity_1.png", "assaultcity_2.png", "assaultcity_3.png", "assaultcity_4.png" ],
+  "readmeFilename" : "assaultcity_readme.txt",
+  "patchFilename" : "assaultcity_patch.zip",
+  "notes" : null
+}

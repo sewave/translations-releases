@@ -1,0 +1,19 @@
+{
+  "id" : "4752",
+  "releasedBy" : "Wave",
+  "name" : "Tiny Toon Adventures: ACME All-Stars",
+  "altName" : "ACME All Stars",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Tiny Toon Adventures - Acme All-Stars (U) [!].gen\\r\\nMD5: 1def1d7dbe4ab6b9e1fc90093292de6a\\r\\nSHA1: d64736a69fca430fc6a84a60335add0c765feb71\\r\\nCRC32: 2f9faa1d 1048576 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\06\\30",
+  "gameDate" : "1994",
+  "version" : "1.1",
+  "downloads" : "202",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\tinytoonadventuresacmeallstars\\4752_wave",
+  "imagesFilenames" : [ "tinytoonadventuresacmeallstars_0.png", "tinytoonadventuresacmeallstars_1.png", "tinytoonadventuresacmeallstars_2.png", "tinytoonadventuresacmeallstars_3.png", "tinytoonadventuresacmeallstars_4.png" ],
+  "readmeFilename" : "tinytoonadventuresacmeallstars_readme.txt",
+  "patchFilename" : "tinytoonadventuresacmeallstars_patch.zip",
+  "notes" : null
+}

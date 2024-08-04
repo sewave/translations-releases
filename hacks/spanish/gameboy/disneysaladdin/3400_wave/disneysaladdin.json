@@ -1,0 +1,19 @@
+{
+  "id" : "3400",
+  "releasedBy" : "Wave",
+  "name" : "Disney's Aladdin",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Aladdin (U) [S][!].gb 262.144 bytes\\r\\nCRC32: 81b4e56ae235fbb123d7ad4bd7c1d96c3b69eb72\\r\\nMD5: ed5525a71dda6eaf4bbf8d5601b6b3b9\\r\\nSHA1: 81b4e56ae235fbb123d7ad4bd7c1d96c3b69eb72",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\01\\13",
+  "gameDate" : "08 December 1994",
+  "version" : "1.0",
+  "downloads" : "159",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\disneysaladdin\\3400_wave",
+  "imagesFilenames" : [ "disneysaladdin_0.png", "disneysaladdin_1.png", "disneysaladdin_2.png", "disneysaladdin_3.png", "disneysaladdin_4.png" ],
+  "readmeFilename" : "disneysaladdin_readme.txt",
+  "patchFilename" : "disneysaladdin_patch.zip",
+  "notes" : null
+}

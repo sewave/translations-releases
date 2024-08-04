@@ -1,0 +1,19 @@
+{
+  "id" : "3962",
+  "releasedBy" : "Wave",
+  "name" : "Parodius Da! Shinwa kara Owarai e",
+  "altName" : "Parodius: From Myth to Laughter",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Parodius (E) [!].nes\\r\\nMD5: 74c1c1c1e05af4a65a8137a0670781ad\\r\\nSHA1: 5076177b93fb813d41cb0ff4121b9a8820af9f22\\r\\nCRC32: 22ad4753 262.160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\01",
+  "gameDate" : "30 November 1990",
+  "version" : "1.0",
+  "downloads" : "182",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\parodiusdashinwakaraowaraie\\3962_wave",
+  "imagesFilenames" : [ "parodiusdashinwakaraowaraie_0.png", "parodiusdashinwakaraowaraie_1.png", "parodiusdashinwakaraowaraie_2.png", "parodiusdashinwakaraowaraie_3.png", "parodiusdashinwakaraowaraie_4.png" ],
+  "readmeFilename" : "parodiusdashinwakaraowaraie_readme.txt",
+  "patchFilename" : "parodiusdashinwakaraowaraie_patch.zip",
+  "notes" : null
+}

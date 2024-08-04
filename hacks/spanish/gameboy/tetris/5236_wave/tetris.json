@@ -1,0 +1,19 @@
+{
+  "id" : "5236",
+  "releasedBy" : "Wave",
+  "name" : "Tetris",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Tetris (W) (V1.1) [!].gb\\r\\nMD5: 982ed5d2b12a0377eb14bcdc4123744e\\r\\nSHA1: 74591cc9501af93873f9a5d3eb12da12c0723bbc\\r\\nCRC32: 46df91ad 32768 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\11\\27",
+  "gameDate" : "14 June 1989",
+  "version" : "1.0",
+  "downloads" : "69",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\tetris\\5236_wave",
+  "imagesFilenames" : [ "tetris_0.png", "tetris_1.png", "tetris_2.png", "tetris_3.png", "tetris_4.png" ],
+  "readmeFilename" : "tetris_readme.txt",
+  "patchFilename" : "tetris_patch.zip",
+  "notes" : null
+}

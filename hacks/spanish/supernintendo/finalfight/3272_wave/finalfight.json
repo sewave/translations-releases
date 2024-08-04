@@ -1,0 +1,19 @@
+{
+  "id" : "3272",
+  "releasedBy" : "Wave",
+  "name" : "Final Fight",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Final Fight (U).smc 1.048.576 bytes\\r\\nCRC32: 4cab21db\\r\\nMD5: f638224ce95e2101c2948edf7569ac73\\r\\nSHA1: 6ca2ac5916b3201d90f88612d28006cffedde03d",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\11\\04",
+  "gameDate" : "21 December 1990",
+  "version" : "1.0",
+  "downloads" : "472",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\finalfight\\3272_wave",
+  "imagesFilenames" : [ "finalfight_0.png", "finalfight_1.png", "finalfight_2.png", "finalfight_3.png", "finalfight_4.png" ],
+  "readmeFilename" : "finalfight_readme.txt",
+  "patchFilename" : "finalfight_patch.zip",
+  "notes" : null
+}

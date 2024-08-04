@@ -1,0 +1,19 @@
+{
+  "id" : "3083",
+  "releasedBy" : "Wave",
+  "name" : "Art of Fighting",
+  "altName" : "Ryuuko no Ken",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Art of Fighting (U) [!].gen 2.097.152 bytes\\r\\nCRC32: c9a57e07\\r\\nMD5: 3b878b854302596cb197602878d0cf07\\r\\nSHA1: 7603f33a98994e8145c942e1ed28e6b072332324",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2017\\06\\19",
+  "gameDate" : "13 January 1994",
+  "version" : "1.0",
+  "downloads" : "400",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\artoffighting\\3083_wave",
+  "imagesFilenames" : [ "artoffighting_0.png", "artoffighting_1.png", "artoffighting_2.png", "artoffighting_3.png", "artoffighting_4.png" ],
+  "readmeFilename" : "artoffighting_readme.txt",
+  "patchFilename" : "artoffighting_patch.zip",
+  "notes" : null
+}

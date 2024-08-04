@@ -1,0 +1,19 @@
+{
+  "id" : "4924",
+  "releasedBy" : "Wave",
+  "name" : "Krusty's Fun House",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Simpsons, The - Krusty's Fun House (U) [!].gg\\r\\nMD5: 46be87d97e42dceef816dd7a6ad4d018\\r\\nSHA1: a24fd153669e0c38d55ff939e1ea52b6a316ad0d\\r\\nCRC32: d01e784f 262144 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\08\\10",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "51",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\krustysfunhouse\\4924_wave",
+  "imagesFilenames" : [ "krustysfunhouse_0.png", "krustysfunhouse_1.png", "krustysfunhouse_2.png", "krustysfunhouse_3.png", "krustysfunhouse_4.png" ],
+  "readmeFilename" : "krustysfunhouse_readme.txt",
+  "patchFilename" : "krustysfunhouse_patch.zip",
+  "notes" : null
+}

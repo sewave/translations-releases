@@ -1,0 +1,19 @@
+{
+  "id" : "5252",
+  "releasedBy" : "Wave",
+  "name" : "Altered Space: A 3-D Alien Adventure",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Altered Space (U) [!].gb\\r\\nMD5: 012ee0a196c03cca91a43a9eadbecfb6\\r\\nSHA1: ca586c59b2473a8bec2f0f37504cb74e3a1e4d11\\r\\nCRC32: 141675d3 131072 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\12\\01",
+  "gameDate" : "September 1991",
+  "version" : "1.0",
+  "downloads" : "66",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\alteredspacea3dalienadventure\\5252_wave",
+  "imagesFilenames" : [ "alteredspacea3dalienadventure_0.png", "alteredspacea3dalienadventure_1.png", "alteredspacea3dalienadventure_2.png", "alteredspacea3dalienadventure_3.png", "alteredspacea3dalienadventure_4.png" ],
+  "readmeFilename" : "alteredspacea3dalienadventure_readme.txt",
+  "patchFilename" : "alteredspacea3dalienadventure_patch.zip",
+  "notes" : null
+}

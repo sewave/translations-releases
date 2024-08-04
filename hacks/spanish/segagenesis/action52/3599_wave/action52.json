@@ -1,0 +1,19 @@
+{
+  "id" : "3599",
+  "releasedBy" : "Wave",
+  "name" : "Action 52",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Action 52 (Unl) [b3].bin 2.097.152 bytes\\r\\nCRC32: 8809d666\\r\\nMD5: 7db63c82f6840bc7f89c0e8f538b6858\\r\\nSHA1: fe9936517f45bd0262613ce4422ace873112210a",
+  "genre" : "Otros",
+  "releaseDate" : "2018\\05\\18",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "200",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\action52\\3599_wave",
+  "imagesFilenames" : [ "action52_0.png", "action52_1.png", "action52_2.png", "action52_3.png", "action52_4.png" ],
+  "readmeFilename" : "action52_readme.txt",
+  "patchFilename" : "action52_patch.zip",
+  "notes" : null
+}

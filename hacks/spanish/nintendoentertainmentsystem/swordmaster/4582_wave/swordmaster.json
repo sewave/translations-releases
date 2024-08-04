@@ -1,0 +1,19 @@
+{
+  "id" : "4582",
+  "releasedBy" : "Wave",
+  "name" : "Sword Master",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Sword Master (U) [!].nes\\r\\nMD5: 6aeec579039e1cc3fc284d1cc3d713f8\\r\\nSHA1: 8145e4c6520e84ee8be1be883cb07f9c4f25350c\\r\\nCRC32: 6ccd5c11 262160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\05\\25",
+  "gameDate" : "21 December 1990",
+  "version" : "1.0",
+  "downloads" : "83",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\swordmaster\\4582_wave",
+  "imagesFilenames" : [ "swordmaster_0.png", "swordmaster_1.png", "swordmaster_2.png", "swordmaster_3.png", "swordmaster_4.png" ],
+  "readmeFilename" : "swordmaster_readme.txt",
+  "patchFilename" : "swordmaster_patch.zip",
+  "notes" : null
+}

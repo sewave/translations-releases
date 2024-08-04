@@ -1,0 +1,19 @@
+{
+  "id" : "5283",
+  "releasedBy" : "Wave",
+  "name" : "Champion Boxing",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Champion Boxing (1985) (Pony Cannon) (J).rom\\r\\nMD5: 7164b72a06b210804174630131b718a8\\r\\nSHA1: 39cb046a9b6b6ef4e769cdc6fdf36b274cd44039\\r\\nCRC32: c4b7a5b9 32768 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\12\\08",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "30",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\championboxing\\5283_wave",
+  "imagesFilenames" : [ "championboxing_0.png", "championboxing_1.png", "championboxing_2.png", "championboxing_3.png", "championboxing_4.png" ],
+  "readmeFilename" : "championboxing_readme.txt",
+  "patchFilename" : "championboxing_patch.zip",
+  "notes" : null
+}

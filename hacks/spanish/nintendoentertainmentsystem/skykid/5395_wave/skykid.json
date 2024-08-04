@@ -1,0 +1,19 @@
+{
+  "id" : "5395",
+  "releasedBy" : "Wave",
+  "name" : "Sky Kid",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Sky Kid (USA).nes\\r\\nMD5: 83d03598ed42f9d1c7ff08cd8e532224\\r\\nSHA1: 2b19a755dbdf96c5857a5b772137785b906480b3\\r\\nCRC32: 8b190ddc 163856 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2020\\02\\11",
+  "gameDate" : "22 August 1986",
+  "version" : "1.0",
+  "downloads" : "44",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\skykid\\5395_wave",
+  "imagesFilenames" : [ "skykid_0.png", "skykid_1.png", "skykid_2.png", "skykid_3.png", "skykid_4.png" ],
+  "readmeFilename" : "skykid_readme.txt",
+  "patchFilename" : "skykid_patch.zip",
+  "notes" : null
+}

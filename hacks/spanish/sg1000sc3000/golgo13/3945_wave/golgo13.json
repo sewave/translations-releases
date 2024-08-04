@@ -1,0 +1,19 @@
+{
+  "id" : "3945",
+  "releasedBy" : "Wave",
+  "name" : "Golgo 13",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Golgo 13 (SG-1000).sg\\r\\nMD5: cb25a12e86c729f6a51ba3dea91c1547\\r\\nSHA1: bf27536c6ae71b333da8b362479da0a838d0715e\\r\\nCRC32: 0d159ed0 32.768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\10\\25",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "52",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\golgo13\\3945_wave",
+  "imagesFilenames" : [ "golgo13_0.png", "golgo13_1.png", "golgo13_2.png", "golgo13_3.png", "golgo13_4.png" ],
+  "readmeFilename" : "golgo13_readme.txt",
+  "patchFilename" : "golgo13_patch.zip",
+  "notes" : null
+}

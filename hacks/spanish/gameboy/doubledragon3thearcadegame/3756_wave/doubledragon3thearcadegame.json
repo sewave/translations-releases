@@ -1,0 +1,19 @@
+{
+  "id" : "3756",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon 3: The Arcade Game",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Double Dragon 3 (U) [!].gb 131.072 bytes\\r\\nMD5: 469605e02eb10652f8f2afa8c7ebffd5\\r\\nSHA1: c596d069d9fbd6372757e5d669a5144e2eb9d8ff\\r\\nCRC32: fc970aef",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\08\\17",
+  "gameDate" : "August 1992",
+  "version" : "1.0",
+  "downloads" : "135",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\doubledragon3thearcadegame\\3756_wave",
+  "imagesFilenames" : [ "doubledragon3thearcadegame_0.png", "doubledragon3thearcadegame_1.png", "doubledragon3thearcadegame_2.png", "doubledragon3thearcadegame_3.png", "doubledragon3thearcadegame_4.png" ],
+  "readmeFilename" : "doubledragon3thearcadegame_readme.txt",
+  "patchFilename" : "doubledragon3thearcadegame_patch.zip",
+  "notes" : null
+}

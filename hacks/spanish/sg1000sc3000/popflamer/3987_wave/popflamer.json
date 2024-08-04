@@ -1,0 +1,19 @@
+{
+  "id" : "3987",
+  "releasedBy" : "Wave",
+  "name" : "Pop Flamer",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Pop Flamer (SG-1000) [!].sg\\r\\nMD5: 7f841aa0c225662e26ca7a8df20b2eb8\\r\\nSHA1: 84b59a9f855ef5e953c43495d7a15dd78386d0a8\\r\\nCRC32: db6404ba 16.384 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\09",
+  "gameDate" : "1983",
+  "version" : "1.0",
+  "downloads" : "49",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\popflamer\\3987_wave",
+  "imagesFilenames" : [ "popflamer_0.png", "popflamer_1.png", "popflamer_2.png", "popflamer_3.png", "popflamer_4.png" ],
+  "readmeFilename" : "popflamer_readme.txt",
+  "patchFilename" : "popflamer_patch.zip",
+  "notes" : null
+}

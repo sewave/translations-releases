@@ -1,0 +1,19 @@
+{
+  "id" : "4234",
+  "releasedBy" : "Wave",
+  "name" : "Blades of Steel",
+  "altName" : "Konamic Ice Hockey",
+  "system" : "Game Boy",
+  "romDesc" : "Blades of Steel (E) [!].gb\\r\\nMD5: 6e8166c3783d1807d0a8c3b649e583c1\\r\\nSHA1: d030c46bc225fc92aa431276d9ae5812a30d6007\\r\\nCRC32: f7be0002 131.072 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\02\\05",
+  "gameDate" : "August 1991",
+  "version" : "1.0",
+  "downloads" : "76",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\bladesofsteel\\4234_wave",
+  "imagesFilenames" : [ "bladesofsteel_0.png", "bladesofsteel_1.png", "bladesofsteel_2.png", "bladesofsteel_3.png", "bladesofsteel_4.png" ],
+  "readmeFilename" : "bladesofsteel_readme.txt",
+  "patchFilename" : "bladesofsteel_patch.zip",
+  "notes" : null
+}

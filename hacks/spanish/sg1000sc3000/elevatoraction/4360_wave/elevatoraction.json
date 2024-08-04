@@ -1,0 +1,19 @@
+{
+  "id" : "4360",
+  "releasedBy" : "Wave",
+  "name" : "Elevator Action",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Elevator Action (Japan).sg\\r\\nMD5: 23c751fe6bb8bd4f8c0cd9b0d39adecd\\r\\nSHA1: f72b3e44309e7c2e447c46928ce795453102f717\\r\\nCRC32: 5af8f69d 32.768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\04\\02",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "44",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\elevatoraction\\4360_wave",
+  "imagesFilenames" : [ "elevatoraction_0.png", "elevatoraction_1.png", "elevatoraction_2.png", "elevatoraction_3.png", "elevatoraction_4.png" ],
+  "readmeFilename" : "elevatoraction_readme.txt",
+  "patchFilename" : "elevatoraction_patch.zip",
+  "notes" : null
+}

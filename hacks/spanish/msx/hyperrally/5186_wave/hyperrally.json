@@ -1,0 +1,19 @@
+{
+  "id" : "5186",
+  "releasedBy" : "Wave",
+  "name" : "Hyper Rally",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Hyper Rally (1985) (Konami) (J).rom\\r\\nMD5: d302ba993f34a093e64829a8c60a7993\\r\\nSHA1: 7dfe091e02f6c1b21bd65e44eb5052d564d0ef92\\r\\nCRC32: f94d452e 16384 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\11\\12",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "33",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\hyperrally\\5186_wave",
+  "imagesFilenames" : [ "hyperrally_0.png", "hyperrally_1.png", "hyperrally_2.png", "hyperrally_3.png", "hyperrally_4.png" ],
+  "readmeFilename" : "hyperrally_readme.txt",
+  "patchFilename" : "hyperrally_patch.zip",
+  "notes" : null
+}

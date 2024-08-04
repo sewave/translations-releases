@@ -1,0 +1,19 @@
+{
+  "id" : "5082",
+  "releasedBy" : "Wave",
+  "name" : "Dropzone",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Dropzone (Europe).gg\\r\\nMD5: 65df09530f9c8f02ab11982228d7d18e\\r\\nSHA1: b78bc3fe6bfbc7d6f5e85d59d79be19bf7372bcc\\r\\nCRC32: 152f0dcc 131072 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\19",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "44",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\dropzone\\5082_wave",
+  "imagesFilenames" : [ "dropzone_0.png", "dropzone_1.png", "dropzone_2.png", "dropzone_3.png", "dropzone_4.png" ],
+  "readmeFilename" : "dropzone_readme.txt",
+  "patchFilename" : "dropzone_patch.zip",
+  "notes" : null
+}

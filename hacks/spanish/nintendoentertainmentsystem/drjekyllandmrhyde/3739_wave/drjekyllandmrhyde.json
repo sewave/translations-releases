@@ -1,0 +1,19 @@
+{
+  "id" : "3739",
+  "releasedBy" : "Wave",
+  "name" : "Dr. Jekyll and Mr. Hyde",
+  "altName" : "Jekyll Hakase no Houma ga Toki",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Dr. Jekyll and Mr. Hyde (U) [!].nes 163.856 bytes\\r\\nMD5: cdbc8542700f8d0fceab727a52b8fb62\\r\\nSHA1: 3385afbdef21c423b7f1db3ada436a184e94dde1\\r\\nCRC32: c006a41b",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\08\\10",
+  "gameDate" : "08 April 1988",
+  "version" : "1.0",
+  "downloads" : "143",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\drjekyllandmrhyde\\3739_wave",
+  "imagesFilenames" : [ "drjekyllandmrhyde_0.png", "drjekyllandmrhyde_1.png", "drjekyllandmrhyde_2.png", "drjekyllandmrhyde_3.png", "drjekyllandmrhyde_4.png" ],
+  "readmeFilename" : "drjekyllandmrhyde_readme.txt",
+  "patchFilename" : "drjekyllandmrhyde_patch.zip",
+  "notes" : null
+}

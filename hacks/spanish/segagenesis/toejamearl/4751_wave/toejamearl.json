@@ -1,0 +1,19 @@
+{
+  "id" : "4751",
+  "releasedBy" : "Wave",
+  "name" : "ToeJam & Earl",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Toejam & Earl (UE) (REV00) [!].bin\\r\\nMD5: 0a6af20d9c5b3ec4e23c683f083b92cd\\r\\nSHA1: 7f82d8b57fff88bdca5d8aff85b01e231dc1239a\\r\\nCRC32: d1b36786 1048576 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\06\\22",
+  "gameDate" : "September 1991",
+  "version" : "1.0",
+  "downloads" : "176",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\toejamearl\\4751_wave",
+  "imagesFilenames" : [ "toejamearl_0.png", "toejamearl_1.png", "toejamearl_2.png", "toejamearl_3.png", "toejamearl_4.png" ],
+  "readmeFilename" : "toejamearl_readme.txt",
+  "patchFilename" : "toejamearl_patch.zip",
+  "notes" : null
+}

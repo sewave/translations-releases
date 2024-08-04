@@ -1,0 +1,19 @@
+{
+  "id" : "4190",
+  "releasedBy" : "Wave",
+  "name" : "CrossFire",
+  "altName" : "Super Airwolf",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "CrossFire (U) [c][!].bin\\r\\nMD5: 8072f5025e9f874c0ccf0341c2081c74\\r\\nSHA1: cc681bb62483dfb3ee3ef976dff29cc80ad01820\\r\\nCRC32: cc73f3a9 524.288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\01\\21",
+  "gameDate" : "29 March 1991",
+  "version" : "1.0",
+  "downloads" : "163",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\crossfire\\4190_wave",
+  "imagesFilenames" : [ "crossfire_0.png", "crossfire_1.png", "crossfire_2.png", "crossfire_3.png", "crossfire_4.png" ],
+  "readmeFilename" : "crossfire_readme.txt",
+  "patchFilename" : "crossfire_patch.zip",
+  "notes" : null
+}

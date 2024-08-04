@@ -1,0 +1,19 @@
+{
+  "id" : "4368",
+  "releasedBy" : "Wave",
+  "name" : "Getsu Fuuma Den",
+  "altName" : "The Legend of Getsu Fūma The Legend of Fuma",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Getsufuu Maden (J) [!].nes\\r\\nMD5: a3d90f1ab0a417e1819286c1d05efe7d\\r\\nSHA1: b802f416d7e535289c4509d1768548ac703e40f1\\r\\nCRC32: 71ff1e76 262.160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\04\\05",
+  "gameDate" : "07 July 1987",
+  "version" : "1.0",
+  "downloads" : "221",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\getsufuumaden\\4368_wave",
+  "imagesFilenames" : [ "getsufuumaden_0.png", "getsufuumaden_1.png", "getsufuumaden_2.png", "getsufuumaden_3.png", "getsufuumaden_4.png" ],
+  "readmeFilename" : "getsufuumaden_readme.txt",
+  "patchFilename" : "getsufuumaden_patch.zip",
+  "notes" : null
+}

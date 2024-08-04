@@ -1,0 +1,19 @@
+{
+  "id" : "3860",
+  "releasedBy" : "Wave",
+  "name" : "Skyblazer",
+  "altName" : "Karuraou",
+  "system" : "Super Nintendo",
+  "romDesc" : "Sky Blazer (U) [!].smc\\r\\nMD5: 5dd2c9f0a933e6a43b7e38e6ef0769ba\\r\\nSHA1: 8426a16f7d8656c8d2ce4ac3151ec96b433f938d\\r\\nCRC32: f13b00b0 1.048.576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\09\\28",
+  "gameDate" : "January 1994",
+  "version" : "1.0",
+  "downloads" : "300",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\skyblazer\\3860_wave",
+  "imagesFilenames" : [ "skyblazer_0.png", "skyblazer_1.png", "skyblazer_2.png", "skyblazer_3.png", "skyblazer_4.png" ],
+  "readmeFilename" : "skyblazer_readme.txt",
+  "patchFilename" : "skyblazer_patch.zip",
+  "notes" : null
+}

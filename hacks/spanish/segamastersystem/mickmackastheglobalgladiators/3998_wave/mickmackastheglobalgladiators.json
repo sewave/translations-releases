@@ -1,0 +1,19 @@
+{
+  "id" : "3998",
+  "releasedBy" : "Wave",
+  "name" : "Mick & Mack as The Global Gladiators",
+  "altName" : "Global Gladiators",
+  "system" : "Sega Master System",
+  "romDesc" : "Mick & Mack as The Global Gladiators (E) [!].sms\\r\\nMD5: 73569d2abefb7cdcbe9a13456df525c2\\r\\nSHA1: e2e2f45e43f0d4fa5974327e96d7c3ee7f057fad\\r\\nCRC32: b67ceb76 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\12",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "88",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\mickmackastheglobalgladiators\\3998_wave",
+  "imagesFilenames" : [ "mickmackastheglobalgladiators_0.png", "mickmackastheglobalgladiators_1.png", "mickmackastheglobalgladiators_2.png", "mickmackastheglobalgladiators_3.png", "mickmackastheglobalgladiators_4.png" ],
+  "readmeFilename" : "mickmackastheglobalgladiators_readme.txt",
+  "patchFilename" : "mickmackastheglobalgladiators_patch.zip",
+  "notes" : null
+}

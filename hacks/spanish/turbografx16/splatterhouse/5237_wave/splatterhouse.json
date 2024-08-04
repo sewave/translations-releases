@@ -1,0 +1,19 @@
+{
+  "id" : "5237",
+  "releasedBy" : "Wave",
+  "name" : "Splatterhouse",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Splatterhouse (U).pce\\r\\nMD5: f6690ec0f440ced641718d6bc52e3fbd\\r\\nSHA1: e2167b5d67a065ec97763d3ee843ac2b2328c082\\r\\nCRC32: d00ca74f 524288 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2019\\11\\27",
+  "gameDate" : "03 April 1990",
+  "version" : "1.0",
+  "downloads" : "67",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\splatterhouse\\5237_wave",
+  "imagesFilenames" : [ "splatterhouse_0.png", "splatterhouse_1.png", "splatterhouse_2.png", "splatterhouse_3.png", "splatterhouse_4.png" ],
+  "readmeFilename" : "splatterhouse_readme.txt",
+  "patchFilename" : "splatterhouse_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3662",
+  "releasedBy" : "Wave",
+  "name" : "Parasol Stars: The Story of Bubble Bobble 3",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Parasol Stars - The Story of Bubble Bobble 3 (E) [!].nes 262.160 bytes\\r\\nCRC32: dc7a16e6\\r\\nMD5: 85830dc502ab156ce12449af7fbc1026\\r\\nSHA1: 538a3a203cdcba25a3e5f2b34cfc9493cf1bc7f5",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\22",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "199",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\parasolstarsthestoryofbubblebobble3\\3662_wave",
+  "imagesFilenames" : [ "parasolstarsthestoryofbubblebobble3_0.png", "parasolstarsthestoryofbubblebobble3_1.png", "parasolstarsthestoryofbubblebobble3_2.png", "parasolstarsthestoryofbubblebobble3_3.png", "parasolstarsthestoryofbubblebobble3_4.png" ],
+  "readmeFilename" : "parasolstarsthestoryofbubblebobble3_readme.txt",
+  "patchFilename" : "parasolstarsthestoryofbubblebobble3_patch.zip",
+  "notes" : null
+}

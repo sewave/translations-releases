@@ -1,0 +1,19 @@
+{
+  "id" : "5310",
+  "releasedBy" : "Wave",
+  "name" : "Kung-Fu Taikun",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Kung-Fu Taigun (1984) (Toshiba Emi) (J).rom\\r\\nMD5: 8debfe14cb9a88a0bfda8d2023dddbb8\\r\\nSHA1: e817ab7b50674c414b1c1b72530024eb03396a41\\r\\nCRC32: c1aaf8cb 16384 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\12\\16",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "29",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\kungfutaikun\\5310_wave",
+  "imagesFilenames" : [ "kungfutaikun_0.png", "kungfutaikun_1.png", "kungfutaikun_2.png", "kungfutaikun_3.png", "kungfutaikun_4.png" ],
+  "readmeFilename" : "kungfutaikun_readme.txt",
+  "patchFilename" : "kungfutaikun_patch.zip",
+  "notes" : null
+}

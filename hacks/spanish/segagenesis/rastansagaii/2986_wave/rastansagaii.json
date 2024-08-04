@@ -1,0 +1,19 @@
+{
+  "id" : "2986",
+  "releasedBy" : "Wave",
+  "name" : "Rastan Saga II",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Rastan Saga II (U) [!].gen 524.288 bytes\\r\\nCRC32: c7ee8965\\r\\nMD5: c96b3cdf4525f7fba802d2804fed6a33\\r\\nSHA1: adec2cb70344ffc720ecdfeb68712bb3d1d0fd9c",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\05\\03",
+  "gameDate" : "10 August 1990",
+  "version" : "1.0",
+  "downloads" : "379",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\rastansagaii\\2986_wave",
+  "imagesFilenames" : [ "rastansagaii_0.png", "rastansagaii_1.png", "rastansagaii_2.png", "rastansagaii_3.png", "rastansagaii_4.png" ],
+  "readmeFilename" : "rastansagaii_readme.txt",
+  "patchFilename" : "rastansagaii_patch.zip",
+  "notes" : null
+}

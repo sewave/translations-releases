@@ -1,0 +1,19 @@
+{
+  "id" : "3720",
+  "releasedBy" : "Wave",
+  "name" : "Back to the Future Part III",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Back to the Future Part III (U) [!].gen 524.288 bytes\\r\\nMD5: 165288c22589ef8c1a41e31215b52c34\\r\\nSHA1: a704a1538fb4392e4631e96dce11eeff99d9b04a\\r\\nCRC32: 66a388c3",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\07\\27",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "235",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\backtothefuturepartiii\\3720_wave",
+  "imagesFilenames" : [ "backtothefuturepartiii_0.png", "backtothefuturepartiii_1.png", "backtothefuturepartiii_2.png", "backtothefuturepartiii_3.png", "backtothefuturepartiii_4.png" ],
+  "readmeFilename" : "backtothefuturepartiii_readme.txt",
+  "patchFilename" : "backtothefuturepartiii_patch.zip",
+  "notes" : null
+}

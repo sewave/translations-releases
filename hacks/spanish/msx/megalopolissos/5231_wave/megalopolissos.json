@@ -1,0 +1,19 @@
+{
+  "id" : "5231",
+  "releasedBy" : "Wave",
+  "name" : "Megalopolis SOS",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Megalopolis SOS (1983)(General).rom\\r\\nMD5: 634211cbd37aec34f36d721a89ebfe2d\\r\\nSHA1: 3167ffc2f2411138e4545cbdf4466c3237a04874\\r\\nCRC32: 02b17e2a 16384 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\24",
+  "gameDate" : "1983",
+  "version" : "1.0",
+  "downloads" : "27",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\megalopolissos\\5231_wave",
+  "imagesFilenames" : [ "megalopolissos_0.png", "megalopolissos_1.png", "megalopolissos_2.png", "megalopolissos_3.png" ],
+  "readmeFilename" : "megalopolissos_readme.txt",
+  "patchFilename" : "megalopolissos_patch.zip",
+  "notes" : null
+}

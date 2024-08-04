@@ -1,0 +1,19 @@
+{
+  "id" : "3957",
+  "releasedBy" : "Wave",
+  "name" : "Captain Planet and the Planeteers",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Captain Planet and the Planeteers (E) [!].gen\\r\\nMD5: 4f95573c08f905466e01cf8e1bc59a73\\r\\nSHA1: b048f922db83802a4a78d1e8197a5ec52b73a89f\\r\\nCRC32: 7672efa5 524.288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\01",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "185",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\captainplanetandtheplaneteers\\3957_wave",
+  "imagesFilenames" : [ "captainplanetandtheplaneteers_0.png", "captainplanetandtheplaneteers_1.png", "captainplanetandtheplaneteers_2.png", "captainplanetandtheplaneteers_3.png", "captainplanetandtheplaneteers_4.png" ],
+  "readmeFilename" : "captainplanetandtheplaneteers_readme.txt",
+  "patchFilename" : "captainplanetandtheplaneteers_patch.zip",
+  "notes" : null
+}

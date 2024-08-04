@@ -1,0 +1,19 @@
+{
+  "id" : "4179",
+  "releasedBy" : "Wave",
+  "name" : "Darkman",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Darkman (U).gb\\r\\nMD5: 849c5fe4002dd4240020e9ec84c8dc29\\r\\nSHA1: f168733ddf4f083559e52198a503e4f295fabf0d\\r\\nCRC32: ff858da9 131.072 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2019\\01\\16",
+  "gameDate" : "December 1992",
+  "version" : "1.0",
+  "downloads" : "90",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\darkman\\4179_wave",
+  "imagesFilenames" : [ "darkman_0.png", "darkman_1.png", "darkman_2.png", "darkman_3.png", "darkman_4.png" ],
+  "readmeFilename" : "darkman_readme.txt",
+  "patchFilename" : "darkman_patch.zip",
+  "notes" : null
+}

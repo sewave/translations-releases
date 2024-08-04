@@ -1,0 +1,19 @@
+{
+  "id" : "4891",
+  "releasedBy" : "Wave",
+  "name" : "BreakThru",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "BreakThru (U) [!].nes\\r\\nMD5: 27f9067cba07b76f18558f380ea0b6cb\\r\\nSHA1: f21d03e1522741399ba5c11abbe96e8cf4889b88\\r\\nCRC32: c85bf3e3 262160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\08\\02",
+  "gameDate" : "November 1987",
+  "version" : "1.0",
+  "downloads" : "98",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\breakthru\\4891_wave",
+  "imagesFilenames" : [ "breakthru_0.png", "breakthru_1.png", "breakthru_2.png", "breakthru_3.png", "breakthru_4.png" ],
+  "readmeFilename" : "breakthru_readme.txt",
+  "patchFilename" : "breakthru_patch.zip",
+  "notes" : null
+}

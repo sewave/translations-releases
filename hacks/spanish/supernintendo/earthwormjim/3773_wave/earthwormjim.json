@@ -1,0 +1,19 @@
+{
+  "id" : "3773",
+  "releasedBy" : "Wave",
+  "name" : "Earthworm Jim",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Earthworm Jim (U) [!].smc 3.145.728 bytes\\r\\nMD5: 25fdebdec0e83132d8f24e9ac5bfc45f\\r\\nSHA1: 3b666f44ea7574caafb9d64cd4d4c74dd3f81a61\\r\\nCRC32: 3a4a47eb",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\08\\24",
+  "gameDate" : "October 1994",
+  "version" : "1.0",
+  "downloads" : "433",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\earthwormjim\\3773_wave",
+  "imagesFilenames" : [ "earthwormjim_0.png", "earthwormjim_1.png", "earthwormjim_2.png", "earthwormjim_3.png", "earthwormjim_4.png" ],
+  "readmeFilename" : "earthwormjim_readme.txt",
+  "patchFilename" : "earthwormjim_patch.zip",
+  "notes" : null
+}

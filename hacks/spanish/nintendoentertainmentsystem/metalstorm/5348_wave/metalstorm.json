@@ -1,0 +1,19 @@
+{
+  "id" : "5348",
+  "releasedBy" : "Wave",
+  "name" : "Metal Storm",
+  "altName" : "Juuryoku Soukou Metal Storm Gravity Armor Metal Storm",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Metal Storm (U) [!].nes\\r\\nMD5: 53a2866007c3fc346b1fc047cd415ccc\\r\\nSHA1: f569f70dbbee96a348e053a958120f64f05b7d04\\r\\nCRC32: 98cefa51 393232 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\01\\22",
+  "gameDate" : "February 1991",
+  "version" : "1.0",
+  "downloads" : "82",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\metalstorm\\5348_wave",
+  "imagesFilenames" : [ "metalstorm_0.png", "metalstorm_1.png", "metalstorm_2.png", "metalstorm_3.png", "metalstorm_4.png" ],
+  "readmeFilename" : "metalstorm_readme.txt",
+  "patchFilename" : "metalstorm_patch.zip",
+  "notes" : null
+}

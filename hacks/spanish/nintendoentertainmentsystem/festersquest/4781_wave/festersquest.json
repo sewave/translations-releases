@@ -1,0 +1,19 @@
+{
+  "id" : "4781",
+  "releasedBy" : "Wave",
+  "name" : "Fester's Quest",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Fester's Quest (U) [!].nes\\r\\nMD5: 676d302ef1c8bffa07b2bd58124dfd5d\\r\\nSHA1: df91b37aabcf7742bb80ec2b7f5384df7940be58\\r\\nCRC32: db0c7019 262160 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2019\\07\\02",
+  "gameDate" : "September 1989",
+  "version" : "1.0",
+  "downloads" : "122",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\festersquest\\4781_wave",
+  "imagesFilenames" : [ "festersquest_0.png", "festersquest_1.png", "festersquest_2.png", "festersquest_3.png", "festersquest_4.png" ],
+  "readmeFilename" : "festersquest_readme.txt",
+  "patchFilename" : "festersquest_patch.zip",
+  "notes" : null
+}

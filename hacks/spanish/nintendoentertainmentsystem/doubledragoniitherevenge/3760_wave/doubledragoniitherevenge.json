@@ -1,0 +1,19 @@
+{
+  "id" : "3760",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon II: The Revenge",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Double Dragon II - The Revenge (U) (PRG1) [!].nes 262.160 bytes\\r\\nMD5: b94be0bf2e861bca19339920cd786f53\\r\\nSHA1: e4fbbe69b3b539b198ae0e037fdc2558074a283f\\r\\nCRC32: a0f7027d",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\08\\17",
+  "gameDate" : "22 December 1989",
+  "version" : "1.0",
+  "downloads" : "522",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\doubledragoniitherevenge\\3760_wave",
+  "imagesFilenames" : [ "doubledragoniitherevenge_0.png", "doubledragoniitherevenge_1.png", "doubledragoniitherevenge_2.png", "doubledragoniitherevenge_3.png", "doubledragoniitherevenge_4.png" ],
+  "readmeFilename" : "doubledragoniitherevenge_readme.txt",
+  "patchFilename" : "doubledragoniitherevenge_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3834",
+  "releasedBy" : "Wave",
+  "name" : "Zool: Ninja of the \"Nth\" Dimension",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Zool (U) [!].gen\\r\\nMD5: 2d28ddb5be02a3b3612ba73ca064edb5\\r\\nSHA1: ee016f127b81f1ca25657e8fa47fac0c4ed15c97\\r\\nCRC32: cb2939f1 1.048.576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\09\\21",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "225",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\zoolninjaofthenthdimension\\3834_wave",
+  "imagesFilenames" : [ "zoolninjaofthenthdimension_0.png", "zoolninjaofthenthdimension_1.png", "zoolninjaofthenthdimension_2.png", "zoolninjaofthenthdimension_3.png", "zoolninjaofthenthdimension_4.png" ],
+  "readmeFilename" : "zoolninjaofthenthdimension_readme.txt",
+  "patchFilename" : "zoolninjaofthenthdimension_patch.zip",
+  "notes" : null
+}

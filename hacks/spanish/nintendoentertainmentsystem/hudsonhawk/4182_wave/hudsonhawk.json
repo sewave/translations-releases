@@ -1,0 +1,19 @@
+{
+  "id" : "4182",
+  "releasedBy" : "Wave",
+  "name" : "Hudson Hawk",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Hudson Hawk (U) [!].nes\\r\\nMD5: 719540e6d45f69e972b5ee8263d97791\\r\\nSHA1: 456daa7a983d1e215d9e516db7ce5703cdf2d2f4\\r\\nCRC32: 37fc3443 262.160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\01\\16",
+  "gameDate" : "27 December 1991",
+  "version" : "1.0",
+  "downloads" : "135",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\hudsonhawk\\4182_wave",
+  "imagesFilenames" : [ "hudsonhawk_0.png", "hudsonhawk_1.png", "hudsonhawk_2.png", "hudsonhawk_3.png", "hudsonhawk_4.png" ],
+  "readmeFilename" : "hudsonhawk_readme.txt",
+  "patchFilename" : "hudsonhawk_patch.zip",
+  "notes" : null
+}

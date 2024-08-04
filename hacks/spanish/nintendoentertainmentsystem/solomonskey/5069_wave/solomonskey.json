@@ -1,0 +1,19 @@
+{
+  "id" : "5069",
+  "releasedBy" : "Wave",
+  "name" : "Solomon's Key",
+  "altName" : "Solomon no Kagi",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Solomon's Key (U) [!].nes\\r\\nMD5: 097f3eb5211e106a5ea6ec43e0c439de\\r\\nSHA1: 18102689fd35c7d531a5e6241b06b748accab2f6\\r\\nCRC32: 99773bc4 65552 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\10\\14",
+  "gameDate" : "30 July 1986",
+  "version" : "1.0",
+  "downloads" : "87",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\solomonskey\\5069_wave",
+  "imagesFilenames" : [ "solomonskey_0.png", "solomonskey_1.png", "solomonskey_2.png", "solomonskey_3.png", "solomonskey_4.png" ],
+  "readmeFilename" : "solomonskey_readme.txt",
+  "patchFilename" : "solomonskey_patch.zip",
+  "notes" : null
+}

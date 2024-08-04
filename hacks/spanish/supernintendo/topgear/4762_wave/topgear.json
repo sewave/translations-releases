@@ -1,0 +1,19 @@
+{
+  "id" : "4762",
+  "releasedBy" : "Wave",
+  "name" : "Top Gear",
+  "altName" : "Top Racer",
+  "system" : "Super Nintendo",
+  "romDesc" : "Top Gear (U) [!].smc\\r\\nMD5: e5040a079ff03eb93747424af9be75f4\\r\\nSHA1: f686806c676a4b087a3627babbe3555d3704e3b1\\r\\nCRC32: d34c49b7 524288 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\06\\27",
+  "gameDate" : "27 March 1992",
+  "version" : "1.0",
+  "downloads" : "171",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\topgear\\4762_wave",
+  "imagesFilenames" : [ "topgear_0.png", "topgear_1.png", "topgear_2.png", "topgear_3.png", "topgear_4.png" ],
+  "readmeFilename" : "topgear_readme.txt",
+  "patchFilename" : "topgear_patch.zip",
+  "notes" : null
+}

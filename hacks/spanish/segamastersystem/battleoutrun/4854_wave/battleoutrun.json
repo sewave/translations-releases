@@ -1,0 +1,19 @@
+{
+  "id" : "4854",
+  "releasedBy" : "Wave",
+  "name" : "Battle OutRun",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Battle Out Run (E) [!].sms\\r\\nMD5: 83609eb760c3af64915fd6e73ee7d99e\\r\\nSHA1: cfa8721d4fc71b1f14e9a06f2db715a6f88be7dd\\r\\nCRC32: c19430ce 262144 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\07\\24",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "79",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\battleoutrun\\4854_wave",
+  "imagesFilenames" : [ "battleoutrun_0.png", "battleoutrun_1.png", "battleoutrun_2.png", "battleoutrun_3.png", "battleoutrun_4.png" ],
+  "readmeFilename" : "battleoutrun_readme.txt",
+  "patchFilename" : "battleoutrun_patch.zip",
+  "notes" : null
+}

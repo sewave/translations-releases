@@ -1,0 +1,19 @@
+{
+  "id" : "2816",
+  "releasedBy" : "Wave",
+  "name" : "The Jetsons: Cogswell's Caper!",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Jetsons, The - Cogswell's Caper! (U) [!].nes 393.232 bytes\\r\\nCRC32: 0f945df6\\r\\nMD5: b380cd9366bc9df6ca3f33bab6f4cd1d\\r\\nSHA1: 72fcd4a5aaa14b426ac8abb8db97e42bedbbbe1d",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\03\\12",
+  "gameDate" : "December 1992",
+  "version" : "1.1",
+  "downloads" : "405",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\thejetsonscogswellscaper\\2816_wave",
+  "imagesFilenames" : [ "thejetsonscogswellscaper_0.png", "thejetsonscogswellscaper_1.png", "thejetsonscogswellscaper_2.png", "thejetsonscogswellscaper_3.png", "thejetsonscogswellscaper_4.png" ],
+  "readmeFilename" : "thejetsonscogswellscaper_readme.txt",
+  "patchFilename" : "thejetsonscogswellscaper_patch.zip",
+  "notes" : null
+}

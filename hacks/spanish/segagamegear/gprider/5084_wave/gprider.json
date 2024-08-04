@@ -1,0 +1,19 @@
+{
+  "id" : "5084",
+  "releasedBy" : "Wave",
+  "name" : "GP Rider",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "GP Rider (USA, Europe).gg\\r\\nMD5: 6fa101fb69da89a922b1b99f36e515bc\\r\\nSHA1: 7777f091c8b540d3248fd7c0fb21e742af6f0ede\\r\\nCRC32: 876e9b72 524288 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\10\\19",
+  "gameDate" : "22 April 1994",
+  "version" : "1.0",
+  "downloads" : "42",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\gprider\\5084_wave",
+  "imagesFilenames" : [ "gprider_0.png", "gprider_1.png", "gprider_2.png", "gprider_3.png", "gprider_4.png" ],
+  "readmeFilename" : "gprider_readme.txt",
+  "patchFilename" : "gprider_patch.zip",
+  "notes" : null
+}

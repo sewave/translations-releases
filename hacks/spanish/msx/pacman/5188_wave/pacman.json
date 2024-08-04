@@ -1,0 +1,19 @@
+{
+  "id" : "5188",
+  "releasedBy" : "Wave",
+  "name" : "Pac-Man",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Pac-Man (1984) (Namcot) (J).rom\\r\\nMD5: 01078dd71f4e70e95bc3acdf605c19da\\r\\nSHA1: 61695eb1dc6242d8a70c7ef2172cf86a26e3c2dd\\r\\nCRC32: d74dffa2 16384 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\11\\12",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "35",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\pacman\\5188_wave",
+  "imagesFilenames" : [ "pacman_0.png", "pacman_1.png", "pacman_2.png" ],
+  "readmeFilename" : "pacman_readme.txt",
+  "patchFilename" : "pacman_patch.zip",
+  "notes" : null
+}

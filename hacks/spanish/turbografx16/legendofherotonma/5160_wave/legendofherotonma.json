@@ -1,0 +1,19 @@
+{
+  "id" : "5160",
+  "releasedBy" : "Wave",
+  "name" : "Legend of Hero Tonma",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Legend of Hero Tonma (USA).pce\\r\\nMD5: cfaa094419809446cabfe739995e22ee\\r\\nSHA1: a87586ae18bd36f1c32e08b8b7a55afc6532fb3e\\r\\nCRC32: 3c131486 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\05",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "67",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\legendofherotonma\\5160_wave",
+  "imagesFilenames" : [ "legendofherotonma_0.png", "legendofherotonma_1.png", "legendofherotonma_2.png", "legendofherotonma_3.png", "legendofherotonma_4.png" ],
+  "readmeFilename" : "legendofherotonma_readme.txt",
+  "patchFilename" : "legendofherotonma_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5030",
+  "releasedBy" : "Wave",
+  "name" : "Terminator 2: Judgment Day",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Terminator 2 - Judgment Day (UE) [!].bin\\r\\nMD5: 32f931827159663d6bf27c12949b1875\\r\\nSHA1: 6144fbb941c1bf0df285f6d13906432c23af2ba6\\r\\nCRC32: 2f75e896 1048576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\09\\25",
+  "gameDate" : "05 June 1991",
+  "version" : "1.0",
+  "downloads" : "120",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\terminator2judgmentday\\5030_wave",
+  "imagesFilenames" : [ "terminator2judgmentday_0.png", "terminator2judgmentday_1.png", "terminator2judgmentday_2.png", "terminator2judgmentday_3.png", "terminator2judgmentday_4.png" ],
+  "readmeFilename" : "terminator2judgmentday_readme.txt",
+  "patchFilename" : "terminator2judgmentday_patch.zip",
+  "notes" : null
+}

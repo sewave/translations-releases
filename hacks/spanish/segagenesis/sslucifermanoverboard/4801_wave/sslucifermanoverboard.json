@@ -1,0 +1,19 @@
+{
+  "id" : "4801",
+  "releasedBy" : "Wave",
+  "name" : "S.S. Lucifer: Man Overboard!",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Man Overboard! - S.S. Lucifer (E) [c][!].bin\\r\\nMD5: ae6c1618e6f98d3101b1b91d3835ebac\\r\\nSHA1: 36c66a1cbf44f4019b84538a6bf452c369239bc9\\r\\nCRC32: cae0e3a6 1048576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\07\\08",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "107",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\sslucifermanoverboard\\4801_wave",
+  "imagesFilenames" : [ "sslucifermanoverboard_0.png", "sslucifermanoverboard_1.png", "sslucifermanoverboard_2.png", "sslucifermanoverboard_3.png", "sslucifermanoverboard_4.png" ],
+  "readmeFilename" : "sslucifermanoverboard_readme.txt",
+  "patchFilename" : "sslucifermanoverboard_patch.zip",
+  "notes" : null
+}

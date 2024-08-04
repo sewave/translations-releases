@@ -1,0 +1,19 @@
+{
+  "id" : "3718",
+  "releasedBy" : "Wave",
+  "name" : "Back to the Future Part II",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Back to the Future Part II (UE) [!].sms 262.144 bytes\\r\\nMD5: f2535df9bdc3a84221303fa62d61ad6e\\r\\nSHA1: 31af58e655e12728b01e7da64b46934979b82ecf\\r\\nCRC32: e5ff50d8",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2018\\07\\27",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "132",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\backtothefuturepartii\\3718_wave",
+  "imagesFilenames" : [ "backtothefuturepartii_0.png", "backtothefuturepartii_1.png", "backtothefuturepartii_2.png", "backtothefuturepartii_3.png", "backtothefuturepartii_4.png" ],
+  "readmeFilename" : "backtothefuturepartii_readme.txt",
+  "patchFilename" : "backtothefuturepartii_patch.zip",
+  "notes" : null
+}

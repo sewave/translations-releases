@@ -1,0 +1,19 @@
+{
+  "id" : "2735",
+  "releasedBy" : "Wave",
+  "name" : "Kishin Douji Zenki: Battle Raiden",
+  "altName" : "Demon Child Zenki: Battle Raiden",
+  "system" : "Super Nintendo",
+  "romDesc" : "Kishin Douji Zenki - Batoru Raiden (J) 2.097.152 bytes\\r\\nCRC32: 0becfc92\\r\\nMD5: 2152cca035b8e3080d9eddb5bea8d94d\\r\\nSHA1: 7706caf2c6b6f36ff7cad5cbdde0a1b6ec03cae0",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\09\\26",
+  "gameDate" : "04 August 1995",
+  "version" : "1.0",
+  "downloads" : "803",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\kishindoujizenkibattleraiden\\2735_wave",
+  "imagesFilenames" : [ "kishindoujizenkibattleraiden_0.png", "kishindoujizenkibattleraiden_1.png", "kishindoujizenkibattleraiden_2.png", "kishindoujizenkibattleraiden_3.png", "kishindoujizenkibattleraiden_4.png" ],
+  "readmeFilename" : "kishindoujizenkibattleraiden_readme.txt",
+  "patchFilename" : "kishindoujizenkibattleraiden_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3712",
+  "releasedBy" : "Wave",
+  "name" : "Puzznic",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Puzznic (U) [!].nes 65.552 bytes\\r\\nMD5: 5c26f435f26459ef431fa11c0ec1b4d4\\r\\nSHA1: 2c35fe417679713f9925f1dba0ba8e3bd319f5cd\\r\\nCRC32: 327e666a",
+  "genre" : "Puzle",
+  "releaseDate" : "2018\\07\\20",
+  "gameDate" : "November 1990",
+  "version" : "1.0",
+  "downloads" : "184",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\puzznic\\3712_wave",
+  "imagesFilenames" : [ "puzznic_0.png", "puzznic_1.png", "puzznic_2.png", "puzznic_3.png", "puzznic_4.png" ],
+  "readmeFilename" : "puzznic_readme.txt",
+  "patchFilename" : "puzznic_patch.zip",
+  "notes" : null
+}

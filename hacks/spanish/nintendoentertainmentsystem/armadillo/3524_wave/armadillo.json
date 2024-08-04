@@ -1,0 +1,19 @@
+{
+  "id" : "3524",
+  "releasedBy" : "Wave",
+  "name" : "Armadillo",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Armadillo (J).nes 393.232 bytes\\r\\nCRC32: ae73e0c2\\r\\nMD5: 0e75b6acb92fe3925db58941e4983ffe\\r\\nSHA1: 6d5fb990109f37bc320dff37eb60d06156d7d195",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\04\\13",
+  "gameDate" : "09 August 1991",
+  "version" : "1.1",
+  "downloads" : "439",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\armadillo\\3524_wave",
+  "imagesFilenames" : [ "armadillo_0.png", "armadillo_1.png", "armadillo_2.png", "armadillo_3.png", "armadillo_4.png" ],
+  "readmeFilename" : "armadillo_readme.txt",
+  "patchFilename" : "armadillo_patch.zip",
+  "notes" : null
+}

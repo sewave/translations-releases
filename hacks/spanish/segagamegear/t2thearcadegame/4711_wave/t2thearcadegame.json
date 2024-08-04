@@ -1,0 +1,19 @@
+{
+  "id" : "4711",
+  "releasedBy" : "Wave",
+  "name" : "T2: The Arcade Game",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "T2 - The Arcade Game (U) [!].gg\\r\\nMD5: d459d14baddfa9f8a69e91f79be71b9b\\r\\nSHA1: 12b6f5542b6cebfe872096eab2a885d297eefa2f\\r\\nCRC32: 9479c83a 524288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\06\\13",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "55",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\t2thearcadegame\\4711_wave",
+  "imagesFilenames" : [ "t2thearcadegame_0.png", "t2thearcadegame_1.png", "t2thearcadegame_2.png", "t2thearcadegame_3.png", "t2thearcadegame_4.png" ],
+  "readmeFilename" : "t2thearcadegame_readme.txt",
+  "patchFilename" : "t2thearcadegame_patch.zip",
+  "notes" : null
+}

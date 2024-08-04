@@ -1,0 +1,19 @@
+{
+  "id" : "3082",
+  "releasedBy" : "Wave",
+  "name" : "Ninja Crusaders",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Ninja Crusaders (U) [!].nes 131.088 bytes\\r\\nCRC32: dc84deb0\\r\\nMD5: 894f49a450f8eb6a702e064bab83d117\\r\\nSHA1: 219e51e8da40024d2f43d4adef941be05e3eb6ed",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\06\\19",
+  "gameDate" : "14 December 1990",
+  "version" : "1.0",
+  "downloads" : "331",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\ninjacrusaders\\3082_wave",
+  "imagesFilenames" : [ "ninjacrusaders_0.png", "ninjacrusaders_1.png", "ninjacrusaders_2.png", "ninjacrusaders_3.png", "ninjacrusaders_4.png" ],
+  "readmeFilename" : "ninjacrusaders_readme.txt",
+  "patchFilename" : "ninjacrusaders_patch.zip",
+  "notes" : null
+}

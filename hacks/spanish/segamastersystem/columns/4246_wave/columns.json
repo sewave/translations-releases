@@ -1,0 +1,19 @@
+{
+  "id" : "4246",
+  "releasedBy" : "Wave",
+  "name" : "Columns",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Columns (UE) [!].sms\\r\\nMD5: d443d521036d527d35926809f230106c\\r\\nSHA1: 3d16b0954b5419b071de270b44d38fc6570a8439\\r\\nCRC32: 665fda92 131.072 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\02\\12",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "77",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\columns\\4246_wave",
+  "imagesFilenames" : [ "columns_0.png", "columns_1.png", "columns_2.png", "columns_3.png", "columns_4.png" ],
+  "readmeFilename" : "columns_readme.txt",
+  "patchFilename" : "columns_patch.zip",
+  "notes" : null
+}

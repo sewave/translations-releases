@@ -1,0 +1,19 @@
+{
+  "id" : "2720",
+  "releasedBy" : "Wave",
+  "name" : "Kid Klown in Night Mayor World",
+  "altName" : "Mickey Mouse III: Yume Fuusen Mickey Mouse III: Dream Balloon",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Kid Klown (U) [!].nes 262.160 bytes\\r\\nCRC32: a474ccac\\r\\nMD5: 220af5ab6c61a21582ffdb86690a72ec\\r\\nSHA1: b585aa4d3c226ee902e12010e3511360828e980e",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\04",
+  "gameDate" : "30 July 1992",
+  "version" : "1.2",
+  "downloads" : "357",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\kidklowninnightmayorworld\\2720_wave",
+  "imagesFilenames" : [ "kidklowninnightmayorworld_0.png", "kidklowninnightmayorworld_1.png", "kidklowninnightmayorworld_2.png", "kidklowninnightmayorworld_3.png", "kidklowninnightmayorworld_4.png" ],
+  "readmeFilename" : "kidklowninnightmayorworld_readme.txt",
+  "patchFilename" : "kidklowninnightmayorworld_patch.zip",
+  "notes" : null
+}

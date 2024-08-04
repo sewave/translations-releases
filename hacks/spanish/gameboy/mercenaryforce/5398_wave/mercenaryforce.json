@@ -1,0 +1,19 @@
+{
+  "id" : "5398",
+  "releasedBy" : "Wave",
+  "name" : "Mercenary Force",
+  "altName" : "Tenjin Kaisen",
+  "system" : "Game Boy",
+  "romDesc" : "Mercenary Force (UE) [!].gb\\r\\nMD5: bf3d90ff1c8d4827b5657d7b15d84fde\\r\\nSHA1: 35bbde8934792588620d1c242dedef1da9097a2e\\r\\nCRC32: 9bb5ba03 131072 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2020\\02\\11",
+  "gameDate" : "01 October 1990",
+  "version" : "1.0",
+  "downloads" : "32",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\mercenaryforce\\5398_wave",
+  "imagesFilenames" : [ "mercenaryforce_0.png", "mercenaryforce_1.png", "mercenaryforce_2.png", "mercenaryforce_3.png", "mercenaryforce_4.png" ],
+  "readmeFilename" : "mercenaryforce_readme.txt",
+  "patchFilename" : "mercenaryforce_patch.zip",
+  "notes" : null
+}

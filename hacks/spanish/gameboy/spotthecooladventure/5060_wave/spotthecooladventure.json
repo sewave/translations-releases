@@ -1,0 +1,19 @@
+{
+  "id" : "5060",
+  "releasedBy" : "Wave",
+  "name" : "Spot: The Cool Adventure",
+  "altName" : "McDonaldland",
+  "system" : "Game Boy",
+  "romDesc" : "Spot - The Cool Adventure (U).gb\\r\\nMD5: ef5f38b5d7d44df4b187d6d82175e06e\\r\\nSHA1: 7e80ddc835ecde69ea11c4702a6cfb93575e917a\\r\\nCRC32: 0e08f59b 131072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\10\\08",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "60",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\spotthecooladventure\\5060_wave",
+  "imagesFilenames" : [ "spotthecooladventure_0.png", "spotthecooladventure_1.png", "spotthecooladventure_2.png", "spotthecooladventure_3.png", "spotthecooladventure_4.png" ],
+  "readmeFilename" : "spotthecooladventure_readme.txt",
+  "patchFilename" : "spotthecooladventure_patch.zip",
+  "notes" : null
+}

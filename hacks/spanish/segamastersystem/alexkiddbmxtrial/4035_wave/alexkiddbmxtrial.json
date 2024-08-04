@@ -1,0 +1,19 @@
+{
+  "id" : "4035",
+  "releasedBy" : "Wave",
+  "name" : "Alex Kidd: BMX Trial",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Alex Kidd - BMX Trial (J) [!].sms\\r\\nMD5: 571f18f49e679a128b4a237001760d6c\\r\\nSHA1: 77cc767bfae01e9cc81612c780c939ed954a6312\\r\\nCRC32: f9dbb533 131.072 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2018\\11\\27",
+  "gameDate" : "15 November 1987",
+  "version" : "1.1",
+  "downloads" : "142",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\alexkiddbmxtrial\\4035_wave",
+  "imagesFilenames" : [ "alexkiddbmxtrial_0.png", "alexkiddbmxtrial_1.png", "alexkiddbmxtrial_2.png", "alexkiddbmxtrial_3.png", "alexkiddbmxtrial_4.png" ],
+  "readmeFilename" : "alexkiddbmxtrial_readme.txt",
+  "patchFilename" : "alexkiddbmxtrial_patch.zip",
+  "notes" : null
+}

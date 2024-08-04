@@ -1,0 +1,19 @@
+{
+  "id" : "4252",
+  "releasedBy" : "Wave",
+  "name" : "Hokuto no Ken 3: Shin Seiki Souzou Seiken Restuden",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Hokuto no Ken 3 - Shin Seiki Souzou Seiken Restuden (J) [!].nes\\r\\nMD5: b9628301f0049937976ecf14325477d8\\r\\nSHA1: c12a27d9100636a94353620a5dc323691f9bda64\\r\\nCRC32: 12b32580 262.160 bytes",
+  "genre" : "Rol",
+  "releaseDate" : "2019\\02\\12",
+  "gameDate" : "19 October 1989",
+  "version" : "1.0",
+  "downloads" : "404",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\hokutonoken3shinseikisouzouseikenrestuden\\4252_wave",
+  "imagesFilenames" : [ "hokutonoken3shinseikisouzouseikenrestuden_0.png", "hokutonoken3shinseikisouzouseikenrestuden_1.png", "hokutonoken3shinseikisouzouseikenrestuden_2.png", "hokutonoken3shinseikisouzouseikenrestuden_3.png", "hokutonoken3shinseikisouzouseikenrestuden_4.png" ],
+  "readmeFilename" : "hokutonoken3shinseikisouzouseikenrestuden_readme.txt",
+  "patchFilename" : "hokutonoken3shinseikisouzouseikenrestuden_patch.zip",
+  "notes" : null
+}

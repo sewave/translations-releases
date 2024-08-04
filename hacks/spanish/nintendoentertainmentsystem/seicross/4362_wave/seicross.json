@@ -1,0 +1,19 @@
+{
+  "id" : "4362",
+  "releasedBy" : "Wave",
+  "name" : "Seicross",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Seicross (U) [!].nes\\r\\nMD5: ff1432776bd87a128876546a22b0db57\\r\\nSHA1: c2591a5d6dd1bb43218e90a045bee0d8f8a68235\\r\\nCRC32: c0d823ed 40.976 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\02",
+  "gameDate" : "19 May 1986",
+  "version" : "1.0",
+  "downloads" : "79",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\seicross\\4362_wave",
+  "imagesFilenames" : [ "seicross_0.png", "seicross_1.png", "seicross_2.png", "seicross_3.png", "seicross_4.png" ],
+  "readmeFilename" : "seicross_readme.txt",
+  "patchFilename" : "seicross_patch.zip",
+  "notes" : null
+}

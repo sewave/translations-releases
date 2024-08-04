@@ -1,0 +1,19 @@
+{
+  "id" : "4799",
+  "releasedBy" : "Wave",
+  "name" : "Raiden Trad",
+  "altName" : "Raiden Densetsu",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Raiden Trad (JU) [!].bin\\r\\nMD5: af6b6c2e4870a46e61b90bd6d662e7fa\\r\\nSHA1: 9d4011d650179c62acdba0ed58143aa77b97d0e9\\r\\nCRC32: f839a811 1048576 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\07\\08",
+  "gameDate" : "06 July 1991",
+  "version" : "1.0",
+  "downloads" : "123",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\raidentrad\\4799_wave",
+  "imagesFilenames" : [ "raidentrad_0.png", "raidentrad_1.png", "raidentrad_2.png", "raidentrad_3.png", "raidentrad_4.png" ],
+  "readmeFilename" : "raidentrad_readme.txt",
+  "patchFilename" : "raidentrad_patch.zip",
+  "notes" : null
+}

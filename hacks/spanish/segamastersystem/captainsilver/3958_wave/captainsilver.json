@@ -1,0 +1,19 @@
+{
+  "id" : "3958",
+  "releasedBy" : "Wave",
+  "name" : "Captain Silver",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Captain Silver (U) [!].sms\\r\\nMD5: 1dfaadbfe7d8019e73bd980fd4b819ea\\r\\nSHA1: 7c2b23f4a806c89a533f27e190499243e7311c47\\r\\nCRC32: b81f6fa5 131.072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\01",
+  "gameDate" : "17 July 1988",
+  "version" : "1.0",
+  "downloads" : "114",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\captainsilver\\3958_wave",
+  "imagesFilenames" : [ "captainsilver_0.png", "captainsilver_1.png", "captainsilver_2.png", "captainsilver_3.png", "captainsilver_4.png" ],
+  "readmeFilename" : "captainsilver_readme.txt",
+  "patchFilename" : "captainsilver_patch.zip",
+  "notes" : null
+}

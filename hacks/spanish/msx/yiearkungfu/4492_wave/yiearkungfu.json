@@ -1,0 +1,19 @@
+{
+  "id" : "4492",
+  "releasedBy" : "Wave",
+  "name" : "Yie Ar Kung-Fu",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Yie Ar Kung-Fu 1 (1985) (Konami) (J).rom\\r\\nMD5: 983a3d5031cda4c9701eee524566eba5\\r\\nSHA1: a3090a15c95334da3e0f94030eadee02b5032c0c\\r\\nCRC32: 8a12ec4f 16.384 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\04\\30",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "48",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\yiearkungfu\\4492_wave",
+  "imagesFilenames" : [ "yiearkungfu_0.png", "yiearkungfu_1.png", "yiearkungfu_2.png", "yiearkungfu_3.png", "yiearkungfu_4.png" ],
+  "readmeFilename" : "yiearkungfu_readme.txt",
+  "patchFilename" : "yiearkungfu_patch.zip",
+  "notes" : null
+}

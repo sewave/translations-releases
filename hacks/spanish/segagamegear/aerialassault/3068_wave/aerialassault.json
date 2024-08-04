@@ -1,0 +1,19 @@
+{
+  "id" : "3068",
+  "releasedBy" : "Wave",
+  "name" : "Aerial Assault",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Aerial Assault (JU) (V1.1) [!].gg 131.072 bytes\\r\\nCRC32: 04fe6dde\\r\\nMD5: f1dee7875668c536f0434217a67ba2f4\\r\\nSHA1: 2a91ab5817938dddf2724df2dfd95a3bc6f5156d",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\06\\12",
+  "gameDate" : "05 June 1992",
+  "version" : "1.0",
+  "downloads" : "160",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\aerialassault\\3068_wave",
+  "imagesFilenames" : [ "aerialassault_0.png", "aerialassault_1.png", "aerialassault_2.png", "aerialassault_3.png", "aerialassault_4.png" ],
+  "readmeFilename" : "aerialassault_readme.txt",
+  "patchFilename" : "aerialassault_patch.zip",
+  "notes" : null
+}

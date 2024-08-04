@@ -1,0 +1,19 @@
+{
+  "id" : "3683",
+  "releasedBy" : "Wave",
+  "name" : "The Adventures of Captain Comic",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Adventures of Captain Comic, The (Color Dreams) [!].nes 131.088 bytes\\r\\nCRC32: 9357a157\\r\\nMD5: ccdb987e5f0ded02fd4fe31d81a52f97\\r\\nSHA1: 8763d97d889e8d2ca4d4f3369f94e5173025580a",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\07\\06",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "176",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\theadventuresofcaptaincomic\\3683_wave",
+  "imagesFilenames" : [ "theadventuresofcaptaincomic_0.png", "theadventuresofcaptaincomic_1.png", "theadventuresofcaptaincomic_2.png", "theadventuresofcaptaincomic_3.png" ],
+  "readmeFilename" : "theadventuresofcaptaincomic_readme.txt",
+  "patchFilename" : "theadventuresofcaptaincomic_patch.zip",
+  "notes" : null
+}

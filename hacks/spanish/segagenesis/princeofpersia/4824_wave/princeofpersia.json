@@ -1,0 +1,19 @@
+{
+  "id" : "4824",
+  "releasedBy" : "Wave",
+  "name" : "Prince of Persia",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Prince of Persia (E).bin\\r\\nMD5: bb8dede1a266d8c48a8f2ea1e4d12e58\\r\\nSHA1: 6e645b791e6e2b84a206dca6cf47e8f955e60a72\\r\\nCRC32: 61de6fe0 1048576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\07\\15",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "160",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\princeofpersia\\4824_wave",
+  "imagesFilenames" : [ "princeofpersia_0.png", "princeofpersia_1.png", "princeofpersia_2.png", "princeofpersia_3.png", "princeofpersia_4.png" ],
+  "readmeFilename" : "princeofpersia_readme.txt",
+  "patchFilename" : "princeofpersia_patch.zip",
+  "notes" : null
+}

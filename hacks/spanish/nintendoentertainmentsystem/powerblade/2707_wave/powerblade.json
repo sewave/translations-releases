@@ -1,0 +1,19 @@
+{
+  "id" : "2707",
+  "releasedBy" : "Wave",
+  "name" : "Power Blade",
+  "altName" : "Power Blazer",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Power Blade (U) [!].nes 262.160 bytes\\r\\nCRC32: 76663e66\\r\\nMD5: 316f5b34bb7affd2b5d45ebaa3fd076f\\r\\nSHA1: 5d2ab4af581d6b81b9a97a505798ae3b2f494d8a",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\08\\29",
+  "gameDate" : "20 April 1990",
+  "version" : "0.91",
+  "downloads" : "475",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\powerblade\\2707_wave",
+  "imagesFilenames" : [ "powerblade_0.png", "powerblade_1.png", "powerblade_2.png", "powerblade_3.png", "powerblade_4.png" ],
+  "readmeFilename" : "powerblade_readme.txt",
+  "patchFilename" : "powerblade_patch.zip",
+  "notes" : null
+}

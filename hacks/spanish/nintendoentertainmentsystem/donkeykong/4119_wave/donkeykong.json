@@ -1,0 +1,19 @@
+{
+  "id" : "4119",
+  "releasedBy" : "Wave",
+  "name" : "Donkey Kong",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Donkey Kong (U) (PRG1) [!].nes\\r\\nMD5: 40319cad12c80fc095901eb0182df838\\r\\nSHA1: d8dfacbfec34cdc871d73c901811551fe1706923\\r\\nCRC32: e40b593b 24.592 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\12\\29",
+  "gameDate" : "15 July 1983",
+  "version" : "1.0",
+  "downloads" : "164",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\donkeykong\\4119_wave",
+  "imagesFilenames" : [ "donkeykong_0.png", "donkeykong_1.png", "donkeykong_2.png", "donkeykong_3.png", "donkeykong_4.png" ],
+  "readmeFilename" : "donkeykong_readme.txt",
+  "patchFilename" : "donkeykong_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3587",
+  "releasedBy" : "Wave",
+  "name" : "Wardner",
+  "altName" : "Wardner no Mori Special",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Wardner (U) [!].gen 524.288 bytes\\r\\nCRC32: 1e369ae2\\r\\nMD5: 03fcaef50c6a5e889690a25b1433499a\\r\\nSHA1: 23bd6421f0e3710350e12f9322e75160a699ace8",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\11",
+  "gameDate" : "25 April 1991",
+  "version" : "1.0",
+  "downloads" : "247",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\wardner\\3587_wave",
+  "imagesFilenames" : [ "wardner_0.png", "wardner_1.png", "wardner_2.png", "wardner_3.png", "wardner_4.png" ],
+  "readmeFilename" : "wardner_readme.txt",
+  "patchFilename" : "wardner_patch.zip",
+  "notes" : null
+}

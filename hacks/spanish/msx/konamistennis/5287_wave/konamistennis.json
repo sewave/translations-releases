@@ -1,0 +1,19 @@
+{
+  "id" : "5287",
+  "releasedBy" : "Wave",
+  "name" : "Konami's Tennis",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Konami's Tennis (1984) (Konami) (J).rom\\r\\nMD5: d7c2393662307613df1b8d497b11d147\\r\\nSHA1: 5f6972e9e374753faf092409f1ee10bba5231b66\\r\\nCRC32: 61726be4 16384 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\12\\08",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "33",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\konamistennis\\5287_wave",
+  "imagesFilenames" : [ "konamistennis_0.png", "konamistennis_1.png", "konamistennis_2.png", "konamistennis_3.png", "konamistennis_4.png" ],
+  "readmeFilename" : "konamistennis_readme.txt",
+  "patchFilename" : "konamistennis_patch.zip",
+  "notes" : null
+}

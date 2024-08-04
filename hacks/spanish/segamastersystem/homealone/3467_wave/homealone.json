@@ -1,0 +1,19 @@
+{
+  "id" : "3467",
+  "releasedBy" : "Wave",
+  "name" : "Home Alone",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Home Alone (U) [!].sms 262.144 bytes\\r\\nCRC32: c9dbf936\\r\\nMD5: b0100ad9f1838332b15d0434bfa9fe29\\r\\nSHA1: 9b9be300fdc386f864af516000ffa3a53f1613e2",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\03\\02",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "151",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\homealone\\3467_wave",
+  "imagesFilenames" : [ "homealone_0.png", "homealone_1.png", "homealone_2.png", "homealone_3.png", "homealone_4.png" ],
+  "readmeFilename" : "homealone_readme.txt",
+  "patchFilename" : "homealone_patch.zip",
+  "notes" : null
+}

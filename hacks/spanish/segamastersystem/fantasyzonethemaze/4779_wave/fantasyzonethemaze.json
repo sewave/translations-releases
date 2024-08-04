@@ -1,0 +1,19 @@
+{
+  "id" : "4779",
+  "releasedBy" : "Wave",
+  "name" : "Fantasy Zone: The Maze",
+  "altName" : "Opa Opa",
+  "system" : "Sega Master System",
+  "romDesc" : "Fantasy Zone - The Maze (UE) [!].sms\\r\\nMD5: d37f86c678b2ad0018518ea7278db24b\\r\\nSHA1: a2cd356826c8116178394d8aba444cb636ef784e\\r\\nCRC32: d29889ad 131072 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\07\\02",
+  "gameDate" : "20 December 1987",
+  "version" : "1.0",
+  "downloads" : "73",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\fantasyzonethemaze\\4779_wave",
+  "imagesFilenames" : [ "fantasyzonethemaze_0.png", "fantasyzonethemaze_1.png", "fantasyzonethemaze_2.png", "fantasyzonethemaze_3.png", "fantasyzonethemaze_4.png" ],
+  "readmeFilename" : "fantasyzonethemaze_readme.txt",
+  "patchFilename" : "fantasyzonethemaze_patch.zip",
+  "notes" : null
+}

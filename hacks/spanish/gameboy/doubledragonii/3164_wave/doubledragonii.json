@@ -1,0 +1,19 @@
+{
+  "id" : "3164",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon II",
+  "altName" : "Nekketsu Kouha Kunio-Kun: Bangai Rantou Hen Nekketsu High: Hot Blooded! Kunio Kun's Final Battle",
+  "system" : "Game Boy",
+  "romDesc" : "Double Dragon 2 (U) [!].gb 131.072 bytes\\r\\nCRC32: 5b96e474\\r\\nMD5: 4f3b84eb325f9162086fac77ac577e7c\\r\\nSHA1: 3532462be3ab1a569890261d20a1a37bfe79e1ea",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\08\\13",
+  "gameDate" : "07 December 1990",
+  "version" : "1.0",
+  "downloads" : "216",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\doubledragonii\\3164_wave",
+  "imagesFilenames" : [ "doubledragonii_0.png", "doubledragonii_1.png", "doubledragonii_2.png", "doubledragonii_3.png", "doubledragonii_4.png" ],
+  "readmeFilename" : "doubledragonii_readme.txt",
+  "patchFilename" : "doubledragonii_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4528",
+  "releasedBy" : "Wave",
+  "name" : "Arkanoid: Doh It Again",
+  "altName" : "Arkanoid",
+  "system" : "Super Nintendo",
+  "romDesc" : "Arkanoid - Doh It Again (USA).sfc\\r\\nMD5: 03d30ca9aaa89738640cf14532ddfe6c\\r\\nSHA1: 6b08e8fa5c17aa3b435bf611aae7db0abb0a878e\\r\\nCRC32: b50503a0 524288 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\05\\07",
+  "gameDate" : "15 January 1997",
+  "version" : "1.0",
+  "downloads" : "130",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\arkanoiddohitagain\\4528_wave",
+  "imagesFilenames" : [ "arkanoiddohitagain_0.png", "arkanoiddohitagain_1.png", "arkanoiddohitagain_2.png", "arkanoiddohitagain_3.png", "arkanoiddohitagain_4.png" ],
+  "readmeFilename" : "arkanoiddohitagain_readme.txt",
+  "patchFilename" : "arkanoiddohitagain_patch.zip",
+  "notes" : null
+}

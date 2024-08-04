@@ -1,0 +1,19 @@
+{
+  "id" : "5145",
+  "releasedBy" : "Wave",
+  "name" : "Policeman",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Policeman (Spain) (Gluk Video) (Unl).nes\\r\\nMD5: c3e55225f7a2d9fc030f1910745db094\\r\\nSHA1: 7684deb268b2bb2fe9e6e2208e1bacdb49370395\\r\\nCRC32: 6b1ddc17 131088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\03",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "55",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\policeman\\5145_wave",
+  "imagesFilenames" : [ "policeman_0.png", "policeman_1.png", "policeman_2.png", "policeman_3.png", "policeman_4.png" ],
+  "readmeFilename" : "policeman_readme.txt",
+  "patchFilename" : "policeman_patch.zip",
+  "notes" : null
+}

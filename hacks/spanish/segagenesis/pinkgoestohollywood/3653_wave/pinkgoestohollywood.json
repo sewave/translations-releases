@@ -1,0 +1,19 @@
+{
+  "id" : "3653",
+  "releasedBy" : "Wave",
+  "name" : "Pink Goes to Hollywood",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Pink Goes to Hollywood (U) [!].gen 1.048.576 bytes\\r\\nCRC32: b5804771\\r\\nMD5: d05bb061ee9f5880bbbe330843bb4079\\r\\nSHA1: fc63d2a2a723f60f2141bc50bd94acef74ba9ab3",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\15",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "222",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\pinkgoestohollywood\\3653_wave",
+  "imagesFilenames" : [ "pinkgoestohollywood_0.png", "pinkgoestohollywood_1.png", "pinkgoestohollywood_2.png", "pinkgoestohollywood_3.png", "pinkgoestohollywood_4.png" ],
+  "readmeFilename" : "pinkgoestohollywood_readme.txt",
+  "patchFilename" : "pinkgoestohollywood_patch.zip",
+  "notes" : null
+}

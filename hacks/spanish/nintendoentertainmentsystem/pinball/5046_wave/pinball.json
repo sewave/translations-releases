@@ -1,0 +1,19 @@
+{
+  "id" : "5046",
+  "releasedBy" : "Wave",
+  "name" : "Pinball",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Pinball (JU) [!].nes\\r\\nMD5: 838b3043af802e70a855560433a6fca3\\r\\nSHA1: d2f25a027e390a0337bed7e0dc98d2d1d187d230\\r\\nCRC32: 88c15cf3 24592 bytes",
+  "genre" : "Otros",
+  "releaseDate" : "2019\\10\\01",
+  "gameDate" : "02 February 1984",
+  "version" : "1.0",
+  "downloads" : "74",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\pinball\\5046_wave",
+  "imagesFilenames" : [ "pinball_0.png", "pinball_1.png", "pinball_2.png", "pinball_3.png", "pinball_4.png" ],
+  "readmeFilename" : "pinball_readme.txt",
+  "patchFilename" : "pinball_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3730",
+  "releasedBy" : "Wave",
+  "name" : "Dick Tracy",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Dick Tracy (W) [c][!].gen 524.288 bytes\\r\\nMD5: aed96d0a6c77759931d771ef0f6b0778\\r\\nSHA1: 320e527847ebae79d2686c5a500c5100b080ff98\\r\\nCRC32: ef887533",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\08\\03",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "237",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\dicktracy\\3730_wave",
+  "imagesFilenames" : [ "dicktracy_0.png", "dicktracy_1.png", "dicktracy_2.png", "dicktracy_3.png", "dicktracy_4.png" ],
+  "readmeFilename" : "dicktracy_readme.txt",
+  "patchFilename" : "dicktracy_patch.zip",
+  "notes" : null
+}

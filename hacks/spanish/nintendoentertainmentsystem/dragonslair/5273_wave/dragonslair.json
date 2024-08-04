@@ -1,0 +1,19 @@
+{
+  "id" : "5273",
+  "releasedBy" : "Wave",
+  "name" : "Dragon's Lair",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Dragon's Lair (U) [!].nes\\r\\nMD5: 71e678115866ff40ed98f1beeaf06db4\\r\\nSHA1: b264269fd22f9ce245bc8b84771a0022ebb75278\\r\\nCRC32: f90ae80e 131088 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2019\\12\\05",
+  "gameDate" : "December 1990",
+  "version" : "1.0",
+  "downloads" : "63",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\dragonslair\\5273_wave",
+  "imagesFilenames" : [ "dragonslair_0.png", "dragonslair_1.png", "dragonslair_2.png", "dragonslair_3.png", "dragonslair_4.png" ],
+  "readmeFilename" : "dragonslair_readme.txt",
+  "patchFilename" : "dragonslair_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3689",
+  "releasedBy" : "Wave",
+  "name" : "True Lies",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "True Lies (W) [!].gen 2.097.152 bytes\\r\\nCRC32: 18c09468\\r\\nMD5: 2fee5ef253faebaff73c017a7bda1cff\\r\\nSHA1: d39174bed46ede85531b86df7ba49123ce2f8411",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\07\\06",
+  "gameDate" : "28 April 1995",
+  "version" : "1.0",
+  "downloads" : "270",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\truelies\\3689_wave",
+  "imagesFilenames" : [ "truelies_0.png", "truelies_1.png", "truelies_2.png", "truelies_3.png", "truelies_4.png" ],
+  "readmeFilename" : "truelies_readme.txt",
+  "patchFilename" : "truelies_patch.zip",
+  "notes" : null
+}

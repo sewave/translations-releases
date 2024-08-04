@@ -1,0 +1,19 @@
+{
+  "id" : "3695",
+  "releasedBy" : "Wave",
+  "name" : "Gradius",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Gradius (U) [!].nes 65.552 bytes\\r\\nCRC32: 7a269942\\r\\nMD5: fcc019dc8054403fd28b8de03d7e16aa\\r\\nSHA1: 17d740e1e79350e1f0a6565908767e8585606a98",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\07\\13",
+  "gameDate" : "25 April 1986",
+  "version" : "1.0",
+  "downloads" : "257",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\gradius\\3695_wave",
+  "imagesFilenames" : [ "gradius_0.png", "gradius_1.png", "gradius_2.png" ],
+  "readmeFilename" : "gradius_readme.txt",
+  "patchFilename" : "gradius_patch.zip",
+  "notes" : null
+}

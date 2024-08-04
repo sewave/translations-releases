@@ -1,0 +1,19 @@
+{
+  "id" : "4509",
+  "releasedBy" : "Wave",
+  "name" : "Final Soldier",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Final Soldier (J).pce\\r\\nMD5: fe5b3f899f0ee5994508f259bbb74cfe\\r\\nSHA1: ce89c6ea5d9eb36a642742ecad9c35c16b761c49\\r\\nCRC32: af2dd2af 524.288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\05\\03",
+  "gameDate" : "05 July 1991",
+  "version" : "1.0",
+  "downloads" : "89",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\finalsoldier\\4509_wave",
+  "imagesFilenames" : [ "finalsoldier_0.png", "finalsoldier_1.png", "finalsoldier_2.png", "finalsoldier_3.png", "finalsoldier_4.png" ],
+  "readmeFilename" : "finalsoldier_readme.txt",
+  "patchFilename" : "finalsoldier_patch.zip",
+  "notes" : null
+}

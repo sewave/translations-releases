@@ -1,0 +1,19 @@
+{
+  "id" : "4958",
+  "releasedBy" : "Wave",
+  "name" : "WWF WrestleMania: Steel Cage Challenge",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "WWF Wrestlemania Steel Cage Challenge (U) [!].sms\\r\\nMD5: 5db168808d3b4756c8c5f8b836a7b05a\\r\\nSHA1: 6fd4f5af0f14e1e0a934cd9e39a6bb476eda7e97\\r\\nCRC32: 2db21448 262144 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\08\\30",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "65",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\wwfwrestlemaniasteelcagechallenge\\4958_wave",
+  "imagesFilenames" : [ "wwfwrestlemaniasteelcagechallenge_0.png", "wwfwrestlemaniasteelcagechallenge_1.png", "wwfwrestlemaniasteelcagechallenge_2.png", "wwfwrestlemaniasteelcagechallenge_3.png", "wwfwrestlemaniasteelcagechallenge_4.png" ],
+  "readmeFilename" : "wwfwrestlemaniasteelcagechallenge_readme.txt",
+  "patchFilename" : "wwfwrestlemaniasteelcagechallenge_patch.zip",
+  "notes" : null
+}

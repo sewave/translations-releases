@@ -1,0 +1,19 @@
+{
+  "id" : "2721",
+  "releasedBy" : "Wave",
+  "name" : "Circus Caper",
+  "altName" : "Moeru! Oniisan",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Circus Caper (U) [!].nes 262.160 bytes\\r\\nCRC32: bce1da2c\\r\\nMD5: 216c212ed02b8cb4122aaaaa13ca8d23\\r\\nSHA1: 43e94e0eb5c9f568ae78149963a9118506bfdf9d",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\08",
+  "gameDate" : "08 August 1990",
+  "version" : "1.1",
+  "downloads" : "386",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\circuscaper\\2721_wave",
+  "imagesFilenames" : [ "circuscaper_0.png", "circuscaper_1.png", "circuscaper_2.png", "circuscaper_3.png", "circuscaper_4.png" ],
+  "readmeFilename" : "circuscaper_readme.txt",
+  "patchFilename" : "circuscaper_patch.zip",
+  "notes" : null
+}

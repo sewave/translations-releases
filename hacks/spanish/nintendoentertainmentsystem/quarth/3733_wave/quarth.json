@@ -1,0 +1,19 @@
+{
+  "id" : "3733",
+  "releasedBy" : "Wave",
+  "name" : "Quarth",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Quarth (J) [!].nes 65.552 bytes\\r\\nMD5: eea77c6ee2aeafebb76333dfcf3e4e60\\r\\nSHA1: 10532a9c32080431fb5711ff42ef83187cf13639\\r\\nCRC32: 439ff96a",
+  "genre" : "Puzle",
+  "releaseDate" : "2018\\08\\03",
+  "gameDate" : "13 April 1990",
+  "version" : "1.0",
+  "downloads" : "177",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\quarth\\3733_wave",
+  "imagesFilenames" : [ "quarth_0.png", "quarth_1.png", "quarth_2.png", "quarth_3.png" ],
+  "readmeFilename" : "quarth_readme.txt",
+  "patchFilename" : "quarth_patch.zip",
+  "notes" : null
+}

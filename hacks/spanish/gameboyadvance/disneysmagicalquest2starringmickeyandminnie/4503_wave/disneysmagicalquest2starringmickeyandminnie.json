@@ -1,0 +1,19 @@
+{
+  "id" : "4503",
+  "releasedBy" : "Wave",
+  "name" : "Disney's Magical Quest 2 Starring Mickey and Minnie",
+  "altName" : "Disney's Mickey to Minnie no Magical Quest 2",
+  "system" : "Game Boy Advance",
+  "romDesc" : "1261 - Disney's Magical Quest 2 Starring Mickey and Minnie (U)(Evasion).gba\\r\\nMD5: 9397ee8e46cd0357d49af1cff6fd97b3\\r\\nSHA1: 85358586e818913485da97089910712adaf4eb69\\r\\nCRC32: 69f1117d 4.194.304 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\05\\03",
+  "gameDate" : "12 November 2003",
+  "version" : "1.0",
+  "downloads" : "121",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboyadvance\\disneysmagicalquest2starringmickeyandminnie\\4503_wave",
+  "imagesFilenames" : [ "disneysmagicalquest2starringmickeyandminnie_0.png", "disneysmagicalquest2starringmickeyandminnie_1.png", "disneysmagicalquest2starringmickeyandminnie_2.png", "disneysmagicalquest2starringmickeyandminnie_3.png", "disneysmagicalquest2starringmickeyandminnie_4.png" ],
+  "readmeFilename" : "disneysmagicalquest2starringmickeyandminnie_readme.txt",
+  "patchFilename" : "disneysmagicalquest2starringmickeyandminnie_patch.zip",
+  "notes" : null
+}

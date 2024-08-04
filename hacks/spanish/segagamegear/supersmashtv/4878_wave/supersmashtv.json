@@ -1,0 +1,19 @@
+{
+  "id" : "4878",
+  "releasedBy" : "Wave",
+  "name" : "Super Smash T.V.",
+  "altName" : "Smash T.V.",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Super Smash T.V. (U) [!].gg\\r\\nMD5: d378d5784b82154bdc7b36976a7c7737\\r\\nSHA1: 85189e29f3f6b94f95723bc75571e9424df119f9\\r\\nCRC32: 1006e4e3 262144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\07\\29",
+  "gameDate" : "29 July 1994",
+  "version" : "1.0",
+  "downloads" : "51",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\supersmashtv\\4878_wave",
+  "imagesFilenames" : [ "supersmashtv_0.png", "supersmashtv_1.png", "supersmashtv_2.png", "supersmashtv_3.png", "supersmashtv_4.png" ],
+  "readmeFilename" : "supersmashtv_readme.txt",
+  "patchFilename" : "supersmashtv_patch.zip",
+  "notes" : null
+}

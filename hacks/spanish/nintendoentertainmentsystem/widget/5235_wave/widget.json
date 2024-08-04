@@ -1,0 +1,19 @@
+{
+  "id" : "5235",
+  "releasedBy" : "Wave",
+  "name" : "Widget",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Widget (U) [!].nes\\r\\nMD5: c21f99f0d2f564027c561b65759d3ddc\\r\\nSHA1: c9c48e0b633feecfcc22ef7ccf14d27124709f70\\r\\nCRC32: cd5a8930 262160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\27",
+  "gameDate" : "November 1992",
+  "version" : "1.0",
+  "downloads" : "76",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\widget\\5235_wave",
+  "imagesFilenames" : [ "widget_0.png", "widget_1.png", "widget_2.png", "widget_3.png", "widget_4.png" ],
+  "readmeFilename" : "widget_readme.txt",
+  "patchFilename" : "widget_patch.zip",
+  "notes" : null
+}

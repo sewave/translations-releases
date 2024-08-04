@@ -1,0 +1,19 @@
+{
+  "id" : "3542",
+  "releasedBy" : "Wave",
+  "name" : "Rolling Thunder 2",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Rolling Thunder 2 (U) [c][!].bin 1.048.576 bytes\\r\\nCRC32: 3ace429b\\r\\nMD5: 3753ae738edf6f37203763f3a8a6e406\\r\\nSHA1: 1b451389910e6b353c713f56137863ce2aff109d",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\04\\16",
+  "gameDate" : "18 November 1991",
+  "version" : "1.1",
+  "downloads" : "358",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\rollingthunder2\\3542_wave",
+  "imagesFilenames" : [ "rollingthunder2_0.png", "rollingthunder2_1.png", "rollingthunder2_2.png", "rollingthunder2_3.png", "rollingthunder2_4.png" ],
+  "readmeFilename" : "rollingthunder2_readme.txt",
+  "patchFilename" : "rollingthunder2_patch.zip",
+  "notes" : null
+}

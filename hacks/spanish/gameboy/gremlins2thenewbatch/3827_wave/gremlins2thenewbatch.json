@@ -1,0 +1,19 @@
+{
+  "id" : "3827",
+  "releasedBy" : "Wave",
+  "name" : "Gremlins 2: The New Batch",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Gremlins 2 - The New Batch (W) [!].gb\\r\\nMD5: f59dbce4cf5b51a5241806e1b35301fb\\r\\nSHA1: 0cb722d9d4e349bea1b1afa85d8d3b93f2dc2aad\\r\\nCRC32: 3579e297 131.072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\09\\21",
+  "gameDate" : "January 1991",
+  "version" : "1.0",
+  "downloads" : "110",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\gremlins2thenewbatch\\3827_wave",
+  "imagesFilenames" : [ "gremlins2thenewbatch_0.png", "gremlins2thenewbatch_1.png", "gremlins2thenewbatch_2.png", "gremlins2thenewbatch_3.png", "gremlins2thenewbatch_4.png" ],
+  "readmeFilename" : "gremlins2thenewbatch_readme.txt",
+  "patchFilename" : "gremlins2thenewbatch_patch.zip",
+  "notes" : null
+}

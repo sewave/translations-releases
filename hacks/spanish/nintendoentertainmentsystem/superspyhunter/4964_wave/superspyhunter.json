@@ -1,0 +1,19 @@
+{
+  "id" : "4964",
+  "releasedBy" : "Wave",
+  "name" : "Super Spy Hunter",
+  "altName" : "Battle Formula",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Super Spy Hunter (U) [!].nes\\r\\nMD5: b72e063e45a785a54c8e456aa8d713c7\\r\\nSHA1: de5964c4f66200b3912889f2e6f27e97436385df\\r\\nCRC32: 81d24ccc 262160 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\08\\30",
+  "gameDate" : "27 September 1991",
+  "version" : "1.0",
+  "downloads" : "83",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\superspyhunter\\4964_wave",
+  "imagesFilenames" : [ "superspyhunter_0.png", "superspyhunter_1.png", "superspyhunter_2.png", "superspyhunter_3.png", "superspyhunter_4.png" ],
+  "readmeFilename" : "superspyhunter_readme.txt",
+  "patchFilename" : "superspyhunter_patch.zip",
+  "notes" : null
+}

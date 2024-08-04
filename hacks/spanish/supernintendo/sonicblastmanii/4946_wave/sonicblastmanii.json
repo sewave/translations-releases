@@ -1,0 +1,19 @@
+{
+  "id" : "4946",
+  "releasedBy" : "Wave",
+  "name" : "Sonic Blast Man II",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Sonic Blast Man II (U).smc\\r\\nMD5: c955c2388aff8d1b888aaff9567b8d04\\r\\nSHA1: 35f07d2fa80ce6f7d11c0cf2e41c768b3e94caf7\\r\\nCRC32: 24229a34 1572864 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2019\\08\\25",
+  "gameDate" : "18 March 1994",
+  "version" : "1.0",
+  "downloads" : "169",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\sonicblastmanii\\4946_wave",
+  "imagesFilenames" : [ "sonicblastmanii_0.png", "sonicblastmanii_1.png", "sonicblastmanii_2.png", "sonicblastmanii_3.png", "sonicblastmanii_4.png" ],
+  "readmeFilename" : "sonicblastmanii_readme.txt",
+  "patchFilename" : "sonicblastmanii_patch.zip",
+  "notes" : null
+}

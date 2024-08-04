@@ -1,0 +1,19 @@
+{
+  "id" : "4863",
+  "releasedBy" : "Wave",
+  "name" : "Wimbledon",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Wimbledon (Europe).sms\\r\\nMD5: a7f1049812a4cd1f180dcd644b10145f\\r\\nSHA1: 07bc7896efc9eae77a9be68c190071c99eb17a8a\\r\\nCRC32: 912d92af 262144 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\07\\24",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "61",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\wimbledon\\4863_wave",
+  "imagesFilenames" : [ "wimbledon_0.png", "wimbledon_1.png", "wimbledon_2.png", "wimbledon_3.png", "wimbledon_4.png" ],
+  "readmeFilename" : "wimbledon_readme.txt",
+  "patchFilename" : "wimbledon_patch.zip",
+  "notes" : null
+}

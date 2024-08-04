@@ -1,0 +1,19 @@
+{
+  "id" : "4708",
+  "releasedBy" : "Wave",
+  "name" : "T2 - The Arcade Game",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "T2 - The Arcade Game (U).smc\\r\\nMD5: 49a4cf748b491f6e7bdbfc86f2cf4d16\\r\\nSHA1: 29597788b9240be9fd1f800ce61a54298986ce73\\r\\nCRC32: 5dc6b9fe 1048576 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\06\\13",
+  "gameDate" : "February 1994",
+  "version" : "1.0",
+  "downloads" : "122",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\t2thearcadegame\\4708_wave",
+  "imagesFilenames" : [ "t2thearcadegame_0.png", "t2thearcadegame_1.png", "t2thearcadegame_2.png", "t2thearcadegame_3.png", "t2thearcadegame_4.png" ],
+  "readmeFilename" : "t2thearcadegame_readme.txt",
+  "patchFilename" : "t2thearcadegame_patch.zip",
+  "notes" : null
+}

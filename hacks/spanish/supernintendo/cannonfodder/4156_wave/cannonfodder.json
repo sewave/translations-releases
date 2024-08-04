@@ -1,0 +1,19 @@
+{
+  "id" : "4156",
+  "releasedBy" : "Wave",
+  "name" : "Cannon Fodder",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Cannon Fodder (E).smc\\r\\nMD5: 8a61ea1d3b53375aae00cc69367dec7e\\r\\nSHA1: e091a94e465078cb5bb554ea03cd8cf6ee5b87d0\\r\\nCRC32: f3b5cbb1 1.572.864 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\01\\08",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "172",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\cannonfodder\\4156_wave",
+  "imagesFilenames" : [ "cannonfodder_0.png", "cannonfodder_1.png", "cannonfodder_2.png", "cannonfodder_3.png", "cannonfodder_4.png" ],
+  "readmeFilename" : "cannonfodder_readme.txt",
+  "patchFilename" : "cannonfodder_patch.zip",
+  "notes" : null
+}

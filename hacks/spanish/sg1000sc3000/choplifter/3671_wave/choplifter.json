@@ -1,0 +1,19 @@
+{
+  "id" : "3671",
+  "releasedBy" : "Wave",
+  "name" : "Choplifter",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Choplifter (SG-1000) [!].sg 32.768 bytes\\r\\nCRC32: 732b7180\\r\\nMD5: ee557c7811f03c44965a56b80801a3b9\\r\\nSHA1: e0828517fdc9a5537fda39dbc49942494eb3196d",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\06\\30",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "61",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\choplifter\\3671_wave",
+  "imagesFilenames" : [ "choplifter_0.png", "choplifter_1.png", "choplifter_2.png", "choplifter_3.png", "choplifter_4.png" ],
+  "readmeFilename" : "choplifter_readme.txt",
+  "patchFilename" : "choplifter_patch.zip",
+  "notes" : null
+}

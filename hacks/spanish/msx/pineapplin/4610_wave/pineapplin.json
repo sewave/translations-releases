@@ -1,0 +1,19 @@
+{
+  "id" : "4610",
+  "releasedBy" : "Wave",
+  "name" : "Pine Applin",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Pine Applin (1984) (Zap) (J).rom\\r\\nMD5: a2bc1c96c6cc21fb1845f52950d88a5f\\r\\nSHA1: 878554d3b579e72b2d3c22e6330208ee0d1ee8a6\\r\\nCRC32: 7411c6f2 16384 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\05\\31",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "35",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\pineapplin\\4610_wave",
+  "imagesFilenames" : [ "pineapplin_0.png", "pineapplin_1.png", "pineapplin_2.png", "pineapplin_3.png", "pineapplin_4.png" ],
+  "readmeFilename" : "pineapplin_readme.txt",
+  "patchFilename" : "pineapplin_patch.zip",
+  "notes" : null
+}

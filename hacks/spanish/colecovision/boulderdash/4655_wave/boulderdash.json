@@ -1,0 +1,19 @@
+{
+  "id" : "4655",
+  "releasedBy" : "Wave",
+  "name" : "Boulder Dash",
+  "altName" : "",
+  "system" : "ColecoVision",
+  "romDesc" : "Boulder Dash (1984) (Micro Fun).col\\r\\nMD5: ceff12f5d453cc60b6f4441b9042eac0\\r\\nSHA1: ad266ca4d270ea35def306381eaf05d36c811218\\r\\nCRC32: 1796de5e 16384 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\06\\06",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "32",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\colecovision\\boulderdash\\4655_wave",
+  "imagesFilenames" : [ "boulderdash_0.png", "boulderdash_1.png", "boulderdash_2.png", "boulderdash_3.png", "boulderdash_4.png" ],
+  "readmeFilename" : "boulderdash_readme.txt",
+  "patchFilename" : "boulderdash_patch.zip",
+  "notes" : null
+}

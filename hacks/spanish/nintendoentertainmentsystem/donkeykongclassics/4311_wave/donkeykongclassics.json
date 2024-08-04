@@ -1,0 +1,19 @@
+{
+  "id" : "4311",
+  "releasedBy" : "Wave",
+  "name" : "Donkey Kong Classics",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Donkey Kong Classics (U) [!].nes\\r\\nMD5: 074fea160b7ec513bdaf2c0bb042c262\\r\\nSHA1: 8ad359b48f1a9cde36bd682d0776dedae1bbbc89\\r\\nCRC32: 17ec0cc7 49.168 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\03\\12",
+  "gameDate" : "October 1988",
+  "version" : "1.0",
+  "downloads" : "124",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\donkeykongclassics\\4311_wave",
+  "imagesFilenames" : [ "donkeykongclassics_0.png", "donkeykongclassics_1.png", "donkeykongclassics_2.png", "donkeykongclassics_3.png", "donkeykongclassics_4.png" ],
+  "readmeFilename" : "donkeykongclassics_readme.txt",
+  "patchFilename" : "donkeykongclassics_patch.zip",
+  "notes" : null
+}

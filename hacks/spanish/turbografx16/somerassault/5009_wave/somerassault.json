@@ -1,0 +1,19 @@
+{
+  "id" : "5009",
+  "releasedBy" : "Wave",
+  "name" : "Somer Assault",
+  "altName" : "Mesopotamia",
+  "system" : "PC Engine",
+  "romDesc" : "Somer Assault (U).pce\\r\\nMD5: 0060840cb54b2db4db8a2927d48c6c54\\r\\nSHA1: bb6b5a59106bd60fbe7b1d7def7f73253440b49a\\r\\nCRC32: 8fcaf2e9 524288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\09\\16",
+  "gameDate" : "04 October 1991",
+  "version" : "1.0",
+  "downloads" : "68",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\somerassault\\5009_wave",
+  "imagesFilenames" : [ "somerassault_0.png", "somerassault_1.png", "somerassault_2.png", "somerassault_3.png", "somerassault_4.png" ],
+  "readmeFilename" : "somerassault_readme.txt",
+  "patchFilename" : "somerassault_patch.zip",
+  "notes" : null
+}

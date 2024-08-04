@@ -1,0 +1,19 @@
+{
+  "id" : "3796",
+  "releasedBy" : "Wave",
+  "name" : "The New Zealand Story",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "New Zealand Story, The (E) [!].sms 262.144 bytes\\r\\nMD5: 05e5054e2ea818d4b7eb53d624562dcf\\r\\nSHA1: e433b21b505ed5428d1b2f07255e49c6db2edc6c\\r\\nCRC32: c660ff34",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\09\\06",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "129",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\thenewzealandstory\\3796_wave",
+  "imagesFilenames" : [ "thenewzealandstory_0.png", "thenewzealandstory_1.png", "thenewzealandstory_2.png", "thenewzealandstory_3.png", "thenewzealandstory_4.png" ],
+  "readmeFilename" : "thenewzealandstory_readme.txt",
+  "patchFilename" : "thenewzealandstory_patch.zip",
+  "notes" : null
+}

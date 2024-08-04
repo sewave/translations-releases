@@ -1,0 +1,19 @@
+{
+  "id" : "3918",
+  "releasedBy" : "Wave",
+  "name" : "Wolfchild",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Wolfchild (U) [!].gg\\r\\nMD5: eba13e76d02e0a051a36d54a8bb55f33\\r\\nSHA1: 7889b67ee0e5c884fa267688aad4b6c23849268c\\r\\nCRC32: 840a8f8e 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\11",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "69",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\wolfchild\\3918_wave",
+  "imagesFilenames" : [ "wolfchild_0.png", "wolfchild_1.png", "wolfchild_2.png", "wolfchild_3.png", "wolfchild_4.png" ],
+  "readmeFilename" : "wolfchild_readme.txt",
+  "patchFilename" : "wolfchild_patch.zip",
+  "notes" : null
+}

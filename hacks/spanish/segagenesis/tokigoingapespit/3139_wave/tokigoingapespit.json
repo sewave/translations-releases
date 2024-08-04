@@ -1,0 +1,19 @@
+{
+  "id" : "3139",
+  "releasedBy" : "Wave",
+  "name" : "Toki: Going Ape Spit",
+  "altName" : "JuJu Densetsu",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Toki - Going Ape Spit (UE) [c][!].bin 524.288 bytes\\r\\nCRC32: 7362c3f4\\r\\nMD5: 56ba94382fe6f06d05baf77261644ad4\\r\\nSHA1: 77270a6ded838d0263284dcc075aa4b2b2aef234",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\07\\29",
+  "gameDate" : "1991",
+  "version" : "1.2",
+  "downloads" : "485",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\tokigoingapespit\\3139_wave",
+  "imagesFilenames" : [ "tokigoingapespit_0.png", "tokigoingapespit_1.png", "tokigoingapespit_2.png", "tokigoingapespit_3.png", "tokigoingapespit_4.png" ],
+  "readmeFilename" : "tokigoingapespit_readme.txt",
+  "patchFilename" : "tokigoingapespit_patch.zip",
+  "notes" : null
+}

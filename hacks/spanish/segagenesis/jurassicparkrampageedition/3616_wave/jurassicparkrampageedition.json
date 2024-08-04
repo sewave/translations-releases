@@ -1,0 +1,19 @@
+{
+  "id" : "3616",
+  "releasedBy" : "Wave",
+  "name" : "Jurassic Park: Rampage Edition",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Jurassic Park - Rampage Edition (UE) [!].bin 2.097.152 bytes\\r\\nCRC32: 98b4aa1b\\r\\nMD5: 67c489b34827bb4fae2ba93e8d2a919e\\r\\nSHA1: 535c78d91f76302a882d69ff40b3d0f030a5b6ae",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\25",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "324",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\jurassicparkrampageedition\\3616_wave",
+  "imagesFilenames" : [ "jurassicparkrampageedition_0.png", "jurassicparkrampageedition_1.png", "jurassicparkrampageedition_2.png", "jurassicparkrampageedition_3.png", "jurassicparkrampageedition_4.png" ],
+  "readmeFilename" : "jurassicparkrampageedition_readme.txt",
+  "patchFilename" : "jurassicparkrampageedition_patch.zip",
+  "notes" : null
+}

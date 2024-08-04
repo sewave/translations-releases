@@ -1,0 +1,19 @@
+{
+  "id" : "3383",
+  "releasedBy" : "Wave",
+  "name" : "Thunder Force III",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Thunder Force III (JU) [!].gen 524.288 bytes\\r\\nCRC32: 1b3f399a\\r\\nMD5: 64766dae889d039eb391bc5bf2973f5d\\r\\nSHA1: 9eadee76eb0509d5a0f16372fc9eac7a883e5f2d",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\01\\09",
+  "gameDate" : "07 June 1990",
+  "version" : "1.1",
+  "downloads" : "375",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\thunderforceiii\\3383_wave",
+  "imagesFilenames" : [ "thunderforceiii_0.png", "thunderforceiii_1.png", "thunderforceiii_2.png", "thunderforceiii_3.png", "thunderforceiii_4.png" ],
+  "readmeFilename" : "thunderforceiii_readme.txt",
+  "patchFilename" : "thunderforceiii_patch.zip",
+  "notes" : null
+}

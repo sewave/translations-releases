@@ -1,0 +1,19 @@
+{
+  "id" : "3350",
+  "releasedBy" : "Wave",
+  "name" : "Decap Attack",
+  "altName" : "Magical Hat no Buttobi Tabo! Daibouken",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Decap Attack (UE) [!].gen 524.288 bytes\\r\\nCRC32: 73dc0dd8\\r\\nMD5: 283c180cede3352dabec75fff677052e\\r\\nSHA1: 9665f54a6149d71ea72db9c168755e62cb61649c",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\12\\26",
+  "gameDate" : "15 December 1990",
+  "version" : "1.1",
+  "downloads" : "400",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\decapattack\\3350_wave",
+  "imagesFilenames" : [ "decapattack_0.png", "decapattack_1.png", "decapattack_2.png", "decapattack_3.png", "decapattack_4.png" ],
+  "readmeFilename" : "decapattack_readme.txt",
+  "patchFilename" : "decapattack_patch.zip",
+  "notes" : null
+}

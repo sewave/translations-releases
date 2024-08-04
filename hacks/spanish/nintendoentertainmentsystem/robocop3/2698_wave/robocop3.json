@@ -1,0 +1,19 @@
+{
+  "id" : "2698",
+  "releasedBy" : "Wave",
+  "name" : "RoboCop 3",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Robocop 3 (U).nes 262.160 bytes\\r\\nCRC32: fbbb58a6\\r\\nMD5: 09643d3d3a5d2eb830fa9902f950dbf2\\r\\nSHA1: 77bab039b13a974a46686a7647c0affd00b4a9ad",
+  "genre" : "Acción",
+  "releaseDate" : "2016\\08\\15",
+  "gameDate" : "1992",
+  "version" : "0.9",
+  "downloads" : "471",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\robocop3\\2698_wave",
+  "imagesFilenames" : [ "robocop3_0.png", "robocop3_1.png", "robocop3_2.png", "robocop3_3.png", "robocop3_4.png" ],
+  "readmeFilename" : "robocop3_readme.txt",
+  "patchFilename" : "robocop3_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4680",
+  "releasedBy" : "Wave",
+  "name" : "Space Gun",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Spacegun (E) [!].sms\\r\\nMD5: ebb0b4161ffa873a7fa80ca41d139c57\\r\\nSHA1: c5afd5fa7b26da55d243df6822c16dae3a401ac1\\r\\nCRC32: a908cff5 524288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\06\\10",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "77",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\spacegun\\4680_wave",
+  "imagesFilenames" : [ "spacegun_0.png", "spacegun_1.png", "spacegun_2.png", "spacegun_3.png", "spacegun_4.png" ],
+  "readmeFilename" : "spacegun_readme.txt",
+  "patchFilename" : "spacegun_patch.zip",
+  "notes" : null
+}

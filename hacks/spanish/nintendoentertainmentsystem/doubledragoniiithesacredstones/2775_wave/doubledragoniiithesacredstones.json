@@ -1,0 +1,19 @@
+{
+  "id" : "2775",
+  "releasedBy" : "Wave",
+  "name" : "Double Dragon III: The Sacred Stones",
+  "altName" : "Double Dragon III: The Rosetta Stone",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Double Dragon III - The Rosetta Stone (J) [!].nes 262.160 bytes\\r\\nCRC32: 40759ab5\\r\\nMD5: 99b59bb8439790a5eb3a384efbd75767\\r\\nSHA1: c2eb62a13faca63c55efa68984ae515b4dbea9c0",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2016\\11\\02",
+  "gameDate" : "22 February 1991",
+  "version" : "1.0",
+  "downloads" : "520",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\doubledragoniiithesacredstones\\2775_wave",
+  "imagesFilenames" : [ "doubledragoniiithesacredstones_0.png", "doubledragoniiithesacredstones_1.png", "doubledragoniiithesacredstones_2.png", "doubledragoniiithesacredstones_3.png", "doubledragoniiithesacredstones_4.png" ],
+  "readmeFilename" : "doubledragoniiithesacredstones_readme.txt",
+  "patchFilename" : "doubledragoniiithesacredstones_patch.zip",
+  "notes" : null
+}

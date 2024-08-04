@@ -1,0 +1,19 @@
+{
+  "id" : "3600",
+  "releasedBy" : "Wave",
+  "name" : "Ghostbusters",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Ghostbusters (W) (REV01) [!].bin 524.288 bytes\\r\\nCRC32: 792df93b\\r\\nMD5: d73f3b9feac4734e9a391aa211a88159\\r\\nSHA1: 6fceffee406679c0c8221a8b6cfad447695e99fb",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\18",
+  "gameDate" : "29 June 1990",
+  "version" : "1.0",
+  "downloads" : "358",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\ghostbusters\\3600_wave",
+  "imagesFilenames" : [ "ghostbusters_0.png", "ghostbusters_1.png", "ghostbusters_2.png", "ghostbusters_3.png", "ghostbusters_4.png" ],
+  "readmeFilename" : "ghostbusters_readme.txt",
+  "patchFilename" : "ghostbusters_patch.zip",
+  "notes" : null
+}

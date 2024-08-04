@@ -1,0 +1,19 @@
+{
+  "id" : "4408",
+  "releasedBy" : "Wave",
+  "name" : "City Connection",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "City Connection (U) [!].nes\\r\\nMD5: c6f8d64a8a776ce99d08675e5ed8116c\\r\\nSHA1: c35245e1ba2355f29f75379dff75e69dec9091a1\\r\\nCRC32: e1ad7ca8 65.552 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\04\\16",
+  "gameDate" : "27 September 1985",
+  "version" : "1.0",
+  "downloads" : "113",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\cityconnection\\4408_wave",
+  "imagesFilenames" : [ "cityconnection_0.png", "cityconnection_1.png", "cityconnection_2.png", "cityconnection_3.png", "cityconnection_4.png" ],
+  "readmeFilename" : "cityconnection_readme.txt",
+  "patchFilename" : "cityconnection_patch.zip",
+  "notes" : null
+}

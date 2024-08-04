@@ -1,0 +1,19 @@
+{
+  "id" : "4105",
+  "releasedBy" : "Wave",
+  "name" : "The Blues Brothers",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Blues Brothers, The (U) [!].nes\\r\\nMD5: 820642cece4d2fd3d029a38a37ca561a\\r\\nSHA1: 6e93b3bdbb67b014b68b982a99b597158fca8e4b\\r\\nCRC32: ac273c14 131.088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\12\\23",
+  "gameDate" : "September 1992",
+  "version" : "1.0",
+  "downloads" : "126",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\thebluesbrothers\\4105_wave",
+  "imagesFilenames" : [ "thebluesbrothers_0.png", "thebluesbrothers_1.png", "thebluesbrothers_2.png", "thebluesbrothers_3.png", "thebluesbrothers_4.png" ],
+  "readmeFilename" : "thebluesbrothers_readme.txt",
+  "patchFilename" : "thebluesbrothers_patch.zip",
+  "notes" : null
+}

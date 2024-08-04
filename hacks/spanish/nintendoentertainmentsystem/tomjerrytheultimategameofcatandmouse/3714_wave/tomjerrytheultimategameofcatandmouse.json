@@ -1,0 +1,19 @@
+{
+  "id" : "3714",
+  "releasedBy" : "Wave",
+  "name" : "Tom & Jerry: The Ultimate Game of Cat and Mouse!",
+  "altName" : "Tom to Jerry & Tuffy",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Tom & Jerry (U) [!].nes 262.160 bytes\\r\\nMD5: c3670aa0b77a26279438944be48c3daa\\r\\nSHA1: d6ebfe209995e8db14e82df952e8c5b10b025460\\r\\nCRC32: fca83867",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\07\\20",
+  "gameDate" : "December 1991",
+  "version" : "1.0",
+  "downloads" : "242",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\tomjerrytheultimategameofcatandmouse\\3714_wave",
+  "imagesFilenames" : [ "tomjerrytheultimategameofcatandmouse_0.png", "tomjerrytheultimategameofcatandmouse_1.png", "tomjerrytheultimategameofcatandmouse_2.png", "tomjerrytheultimategameofcatandmouse_3.png", "tomjerrytheultimategameofcatandmouse_4.png" ],
+  "readmeFilename" : "tomjerrytheultimategameofcatandmouse_readme.txt",
+  "patchFilename" : "tomjerrytheultimategameofcatandmouse_patch.zip",
+  "notes" : null
+}

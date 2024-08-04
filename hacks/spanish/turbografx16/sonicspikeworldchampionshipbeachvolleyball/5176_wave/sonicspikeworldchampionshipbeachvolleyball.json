@@ -1,0 +1,19 @@
+{
+  "id" : "5176",
+  "releasedBy" : "Wave",
+  "name" : "Sonic Spike - World Championship Beach Volleyball",
+  "altName" : "World Beach Volley",
+  "system" : "PC Engine",
+  "romDesc" : "Sonic Spike - World Championship Beach Volleyball (U).pce\\r\\nMD5: e9a17f9e425cb6cf3e14c83eddd7dc06\\r\\nSHA1: 5a74eead0593190979028ef99a19519bab00b3ab\\r\\nCRC32: f74e5eb3 262144 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\11\\08",
+  "gameDate" : "27 July 1990",
+  "version" : "1.0",
+  "downloads" : "57",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\sonicspikeworldchampionshipbeachvolleyball\\5176_wave",
+  "imagesFilenames" : [ "sonicspikeworldchampionshipbeachvolleyball_0.png", "sonicspikeworldchampionshipbeachvolleyball_1.png", "sonicspikeworldchampionshipbeachvolleyball_2.png", "sonicspikeworldchampionshipbeachvolleyball_3.png", "sonicspikeworldchampionshipbeachvolleyball_4.png" ],
+  "readmeFilename" : "sonicspikeworldchampionshipbeachvolleyball_readme.txt",
+  "patchFilename" : "sonicspikeworldchampionshipbeachvolleyball_patch.zip",
+  "notes" : null
+}

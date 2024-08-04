@@ -1,0 +1,19 @@
+{
+  "id" : "4948",
+  "releasedBy" : "Wave",
+  "name" : "Super C",
+  "altName" : "Super Contra Probotector II: Return of the Evil Forces",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Probotector II - Return of the Evil Forces (Europe).nes\\r\\nMD5: 917166c2ed0e3316255a57c81dc38abc\\r\\nSHA1: 3057a95309b896fdbcd40e1de8445a63aef378be\\r\\nCRC32: 1d36e3c0 262160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\08\\25",
+  "gameDate" : "02 February 1990",
+  "version" : "1.0",
+  "downloads" : "113",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\superc\\4948_wave",
+  "imagesFilenames" : [ "superc_0.png", "superc_1.png", "superc_2.png", "superc_3.png", "superc_4.png" ],
+  "readmeFilename" : "superc_readme.txt",
+  "patchFilename" : "superc_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4829",
+  "releasedBy" : "Wave",
+  "name" : "Side Pocket",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Side Pocket (JU) [!].gen\\r\\nMD5: 469e1360eb70879b1039a686be9dfc3a\\r\\nSHA1: 2b30982d04628edc620d8d99f7dceb4ed87b41e3\\r\\nCRC32: af9f275d 1048576 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\07\\15",
+  "gameDate" : "11 December 1992",
+  "version" : "1.0",
+  "downloads" : "133",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\sidepocket\\4829_wave",
+  "imagesFilenames" : [ "sidepocket_0.png", "sidepocket_1.png", "sidepocket_2.png", "sidepocket_3.png", "sidepocket_4.png" ],
+  "readmeFilename" : "sidepocket_readme.txt",
+  "patchFilename" : "sidepocket_patch.zip",
+  "notes" : null
+}

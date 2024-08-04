@@ -1,0 +1,19 @@
+{
+  "id" : "3814",
+  "releasedBy" : "Wave",
+  "name" : "Mortal Kombat 3",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Mortal Kombat 3 (E) [!].sms 524.288 bytes\\r\\nMD5: 3ba73c09f35ea91bf36cd0b01bc1c044\\r\\nSHA1: f1f43f57982dd22caa8869a85b1a05fa61c349dd\\r\\nCRC32: 395ae757",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2018\\09\\13",
+  "gameDate" : "1996",
+  "version" : "1.0",
+  "downloads" : "125",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\mortalkombat3\\3814_wave",
+  "imagesFilenames" : [ "mortalkombat3_0.png", "mortalkombat3_1.png", "mortalkombat3_2.png", "mortalkombat3_3.png", "mortalkombat3_4.png" ],
+  "readmeFilename" : "mortalkombat3_readme.txt",
+  "patchFilename" : "mortalkombat3_patch.zip",
+  "notes" : null
+}

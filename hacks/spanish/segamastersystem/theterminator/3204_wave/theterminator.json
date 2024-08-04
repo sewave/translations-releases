@@ -1,0 +1,19 @@
+{
+  "id" : "3204",
+  "releasedBy" : "Wave",
+  "name" : "The Terminator",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Terminator, The (E) [!].sms 262.144 bytes\\r\\nCRC32: edc5c012\\r\\nMD5: f224907676a09c7f0404c95c316f1503\\r\\nSHA1: eaf733d385e61526b90c1b194bf605078d43e2d3",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\09\\24",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "205",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\theterminator\\3204_wave",
+  "imagesFilenames" : [ "theterminator_0.png", "theterminator_1.png", "theterminator_2.png", "theterminator_3.png", "theterminator_4.png" ],
+  "readmeFilename" : "theterminator_readme.txt",
+  "patchFilename" : "theterminator_patch.zip",
+  "notes" : null
+}

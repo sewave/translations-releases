@@ -1,0 +1,19 @@
+{
+  "id" : "5119",
+  "releasedBy" : "Wave",
+  "name" : "Ironsword: Wizards & Warriors II",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Ironsword - Wizards & Warriors II (U) [!].nes\\r\\nMD5: dd51f1685cb61679cdd4afd3ef887804\\r\\nSHA1: 97b79e432f62403fb9f877090850c41112a9a168\\r\\nCRC32: be2e7055 262160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\10\\27",
+  "gameDate" : "December 1989",
+  "version" : "1.0",
+  "downloads" : "93",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\ironswordwizardswarriorsii\\5119_wave",
+  "imagesFilenames" : [ "ironswordwizardswarriorsii_0.png", "ironswordwizardswarriorsii_1.png", "ironswordwizardswarriorsii_2.png", "ironswordwizardswarriorsii_3.png", "ironswordwizardswarriorsii_4.png" ],
+  "readmeFilename" : "ironswordwizardswarriorsii_readme.txt",
+  "patchFilename" : "ironswordwizardswarriorsii_patch.zip",
+  "notes" : null
+}

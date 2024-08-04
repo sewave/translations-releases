@@ -1,0 +1,19 @@
+{
+  "id" : "3687",
+  "releasedBy" : "Wave",
+  "name" : "Streets of Rage",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Streets of Rage (E) [a1].sms 524.288 bytes\\r\\nCRC32: 4ab3790f\\r\\nMD5: 29a5195d57a82fb1349a7403f1d65d7e\\r\\nSHA1: 5bdec24d9ba0f6ed359dcb3b11910ec86866ec98",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\07\\06",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "194",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\streetsofrage\\3687_wave",
+  "imagesFilenames" : [ "streetsofrage_0.png", "streetsofrage_1.png", "streetsofrage_2.png", "streetsofrage_3.png", "streetsofrage_4.png" ],
+  "readmeFilename" : "streetsofrage_readme.txt",
+  "patchFilename" : "streetsofrage_patch.zip",
+  "notes" : null
+}

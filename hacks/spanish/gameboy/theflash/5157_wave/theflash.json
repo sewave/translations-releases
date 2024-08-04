@@ -1,0 +1,19 @@
+{
+  "id" : "5157",
+  "releasedBy" : "Wave",
+  "name" : "The Flash",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Flash, The (U) [!].gb\\r\\nMD5: 300c72aa607aac5126dd791884233691\\r\\nSHA1: f7e5701e6fa8fe4440988d1207517668c35088c6\\r\\nCRC32: 6deb1f06 131072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\05",
+  "gameDate" : "March 1992",
+  "version" : "1.0",
+  "downloads" : "55",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\theflash\\5157_wave",
+  "imagesFilenames" : [ "theflash_0.png", "theflash_1.png", "theflash_2.png", "theflash_3.png", "theflash_4.png" ],
+  "readmeFilename" : "theflash_readme.txt",
+  "patchFilename" : "theflash_patch.zip",
+  "notes" : null
+}

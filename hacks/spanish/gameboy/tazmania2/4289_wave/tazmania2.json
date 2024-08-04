@@ -1,0 +1,19 @@
+{
+  "id" : "4289",
+  "releasedBy" : "Wave",
+  "name" : "Taz-Mania 2",
+  "altName" : "Taz-Mania",
+  "system" : "Game Boy",
+  "romDesc" : "Taz-Mania (E) [!].gb\\r\\nMD5: bb922ce354fc5caec500f99985a07c39\\r\\nSHA1: c184e8e11ef2388c60b69d445a46fc22a11d175e\\r\\nCRC32: 0860b667 131.072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\03\\01",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "83",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\tazmania2\\4289_wave",
+  "imagesFilenames" : [ "tazmania2_0.png", "tazmania2_1.png", "tazmania2_2.png", "tazmania2_3.png", "tazmania2_4.png" ],
+  "readmeFilename" : "tazmania2_readme.txt",
+  "patchFilename" : "tazmania2_patch.zip",
+  "notes" : null
+}

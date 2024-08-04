@@ -1,0 +1,19 @@
+{
+  "id" : "5259",
+  "releasedBy" : "Wave",
+  "name" : "The Protector",
+  "altName" : "Jackie Chan in The Protector",
+  "system" : "MSX",
+  "romDesc" : "Protector, The (1985) (Pony Cannon) (J).rom\\r\\nMD5: 5bde548d26288b4c7c7cd05159f5a493\\r\\nSHA1: d03fdca57b55bdb7e6b5481615b8ad0c8a71f77d\\r\\nCRC32: 5747e69d 16384 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\12\\01",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "29",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\theprotector\\5259_wave",
+  "imagesFilenames" : [ "theprotector_0.png", "theprotector_1.png", "theprotector_2.png", "theprotector_3.png" ],
+  "readmeFilename" : "theprotector_readme.txt",
+  "patchFilename" : "theprotector_patch.zip",
+  "notes" : null
+}

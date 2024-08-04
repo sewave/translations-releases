@@ -1,0 +1,19 @@
+{
+  "id" : "3490",
+  "releasedBy" : "Wave",
+  "name" : "Rambo: First Blood Part II",
+  "altName" : "Ashura Secret Command",
+  "system" : "Sega Master System",
+  "romDesc" : "Rambo - First Blood Part 2 (U) [!].sms 131.072 bytes\\r\\nCRC32: bbda65f0\\r\\nMD5: 7a080a155ad6a806da88aa1d3576d78c\\r\\nSHA1: dc44b090a01d6a4d9b5700ada764b00c62c00e91",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\03\\16",
+  "gameDate" : "16 November 1986",
+  "version" : "1.0",
+  "downloads" : "163",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\rambofirstbloodpartii\\3490_wave",
+  "imagesFilenames" : [ "rambofirstbloodpartii_0.png", "rambofirstbloodpartii_1.png", "rambofirstbloodpartii_2.png", "rambofirstbloodpartii_3.png", "rambofirstbloodpartii_4.png" ],
+  "readmeFilename" : "rambofirstbloodpartii_readme.txt",
+  "patchFilename" : "rambofirstbloodpartii_patch.zip",
+  "notes" : null
+}

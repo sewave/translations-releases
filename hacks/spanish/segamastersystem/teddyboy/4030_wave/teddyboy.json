@@ -1,0 +1,19 @@
+{
+  "id" : "4030",
+  "releasedBy" : "Wave",
+  "name" : "Teddy Boy",
+  "altName" : "Teddy Boy Blues",
+  "system" : "Sega Master System",
+  "romDesc" : "Teddy Boy (UE) [!].sms\\r\\nMD5: 66baea0a42353ffd3f131586e0c9c4d4\\r\\nSHA1: 6ae39718703dbf7126f71387ce24ad956710a315\\r\\nCRC32: 2728faa3 32.768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\23",
+  "gameDate" : "20 October 1985",
+  "version" : "1.0",
+  "downloads" : "95",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\teddyboy\\4030_wave",
+  "imagesFilenames" : [ "teddyboy_0.png", "teddyboy_1.png", "teddyboy_2.png", "teddyboy_3.png", "teddyboy_4.png" ],
+  "readmeFilename" : "teddyboy_readme.txt",
+  "patchFilename" : "teddyboy_patch.zip",
+  "notes" : null
+}

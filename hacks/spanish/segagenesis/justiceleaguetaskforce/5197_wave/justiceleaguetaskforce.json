@@ -1,0 +1,19 @@
+{
+  "id" : "5197",
+  "releasedBy" : "Wave",
+  "name" : "Justice League Task Force",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Justice League Task Force (W) [!].bin\\r\\nMD5: 055d4c70f124963fcedc2eec47a28e38\\r\\nSHA1: 1be166689726b98fc5924028e736fc8007f958ef\\r\\nCRC32: 2a60ebe9 3145728 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\11\\15",
+  "gameDate" : "24 August 1995",
+  "version" : "1.0",
+  "downloads" : "93",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\justiceleaguetaskforce\\5197_wave",
+  "imagesFilenames" : [ "justiceleaguetaskforce_0.png", "justiceleaguetaskforce_1.png", "justiceleaguetaskforce_2.png", "justiceleaguetaskforce_3.png", "justiceleaguetaskforce_4.png" ],
+  "readmeFilename" : "justiceleaguetaskforce_readme.txt",
+  "patchFilename" : "justiceleaguetaskforce_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4044",
+  "releasedBy" : "Wave",
+  "name" : "Sassou Shounen Eiyuuden: Coca-Cola Kid",
+  "altName" : "Coca-Cola Kid",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Coca Cola Kid (J) [!].gg\\r\\nMD5: dbede5c20828e3d251b05356d9176c79\\r\\nSHA1: e0a6caba7d8433175a3b7f1dfb593f9ca2c67cd1\\r\\nCRC32: c7598b81 524.288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\12\\01",
+  "gameDate" : "05 August 1994",
+  "version" : "1.0",
+  "downloads" : "115",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\sassoushouneneiyuudencocacolakid\\4044_wave",
+  "imagesFilenames" : [ "sassoushouneneiyuudencocacolakid_0.png", "sassoushouneneiyuudencocacolakid_1.png", "sassoushouneneiyuudencocacolakid_2.png", "sassoushouneneiyuudencocacolakid_3.png", "sassoushouneneiyuudencocacolakid_4.png" ],
+  "readmeFilename" : "sassoushouneneiyuudencocacolakid_readme.txt",
+  "patchFilename" : "sassoushouneneiyuudencocacolakid_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4025",
+  "releasedBy" : "Wave",
+  "name" : "Rocky",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Rocky (World).sms\\r\\nMD5: 582d58d95c9774cd50555366c253a050\\r\\nSHA1: 8601927ca17419f5d61f757e9371ce533228f7bb\\r\\nCRC32: 1bcc7be3 262.144 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2018\\11\\23",
+  "gameDate" : "19 April 1987",
+  "version" : "1.0",
+  "downloads" : "113",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\rocky\\4025_wave",
+  "imagesFilenames" : [ "rocky_0.png", "rocky_1.png", "rocky_2.png", "rocky_3.png", "rocky_4.png" ],
+  "readmeFilename" : "rocky_readme.txt",
+  "patchFilename" : "rocky_patch.zip",
+  "notes" : null
+}

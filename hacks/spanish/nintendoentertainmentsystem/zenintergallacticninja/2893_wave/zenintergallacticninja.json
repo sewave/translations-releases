@@ -1,0 +1,19 @@
+{
+  "id" : "2893",
+  "releasedBy" : "Wave",
+  "name" : "Zen: Intergallactic Ninja",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Zen - Intergalactic Ninja (U) [!].nes 262.160 bytes\\r\\nCRC32: f2c4836f\\r\\nMD5: 9ef264d1b0f6812ce60b9a6b78e365b9\\r\\nSHA1: b230ffdd6fbe0180c48f181de792a7321b582273",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\02\\16",
+  "gameDate" : "07 March 1993",
+  "version" : "1.0",
+  "downloads" : "339",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\zenintergallacticninja\\2893_wave",
+  "imagesFilenames" : [ "zenintergallacticninja_0.png", "zenintergallacticninja_1.png", "zenintergallacticninja_2.png", "zenintergallacticninja_3.png", "zenintergallacticninja_4.png" ],
+  "readmeFilename" : "zenintergallacticninja_readme.txt",
+  "patchFilename" : "zenintergallacticninja_patch.zip",
+  "notes" : null
+}

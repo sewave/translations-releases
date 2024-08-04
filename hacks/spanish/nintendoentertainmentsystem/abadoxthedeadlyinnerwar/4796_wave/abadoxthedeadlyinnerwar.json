@@ -1,0 +1,19 @@
+{
+  "id" : "4796",
+  "releasedBy" : "Wave",
+  "name" : "Abadox: The Deadly Inner War",
+  "altName" : "Abadox",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Abadox - The Deadly Inner War (U) [!].nes\\r\\nMD5: c096127c895bb7904c810007119a0225\\r\\nSHA1: e20d3f4fefa0ad7de198f957563f70b11410af52\\r\\nCRC32: dc87f63d 262160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\07\\08",
+  "gameDate" : "15 December 1989",
+  "version" : "1.0",
+  "downloads" : "119",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\abadoxthedeadlyinnerwar\\4796_wave",
+  "imagesFilenames" : [ "abadoxthedeadlyinnerwar_0.png", "abadoxthedeadlyinnerwar_1.png", "abadoxthedeadlyinnerwar_2.png", "abadoxthedeadlyinnerwar_3.png", "abadoxthedeadlyinnerwar_4.png" ],
+  "readmeFilename" : "abadoxthedeadlyinnerwar_readme.txt",
+  "patchFilename" : "abadoxthedeadlyinnerwar_patch.zip",
+  "notes" : null
+}

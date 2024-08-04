@@ -1,0 +1,19 @@
+{
+  "id" : "4940",
+  "releasedBy" : "Wave",
+  "name" : "The Combatribes",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Combatribes, The (U).smc\\r\\nMD5: 9bd5b32d479983dd2c0b49020e812e69\\r\\nSHA1: 6827e8d9520ffdf05e8ffbeba71355fd32079af2\\r\\nCRC32: 9304044a 1572864 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2019\\08\\25",
+  "gameDate" : "23 December 1992",
+  "version" : "1.0",
+  "downloads" : "137",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\thecombatribes\\4940_wave",
+  "imagesFilenames" : [ "thecombatribes_0.png", "thecombatribes_1.png", "thecombatribes_2.png", "thecombatribes_3.png", "thecombatribes_4.png" ],
+  "readmeFilename" : "thecombatribes_readme.txt",
+  "patchFilename" : "thecombatribes_patch.zip",
+  "notes" : null
+}

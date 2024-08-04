@@ -1,0 +1,19 @@
+{
+  "id" : "3959",
+  "releasedBy" : "Wave",
+  "name" : "H.E.R.O.",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "H.E.R.O. (SG-1000).sg\\r\\nMD5: d10f38c614113cb34bbf4a19b487e1fb\\r\\nSHA1: 19acb69b7b64da5083349d8bc40a47beacc88c41\\r\\nCRC32: 4587de6e 32.768 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\11\\01",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "51",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\hero\\3959_wave",
+  "imagesFilenames" : [ "hero_0.png", "hero_1.png", "hero_2.png" ],
+  "readmeFilename" : "hero_readme.txt",
+  "patchFilename" : "hero_patch.zip",
+  "notes" : null
+}

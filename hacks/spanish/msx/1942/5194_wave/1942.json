@@ -1,0 +1,19 @@
+{
+  "id" : "5194",
+  "releasedBy" : "Wave",
+  "name" : "1942",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "1942 (1986) (Ascii) (J).rom\\r\\nMD5: 284f6df2bc8b829bc99775b52a00c509\\r\\nSHA1: 0733cd627467a866846e15caf1770a5594eaf4cc\\r\\nCRC32: a27787af 131072 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\15",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "38",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\1942\\5194_wave",
+  "imagesFilenames" : [ "1942_0.png", "1942_1.png", "1942_2.png", "1942_3.png", "1942_4.png" ],
+  "readmeFilename" : "1942_readme.txt",
+  "patchFilename" : "1942_patch.zip",
+  "notes" : null
+}

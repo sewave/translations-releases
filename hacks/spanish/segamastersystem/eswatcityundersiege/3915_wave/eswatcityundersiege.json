@@ -1,0 +1,19 @@
+{
+  "id" : "3915",
+  "releasedBy" : "Wave",
+  "name" : "E-SWAT: City Under Siege",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "E-SWAT - City Under Siege (UE) [!].sms\\r\\nMD5: de328cde27324c8d591f740db0cb2866\\r\\nSHA1: 075297d2f3a8ec4c399eaeab6b60e246e11b41fe\\r\\nCRC32: c4bb1676 262.144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\10\\11",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "103",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\eswatcityundersiege\\3915_wave",
+  "imagesFilenames" : [ "eswatcityundersiege_0.png", "eswatcityundersiege_1.png", "eswatcityundersiege_2.png", "eswatcityundersiege_3.png", "eswatcityundersiege_4.png" ],
+  "readmeFilename" : "eswatcityundersiege_readme.txt",
+  "patchFilename" : "eswatcityundersiege_patch.zip",
+  "notes" : null
+}

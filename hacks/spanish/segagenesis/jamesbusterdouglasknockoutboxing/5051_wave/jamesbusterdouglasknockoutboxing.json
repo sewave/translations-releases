@@ -1,0 +1,19 @@
+{
+  "id" : "5051",
+  "releasedBy" : "Wave",
+  "name" : "James \"Buster\" Douglas Knockout Boxing",
+  "altName" : "Final Blow",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "James 'Buster' Douglas Knockout Boxing (USA, Europe).md\\r\\nMD5: 9635abe009beffdff9954c4214e8cc8d\\r\\nSHA1: 617b61da9bceb6f4d8362d074dc1dad3f7304584\\r\\nCRC32: 87bbcf2a 524288 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\10\\06",
+  "gameDate" : "23 March 1990",
+  "version" : "1.1",
+  "downloads" : "75",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\jamesbusterdouglasknockoutboxing\\5051_wave",
+  "imagesFilenames" : [ "jamesbusterdouglasknockoutboxing_0.png", "jamesbusterdouglasknockoutboxing_1.png", "jamesbusterdouglasknockoutboxing_2.png", "jamesbusterdouglasknockoutboxing_3.png", "jamesbusterdouglasknockoutboxing_4.png" ],
+  "readmeFilename" : "jamesbusterdouglasknockoutboxing_readme.txt",
+  "patchFilename" : "jamesbusterdouglasknockoutboxing_patch.zip",
+  "notes" : null
+}

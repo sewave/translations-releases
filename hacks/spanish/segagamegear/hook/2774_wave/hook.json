@@ -1,0 +1,19 @@
+{
+  "id" : "2774",
+  "releasedBy" : "Wave",
+  "name" : "Hook",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Hook (U) [!].gg 262.160 bytes\\r\\nCRC32: f53ced2e\\r\\nMD5: 5b0659fc95d81f10400bc449c2da251b\\r\\nSHA1: b9bd292fa4f3ef7dd86ebae9e1b5364ce6653c45",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\11\\02",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "169",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\hook\\2774_wave",
+  "imagesFilenames" : [ "hook_0.png", "hook_1.png", "hook_2.png", "hook_3.png", "hook_4.png" ],
+  "readmeFilename" : "hook_readme.txt",
+  "patchFilename" : "hook_patch.zip",
+  "notes" : null
+}

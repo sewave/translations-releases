@@ -1,0 +1,19 @@
+{
+  "id" : "3674",
+  "releasedBy" : "Wave",
+  "name" : "Goofy's Hysterical History Tour",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Goofy's Hysterical History Tour (U) [!].bin 1.048.576 bytes\\r\\nCRC32: 4e1cc833\\r\\nMD5: 426471b87024c7b1e688fa8474390624\\r\\nSHA1: caaeebc269b3b68e2a279864c44d518976d67d8b",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\30",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "254",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\goofyshystericalhistorytour\\3674_wave",
+  "imagesFilenames" : [ "goofyshystericalhistorytour_0.png", "goofyshystericalhistorytour_1.png", "goofyshystericalhistorytour_2.png", "goofyshystericalhistorytour_3.png", "goofyshystericalhistorytour_4.png" ],
+  "readmeFilename" : "goofyshystericalhistorytour_readme.txt",
+  "patchFilename" : "goofyshystericalhistorytour_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3985",
+  "releasedBy" : "Wave",
+  "name" : "Pac-Mania",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Pac-Mania (E) [!].sms\\r\\nMD5: 946f3e6c2f0f546a8ebe55c8170ecc78\\r\\nSHA1: c0a11248bbb556b643accd3c76737be35cbada54\\r\\nCRC32: be57a9a5 131.072 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\11\\09",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "106",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\pacmania\\3985_wave",
+  "imagesFilenames" : [ "pacmania_0.png", "pacmania_1.png", "pacmania_2.png", "pacmania_3.png", "pacmania_4.png" ],
+  "readmeFilename" : "pacmania_readme.txt",
+  "patchFilename" : "pacmania_patch.zip",
+  "notes" : null
+}

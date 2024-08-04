@@ -1,0 +1,19 @@
+{
+  "id" : "5172",
+  "releasedBy" : "Wave",
+  "name" : "Indiana Jones and the Last Crusade",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Indiana Jones and the Last Crusade (U) (UBI Soft) [!].nes\\r\\nMD5: b0a610f4e1a87d5a7d7baf1afa95a779\\r\\nSHA1: bc45ee64cb6b8d19b14d512d86b192a736854b24\\r\\nCRC32: ed5fa6c4 131088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\08",
+  "gameDate" : "December 1993",
+  "version" : "1.0",
+  "downloads" : "77",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\indianajonesandthelastcrusade\\5172_wave",
+  "imagesFilenames" : [ "indianajonesandthelastcrusade_0.png", "indianajonesandthelastcrusade_1.png", "indianajonesandthelastcrusade_2.png", "indianajonesandthelastcrusade_3.png", "indianajonesandthelastcrusade_4.png" ],
+  "readmeFilename" : "indianajonesandthelastcrusade_readme.txt",
+  "patchFilename" : "indianajonesandthelastcrusade_patch.zip",
+  "notes" : null
+}

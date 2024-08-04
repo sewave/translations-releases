@@ -1,0 +1,19 @@
+{
+  "id" : "3324",
+  "releasedBy" : "Wave",
+  "name" : "Battlemaniacs",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Battlemaniacs (B) [!].sms 262.144 bytes\\r\\nCRC32: 1cbb7bf1\\r\\nMD5: 5401ddcc788c0f1a5dfe26e56f239fbf\\r\\nSHA1: 0854e36d3bb011e712a06633f188c0d64cd65893",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\12\\03",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "198",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\battlemaniacs\\3324_wave",
+  "imagesFilenames" : [ "battlemaniacs_0.png", "battlemaniacs_1.png", "battlemaniacs_2.png", "battlemaniacs_3.png", "battlemaniacs_4.png" ],
+  "readmeFilename" : "battlemaniacs_readme.txt",
+  "patchFilename" : "battlemaniacs_patch.zip",
+  "notes" : null
+}

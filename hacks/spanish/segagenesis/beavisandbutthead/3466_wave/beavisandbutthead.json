@@ -1,0 +1,19 @@
+{
+  "id" : "3466",
+  "releasedBy" : "Wave",
+  "name" : "Beavis and Butt-Head",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Beavis and Butt-head (U) [!].bin 2.097.152 bytes\\r\\nCRC32: f5d7b948\\r\\nMD5: 8e4d7397374cb03528f4c886120dc3e9\\r\\nSHA1: 9abfbf8c5d07a11f090a151c2801caee251f1599",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2018\\03\\02",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "378",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\beavisandbutthead\\3466_wave",
+  "imagesFilenames" : [ "beavisandbutthead_0.png", "beavisandbutthead_1.png", "beavisandbutthead_2.png", "beavisandbutthead_3.png", "beavisandbutthead_4.png" ],
+  "readmeFilename" : "beavisandbutthead_readme.txt",
+  "patchFilename" : "beavisandbutthead_patch.zip",
+  "notes" : null
+}

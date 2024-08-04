@@ -1,0 +1,19 @@
+{
+  "id" : "4120",
+  "releasedBy" : "Wave",
+  "name" : "Ghouls 'n Ghosts",
+  "altName" : "Dai Makai-Mura",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Ghouls 'N Ghosts (UE) (REV02) [!].gen\\r\\nMD5: c61ff4bcdf10813c74f36ab57e29f646\\r\\nSHA1: aab6d20f01db51576b1d7cafab46e613dddf7f8a\\r\\nCRC32: 4f2561d5 655.360 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\12\\29",
+  "gameDate" : "03 August 1989",
+  "version" : "1.1",
+  "downloads" : "318",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\ghoulsnghosts\\4120_wave",
+  "imagesFilenames" : [ "ghoulsnghosts_0.png", "ghoulsnghosts_1.png", "ghoulsnghosts_2.png", "ghoulsnghosts_3.png", "ghoulsnghosts_4.png" ],
+  "readmeFilename" : "ghoulsnghosts_readme.txt",
+  "patchFilename" : "ghoulsnghosts_patch.zip",
+  "notes" : null
+}

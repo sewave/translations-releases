@@ -1,0 +1,19 @@
+{
+  "id" : "3901",
+  "releasedBy" : "Wave",
+  "name" : "Yo! Noid",
+  "altName" : "Kamen no Ninja Hanamaru Masked Ninja Hanamaru",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Kamen no Ninja - Hanamaru (J).nes\\r\\nMD5: 3327b32854f4908490cf8d320fff461a\\r\\nSHA1: f869df4bf18dfdb25dd0963d34c87327ec48a17f\\r\\nCRC32: 8b002a9d 262.160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\04",
+  "gameDate" : "16 March 1990",
+  "version" : "1.0",
+  "downloads" : "187",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\yonoid\\3901_wave",
+  "imagesFilenames" : [ "yonoid_0.png", "yonoid_1.png", "yonoid_2.png", "yonoid_3.png", "yonoid_4.png" ],
+  "readmeFilename" : "yonoid_readme.txt",
+  "patchFilename" : "yonoid_patch.zip",
+  "notes" : null
+}

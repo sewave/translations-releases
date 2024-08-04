@@ -1,0 +1,19 @@
+{
+  "id" : "2815",
+  "releasedBy" : "Wave",
+  "name" : "Rygar",
+  "altName" : "Argos no Senshi: Hachamecha Daishingeki",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Argos no Senshi (J).nes 131.088 bytes\\r\\nCRC32: d2bbb3ee\\r\\nMD5: b7631eb5ac42543e3cddf6816aae1bf8\\r\\nSHA1: b172cc8037288f658193cc583d1f0f499c959139",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\12\\09",
+  "gameDate" : "17 April 1987",
+  "version" : "1.0",
+  "downloads" : "365",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\rygar\\2815_wave",
+  "imagesFilenames" : [ "rygar_0.png", "rygar_1.png", "rygar_2.png", "rygar_3.png", "rygar_4.png" ],
+  "readmeFilename" : "rygar_readme.txt",
+  "patchFilename" : "rygar_patch.zip",
+  "notes" : null
+}

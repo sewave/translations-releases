@@ -1,0 +1,19 @@
+{
+  "id" : "5035",
+  "releasedBy" : "Wave",
+  "name" : "Side Pocket",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Side Pocket (U) [!].gb\\r\\nMD5: 3dbe9be772ca50da3a76d8860c7b08e2\\r\\nSHA1: 0e9d907e9ebf8d69fb94133362590c8ac6aa6392\\r\\nCRC32: 9a1e30b4 65536 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\09\\25",
+  "gameDate" : "21 September 1990",
+  "version" : "1.0",
+  "downloads" : "52",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\sidepocket\\5035_wave",
+  "imagesFilenames" : [ "sidepocket_0.png", "sidepocket_1.png", "sidepocket_2.png", "sidepocket_3.png", "sidepocket_4.png" ],
+  "readmeFilename" : "sidepocket_readme.txt",
+  "patchFilename" : "sidepocket_patch.zip",
+  "notes" : null
+}

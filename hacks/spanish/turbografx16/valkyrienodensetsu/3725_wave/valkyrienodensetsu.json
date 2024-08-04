@@ -1,0 +1,19 @@
+{
+  "id" : "3725",
+  "releasedBy" : "Wave",
+  "name" : "Valkyrie no Densetsu",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Valkyrie no Densetsu (Japan).pce 524.288 bytes\\r\\nMD5: f08a37d37a69315652e1a0ec8dbba650\\r\\nSHA1: 2054898ae28f962d2e20cdaca62e8b88e932f304\\r\\nCRC32: a3303978",
+  "genre" : "Acción",
+  "releaseDate" : "2018\\07\\27",
+  "gameDate" : "09 August 1990",
+  "version" : "1.0",
+  "downloads" : "424",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\valkyrienodensetsu\\3725_wave",
+  "imagesFilenames" : [ "valkyrienodensetsu_0.png", "valkyrienodensetsu_1.png", "valkyrienodensetsu_2.png", "valkyrienodensetsu_3.png", "valkyrienodensetsu_4.png" ],
+  "readmeFilename" : "valkyrienodensetsu_readme.txt",
+  "patchFilename" : "valkyrienodensetsu_patch.zip",
+  "notes" : null
+}

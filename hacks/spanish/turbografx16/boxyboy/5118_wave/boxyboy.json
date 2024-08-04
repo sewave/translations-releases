@@ -1,0 +1,19 @@
+{
+  "id" : "5118",
+  "releasedBy" : "Wave",
+  "name" : "Boxy Boy",
+  "altName" : "Sokoban World",
+  "system" : "PC Engine",
+  "romDesc" : "Boxy Boy (U).pce\\r\\nMD5: c316ad2e57400feaf16fcaff67935b00\\r\\nSHA1: 7e165324d735a20156fd90ac97d0bf1c115e0a02\\r\\nCRC32: 605be213 131072 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\10\\27",
+  "gameDate" : "16 March 1990",
+  "version" : "1.0",
+  "downloads" : "52",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\boxyboy\\5118_wave",
+  "imagesFilenames" : [ "boxyboy_0.png", "boxyboy_1.png", "boxyboy_2.png", "boxyboy_3.png", "boxyboy_4.png" ],
+  "readmeFilename" : "boxyboy_readme.txt",
+  "patchFilename" : "boxyboy_patch.zip",
+  "notes" : null
+}

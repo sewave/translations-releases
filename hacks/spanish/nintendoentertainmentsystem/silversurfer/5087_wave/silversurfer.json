@@ -1,0 +1,19 @@
+{
+  "id" : "5087",
+  "releasedBy" : "Wave",
+  "name" : "Silver Surfer",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Silver Surfer (U) [!].nes\\r\\nMD5: c6352f73a0ee986e3d8382b5aebfae75\\r\\nSHA1: 71fa0ce2d49870c3d64130d572854ebb5f25c54c\\r\\nCRC32: 9a83817c 393232 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\19",
+  "gameDate" : "November 1990",
+  "version" : "1.0",
+  "downloads" : "83",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\silversurfer\\5087_wave",
+  "imagesFilenames" : [ "silversurfer_0.png", "silversurfer_1.png", "silversurfer_2.png", "silversurfer_3.png", "silversurfer_4.png" ],
+  "readmeFilename" : "silversurfer_readme.txt",
+  "patchFilename" : "silversurfer_patch.zip",
+  "notes" : null
+}

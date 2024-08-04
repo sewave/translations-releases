@@ -1,0 +1,19 @@
+{
+  "id" : "3175",
+  "releasedBy" : "Wave",
+  "name" : "Batman: The Video Game",
+  "altName" : "Batman",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Batman (U) [!].gen 524.288 bytes\\r\\nCRC32: 017410ae\\r\\nMD5: 5ae78355da64cf17755175e9cfe48405\\r\\nSHA1: ffa7ddd8ecf436daecf3628d52dfae6b522ed829",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\08\\20",
+  "gameDate" : "19 July 1990",
+  "version" : "1.0",
+  "downloads" : "537",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\batmanthevideogame\\3175_wave",
+  "imagesFilenames" : [ "batmanthevideogame_0.png", "batmanthevideogame_1.png", "batmanthevideogame_2.png", "batmanthevideogame_3.png", "batmanthevideogame_4.png" ],
+  "readmeFilename" : "batmanthevideogame_readme.txt",
+  "patchFilename" : "batmanthevideogame_patch.zip",
+  "notes" : null
+}

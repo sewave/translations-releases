@@ -1,0 +1,19 @@
+{
+  "id" : "5244",
+  "releasedBy" : "Wave",
+  "name" : "Battletoads & Double Dragon: The Ultimate Team",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Battletoads & Double Dragon - The Ultimate Team (U) [!].smc\\r\\nMD5: 3c433a8aa73986e1361423303e92785b\\r\\nSHA1: bf56f12bdde3e2233d7ffcaf4825b10d92632b77\\r\\nCRC32: 8b18ac01 1048576 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2019\\11\\27",
+  "gameDate" : "October 1993",
+  "version" : "1.0",
+  "downloads" : "147",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\battletoadsdoubledragontheultimateteam\\5244_wave",
+  "imagesFilenames" : [ "battletoadsdoubledragontheultimateteam_0.png", "battletoadsdoubledragontheultimateteam_1.png", "battletoadsdoubledragontheultimateteam_2.png", "battletoadsdoubledragontheultimateteam_3.png", "battletoadsdoubledragontheultimateteam_4.png" ],
+  "readmeFilename" : "battletoadsdoubledragontheultimateteam_readme.txt",
+  "patchFilename" : "battletoadsdoubledragontheultimateteam_patch.zip",
+  "notes" : null
+}

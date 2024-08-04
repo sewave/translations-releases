@@ -1,0 +1,19 @@
+{
+  "id" : "3557",
+  "releasedBy" : "Wave",
+  "name" : "Mega Man II",
+  "altName" : "Rockman World 2",
+  "system" : "Game Boy",
+  "romDesc" : "Megaman II (U) [!].gb 262.144 bytes\\r\\nCRC32: e496f686\\r\\nMD5: 7fe07271d04ed9e0bc0663dde55a2ae4\\r\\nSHA1: 334f1a93346d55e1be2967f0af952e37aa52fca7",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\04\\20",
+  "gameDate" : "20 December 1991",
+  "version" : "1.0",
+  "downloads" : "229",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\megamanii\\3557_wave",
+  "imagesFilenames" : [ "megamanii_0.png", "megamanii_1.png", "megamanii_2.png", "megamanii_3.png", "megamanii_4.png" ],
+  "readmeFilename" : "megamanii_readme.txt",
+  "patchFilename" : "megamanii_patch.zip",
+  "notes" : null
+}

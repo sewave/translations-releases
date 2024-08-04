@@ -1,0 +1,19 @@
+{
+  "id" : "4963",
+  "releasedBy" : "Wave",
+  "name" : "Star Soldier",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Star Soldier (U) [!].nes\\r\\nMD5: 35cb35571e392b28c695e97c7fc5fa56\\r\\nSHA1: b8450ce305c57a2159d4bb426afd3fd268627bc7\\r\\nCRC32: 69004001 65552 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\08\\30",
+  "gameDate" : "13 June 1986",
+  "version" : "1.0",
+  "downloads" : "83",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\starsoldier\\4963_wave",
+  "imagesFilenames" : [ "starsoldier_0.png", "starsoldier_1.png", "starsoldier_2.png", "starsoldier_3.png", "starsoldier_4.png" ],
+  "readmeFilename" : "starsoldier_readme.txt",
+  "patchFilename" : "starsoldier_patch.zip",
+  "notes" : null
+}

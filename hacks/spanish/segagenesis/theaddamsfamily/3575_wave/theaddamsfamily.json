@@ -1,0 +1,19 @@
+{
+  "id" : "3575",
+  "releasedBy" : "Wave",
+  "name" : "The Addams Family",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Addams Family, The (UE) [!].gen 1.048.576 bytes\\r\\nCRC32: 71f58614\\r\\nMD5: eba5f964addea18b70336d292a08698d\\r\\nSHA1: 1cd7ac493a448c7486eefde2300240c3675986a9",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\03",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "276",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\theaddamsfamily\\3575_wave",
+  "imagesFilenames" : [ "theaddamsfamily_0.png", "theaddamsfamily_1.png", "theaddamsfamily_2.png", "theaddamsfamily_3.png", "theaddamsfamily_4.png" ],
+  "readmeFilename" : "theaddamsfamily_readme.txt",
+  "patchFilename" : "theaddamsfamily_patch.zip",
+  "notes" : null
+}

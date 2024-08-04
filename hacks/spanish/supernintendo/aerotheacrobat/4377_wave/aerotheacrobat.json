@@ -1,0 +1,19 @@
+{
+  "id" : "4377",
+  "releasedBy" : "Wave",
+  "name" : "Aero the Acro-Bat",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Aero the Acro-Bat (U) [!].smc\\r\\nMD5: 055fb50b90ea0ef5946cbc191f3d2900\\r\\nSHA1: 4d7dc1c4dc0c0756412a83eb5e5c1ac104c67831\\r\\nCRC32: 919f23cb 1.048.576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\04\\09",
+  "gameDate" : "October 1993",
+  "version" : "1.0",
+  "downloads" : "190",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\aerotheacrobat\\4377_wave",
+  "imagesFilenames" : [ "aerotheacrobat_0.png", "aerotheacrobat_1.png", "aerotheacrobat_2.png", "aerotheacrobat_3.png", "aerotheacrobat_4.png" ],
+  "readmeFilename" : "aerotheacrobat_readme.txt",
+  "patchFilename" : "aerotheacrobat_patch.zip",
+  "notes" : null
+}

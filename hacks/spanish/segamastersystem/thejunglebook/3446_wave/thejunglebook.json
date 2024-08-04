@@ -1,0 +1,19 @@
+{
+  "id" : "3446",
+  "releasedBy" : "Wave",
+  "name" : "The Jungle Book",
+  "altName" : "Disney's The Jungle Book",
+  "system" : "Sega Master System",
+  "romDesc" : "Jungle Book, The (UE) [!].sms 262.144 bytes\\r\\nCRC32: 695a9a15\\r\\nMD5: ed224898befb4fb246175e46f9982821\\r\\nSHA1: f65b5957b4b21bd16b4aa8a6e93fed944dd7d9ac",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\02\\17",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "150",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\thejunglebook\\3446_wave",
+  "imagesFilenames" : [ "thejunglebook_0.png", "thejunglebook_1.png", "thejunglebook_2.png", "thejunglebook_3.png", "thejunglebook_4.png" ],
+  "readmeFilename" : "thejunglebook_readme.txt",
+  "patchFilename" : "thejunglebook_patch.zip",
+  "notes" : null
+}

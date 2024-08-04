@@ -1,0 +1,19 @@
+{
+  "id" : "2851",
+  "releasedBy" : "Wave",
+  "name" : "Darkman",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Darkman (U) [!].nes 262.160 bytes\\r\\nCRC32: 5438a0ac\\r\\nMD5: fc51c0aa5e3283bed572de31ac5985b5\\r\\nSHA1: 21b4a65356b54815153303f14832bf5b1b8d3b83",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\01\\10",
+  "gameDate" : "October 1991",
+  "version" : "1.0",
+  "downloads" : "318",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\darkman\\2851_wave",
+  "imagesFilenames" : [ "darkman_0.png", "darkman_1.png", "darkman_2.png", "darkman_3.png", "darkman_4.png" ],
+  "readmeFilename" : "darkman_readme.txt",
+  "patchFilename" : "darkman_patch.zip",
+  "notes" : null
+}

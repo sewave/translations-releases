@@ -1,0 +1,19 @@
+{
+  "id" : "4913",
+  "releasedBy" : "Wave",
+  "name" : "Impossible Mission II",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Impossible Mission II (U) [!].nes\\r\\nMD5: 8078da6fb648a9ad33423c5141cbfce5\\r\\nSHA1: 1cfb560acf8a5647ee65280e3c451c70335aed85\\r\\nCRC32: f73d26d6 131088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\08\\10",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "90",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\impossiblemissionii\\4913_wave",
+  "imagesFilenames" : [ "impossiblemissionii_0.png", "impossiblemissionii_1.png", "impossiblemissionii_2.png" ],
+  "readmeFilename" : "impossiblemissionii_readme.txt",
+  "patchFilename" : "impossiblemissionii_patch.zip",
+  "notes" : null
+}

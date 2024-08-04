@@ -1,0 +1,19 @@
+{
+  "id" : "3856",
+  "releasedBy" : "Wave",
+  "name" : "Ecco the Dolphin",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Ecco the Dolphin (UE).sms\\r\\nMD5: bea00f9b73ac248bafa7e406a5489b32\\r\\nSHA1: 3bfdef48f27f2e53e2c31cb9626606a1541889dd\\r\\nCRC32: 6687fab9 524.288 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2018\\09\\28",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "126",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\eccothedolphin\\3856_wave",
+  "imagesFilenames" : [ "eccothedolphin_0.png", "eccothedolphin_1.png", "eccothedolphin_2.png", "eccothedolphin_3.png", "eccothedolphin_4.png" ],
+  "readmeFilename" : "eccothedolphin_readme.txt",
+  "patchFilename" : "eccothedolphin_patch.zip",
+  "notes" : null
+}

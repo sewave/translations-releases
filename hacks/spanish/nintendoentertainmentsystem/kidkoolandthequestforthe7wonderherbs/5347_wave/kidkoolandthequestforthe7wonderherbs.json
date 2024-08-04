@@ -1,0 +1,19 @@
+{
+  "id" : "5347",
+  "releasedBy" : "Wave",
+  "name" : "Kid Kool and the Quest for the 7 Wonder Herbs",
+  "altName" : "Kakefu Kimi no Jump Tengoku: Speed Jigoku",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Kid Kool and the Quest for the 7 Wonder Herbs (U) [!].nes\\r\\nMD5: 6edf7f10231fc9cd7389f755dd1fea0d\\r\\nSHA1: b851ef1c19478df8987a7f82314ffebbf9884341\\r\\nCRC32: 99626ab1 131088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\01\\22",
+  "gameDate" : "22 July 1988",
+  "version" : "1.0",
+  "downloads" : "69",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\kidkoolandthequestforthe7wonderherbs\\5347_wave",
+  "imagesFilenames" : [ "kidkoolandthequestforthe7wonderherbs_0.png", "kidkoolandthequestforthe7wonderherbs_1.png", "kidkoolandthequestforthe7wonderherbs_2.png", "kidkoolandthequestforthe7wonderherbs_3.png", "kidkoolandthequestforthe7wonderherbs_4.png" ],
+  "readmeFilename" : "kidkoolandthequestforthe7wonderherbs_readme.txt",
+  "patchFilename" : "kidkoolandthequestforthe7wonderherbs_patch.zip",
+  "notes" : null
+}

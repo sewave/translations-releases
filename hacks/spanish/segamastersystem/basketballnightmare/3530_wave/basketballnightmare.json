@@ -1,0 +1,19 @@
+{
+  "id" : "3530",
+  "releasedBy" : "Wave",
+  "name" : "Basketball Nightmare",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Basket Ball Nightmare (E) [!].sms 262.144 bytes\\r\\nCRC32: 0df8597f\\r\\nMD5: 0069b1bd9c5b6b88ace6324d7e61539f\\r\\nSHA1: 0fa1156931c83763bc6906efce75045327cdd7aa",
+  "genre" : "Deportes",
+  "releaseDate" : "2018\\04\\06",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "158",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\basketballnightmare\\3530_wave",
+  "imagesFilenames" : [ "basketballnightmare_0.png", "basketballnightmare_1.png", "basketballnightmare_2.png", "basketballnightmare_3.png", "basketballnightmare_4.png" ],
+  "readmeFilename" : "basketballnightmare_readme.txt",
+  "patchFilename" : "basketballnightmare_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5100",
+  "releasedBy" : "Wave",
+  "name" : "The Uncanny X-Men",
+  "altName" : "Marvel's X-Men",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Uncanny X-Men, The (U) [!].nes\\r\\nMD5: 8ae4b4bc41c134b0c35be0ab3b284e8b\\r\\nSHA1: 73a77854d7139671c51051402661decdc3166fdb\\r\\nCRC32: 1e483ca6 131088 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\10\\21",
+  "gameDate" : "December 1989",
+  "version" : "1.0",
+  "downloads" : "89",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\theuncannyxmen\\5100_wave",
+  "imagesFilenames" : [ "theuncannyxmen_0.png", "theuncannyxmen_1.png", "theuncannyxmen_2.png", "theuncannyxmen_3.png", "theuncannyxmen_4.png" ],
+  "readmeFilename" : "theuncannyxmen_readme.txt",
+  "patchFilename" : "theuncannyxmen_patch.zip",
+  "notes" : null
+}

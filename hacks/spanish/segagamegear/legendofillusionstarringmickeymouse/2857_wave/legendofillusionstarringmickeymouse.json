@@ -1,0 +1,19 @@
+{
+  "id" : "2857",
+  "releasedBy" : "Wave",
+  "name" : "Legend of Illusion Starring Mickey Mouse",
+  "altName" : "Mickey Mouse: Densetsu no Oukoku",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Legend of Illusion Starring Mickey Mouse (U) [!].gg 524.288 bytes\\r\\nCRC32: ce5ad8b7\\r\\nMD5: 6d106d9c80b9d0cdc4f555be3c3677d3\\r\\nSHA1: fa1200fd34a81796222eae97175c2fb72a77e970",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\01\\11",
+  "gameDate" : "13 January 1995",
+  "version" : "1.0",
+  "downloads" : "211",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\legendofillusionstarringmickeymouse\\2857_wave",
+  "imagesFilenames" : [ "legendofillusionstarringmickeymouse_0.png", "legendofillusionstarringmickeymouse_1.png", "legendofillusionstarringmickeymouse_2.png", "legendofillusionstarringmickeymouse_3.png", "legendofillusionstarringmickeymouse_4.png" ],
+  "readmeFilename" : "legendofillusionstarringmickeymouse_readme.txt",
+  "patchFilename" : "legendofillusionstarringmickeymouse_patch.zip",
+  "notes" : null
+}

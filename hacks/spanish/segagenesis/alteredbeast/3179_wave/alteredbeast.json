@@ -1,0 +1,19 @@
+{
+  "id" : "3179",
+  "releasedBy" : "Wave",
+  "name" : "Altered Beast",
+  "altName" : "Juuouki",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Altered Beast (UE) (REV02) [!].gen 524.288 bytes\\r\\nCRC32: 154d59bb\\r\\nMD5: 2ed5293e46abe1e74edeb96da0e7a618\\r\\nSHA1: 38945360d824d2fb9535b4fd7f25b9aa9b32f019",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\08\\27",
+  "gameDate" : "27 November 1988",
+  "version" : "1.0",
+  "downloads" : "548",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\alteredbeast\\3179_wave",
+  "imagesFilenames" : [ "alteredbeast_0.png", "alteredbeast_1.png", "alteredbeast_2.png", "alteredbeast_3.png", "alteredbeast_4.png" ],
+  "readmeFilename" : "alteredbeast_readme.txt",
+  "patchFilename" : "alteredbeast_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "2764",
+  "releasedBy" : "Wave",
+  "name" : "Bonanza Bros.",
+  "altName" : "Bonanza Brothers",
+  "system" : "Sega Master System",
+  "romDesc" : "Bonanza Bros (E) [!].sms 262.656 bytes\\r\\nCRC32: d778f3fe\\r\\nMD5: be417ce26ceffd0d3a97fc89aea3b3c6\\r\\nSHA1: 83ddd69f2003581c31df93845b278e924f7f4e72",
+  "genre" : "Acción",
+  "releaseDate" : "2016\\10\\25",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "273",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\bonanzabros\\2764_wave",
+  "imagesFilenames" : [ "bonanzabros_0.png", "bonanzabros_1.png", "bonanzabros_2.png", "bonanzabros_3.png", "bonanzabros_4.png" ],
+  "readmeFilename" : "bonanzabros_readme.txt",
+  "patchFilename" : "bonanzabros_patch.zip",
+  "notes" : null
+}

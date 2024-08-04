@@ -1,0 +1,19 @@
+{
+  "id" : "5047",
+  "releasedBy" : "Wave",
+  "name" : "World Trophy Soccer",
+  "altName" : "European Club Soccer J-League Champion Soccer",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "World Trophy Soccer (USA).md\\r\\nMD5: dbf5f8e9346a4bd2eb84dc5dd2dd1ea8\\r\\nSHA1: 0a0ac6d37d284ec29b9331776bbf6b78edcdbe81\\r\\nCRC32: 6e3edc7c 524288 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\10\\01",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "91",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\worldtrophysoccer\\5047_wave",
+  "imagesFilenames" : [ "worldtrophysoccer_0.png", "worldtrophysoccer_1.png", "worldtrophysoccer_2.png", "worldtrophysoccer_3.png", "worldtrophysoccer_4.png" ],
+  "readmeFilename" : "worldtrophysoccer_readme.txt",
+  "patchFilename" : "worldtrophysoccer_patch.zip",
+  "notes" : null
+}

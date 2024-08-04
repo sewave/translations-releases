@@ -1,0 +1,19 @@
+{
+  "id" : "5279",
+  "releasedBy" : "Wave",
+  "name" : "Sukeban Deka II: Shoujo Tekkamen Densetsu",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Sukeban Deka 2 (J) [!].sms\\r\\nMD5: e80ce989b68b1faa5e40016ce7b096fe\\r\\nSHA1: 5cd041990c7418ba63cde54f83d3e0e323b42c3b\\r\\nCRC32: b13df647 131072 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2019\\12\\08",
+  "gameDate" : "19 April 1987",
+  "version" : "1.0",
+  "downloads" : "73",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\sukebandekaiishoujotekkamendensetsu\\5279_wave",
+  "imagesFilenames" : [ "sukebandekaiishoujotekkamendensetsu_0.png", "sukebandekaiishoujotekkamendensetsu_1.png", "sukebandekaiishoujotekkamendensetsu_2.png", "sukebandekaiishoujotekkamendensetsu_3.png", "sukebandekaiishoujotekkamendensetsu_4.png" ],
+  "readmeFilename" : "sukebandekaiishoujotekkamendensetsu_readme.txt",
+  "patchFilename" : "sukebandekaiishoujotekkamendensetsu_patch.zip",
+  "notes" : null
+}

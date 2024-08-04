@@ -1,0 +1,19 @@
+{
+  "id" : "5079",
+  "releasedBy" : "Wave",
+  "name" : "Kickle Cubicle",
+  "altName" : "Meikyuu Shima",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Kickle Cubicle (U) [!].nes\\r\\nMD5: d4951408a8970c17ab247d40e9f89647\\r\\nSHA1: 36096c4dedfff0a3ef7d597896ec0f2d332a6a82\\r\\nCRC32: e783d470 262160 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\10\\19",
+  "gameDate" : "29 June 1990",
+  "version" : "1.0",
+  "downloads" : "91",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\kicklecubicle\\5079_wave",
+  "imagesFilenames" : [ "kicklecubicle_0.png", "kicklecubicle_1.png", "kicklecubicle_2.png", "kicklecubicle_3.png", "kicklecubicle_4.png" ],
+  "readmeFilename" : "kicklecubicle_readme.txt",
+  "patchFilename" : "kicklecubicle_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3976",
+  "releasedBy" : "Wave",
+  "name" : "Chuck Rock",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Chuck Rock (U).smc\\r\\nMD5: b6117d7ae13c9afc785d5b6b0afd8bae\\r\\nSHA1: 3ffafb846909d6ef3dd8a8715362d2c4489cb3f1\\r\\nCRC32: e237ec45 1.048.576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\06",
+  "gameDate" : "November 1992",
+  "version" : "1.0",
+  "downloads" : "190",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\chuckrock\\3976_wave",
+  "imagesFilenames" : [ "chuckrock_0.png", "chuckrock_1.png", "chuckrock_2.png", "chuckrock_3.png", "chuckrock_4.png" ],
+  "readmeFilename" : "chuckrock_readme.txt",
+  "patchFilename" : "chuckrock_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4001",
+  "releasedBy" : "Wave",
+  "name" : "Toxic Crusaders",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Toxic Crusaders (U) [!].nes\\r\\nMD5: 21a7313a9324faea2d4cc994feaeb710\\r\\nSHA1: 81d4c3e501f85eb31d890bf0f5f44b43c3c5827b\\r\\nCRC32: da9ad540 262.160 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\11\\12",
+  "gameDate" : "April 1992",
+  "version" : "1.0",
+  "downloads" : "179",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\toxiccrusaders\\4001_wave",
+  "imagesFilenames" : [ "toxiccrusaders_0.png", "toxiccrusaders_1.png", "toxiccrusaders_2.png", "toxiccrusaders_3.png", "toxiccrusaders_4.png" ],
+  "readmeFilename" : "toxiccrusaders_readme.txt",
+  "patchFilename" : "toxiccrusaders_patch.zip",
+  "notes" : null
+}

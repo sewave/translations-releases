@@ -1,0 +1,19 @@
+{
+  "id" : "4363",
+  "releasedBy" : "Wave",
+  "name" : "Slalom",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Slalom (U) [!].nes\\r\\nMD5: 9364857a19ae29420dbb09ce6ab53324\\r\\nSHA1: 35076dd398d52b3c51f451baf834c3f494c19ec5\\r\\nCRC32: 6115164d 40.976 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\04\\02",
+  "gameDate" : "August 1987",
+  "version" : "1.0",
+  "downloads" : "87",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\slalom\\4363_wave",
+  "imagesFilenames" : [ "slalom_0.png", "slalom_1.png", "slalom_2.png", "slalom_3.png", "slalom_4.png" ],
+  "readmeFilename" : "slalom_readme.txt",
+  "patchFilename" : "slalom_patch.zip",
+  "notes" : null
+}

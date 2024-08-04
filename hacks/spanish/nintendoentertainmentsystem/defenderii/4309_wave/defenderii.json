@@ -1,0 +1,19 @@
+{
+  "id" : "4309",
+  "releasedBy" : "Wave",
+  "name" : "Defender II",
+  "altName" : "Star Gate",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Defender II (U) [!].nes\\r\\nMD5: d6e43c366c73c2ad7dac0e632b3d8943\\r\\nSHA1: a9228fec33620c1ed2f55269ebe022e1bc0ca3e4\\r\\nCRC32: c0b2aa1f 24.592 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\03\\12",
+  "gameDate" : "24 September 1987",
+  "version" : "1.0",
+  "downloads" : "100",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\defenderii\\4309_wave",
+  "imagesFilenames" : [ "defenderii_0.png", "defenderii_1.png", "defenderii_2.png", "defenderii_3.png", "defenderii_4.png" ],
+  "readmeFilename" : "defenderii_readme.txt",
+  "patchFilename" : "defenderii_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5196",
+  "releasedBy" : "Wave",
+  "name" : "Arkanoid",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Arkanoid 1 (1986) (Taito) (J).rom\\r\\nMD5: 9a911c98431ba82aec9907142aee3eff\\r\\nSHA1: 2183f07fa3ba87360100b2fa21fda0f55c0f8814\\r\\nCRC32: c9a22dfc 32768 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\11\\15",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "32",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\arkanoid\\5196_wave",
+  "imagesFilenames" : [ "arkanoid_0.png", "arkanoid_1.png", "arkanoid_2.png", "arkanoid_3.png", "arkanoid_4.png" ],
+  "readmeFilename" : "arkanoid_readme.txt",
+  "patchFilename" : "arkanoid_patch.zip",
+  "notes" : null
+}

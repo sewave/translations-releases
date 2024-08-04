@@ -1,0 +1,19 @@
+{
+  "id" : "4301",
+  "releasedBy" : "Wave",
+  "name" : "Tennis",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Tennis (JU) [!].nes\\r\\nMD5: 32fb31ae20f0d01bc74baad9f3a9672b\\r\\nSHA1: 80d99c035e6a5ab9718e413ec25cbe094f085962\\r\\nCRC32: 5f457c00 24.592 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\03\\06",
+  "gameDate" : "14 January 1984",
+  "version" : "1.0",
+  "downloads" : "114",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\tennis\\4301_wave",
+  "imagesFilenames" : [ "tennis_0.png", "tennis_1.png", "tennis_2.png", "tennis_3.png", "tennis_4.png" ],
+  "readmeFilename" : "tennis_readme.txt",
+  "patchFilename" : "tennis_patch.zip",
+  "notes" : null
+}

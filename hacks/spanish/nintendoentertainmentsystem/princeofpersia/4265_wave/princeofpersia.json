@@ -1,0 +1,19 @@
+{
+  "id" : "4265",
+  "releasedBy" : "Wave",
+  "name" : "Prince of Persia",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Prince of Persia (U) [!].nes\\r\\nMD5: c21e7a8965a3be35519a43260ada4007\\r\\nSHA1: 6b58f149f34fa829135619c58700caaa95b9cde3\\r\\nCRC32: 43c7e445 131.088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\02\\19",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "158",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\princeofpersia\\4265_wave",
+  "imagesFilenames" : [ "princeofpersia_0.png", "princeofpersia_1.png", "princeofpersia_2.png", "princeofpersia_3.png", "princeofpersia_4.png" ],
+  "readmeFilename" : "princeofpersia_readme.txt",
+  "patchFilename" : "princeofpersia_patch.zip",
+  "notes" : null
+}

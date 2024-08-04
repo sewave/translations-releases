@@ -1,0 +1,19 @@
+{
+  "id" : "5270",
+  "releasedBy" : "Wave",
+  "name" : "Super Runner",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Super Runner (1987) (Pony Cannon) (J).rom\\r\\nMD5: a5fc4e9b290ee0e2e8ebb7f8b49d1ace\\r\\nSHA1: 3202af113265e67e130a0b948dc167a9f9e9cc79\\r\\nCRC32: 5a5be701 131072 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\12\\05",
+  "gameDate" : "December 1987",
+  "version" : "1.0",
+  "downloads" : "30",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\superrunner\\5270_wave",
+  "imagesFilenames" : [ "superrunner_0.png", "superrunner_1.png", "superrunner_2.png", "superrunner_3.png", "superrunner_4.png" ],
+  "readmeFilename" : "superrunner_readme.txt",
+  "patchFilename" : "superrunner_patch.zip",
+  "notes" : null
+}

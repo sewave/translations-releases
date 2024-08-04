@@ -1,0 +1,19 @@
+{
+  "id" : "3231",
+  "releasedBy" : "Wave",
+  "name" : "Shinobi",
+  "altName" : "The GG Shinobi",
+  "system" : "Sega Game Gear",
+  "romDesc" : "GG Shinobi (E) [!].gg 262.144 bytes\\r\\nCRC32: 30f1c984\\r\\nMD5: 8fa7438dec1403f2e9d7b1ca60b29f1a\\r\\nSHA1: 2e7303f82d885cb84fa557e211954808c8ebe779",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\10\\15",
+  "gameDate" : "26 April 1991",
+  "version" : "1.0",
+  "downloads" : "217",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\shinobi\\3231_wave",
+  "imagesFilenames" : [ "shinobi_0.png", "shinobi_1.png", "shinobi_2.png", "shinobi_3.png", "shinobi_4.png" ],
+  "readmeFilename" : "shinobi_readme.txt",
+  "patchFilename" : "shinobi_patch.zip",
+  "notes" : null
+}

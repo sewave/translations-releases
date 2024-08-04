@@ -1,0 +1,19 @@
+{
+  "id" : "5260",
+  "releasedBy" : "Wave",
+  "name" : "Space Invaders",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Space Invaders (1985)(Taito).rom\\r\\nMD5: cc67dc39f1c37ac5d2bdcaa9f9016756\\r\\nSHA1: 4971bdd3db63d394fbc2186182c901ca4b32535b\\r\\nCRC32: de02932d 16384 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\12\\01",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "30",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\spaceinvaders\\5260_wave",
+  "imagesFilenames" : [ "spaceinvaders_0.png", "spaceinvaders_1.png", "spaceinvaders_2.png", "spaceinvaders_3.png", "spaceinvaders_4.png" ],
+  "readmeFilename" : "spaceinvaders_readme.txt",
+  "patchFilename" : "spaceinvaders_patch.zip",
+  "notes" : null
+}

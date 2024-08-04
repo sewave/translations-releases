@@ -1,0 +1,19 @@
+{
+  "id" : "3220",
+  "releasedBy" : "Wave",
+  "name" : "Deep Duck Trouble Starring Donald Duck",
+  "altName" : "Donald Duck no 4-tsu no Hihou",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Deep Duck Trouble Starring Donald Duck (U) [!].gg 524.288 bytes\\r\\nCRC32: 5a136d7e\\r\\nMD5: cd792cf0d4e8ebb6f77a906ac0744b66\\r\\nSHA1: 24485549001bc57b5cffee1449ad0af80e862773",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\10\\08",
+  "gameDate" : "17 December 1993",
+  "version" : "1.0",
+  "downloads" : "182",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\deepducktroublestarringdonaldduck\\3220_wave",
+  "imagesFilenames" : [ "deepducktroublestarringdonaldduck_0.png", "deepducktroublestarringdonaldduck_1.png", "deepducktroublestarringdonaldduck_2.png", "deepducktroublestarringdonaldduck_3.png", "deepducktroublestarringdonaldduck_4.png" ],
+  "readmeFilename" : "deepducktroublestarringdonaldduck_readme.txt",
+  "patchFilename" : "deepducktroublestarringdonaldduck_patch.zip",
+  "notes" : null
+}

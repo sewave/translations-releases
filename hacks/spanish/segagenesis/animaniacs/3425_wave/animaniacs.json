@@ -1,0 +1,19 @@
+{
+  "id" : "3425",
+  "releasedBy" : "Wave",
+  "name" : "Animaniacs",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Animaniacs (U) [!].bin 1.048.576 bytes\\r\\nCRC32: 86224d86\\r\\nMD5: ce0a42a75a9e374cf5092f34bf6927b7\\r\\nSHA1: 7e9d70b5172b4ea9e1b3f5b6009325fa39315a7c",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\02\\05",
+  "gameDate" : "14 May 1994",
+  "version" : "1.1",
+  "downloads" : "403",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\animaniacs\\3425_wave",
+  "imagesFilenames" : [ "animaniacs_0.png", "animaniacs_1.png", "animaniacs_2.png", "animaniacs_3.png", "animaniacs_4.png" ],
+  "readmeFilename" : "animaniacs_readme.txt",
+  "patchFilename" : "animaniacs_patch.zip",
+  "notes" : null
+}

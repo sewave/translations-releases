@@ -1,0 +1,19 @@
+{
+  "id" : "3833",
+  "releasedBy" : "Wave",
+  "name" : "OutRun",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "OutRun (J).pce\\r\\nMD5: cf3a009d2ec0bede35613d7a6342810a\\r\\nSHA1: 6fd6b8fb1bd2549a81a51567022ee59f2195da60\\r\\nCRC32: 24d2165d 524.800 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2018\\09\\21",
+  "gameDate" : "21 December 1990",
+  "version" : "1.0",
+  "downloads" : "144",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\outrun\\3833_wave",
+  "imagesFilenames" : [ "outrun_0.png", "outrun_1.png", "outrun_2.png", "outrun_3.png" ],
+  "readmeFilename" : "outrun_readme.txt",
+  "patchFilename" : "outrun_patch.zip",
+  "notes" : null
+}

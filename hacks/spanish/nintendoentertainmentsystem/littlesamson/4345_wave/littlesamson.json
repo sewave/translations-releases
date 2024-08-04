@@ -1,0 +1,19 @@
+{
+  "id" : "4345",
+  "releasedBy" : "Wave",
+  "name" : "Little Samson",
+  "altName" : "Seirei Densetsu Lickle",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Little Samson (U) [!].nes\\r\\nMD5: 49903fd4d0e5059479b453798a99e588\\r\\nSHA1: df7cc70bf08e144fe4a1a29f529309a6cea75a2e\\r\\nCRC32: 90f4b83c 393.232 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\03\\28",
+  "gameDate" : "26 June 1992",
+  "version" : "1.0",
+  "downloads" : "202",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\littlesamson\\4345_wave",
+  "imagesFilenames" : [ "littlesamson_0.png", "littlesamson_1.png", "littlesamson_2.png", "littlesamson_3.png", "littlesamson_4.png" ],
+  "readmeFilename" : "littlesamson_readme.txt",
+  "patchFilename" : "littlesamson_patch.zip",
+  "notes" : null
+}

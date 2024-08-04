@@ -1,0 +1,19 @@
+{
+  "id" : "4203",
+  "releasedBy" : "Wave",
+  "name" : "Adventures of Lolo 3",
+  "altName" : "Adventures of Lolo II",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Adventures of Lolo 3 (U) [!].nes\\r\\nMD5: 3dc676f6a0d1e400bb4e1bf908e4c46a\\r\\nSHA1: fd8551f8b02323d31dcc38dcd69545725d6c0538\\r\\nCRC32: e06a060b 262.160 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\01\\27",
+  "gameDate" : "26 December 1990",
+  "version" : "1.0",
+  "downloads" : "207",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\adventuresoflolo3\\4203_wave",
+  "imagesFilenames" : [ "adventuresoflolo3_0.png", "adventuresoflolo3_1.png", "adventuresoflolo3_2.png", "adventuresoflolo3_3.png", "adventuresoflolo3_4.png" ],
+  "readmeFilename" : "adventuresoflolo3_readme.txt",
+  "patchFilename" : "adventuresoflolo3_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4875",
+  "releasedBy" : "Wave",
+  "name" : "Puyo Pop",
+  "altName" : "Puyo Puyo Tsuu",
+  "system" : "Neo-Geo Pocket Color",
+  "romDesc" : "Puyo Pop (World) (En,Ja) (v1.06).ngc\\r\\nMD5: d40dc57b9cc3a30a2400f8cfd8724578\\r\\nSHA1: 8971d3d64e47950cf01648d7b341d4b01a2c4eb0\\r\\nCRC32: 5c649d1e 1048576 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\07\\29",
+  "gameDate" : "22 July 1999",
+  "version" : "1.0",
+  "downloads" : "67",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\neogeopocketcolor\\puyopop\\4875_wave",
+  "imagesFilenames" : [ "puyopop_0.png", "puyopop_1.png", "puyopop_2.png", "puyopop_3.png", "puyopop_4.png" ],
+  "readmeFilename" : "puyopop_readme.txt",
+  "patchFilename" : "puyopop_patch.zip",
+  "notes" : null
+}

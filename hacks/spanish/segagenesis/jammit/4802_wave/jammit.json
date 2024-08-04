@@ -1,0 +1,19 @@
+{
+  "id" : "4802",
+  "releasedBy" : "Wave",
+  "name" : "Jammit",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Jammit (U) [!].bin\\r\\nMD5: 946d261192111ed5baaae7c7d917d1be\\r\\nSHA1: 2f43bfd04f563a67f4a2c8b8e36c541c19913a50\\r\\nCRC32: d91b52b8 2097152 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\07\\08",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "100",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\jammit\\4802_wave",
+  "imagesFilenames" : [ "jammit_0.png", "jammit_1.png", "jammit_2.png", "jammit_3.png", "jammit_4.png" ],
+  "readmeFilename" : "jammit_readme.txt",
+  "patchFilename" : "jammit_patch.zip",
+  "notes" : null
+}

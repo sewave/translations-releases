@@ -1,0 +1,19 @@
+{
+  "id" : "4714",
+  "releasedBy" : "Wave",
+  "name" : "Bonk's Adventure",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Bonk's Adventure (U) [!].gb\\r\\nMD5: 79d6e6515905ec3fbcbd9e50ff469000\\r\\nSHA1: e27d941af0a006c4f5ffd03914265146aa140e2c\\r\\nCRC32: a7cdbb96 262144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\13",
+  "gameDate" : "December 1992",
+  "version" : "1.0",
+  "downloads" : "82",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\bonksadventure\\4714_wave",
+  "imagesFilenames" : [ "bonksadventure_0.png", "bonksadventure_1.png", "bonksadventure_2.png", "bonksadventure_3.png", "bonksadventure_4.png" ],
+  "readmeFilename" : "bonksadventure_readme.txt",
+  "patchFilename" : "bonksadventure_patch.zip",
+  "notes" : null
+}

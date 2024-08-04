@@ -1,0 +1,19 @@
+{
+  "id" : "4512",
+  "releasedBy" : "Wave",
+  "name" : "Battle City",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "BattleCity (J) [!].gb\\r\\nMD5: e6980267d58310af5ad57570045a95fa\\r\\nSHA1: 5c9a6077913b344c8889241ec5f9fdaac7f24c8b\\r\\nCRC32: a37a814a 32.768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\05\\03",
+  "gameDate" : "09 August 1991",
+  "version" : "1.0",
+  "downloads" : "79",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\battlecity\\4512_wave",
+  "imagesFilenames" : [ "battlecity_0.png", "battlecity_1.png", "battlecity_2.png", "battlecity_3.png", "battlecity_4.png" ],
+  "readmeFilename" : "battlecity_readme.txt",
+  "patchFilename" : "battlecity_patch.zip",
+  "notes" : null
+}

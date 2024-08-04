@@ -1,0 +1,19 @@
+{
+  "id" : "5267",
+  "releasedBy" : "Wave",
+  "name" : "Zoom 909",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Zoom 909 (Taiwan).sg\\r\\nMD5: d99925f7b3fa1961906f169b61f1a492\\r\\nSHA1: 7a998a0da19471f7e3e5bd82a9fbaf82a966ee40\\r\\nCRC32: 9943fc2b 32768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\12\\05",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "27",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\zoom909\\5267_wave",
+  "imagesFilenames" : [ "zoom909_0.png", "zoom909_1.png", "zoom909_2.png", "zoom909_3.png", "zoom909_4.png" ],
+  "readmeFilename" : "zoom909_readme.txt",
+  "patchFilename" : "zoom909_patch.zip",
+  "notes" : null
+}

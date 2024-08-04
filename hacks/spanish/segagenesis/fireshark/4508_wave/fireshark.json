@@ -1,0 +1,19 @@
+{
+  "id" : "4508",
+  "releasedBy" : "Wave",
+  "name" : "Fire Shark",
+  "altName" : "Same! Same! Same!",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Fire Shark (U) [!].bin\\r\\nMD5: c00981929f3eca882d123809e81185df\\r\\nSHA1: 020169eb2a4b3ad63fa2cbaa1927ab7c33b6add4\\r\\nCRC32: 9c175146 524.288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\05\\03",
+  "gameDate" : "02 November 1990",
+  "version" : "1.0",
+  "downloads" : "142",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\fireshark\\4508_wave",
+  "imagesFilenames" : [ "fireshark_0.png", "fireshark_1.png", "fireshark_2.png", "fireshark_3.png", "fireshark_4.png" ],
+  "readmeFilename" : "fireshark_readme.txt",
+  "patchFilename" : "fireshark_patch.zip",
+  "notes" : null
+}

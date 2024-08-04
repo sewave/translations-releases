@@ -1,0 +1,19 @@
+{
+  "id" : "3323",
+  "releasedBy" : "Wave",
+  "name" : "Battletoads",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Battletoads (U) [!].gg 262.144 bytes\\r\\nCRC32: 817cc0ca\\r\\nMD5: 643536bfaf945e8fa8a22de8d4653d83\\r\\nSHA1: f566a19d1cfd5c20d5b91b396f29323be2209911",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\12\\03",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "159",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\battletoads\\3323_wave",
+  "imagesFilenames" : [ "battletoads_0.png", "battletoads_1.png", "battletoads_2.png", "battletoads_3.png" ],
+  "readmeFilename" : "battletoads_readme.txt",
+  "patchFilename" : "battletoads_patch.zip",
+  "notes" : null
+}

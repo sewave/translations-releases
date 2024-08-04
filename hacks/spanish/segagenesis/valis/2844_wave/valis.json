@@ -1,0 +1,19 @@
+{
+  "id" : "2844",
+  "releasedBy" : "Wave",
+  "name" : "Valis",
+  "altName" : "Mugen Senshi Valis",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Valis (U) [!].bin 1.048.576 bytes\\r\\nCRC32: 13bc5b72\\r\\nMD5: da1638baec999b2203ac5e5fec31c744\\r\\nSHA1: fed29e779aa0d75645a59608f9f3a13f39d43888",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\01\\09",
+  "gameDate" : "27 December 1991",
+  "version" : "1.0",
+  "downloads" : "551",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\valis\\2844_wave",
+  "imagesFilenames" : [ "valis_0.png", "valis_1.png", "valis_2.png", "valis_3.png", "valis_4.png" ],
+  "readmeFilename" : "valis_readme.txt",
+  "patchFilename" : "valis_patch.zip",
+  "notes" : null
+}

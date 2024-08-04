@@ -1,0 +1,19 @@
+{
+  "id" : "3672",
+  "releasedBy" : "Wave",
+  "name" : "The Death and Return of Superman",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Death and Return of Superman, The (U).smc 2.097.152 bytes\\r\\nCRC32: a567957c\\r\\nMD5: dbf576310985b10fa48c6a1c8915b19d\\r\\nSHA1: a509da90497b3c29c8763fdefd4808e55ea4b35c",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2018\\06\\30",
+  "gameDate" : "August 1994",
+  "version" : "1.0",
+  "downloads" : "286",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\thedeathandreturnofsuperman\\3672_wave",
+  "imagesFilenames" : [ "thedeathandreturnofsuperman_0.png", "thedeathandreturnofsuperman_1.png", "thedeathandreturnofsuperman_2.png", "thedeathandreturnofsuperman_3.png", "thedeathandreturnofsuperman_4.png" ],
+  "readmeFilename" : "thedeathandreturnofsuperman_readme.txt",
+  "patchFilename" : "thedeathandreturnofsuperman_patch.zip",
+  "notes" : null
+}

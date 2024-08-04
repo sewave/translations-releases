@@ -1,0 +1,19 @@
+{
+  "id" : "5117",
+  "releasedBy" : "Wave",
+  "name" : "Tiger Road",
+  "altName" : "Tora e no Michi",
+  "system" : "PC Engine",
+  "romDesc" : "Tiger Road (U).pce\\r\\nMD5: 189aec122ac913609c955c7c62aaa2e2\\r\\nSHA1: 2535994f2be5d7b80cf5725505a4b8e30daef236\\r\\nCRC32: 985d492d 393216 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\10\\27",
+  "gameDate" : "23 February 1990",
+  "version" : "1.0",
+  "downloads" : "84",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\tigerroad\\5117_wave",
+  "imagesFilenames" : [ "tigerroad_0.png", "tigerroad_1.png", "tigerroad_2.png", "tigerroad_3.png", "tigerroad_4.png" ],
+  "readmeFilename" : "tigerroad_readme.txt",
+  "patchFilename" : "tigerroad_patch.zip",
+  "notes" : null
+}

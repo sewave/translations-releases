@@ -1,0 +1,19 @@
+{
+  "id" : "3772",
+  "releasedBy" : "Wave",
+  "name" : "Earthworm Jim",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Earthworm Jim (U) [!].gg 524.288 bytes\\r\\nMD5: c25af3925fd6973af62bdd6d0c5f61ca\\r\\nSHA1: dbb149da0b0373f23750ed954dbb5e08bc634615\\r\\nCRC32: dbb149da0b0373f23750ed954dbb5e08bc634615",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\08\\24",
+  "gameDate" : "1995",
+  "version" : "1.0",
+  "downloads" : "82",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\earthwormjim\\3772_wave",
+  "imagesFilenames" : [ "earthwormjim_0.png", "earthwormjim_1.png", "earthwormjim_2.png", "earthwormjim_3.png", "earthwormjim_4.png" ],
+  "readmeFilename" : "earthwormjim_readme.txt",
+  "patchFilename" : "earthwormjim_patch.zip",
+  "notes" : null
+}

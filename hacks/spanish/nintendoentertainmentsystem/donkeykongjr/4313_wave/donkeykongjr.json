@@ -1,0 +1,19 @@
+{
+  "id" : "4313",
+  "releasedBy" : "Wave",
+  "name" : "Donkey Kong Jr.",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Donkey Kong Jr. (JU) (PRG1) [!].nes\\r\\nMD5: f2124d8595da011d78cd655ac6fa9f0b\\r\\nSHA1: 02633e208732b598e3a8eb80b6e0e09926f25e83\\r\\nCRC32: 2a794ccb 24.592 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\03\\12",
+  "gameDate" : "15 July 1983",
+  "version" : "1.0",
+  "downloads" : "120",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\donkeykongjr\\4313_wave",
+  "imagesFilenames" : [ "donkeykongjr_0.png", "donkeykongjr_1.png", "donkeykongjr_2.png", "donkeykongjr_3.png", "donkeykongjr_4.png" ],
+  "readmeFilename" : "donkeykongjr_readme.txt",
+  "patchFilename" : "donkeykongjr_patch.zip",
+  "notes" : null
+}

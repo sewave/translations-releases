@@ -1,0 +1,19 @@
+{
+  "id" : "3603",
+  "releasedBy" : "Wave",
+  "name" : "A Boy and His Blob: Trouble on Blobolonia",
+  "altName" : "Fushigi na Blobby: Blobania no Kiki",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Boy and His Blob, A - Trouble on Blobolonia (U) [!].nes 262.160 bytes\\r\\nCRC32: 20a9e4a2\\r\\nMD5: 61d431d155b503c378778062bda9cf5d\\r\\nSHA1: 74e43903d7b7a8d6b17e53f2774a4b2d26a2ea9a",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\18",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "296",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\aboyandhisblobtroubleonblobolonia\\3603_wave",
+  "imagesFilenames" : [ "aboyandhisblobtroubleonblobolonia_0.png", "aboyandhisblobtroubleonblobolonia_1.png", "aboyandhisblobtroubleonblobolonia_2.png", "aboyandhisblobtroubleonblobolonia_3.png", "aboyandhisblobtroubleonblobolonia_4.png" ],
+  "readmeFilename" : "aboyandhisblobtroubleonblobolonia_readme.txt",
+  "patchFilename" : "aboyandhisblobtroubleonblobolonia_patch.zip",
+  "notes" : null
+}

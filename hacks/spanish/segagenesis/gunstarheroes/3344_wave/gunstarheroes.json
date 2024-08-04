@@ -1,0 +1,19 @@
+{
+  "id" : "3344",
+  "releasedBy" : "Wave",
+  "name" : "Gunstar Heroes",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Gunstar Heroes (U) [!].bin 1.048.576 bytes\\r\\nCRC32: b813cf0d\\r\\nMD5: 9a369cfc6355db48677771e345421e0e\\r\\nSHA1: 7721e302555f16e3242ad4a47ed87a1de1882122",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\12\\16",
+  "gameDate" : "09 September 1993",
+  "version" : "1.0",
+  "downloads" : "734",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\gunstarheroes\\3344_wave",
+  "imagesFilenames" : [ "gunstarheroes_0.png", "gunstarheroes_1.png", "gunstarheroes_2.png", "gunstarheroes_3.png", "gunstarheroes_4.png" ],
+  "readmeFilename" : "gunstarheroes_readme.txt",
+  "patchFilename" : "gunstarheroes_patch.zip",
+  "notes" : null
+}

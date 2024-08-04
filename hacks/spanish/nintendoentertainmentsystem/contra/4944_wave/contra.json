@@ -1,0 +1,19 @@
+{
+  "id" : "4944",
+  "releasedBy" : "Wave",
+  "name" : "Contra",
+  "altName" : "Probotector Gryzor",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Probotector (Europe).nes\\r\\nMD5: 7127f616c13b58087481dd9e93aeb2ff\\r\\nSHA1: 6531ff3a062c2a83fa9683bf8a859a3500e8d9af\\r\\nCRC32: 8236d3e0 131088 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\08\\25",
+  "gameDate" : "09 February 1988",
+  "version" : "1.0",
+  "downloads" : "97",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\contra\\4944_wave",
+  "imagesFilenames" : [ "contra_0.png", "contra_1.png", "contra_2.png", "contra_3.png", "contra_4.png" ],
+  "readmeFilename" : "contra_readme.txt",
+  "patchFilename" : "contra_patch.zip",
+  "notes" : null
+}

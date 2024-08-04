@@ -1,0 +1,19 @@
+{
+  "id" : "5225",
+  "releasedBy" : "Wave",
+  "name" : "Stop the Express",
+  "altName" : "Bousou Tokkyuu SOS",
+  "system" : "MSX",
+  "romDesc" : "Bousou Tokkyuu SOS. Stop the Express (1985)(Hudson Soft).rom\\r\\nMD5: b5e6d3f1fb1b3c01415dd71d05104d78\\r\\nSHA1: f2d1a057940b44c04ba08f4ff2767eef8b515833\\r\\nCRC32: 334efc07 32768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\24",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "33",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\stoptheexpress\\5225_wave",
+  "imagesFilenames" : [ "stoptheexpress_0.png", "stoptheexpress_1.png", "stoptheexpress_2.png", "stoptheexpress_3.png", "stoptheexpress_4.png" ],
+  "readmeFilename" : "stoptheexpress_readme.txt",
+  "patchFilename" : "stoptheexpress_patch.zip",
+  "notes" : null
+}

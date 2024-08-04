@@ -1,0 +1,19 @@
+{
+  "id" : "4364",
+  "releasedBy" : "Wave",
+  "name" : "Spy vs. Spy",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Spy Vs Spy (U) [!].nes\\r\\nMD5: 495d63a908ee76f9bd88ab20a10380f8\\r\\nSHA1: c78094d25f091c053272867444e88e80841c85eb\\r\\nCRC32: 23d23dcc 40.976 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\04\\02",
+  "gameDate" : "26 April 1986",
+  "version" : "1.0",
+  "downloads" : "111",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\spyvsspy\\4364_wave",
+  "imagesFilenames" : [ "spyvsspy_0.png", "spyvsspy_1.png", "spyvsspy_2.png", "spyvsspy_3.png", "spyvsspy_4.png" ],
+  "readmeFilename" : "spyvsspy_readme.txt",
+  "patchFilename" : "spyvsspy_patch.zip",
+  "notes" : null
+}

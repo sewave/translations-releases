@@ -1,0 +1,19 @@
+{
+  "id" : "4816",
+  "releasedBy" : "Wave",
+  "name" : "Champion Billiards",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Champion Billards (SG-1000) [!].sg\\r\\nMD5: 71c32b1cf1e85d217421068ac8ccc655\\r\\nSHA1: f517e6a6123643a5e7e5fff6b413139afa412d8e\\r\\nCRC32: 62b21e31 32768 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\07\\11",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "38",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\championbilliards\\4816_wave",
+  "imagesFilenames" : [ "championbilliards_0.png", "championbilliards_1.png", "championbilliards_2.png", "championbilliards_3.png", "championbilliards_4.png" ],
+  "readmeFilename" : "championbilliards_readme.txt",
+  "patchFilename" : "championbilliards_patch.zip",
+  "notes" : null
+}

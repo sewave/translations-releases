@@ -1,0 +1,19 @@
+{
+  "id" : "4941",
+  "releasedBy" : "Wave",
+  "name" : "Sonic Blast Man",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Sonic Blast Man (U) [!].smc\\r\\nMD5: 10eec032e7beaaa85c3e5ace9a323c53\\r\\nSHA1: 9e153eda423295806b3b7384d0a73e2630d1c314\\r\\nCRC32: 8886396e 1048576 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2019\\08\\25",
+  "gameDate" : "25 September 1992",
+  "version" : "1.0",
+  "downloads" : "167",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\sonicblastman\\4941_wave",
+  "imagesFilenames" : [ "sonicblastman_0.png", "sonicblastman_1.png", "sonicblastman_2.png", "sonicblastman_3.png", "sonicblastman_4.png" ],
+  "readmeFilename" : "sonicblastman_readme.txt",
+  "patchFilename" : "sonicblastman_patch.zip",
+  "notes" : null
+}

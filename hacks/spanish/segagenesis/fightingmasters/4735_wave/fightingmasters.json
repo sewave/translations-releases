@@ -1,0 +1,19 @@
+{
+  "id" : "4735",
+  "releasedBy" : "Wave",
+  "name" : "Fighting Masters",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Fighting Masters (U) [!].bin\\r\\nMD5: b6813ec7475012936d017c3c93412282\\r\\nSHA1: 2a860f06473e436041c2017342deb9125c1c7af5\\r\\nCRC32: 5f51983b 524288 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\06\\17",
+  "gameDate" : "06 June 1991",
+  "version" : "1.0",
+  "downloads" : "127",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\fightingmasters\\4735_wave",
+  "imagesFilenames" : [ "fightingmasters_0.png", "fightingmasters_1.png", "fightingmasters_2.png", "fightingmasters_3.png", "fightingmasters_4.png" ],
+  "readmeFilename" : "fightingmasters_readme.txt",
+  "patchFilename" : "fightingmasters_patch.zip",
+  "notes" : null
+}

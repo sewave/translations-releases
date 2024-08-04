@@ -1,0 +1,19 @@
+{
+  "id" : "5375",
+  "releasedBy" : "Wave",
+  "name" : "Karate Champ",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Karate Champ (USA) (Rev A).nes\\r\\nMD5: de84cc81ae0ac4a5c3d7922b9b869217\\r\\nSHA1: a8b8780f1d81135275a76254c3b662472ade1806\\r\\nCRC32: 2d3478ec 65552 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2020\\02\\01",
+  "gameDate" : "November 1986",
+  "version" : "1.0",
+  "downloads" : "46",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\karatechamp\\5375_wave",
+  "imagesFilenames" : [ "karatechamp_0.png", "karatechamp_1.png", "karatechamp_2.png", "karatechamp_3.png", "karatechamp_4.png" ],
+  "readmeFilename" : "karatechamp_readme.txt",
+  "patchFilename" : "karatechamp_patch.zip",
+  "notes" : null
+}

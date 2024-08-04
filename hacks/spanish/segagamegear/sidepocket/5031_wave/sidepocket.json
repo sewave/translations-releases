@@ -1,0 +1,19 @@
+{
+  "id" : "5031",
+  "releasedBy" : "Wave",
+  "name" : "Side Pocket",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Side Pocket (U).gg\\r\\nMD5: 4f270030dd6bb1d72eba33f1ef054b20\\r\\nSHA1: 794775a858ff04c9da1c897b51eede4677a35c21\\r\\nCRC32: 6a603eed 262144 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\09\\25",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "42",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\sidepocket\\5031_wave",
+  "imagesFilenames" : [ "sidepocket_0.png", "sidepocket_1.png", "sidepocket_2.png", "sidepocket_3.png", "sidepocket_4.png" ],
+  "readmeFilename" : "sidepocket_readme.txt",
+  "patchFilename" : "sidepocket_patch.zip",
+  "notes" : null
+}

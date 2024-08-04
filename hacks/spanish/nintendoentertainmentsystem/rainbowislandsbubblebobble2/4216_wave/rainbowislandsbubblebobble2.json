@@ -1,0 +1,19 @@
+{
+  "id" : "4216",
+  "releasedBy" : "Wave",
+  "name" : "Rainbow Islands: Bubble Bobble 2",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Rainbow Islands - The Story of Bubble Bobble 2 (E) [!].nes\\r\\nMD5: c97f6f262616db65fdf4d60398c50860\\r\\nSHA1: f397de14a66972cf71fcb0f48e4362d873529757\\r\\nCRC32: d3bdb2ed 262.160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\02\\01",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "123",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\rainbowislandsbubblebobble2\\4216_wave",
+  "imagesFilenames" : [ "rainbowislandsbubblebobble2_0.png", "rainbowislandsbubblebobble2_1.png", "rainbowislandsbubblebobble2_2.png", "rainbowislandsbubblebobble2_3.png", "rainbowislandsbubblebobble2_4.png" ],
+  "readmeFilename" : "rainbowislandsbubblebobble2_readme.txt",
+  "patchFilename" : "rainbowislandsbubblebobble2_patch.zip",
+  "notes" : null
+}

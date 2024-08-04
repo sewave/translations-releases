@@ -1,0 +1,19 @@
+{
+  "id" : "5389",
+  "releasedBy" : "Wave",
+  "name" : "Magic Dragon",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Magic Dragon (Unl).nes\\r\\nMD5: 394264b71ce6dcfea917203baff0aeb1\\r\\nSHA1: 6f0747fc2a28dd2156b3109c4a6ae9bba33957c6\\r\\nCRC32: 1ad30965 196624 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2020\\02\\15",
+  "gameDate" : "1994",
+  "version" : "1.1",
+  "downloads" : "39",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\magicdragon\\5389_wave",
+  "imagesFilenames" : [ "magicdragon_0.png", "magicdragon_1.png", "magicdragon_2.png", "magicdragon_3.png", "magicdragon_4.png" ],
+  "readmeFilename" : "magicdragon_readme.txt",
+  "patchFilename" : "magicdragon_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4493",
+  "releasedBy" : "Wave",
+  "name" : "Yie Ar Kung-Fu II: The Emperor Yie-Gah",
+  "altName" : "Yie Ar Kung Fu 2: Yie-Gah Koutei no Gyakushuu",
+  "system" : "MSX",
+  "romDesc" : "Yie Ar Kung-Fu 2 (1985) (Konami) (J).rom\\r\\nMD5: b591bb62cec12fcc13f54885cf3c7df6\\r\\nSHA1: 57827f8d49369e4dbf20a968e535374d35ff1648\\r\\nCRC32: d66034a9 32768 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\04\\30",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "55",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\yiearkungfuiitheemperoryiegah\\4493_wave",
+  "imagesFilenames" : [ "yiearkungfuiitheemperoryiegah_0.png", "yiearkungfuiitheemperoryiegah_1.png", "yiearkungfuiitheemperoryiegah_2.png", "yiearkungfuiitheemperoryiegah_3.png" ],
+  "readmeFilename" : "yiearkungfuiitheemperoryiegah_readme.txt",
+  "patchFilename" : "yiearkungfuiitheemperoryiegah_patch.zip",
+  "notes" : null
+}

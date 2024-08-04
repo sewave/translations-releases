@@ -1,0 +1,19 @@
+{
+  "id" : "4157",
+  "releasedBy" : "Wave",
+  "name" : "Cannon Fodder",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Cannon Fodder (E) [!].bin\\r\\nMD5: 8ae4b83a356da236f587e688955c23ab\\r\\nSHA1: ced5f0967e30c3b4c4c2a81007a7db2910b1885d\\r\\nCRC32: ad217654 1.572.864 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\01\\08",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "183",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\cannonfodder\\4157_wave",
+  "imagesFilenames" : [ "cannonfodder_0.png", "cannonfodder_1.png", "cannonfodder_2.png", "cannonfodder_3.png", "cannonfodder_4.png" ],
+  "readmeFilename" : "cannonfodder_readme.txt",
+  "patchFilename" : "cannonfodder_patch.zip",
+  "notes" : null
+}

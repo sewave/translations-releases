@@ -1,0 +1,19 @@
+{
+  "id" : "2828",
+  "releasedBy" : "Wave",
+  "name" : "Bram Stoker's Dracula",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Bram Stoker's Dracula (U) [!].gg 262.144 bytes\\r\\nCRC32: 69ebe5fa\\r\\nMD5: 016e9447e43cc042443f0727721a2e4a\\r\\nSHA1: ea753b5dce4b319cc1709451a4c8cb55daf2b76b",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\12\\24",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "170",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\bramstokersdracula\\2828_wave",
+  "imagesFilenames" : [ "bramstokersdracula_0.png", "bramstokersdracula_1.png", "bramstokersdracula_2.png", "bramstokersdracula_3.png", "bramstokersdracula_4.png" ],
+  "readmeFilename" : "bramstokersdracula_readme.txt",
+  "patchFilename" : "bramstokersdracula_patch.zip",
+  "notes" : null
+}

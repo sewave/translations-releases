@@ -1,0 +1,19 @@
+{
+  "id" : "3899",
+  "releasedBy" : "Wave",
+  "name" : "Batman: Return of the Joker",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Batman - Return of the Joker (U) [!].gb\\r\\nMD5: 97bc907deba1e7d7c9bc72fca0310822\\r\\nSHA1: 345a332175f58304f91111a13b770662e5ea92c3\\r\\nCRC32: 5124bbec 131.072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\04",
+  "gameDate" : "28 March 1992",
+  "version" : "1.0",
+  "downloads" : "151",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\batmanreturnofthejoker\\3899_wave",
+  "imagesFilenames" : [ "batmanreturnofthejoker_0.png", "batmanreturnofthejoker_1.png", "batmanreturnofthejoker_2.png", "batmanreturnofthejoker_3.png", "batmanreturnofthejoker_4.png" ],
+  "readmeFilename" : "batmanreturnofthejoker_readme.txt",
+  "patchFilename" : "batmanreturnofthejoker_patch.zip",
+  "notes" : null
+}

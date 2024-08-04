@@ -1,0 +1,19 @@
+{
+  "id" : "5255",
+  "releasedBy" : "Wave",
+  "name" : "Bomb Jack",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Bomb Jack (U).gb\\r\\nMD5: 7615154dc9afb1a7d7d2fe63b76c68e4\\r\\nSHA1: a2b2799e867777a5a19155ed1f2245630fc03560\\r\\nCRC32: 9bd8815e 32768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\12\\01",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "49",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\bombjack\\5255_wave",
+  "imagesFilenames" : [ "bombjack_0.png", "bombjack_1.png", "bombjack_2.png", "bombjack_3.png", "bombjack_4.png" ],
+  "readmeFilename" : "bombjack_readme.txt",
+  "patchFilename" : "bombjack_patch.zip",
+  "notes" : null
+}

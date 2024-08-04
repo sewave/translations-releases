@@ -1,0 +1,19 @@
+{
+  "id" : "2874",
+  "releasedBy" : "Wave",
+  "name" : "M.U.S.H.A.: Metallic Uniframe Super Hybrid Armor",
+  "altName" : "Musha Aleste: Full Metal Fighter Ellinor",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "M.U.S.H.A (U) [!].bin 524.288 bytes\\r\\nCRC32: 58a7f7b4\\r\\nMD5: d5ced66ba18ec2b8eb69b8b1a6baf0d0\\r\\nSHA1: 821eea5d357f26710a4e2430a2f349a80df5f2f6",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\01\\29",
+  "gameDate" : "21 December 1990",
+  "version" : "1.0",
+  "downloads" : "532",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\mushametallicuniframesuperhybridarmor\\2874_wave",
+  "imagesFilenames" : [ "mushametallicuniframesuperhybridarmor_0.png", "mushametallicuniframesuperhybridarmor_1.png", "mushametallicuniframesuperhybridarmor_2.png", "mushametallicuniframesuperhybridarmor_3.png", "mushametallicuniframesuperhybridarmor_4.png" ],
+  "readmeFilename" : "mushametallicuniframesuperhybridarmor_readme.txt",
+  "patchFilename" : "mushametallicuniframesuperhybridarmor_patch.zip",
+  "notes" : null
+}

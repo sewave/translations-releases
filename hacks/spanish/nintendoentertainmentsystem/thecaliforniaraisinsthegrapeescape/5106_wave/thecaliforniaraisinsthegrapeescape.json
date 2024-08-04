@@ -1,0 +1,19 @@
+{
+  "id" : "5106",
+  "releasedBy" : "Wave",
+  "name" : "The California Raisins: The Grape Escape",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "California Raisins, The - The Grape Escape (U) (Prototype).nes\\r\\nMD5: 1766757fe5915c2b1f086045762b6ac8\\r\\nSHA1: 6bfc9e046ddc1be1f8b4b1e5372b4eabe04e3b87\\r\\nCRC32: c100bea8 131088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\10\\24",
+  "gameDate" : "Unreleased",
+  "version" : "1.0",
+  "downloads" : "68",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\thecaliforniaraisinsthegrapeescape\\5106_wave",
+  "imagesFilenames" : [ "thecaliforniaraisinsthegrapeescape_0.png", "thecaliforniaraisinsthegrapeescape_1.png", "thecaliforniaraisinsthegrapeescape_2.png", "thecaliforniaraisinsthegrapeescape_3.png", "thecaliforniaraisinsthegrapeescape_4.png" ],
+  "readmeFilename" : "thecaliforniaraisinsthegrapeescape_readme.txt",
+  "patchFilename" : "thecaliforniaraisinsthegrapeescape_patch.zip",
+  "notes" : null
+}

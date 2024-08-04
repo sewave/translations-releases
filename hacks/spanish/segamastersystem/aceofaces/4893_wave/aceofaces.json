@@ -1,0 +1,19 @@
+{
+  "id" : "4893",
+  "releasedBy" : "Wave",
+  "name" : "Ace of Aces",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Ace of Aces (E) [!].sms\\r\\nMD5: ce26b4372655f35f1b7c9d0c3b700f93\\r\\nSHA1: 08a79905767b8e5af8a9c9c232342e6c47588093\\r\\nCRC32: 887d9f6b 262144 bytes",
+  "genre" : "Simulación",
+  "releaseDate" : "2019\\08\\02",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "74",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\aceofaces\\4893_wave",
+  "imagesFilenames" : [ "aceofaces_0.png", "aceofaces_1.png", "aceofaces_2.png", "aceofaces_3.png", "aceofaces_4.png" ],
+  "readmeFilename" : "aceofaces_readme.txt",
+  "patchFilename" : "aceofaces_patch.zip",
+  "notes" : null
+}

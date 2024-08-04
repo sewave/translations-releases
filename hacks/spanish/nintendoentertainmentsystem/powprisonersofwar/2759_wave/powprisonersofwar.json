@@ -1,0 +1,19 @@
+{
+  "id" : "2759",
+  "releasedBy" : "Wave",
+  "name" : "P.O.W.: Prisoners of War",
+  "altName" : "Datsugoku: Prisoners of War",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "POW - Prisoners of War (U).nes 262.160 bytes\\r\\nCRC32: 18967ea6\\r\\nMD5: 2d6179d9ba584be64f37271903cf8cbb\\r\\nSHA1: a942f478ac91b4288d7682e7fe15c3d60b82bff3",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2016\\10\\22",
+  "gameDate" : "30 June 1989",
+  "version" : "1.0",
+  "downloads" : "423",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\powprisonersofwar\\2759_wave",
+  "imagesFilenames" : [ "powprisonersofwar_0.png", "powprisonersofwar_1.png", "powprisonersofwar_2.png", "powprisonersofwar_3.png", "powprisonersofwar_4.png" ],
+  "readmeFilename" : "powprisonersofwar_readme.txt",
+  "patchFilename" : "powprisonersofwar_patch.zip",
+  "notes" : null
+}

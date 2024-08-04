@@ -1,0 +1,19 @@
+{
+  "id" : "4342",
+  "releasedBy" : "Wave",
+  "name" : "Hydlide",
+  "altName" : "Hydlide Special",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Hydlide (U) [!].nes\\r\\nMD5: c18c6a6f9008790774578488fc134bf1\\r\\nSHA1: 4672256b7e1f705c894608685bcecf62ed423810\\r\\nCRC32: 8962aebf 40.976 bytes",
+  "genre" : "Rol / Acción",
+  "releaseDate" : "2019\\03\\28",
+  "gameDate" : "18 March 1986",
+  "version" : "1.0",
+  "downloads" : "139",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\hydlide\\4342_wave",
+  "imagesFilenames" : [ "hydlide_0.png", "hydlide_1.png", "hydlide_2.png", "hydlide_3.png", "hydlide_4.png" ],
+  "readmeFilename" : "hydlide_readme.txt",
+  "patchFilename" : "hydlide_patch.zip",
+  "notes" : null
+}

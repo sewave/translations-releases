@@ -1,0 +1,19 @@
+{
+  "id" : "4117",
+  "releasedBy" : "Wave",
+  "name" : "Castelian",
+  "altName" : "Kyoro-Chan Land",
+  "system" : "Game Boy",
+  "romDesc" : "Castelian (U) [!].gb\\r\\nMD5: 21cc47b68fc7c9c56ef3393dbe528600\\r\\nSHA1: a03982e2ffa9aa368fe11bc09f024207bada45eb\\r\\nCRC32: f2d739e4 32.768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\12\\29",
+  "gameDate" : "May 1991",
+  "version" : "1.0",
+  "downloads" : "76",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\castelian\\4117_wave",
+  "imagesFilenames" : [ "castelian_0.png", "castelian_1.png", "castelian_2.png", "castelian_3.png", "castelian_4.png" ],
+  "readmeFilename" : "castelian_readme.txt",
+  "patchFilename" : "castelian_patch.zip",
+  "notes" : null
+}

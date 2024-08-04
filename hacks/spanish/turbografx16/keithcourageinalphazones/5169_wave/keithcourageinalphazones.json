@@ -1,0 +1,19 @@
+{
+  "id" : "5169",
+  "releasedBy" : "Wave",
+  "name" : "Keith Courage in Alpha Zones",
+  "altName" : "Mashin Eiyuuden Wataru",
+  "system" : "PC Engine",
+  "romDesc" : "Keith Courage in Alpha Zones (U).pce\\r\\nMD5: e5309b10903ccc3032c2f919e8db7384\\r\\nSHA1: 09f37cf6ddbbf202994d88ac62225ca027e791ac\\r\\nCRC32: 474d7a72 262144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\08",
+  "gameDate" : "30 August 1988",
+  "version" : "1.0",
+  "downloads" : "62",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\keithcourageinalphazones\\5169_wave",
+  "imagesFilenames" : [ "keithcourageinalphazones_0.png", "keithcourageinalphazones_1.png", "keithcourageinalphazones_2.png", "keithcourageinalphazones_3.png", "keithcourageinalphazones_4.png" ],
+  "readmeFilename" : "keithcourageinalphazones_readme.txt",
+  "patchFilename" : "keithcourageinalphazones_patch.zip",
+  "notes" : null
+}

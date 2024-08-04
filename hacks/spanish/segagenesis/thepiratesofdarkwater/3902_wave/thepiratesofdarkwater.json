@@ -1,0 +1,19 @@
+{
+  "id" : "3902",
+  "releasedBy" : "Wave",
+  "name" : "The Pirates of Dark Water",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Pirates of Dark Water, The (UE).bin\\r\\nMD5: eb0eda9027dd52008594b2755066df86\\r\\nSHA1: 55496714f32eb7f57335201f90b3f437a1500c49\\r\\nCRC32: 0a62de34 2.097.152 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\04",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "267",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\thepiratesofdarkwater\\3902_wave",
+  "imagesFilenames" : [ "thepiratesofdarkwater_0.png", "thepiratesofdarkwater_1.png", "thepiratesofdarkwater_2.png", "thepiratesofdarkwater_3.png", "thepiratesofdarkwater_4.png" ],
+  "readmeFilename" : "thepiratesofdarkwater_readme.txt",
+  "patchFilename" : "thepiratesofdarkwater_patch.zip",
+  "notes" : null
+}

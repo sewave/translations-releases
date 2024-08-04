@@ -1,0 +1,19 @@
+{
+  "id" : "3059",
+  "releasedBy" : "Wave",
+  "name" : "Vigilante",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Vigilante (U).pce 393.216 bytes\\r\\nCRC32: 79d49a0d\\r\\nMD5: 589f7ceb0bd851f6442e53858a0dc51c\\r\\nSHA1: f77d83af4f1e733faf813b5e78ecc2cbb19d3b25",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\06\\05",
+  "gameDate" : "14 January 1989",
+  "version" : "1.0",
+  "downloads" : "249",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\vigilante\\3059_wave",
+  "imagesFilenames" : [ "vigilante_0.png", "vigilante_1.png", "vigilante_2.png", "vigilante_3.png", "vigilante_4.png" ],
+  "readmeFilename" : "vigilante_readme.txt",
+  "patchFilename" : "vigilante_patch.zip",
+  "notes" : null
+}

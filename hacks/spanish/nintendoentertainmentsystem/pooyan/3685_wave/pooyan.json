@@ -1,0 +1,19 @@
+{
+  "id" : "3685",
+  "releasedBy" : "Wave",
+  "name" : "Pooyan",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Pooyan (J).nes 24.592 bytes\\r\\nCRC32: 1d54dd4c\\r\\nMD5: 12b7858da54e821dc1fe6884a458128a\\r\\nSHA1: 7c2f684531fb78704e38db749c71dec4175beaee",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\07\\06",
+  "gameDate" : "20 September 1985",
+  "version" : "1.0",
+  "downloads" : "180",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\pooyan\\3685_wave",
+  "imagesFilenames" : [ "pooyan_0.png", "pooyan_1.png", "pooyan_2.png", "pooyan_3.png" ],
+  "readmeFilename" : "pooyan_readme.txt",
+  "patchFilename" : "pooyan_patch.zip",
+  "notes" : null
+}

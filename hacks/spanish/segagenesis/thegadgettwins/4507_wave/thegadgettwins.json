@@ -1,0 +1,19 @@
+{
+  "id" : "4507",
+  "releasedBy" : "Wave",
+  "name" : "The Gadget Twins",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Gadget Twins, The (U) [!].bin\\r\\nMD5: 6d588eec80c083ee60d06e2bde3ed488\\r\\nSHA1: ce565d7df0abee02879b85866de0e1a609729ad8\\r\\nCRC32: 7ae5e248 1.048.576 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\05\\03",
+  "gameDate" : "13 August 1992",
+  "version" : "1.0",
+  "downloads" : "109",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\thegadgettwins\\4507_wave",
+  "imagesFilenames" : [ "thegadgettwins_0.png", "thegadgettwins_1.png", "thegadgettwins_2.png", "thegadgettwins_3.png", "thegadgettwins_4.png" ],
+  "readmeFilename" : "thegadgettwins_readme.txt",
+  "patchFilename" : "thegadgettwins_patch.zip",
+  "notes" : null
+}

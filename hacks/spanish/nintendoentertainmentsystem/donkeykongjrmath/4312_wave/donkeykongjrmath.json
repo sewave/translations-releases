@@ -1,0 +1,19 @@
+{
+  "id" : "4312",
+  "releasedBy" : "Wave",
+  "name" : "Donkey Kong Jr. Math",
+  "altName" : "Donkey Kong Jr. no Sansuu Asobi",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Donkey Kong Jr. Math (U) [!].nes\\r\\nMD5: ed081b5c6dbddd623a845f0d27b4a288\\r\\nSHA1: f05e358803ee665aca2f84a34d9010d01e604b2b\\r\\nCRC32: 67193fc8 24.592 bytes",
+  "genre" : "Otros",
+  "releaseDate" : "2019\\03\\12",
+  "gameDate" : "12 December 1983",
+  "version" : "1.0",
+  "downloads" : "105",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\donkeykongjrmath\\4312_wave",
+  "imagesFilenames" : [ "donkeykongjrmath_0.png", "donkeykongjrmath_1.png", "donkeykongjrmath_2.png", "donkeykongjrmath_3.png" ],
+  "readmeFilename" : "donkeykongjrmath_readme.txt",
+  "patchFilename" : "donkeykongjrmath_patch.zip",
+  "notes" : null
+}

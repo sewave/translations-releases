@@ -1,0 +1,19 @@
+{
+  "id" : "4000",
+  "releasedBy" : "Wave",
+  "name" : "Taz-Mania",
+  "altName" : "Looney Tunes 2: Tasmanian Devil in Island Chase",
+  "system" : "Game Boy",
+  "romDesc" : "Taz-Mania (U) [!].gb\\r\\nMD5: 9db0e1e39aa5a40471911a40e12ba739\\r\\nSHA1: d36d731bd2644ee84c7cf77a2c1d319851e4d6bb\\r\\nCRC32: 22d07cf6 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\12",
+  "gameDate" : "September 1994",
+  "version" : "1.0",
+  "downloads" : "114",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\tazmania\\4000_wave",
+  "imagesFilenames" : [ "tazmania_0.png", "tazmania_1.png", "tazmania_2.png", "tazmania_3.png", "tazmania_4.png" ],
+  "readmeFilename" : "tazmania_readme.txt",
+  "patchFilename" : "tazmania_patch.zip",
+  "notes" : null
+}

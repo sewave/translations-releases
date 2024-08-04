@@ -1,0 +1,19 @@
+{
+  "id" : "4267",
+  "releasedBy" : "Wave",
+  "name" : "Radical Rex",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Radical Rex (U) [!].bin\\r\\nMD5: 41b34e2f22ca4cfffb2d6190fad878e4\\r\\nSHA1: 51019abbb8a4fc246eacd5f553628b74394fab66\\r\\nCRC32: 2e6eec7e 1.048.576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\02\\19",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "149",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\radicalrex\\4267_wave",
+  "imagesFilenames" : [ "radicalrex_0.png", "radicalrex_1.png", "radicalrex_2.png", "radicalrex_3.png", "radicalrex_4.png" ],
+  "readmeFilename" : "radicalrex_readme.txt",
+  "patchFilename" : "radicalrex_patch.zip",
+  "notes" : null
+}

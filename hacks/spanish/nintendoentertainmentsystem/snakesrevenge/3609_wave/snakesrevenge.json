@@ -1,0 +1,19 @@
+{
+  "id" : "3609",
+  "releasedBy" : "Wave",
+  "name" : "Snake's Revenge",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Snake's Revenge (U) [!].nes 262.160 bytes\\r\\nCRC32: 255a25fe\\r\\nMD5: 17262cb7b1f1ea96055d93b83bac379e\\r\\nSHA1: 49f1369c0e3926da1ae4ef9baa6c41f8c649b893",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2018\\05\\25",
+  "gameDate" : "April 1990",
+  "version" : "1.0",
+  "downloads" : "618",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\snakesrevenge\\3609_wave",
+  "imagesFilenames" : [ "snakesrevenge_0.png", "snakesrevenge_1.png", "snakesrevenge_2.png", "snakesrevenge_3.png", "snakesrevenge_4.png" ],
+  "readmeFilename" : "snakesrevenge_readme.txt",
+  "patchFilename" : "snakesrevenge_patch.zip",
+  "notes" : null
+}

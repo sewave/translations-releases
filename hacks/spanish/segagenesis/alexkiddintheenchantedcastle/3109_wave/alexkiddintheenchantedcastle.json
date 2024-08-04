@@ -1,0 +1,19 @@
+{
+  "id" : "3109",
+  "releasedBy" : "Wave",
+  "name" : "Alex Kidd in the Enchanted Castle",
+  "altName" : "Alex Kidd: Tenkuu Majou",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Alex Kidd in the Enchanted Castle (UE) (REV02) [!].bin 262.144 bytes\\r\\nCRC32: 778a0f00\\r\\nMD5: cdcabca95b071e06eb278f67d700557c\\r\\nSHA1: b7e96b33ab1715fe265ed0de81a26dde969698d5",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\07\\03",
+  "gameDate" : "10 February 1989",
+  "version" : "1.0",
+  "downloads" : "720",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\alexkiddintheenchantedcastle\\3109_wave",
+  "imagesFilenames" : [ "alexkiddintheenchantedcastle_0.png", "alexkiddintheenchantedcastle_1.png", "alexkiddintheenchantedcastle_2.png", "alexkiddintheenchantedcastle_3.png", "alexkiddintheenchantedcastle_4.png" ],
+  "readmeFilename" : "alexkiddintheenchantedcastle_readme.txt",
+  "patchFilename" : "alexkiddintheenchantedcastle_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "2954",
+  "releasedBy" : "Wave",
+  "name" : "Mitsume ga Tooru",
+  "altName" : "The Three-Eyed One",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Mitsume ga Tooru (J).nes 262.160 bytes\\r\\nCRC32: e27ec1ec\\r\\nMD5: 0e991488c4272b560a0bcf9ecb38a8f8\\r\\nSHA1: f79d87d9b32498477ec2bf1939979d0d1d7bab7f",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\04\\12",
+  "gameDate" : "17 July 1992",
+  "version" : "1.0",
+  "downloads" : "650",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\mitsumegatooru\\2954_wave",
+  "imagesFilenames" : [ "mitsumegatooru_0.png", "mitsumegatooru_1.png", "mitsumegatooru_2.png", "mitsumegatooru_3.png", "mitsumegatooru_4.png" ],
+  "readmeFilename" : "mitsumegatooru_readme.txt",
+  "patchFilename" : "mitsumegatooru_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4024",
+  "releasedBy" : "Wave",
+  "name" : "Fantasy Zone Gear",
+  "altName" : "Fantasy Zone Gear: OpaOpa Jr. no Bouken",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Fantasy Zone Gear (JU) [!].gg\\r\\nMD5: 4c6c42493b5af22540e6c2014d2c367a\\r\\nSHA1: 5951d500d6f53b0537f045adb85d94068a838f32\\r\\nCRC32: d69097e8 131.072 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\23",
+  "gameDate" : "19 July 1991",
+  "version" : "1.0",
+  "downloads" : "95",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\fantasyzonegear\\4024_wave",
+  "imagesFilenames" : [ "fantasyzonegear_0.png", "fantasyzonegear_1.png", "fantasyzonegear_2.png", "fantasyzonegear_3.png", "fantasyzonegear_4.png" ],
+  "readmeFilename" : "fantasyzonegear_readme.txt",
+  "patchFilename" : "fantasyzonegear_patch.zip",
+  "notes" : null
+}

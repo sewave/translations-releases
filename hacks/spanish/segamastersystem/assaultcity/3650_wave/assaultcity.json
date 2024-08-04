@@ -1,0 +1,19 @@
+{
+  "id" : "3650",
+  "releasedBy" : "Wave",
+  "name" : "Assault City",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Assault City - Pad Version (E) [!].sms 262.144 bytes\\r\\nCRC32: 0bd8da96\\r\\nMD5: b13632f6e0e0b495aae726aec9ba66d0\\r\\nSHA1: ea46350ce4827b282b73600a7f4feadbec7c0ed4",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\06\\15",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "116",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\assaultcity\\3650_wave",
+  "imagesFilenames" : [ "assaultcity_0.png", "assaultcity_1.png", "assaultcity_2.png", "assaultcity_3.png", "assaultcity_4.png" ],
+  "readmeFilename" : "assaultcity_readme.txt",
+  "patchFilename" : "assaultcity_patch.zip",
+  "notes" : null
+}

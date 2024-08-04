@@ -1,0 +1,19 @@
+{
+  "id" : "4505",
+  "releasedBy" : "Wave",
+  "name" : "Insector X",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Insector X (U) [!].bin\\r\\nMD5: 77574085187602bf50dd1167da389f60\\r\\nSHA1: 4f4ecff167d5ada699b0b1d4b0e547b5ed9964d5\\r\\nCRC32: 70626304 524.288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\05\\03",
+  "gameDate" : "07 September 1990",
+  "version" : "1.0",
+  "downloads" : "142",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\insectorx\\4505_wave",
+  "imagesFilenames" : [ "insectorx_0.png", "insectorx_1.png", "insectorx_2.png", "insectorx_3.png", "insectorx_4.png" ],
+  "readmeFilename" : "insectorx_readme.txt",
+  "patchFilename" : "insectorx_patch.zip",
+  "notes" : null
+}

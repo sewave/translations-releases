@@ -1,0 +1,19 @@
+{
+  "id" : "4409",
+  "releasedBy" : "Wave",
+  "name" : "Orguss",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Orguss (SG-1000).sg\\r\\nMD5: 0f45fa8e9b985fd5c6545645462b9400\\r\\nSHA1: c50b133dac95718e3a92a7ed45b6c7e83927abb0\\r\\nCRC32: f4f78b76 32.768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\16",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "45",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\orguss\\4409_wave",
+  "imagesFilenames" : [ "orguss_0.png", "orguss_1.png", "orguss_2.png", "orguss_3.png", "orguss_4.png" ],
+  "readmeFilename" : "orguss_readme.txt",
+  "patchFilename" : "orguss_patch.zip",
+  "notes" : null
+}

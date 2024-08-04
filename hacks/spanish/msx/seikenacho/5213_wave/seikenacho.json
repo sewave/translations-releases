@@ -1,0 +1,19 @@
+{
+  "id" : "5213",
+  "releasedBy" : "Wave",
+  "name" : "Seiken Acho",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Seiken Acho (1985) (Ascii) (J).rom\\r\\nMD5: a2bda3945fd30a31af5019aa9ac3c87a\\r\\nSHA1: 530ecff542a537c320b17bd5d64c86d5d65619f3\\r\\nCRC32: 999dd794 32768 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\11\\19",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "33",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\seikenacho\\5213_wave",
+  "imagesFilenames" : [ "seikenacho_0.png", "seikenacho_1.png", "seikenacho_2.png", "seikenacho_3.png", "seikenacho_4.png" ],
+  "readmeFilename" : "seikenacho_readme.txt",
+  "patchFilename" : "seikenacho_patch.zip",
+  "notes" : null
+}

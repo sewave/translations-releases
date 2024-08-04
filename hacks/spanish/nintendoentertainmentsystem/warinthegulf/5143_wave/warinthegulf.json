@@ -1,0 +1,19 @@
+{
+  "id" : "5143",
+  "releasedBy" : "Wave",
+  "name" : "War in the Gulf",
+  "altName" : "La Guerra del Golfo",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Guerra del golfo, La (Spain) (Gluk Video) (Unl).nes\\r\\nMD5: f2e8182c230cf0e1d0ac2d14caf74423\\r\\nSHA1: 903787b48140ca618c3ffb4e551225081c3fbc72\\r\\nCRC32: e45d5d88 262160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\03",
+  "gameDate" : "January 1991",
+  "version" : "1.0",
+  "downloads" : "51",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\warinthegulf\\5143_wave",
+  "imagesFilenames" : [ "warinthegulf_0.png", "warinthegulf_1.png", "warinthegulf_2.png", "warinthegulf_3.png", "warinthegulf_4.png" ],
+  "readmeFilename" : "warinthegulf_readme.txt",
+  "patchFilename" : "warinthegulf_patch.zip",
+  "notes" : null
+}

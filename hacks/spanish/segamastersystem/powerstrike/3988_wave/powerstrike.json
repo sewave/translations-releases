@@ -1,0 +1,19 @@
+{
+  "id" : "3988",
+  "releasedBy" : "Wave",
+  "name" : "Power Strike",
+  "altName" : "Aleste",
+  "system" : "Sega Master System",
+  "romDesc" : "Power Strike (UE) [!].sms\\r\\nMD5: 8d9f02dcfea8f9728a3665ca12b044d1\\r\\nSHA1: f6f245c41163b15bce95368e4684b045790a1148\\r\\nCRC32: 4077efd9 131.072 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\09",
+  "gameDate" : "29 February 1988",
+  "version" : "1.0",
+  "downloads" : "122",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\powerstrike\\3988_wave",
+  "imagesFilenames" : [ "powerstrike_0.png", "powerstrike_1.png", "powerstrike_2.png", "powerstrike_3.png", "powerstrike_4.png" ],
+  "readmeFilename" : "powerstrike_readme.txt",
+  "patchFilename" : "powerstrike_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4295",
+  "releasedBy" : "Wave",
+  "name" : "Chakan",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Chakan (U) [!].gg\\r\\nMD5: 096e525c29af9f5a0a0ddd8b67dd8fbf\\r\\nSHA1: bdb82464147ef20792162cff7922824d4dee0dc1\\r\\nCRC32: dfc7adc8 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\03\\06",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "78",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\chakan\\4295_wave",
+  "imagesFilenames" : [ "chakan_0.png", "chakan_1.png", "chakan_2.png", "chakan_3.png", "chakan_4.png" ],
+  "readmeFilename" : "chakan_readme.txt",
+  "patchFilename" : "chakan_patch.zip",
+  "notes" : null
+}

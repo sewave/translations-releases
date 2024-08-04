@@ -1,0 +1,19 @@
+{
+  "id" : "3148",
+  "releasedBy" : "Wave",
+  "name" : "Beauty and the Beast",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Beauty and the Beast (E) [!].nes 393.232 bytes\\r\\nCRC32: e08a5881\\r\\nMD5: b690e3ec5375bc4e33e7ffbdcaa42e89\\r\\nSHA1: 8bd8815ac4c09077145f2640bc37a5ac0e2b41ef",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\07\\30",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "309",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\beautyandthebeast\\3148_wave",
+  "imagesFilenames" : [ "beautyandthebeast_0.png", "beautyandthebeast_1.png", "beautyandthebeast_2.png", "beautyandthebeast_3.png", "beautyandthebeast_4.png" ],
+  "readmeFilename" : "beautyandthebeast_readme.txt",
+  "patchFilename" : "beautyandthebeast_patch.zip",
+  "notes" : null
+}

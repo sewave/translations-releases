@@ -1,0 +1,19 @@
+{
+  "id" : "5013",
+  "releasedBy" : "Wave",
+  "name" : "Parlour Games",
+  "altName" : "Family Games",
+  "system" : "Sega Master System",
+  "romDesc" : "Parlour Games (USA, Europe).sms\\r\\nMD5: 6bec795910c5a91ac146b905df7c17f5\\r\\nSHA1: 06664daf208f07cb00b603b12eccfc3f01213a17\\r\\nCRC32: e030e66c 131072 bytes",
+  "genre" : "Otros",
+  "releaseDate" : "2019\\09\\16",
+  "gameDate" : "27 December 1987",
+  "version" : "1.0",
+  "downloads" : "56",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\parlourgames\\5013_wave",
+  "imagesFilenames" : [ "parlourgames_0.png", "parlourgames_1.png", "parlourgames_2.png", "parlourgames_3.png", "parlourgames_4.png" ],
+  "readmeFilename" : "parlourgames_readme.txt",
+  "patchFilename" : "parlourgames_patch.zip",
+  "notes" : null
+}

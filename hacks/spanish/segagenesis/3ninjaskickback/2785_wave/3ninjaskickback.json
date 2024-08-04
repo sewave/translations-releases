@@ -1,0 +1,19 @@
+{
+  "id" : "2785",
+  "releasedBy" : "Wave",
+  "name" : "3 Ninjas Kick Back",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "3 Ninjas Kick Back (U) [!].bin 2.097.152 bytes\\r\\nCRC32: e5a24999\\r\\nMD5: df666774c0b73e112739b68c8841658b\\r\\nSHA1: d634e3f04672b8a01c3a6e13f8722d5cbbc6b900",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\02\\18",
+  "gameDate" : "November 1994",
+  "version" : "1.1",
+  "downloads" : "465",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\3ninjaskickback\\2785_wave",
+  "imagesFilenames" : [ "3ninjaskickback_0.png", "3ninjaskickback_1.png", "3ninjaskickback_2.png", "3ninjaskickback_3.png", "3ninjaskickback_4.png" ],
+  "readmeFilename" : "3ninjaskickback_readme.txt",
+  "patchFilename" : "3ninjaskickback_patch.zip",
+  "notes" : null
+}

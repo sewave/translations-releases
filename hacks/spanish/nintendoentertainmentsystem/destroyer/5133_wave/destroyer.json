@@ -1,0 +1,19 @@
+{
+  "id" : "5133",
+  "releasedBy" : "Wave",
+  "name" : "Destroyer",
+  "altName" : "El Destructor",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Destructor, El (Spain) (Gluk Video) (Unl).nes\\r\\nMD5: a0513d51dde7fe7a6abf2e8bad8687de\\r\\nSHA1: 6c4ba85b962170f471bde4c43623eaf3da748fd1\\r\\nCRC32: eb33ea3b 65552 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\30",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "56",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\destroyer\\5133_wave",
+  "imagesFilenames" : [ "destroyer_0.png", "destroyer_1.png", "destroyer_2.png" ],
+  "readmeFilename" : "destroyer_readme.txt",
+  "patchFilename" : "destroyer_patch.zip",
+  "notes" : null
+}

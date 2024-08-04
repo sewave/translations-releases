@@ -1,0 +1,19 @@
+{
+  "id" : "3555",
+  "releasedBy" : "Wave",
+  "name" : "Mega Man",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Megaman (U) [!].gg 524.288 bytes\\r\\nCRC32: 1ace93af\\r\\nMD5: 8583950be61ffbaf0f63dde8dded2ab3\\r\\nSHA1: 085517c4ac940b937d0e0a900e4735a2247ca4dd",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\04\\21",
+  "gameDate" : "1995",
+  "version" : "1.1",
+  "downloads" : "196",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\megaman\\3555_wave",
+  "imagesFilenames" : [ "megaman_0.png", "megaman_1.png", "megaman_2.png", "megaman_3.png", "megaman_4.png" ],
+  "readmeFilename" : "megaman_readme.txt",
+  "patchFilename" : "megaman_patch.zip",
+  "notes" : null
+}

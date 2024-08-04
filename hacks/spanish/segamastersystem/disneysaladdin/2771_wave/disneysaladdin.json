@@ -1,0 +1,19 @@
+{
+  "id" : "2771",
+  "releasedBy" : "Wave",
+  "name" : "Disney's Aladdin",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Aladdin (E) [!].sms 524.288 bytes\\r\\nCRC32: c8718d40\\r\\nMD5: e3f60072028eb6f02c2b0558804aed83\\r\\nSHA1: 585967f400473e289cda611e7686ae98ae43172e",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2016\\10\\31",
+  "gameDate" : "1994",
+  "version" : "1.0",
+  "downloads" : "330",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\disneysaladdin\\2771_wave",
+  "imagesFilenames" : [ "disneysaladdin_0.png", "disneysaladdin_1.png", "disneysaladdin_2.png", "disneysaladdin_3.png", "disneysaladdin_4.png" ],
+  "readmeFilename" : "disneysaladdin_readme.txt",
+  "patchFilename" : "disneysaladdin_patch.zip",
+  "notes" : null
+}

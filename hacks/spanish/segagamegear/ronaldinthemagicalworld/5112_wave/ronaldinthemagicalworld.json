@@ -1,0 +1,19 @@
+{
+  "id" : "5112",
+  "releasedBy" : "Wave",
+  "name" : "Ronald in the Magical World",
+  "altName" : "Donald no Magical World",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Ronald in the Magical World (JU).gg\\r\\nMD5: 34e9b284e61fb9a2cad4878451579295\\r\\nSHA1: 5f9afdd5720f88f7cc18715f8e50fc5635b15323\\r\\nCRC32: 87b8b612 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\10\\24",
+  "gameDate" : "04 March 1994",
+  "version" : "1.0",
+  "downloads" : "54",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\ronaldinthemagicalworld\\5112_wave",
+  "imagesFilenames" : [ "ronaldinthemagicalworld_0.png", "ronaldinthemagicalworld_1.png", "ronaldinthemagicalworld_2.png", "ronaldinthemagicalworld_3.png", "ronaldinthemagicalworld_4.png" ],
+  "readmeFilename" : "ronaldinthemagicalworld_readme.txt",
+  "patchFilename" : "ronaldinthemagicalworld_patch.zip",
+  "notes" : null
+}

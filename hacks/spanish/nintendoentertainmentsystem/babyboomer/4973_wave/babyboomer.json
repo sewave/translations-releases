@@ -1,0 +1,19 @@
+{
+  "id" : "4973",
+  "releasedBy" : "Wave",
+  "name" : "Baby Boomer",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Baby Boomer (Color Dreams) [!].nes\\r\\nMD5: 7f1c00dbdf9dc473ea9c0063802403f8\\r\\nSHA1: 3603dcdd69a12be5b8d00caa0a76cd96c1ee417c\\r\\nCRC32: ed58dddd 81936 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\09\\06",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "77",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\babyboomer\\4973_wave",
+  "imagesFilenames" : [ "babyboomer_0.png", "babyboomer_1.png", "babyboomer_2.png", "babyboomer_3.png", "babyboomer_4.png" ],
+  "readmeFilename" : "babyboomer_readme.txt",
+  "patchFilename" : "babyboomer_patch.zip",
+  "notes" : null
+}

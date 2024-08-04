@@ -1,0 +1,19 @@
+{
+  "id" : "4014",
+  "releasedBy" : "Wave",
+  "name" : "Bank Panic",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Bank Panic (Europe).sms\\r\\nMD5: 7a5d3b9963e316cb7f73bbdc2a7311c6\\r\\nSHA1: 661bbe20f01b7afb242936d409fdd30420c6de5f\\r\\nCRC32: 655fb1f4 32.768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\19",
+  "gameDate" : "1987",
+  "version" : "1.0",
+  "downloads" : "96",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\bankpanic\\4014_wave",
+  "imagesFilenames" : [ "bankpanic_0.png", "bankpanic_1.png", "bankpanic_2.png", "bankpanic_3.png", "bankpanic_4.png" ],
+  "readmeFilename" : "bankpanic_readme.txt",
+  "patchFilename" : "bankpanic_patch.zip",
+  "notes" : null
+}

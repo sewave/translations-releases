@@ -1,0 +1,19 @@
+{
+  "id" : "4136",
+  "releasedBy" : "Wave",
+  "name" : "Marble Madness",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Marble Madness (U).gg\\r\\nMD5: b83f36fd113a8f75f1a29652acb641fc\\r\\nSHA1: 42c5cd5afebbf860a8ad80ea684f9b216762109e\\r\\nCRC32: 9559e339 262.144 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\01\\03",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "64",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\marblemadness\\4136_wave",
+  "imagesFilenames" : [ "marblemadness_0.png", "marblemadness_1.png", "marblemadness_2.png", "marblemadness_3.png", "marblemadness_4.png" ],
+  "readmeFilename" : "marblemadness_readme.txt",
+  "patchFilename" : "marblemadness_patch.zip",
+  "notes" : null
+}

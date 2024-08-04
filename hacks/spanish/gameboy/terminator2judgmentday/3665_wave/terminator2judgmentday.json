@@ -1,0 +1,19 @@
+{
+  "id" : "3665",
+  "releasedBy" : "Wave",
+  "name" : "Terminator 2: Judgment Day",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Terminator 2 - Judgment Day (UE) [!].gb 131.072 bytes\\r\\nCRC32: 21848101\\r\\nMD5: 133ae23114bf442fef6acccd1b8e187a\\r\\nSHA1: d2b94304971900dc2ff4945ad5cb445bfe434a5c",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\22",
+  "gameDate" : "January 1992",
+  "version" : "1.0",
+  "downloads" : "148",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\terminator2judgmentday\\3665_wave",
+  "imagesFilenames" : [ "terminator2judgmentday_0.png", "terminator2judgmentday_1.png", "terminator2judgmentday_2.png", "terminator2judgmentday_3.png", "terminator2judgmentday_4.png" ],
+  "readmeFilename" : "terminator2judgmentday_readme.txt",
+  "patchFilename" : "terminator2judgmentday_patch.zip",
+  "notes" : null
+}

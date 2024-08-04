@@ -1,0 +1,19 @@
+{
+  "id" : "4678",
+  "releasedBy" : "Wave",
+  "name" : "Bubble Bobble",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Bubble Bobble (U) [C][!].gbc\\r\\nMD5: 4bc8467ed91a94ba23648706b551cef5\\r\\nSHA1: 6e3739c0538467c220750f2e8d474433692bac09\\r\\nCRC32: c1b22246 1048576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\06\\10",
+  "gameDate" : "1999",
+  "version" : "1.0",
+  "downloads" : "80",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\bubblebobble\\4678_wave",
+  "imagesFilenames" : [ "bubblebobble_0.png", "bubblebobble_1.png", "bubblebobble_2.png", "bubblebobble_3.png", "bubblebobble_4.png" ],
+  "readmeFilename" : "bubblebobble_readme.txt",
+  "patchFilename" : "bubblebobble_patch.zip",
+  "notes" : null
+}

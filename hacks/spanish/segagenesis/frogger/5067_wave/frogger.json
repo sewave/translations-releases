@@ -1,0 +1,19 @@
+{
+  "id" : "5067",
+  "releasedBy" : "Wave",
+  "name" : "Frogger",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Frogger (U) [!].bin\\r\\nMD5: a5ef16bf634e12cb959da662858bae94\\r\\nSHA1: c0ccfec43ea859ab1e83293a38cfb302c0191719\\r\\nCRC32: ea2e48c0 524288 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\10\\14",
+  "gameDate" : "1998",
+  "version" : "1.0",
+  "downloads" : "83",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\frogger\\5067_wave",
+  "imagesFilenames" : [ "frogger_0.png", "frogger_1.png", "frogger_2.png", "frogger_3.png", "frogger_4.png" ],
+  "readmeFilename" : "frogger_readme.txt",
+  "patchFilename" : "frogger_patch.zip",
+  "notes" : null
+}

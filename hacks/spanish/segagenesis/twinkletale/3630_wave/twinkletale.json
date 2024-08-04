@@ -1,0 +1,19 @@
+{
+  "id" : "3630",
+  "releasedBy" : "Wave",
+  "name" : "Twinkle Tale",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Twinkle Tale (J) [!].bin 1.048.576 bytes\\r\\nCRC32: d757f924\\r\\nMD5: 809887a9535753ee7a13c8a2d365f0eb\\r\\nSHA1: 5377e96b4cb14038675c41d165f1d92ae067cd9b",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\06\\03",
+  "gameDate" : "24 July 1992",
+  "version" : "1.1",
+  "downloads" : "623",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\twinkletale\\3630_wave",
+  "imagesFilenames" : [ "twinkletale_0.png", "twinkletale_1.png", "twinkletale_2.png", "twinkletale_3.png", "twinkletale_4.png" ],
+  "readmeFilename" : "twinkletale_readme.txt",
+  "patchFilename" : "twinkletale_patch.zip",
+  "notes" : null
+}

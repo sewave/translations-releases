@@ -1,0 +1,19 @@
+{
+  "id" : "3651",
+  "releasedBy" : "Wave",
+  "name" : "Darius Alpha",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Darius Alpha (J).pce 393.728 bytes\\r\\nCRC32: 13b020b1\\r\\nMD5: 67854fafecfb74355376afc6f6294980\\r\\nSHA1: 32fbb1b003197d6f37ad7addaf38aaadfcc86036",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\06\\15",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "158",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\dariusalpha\\3651_wave",
+  "imagesFilenames" : [ "dariusalpha_0.png", "dariusalpha_1.png", "dariusalpha_2.png", "dariusalpha_3.png", "dariusalpha_4.png" ],
+  "readmeFilename" : "dariusalpha_readme.txt",
+  "patchFilename" : "dariusalpha_patch.zip",
+  "notes" : null
+}

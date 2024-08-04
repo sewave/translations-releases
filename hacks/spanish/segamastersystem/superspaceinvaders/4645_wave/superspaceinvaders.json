@@ -1,0 +1,19 @@
+{
+  "id" : "4645",
+  "releasedBy" : "Wave",
+  "name" : "Super Space Invaders",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Super Space Invaders (E) [!].sms\\r\\nMD5: f36e9758390ed2b781e9a8a7a958e7e3\\r\\nSHA1: b28d2a9c0fe597892e21fb2611798765f5435885\\r\\nCRC32: 1d6244ee 262144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\06\\06",
+  "gameDate" : "1991",
+  "version" : "1.0",
+  "downloads" : "73",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\superspaceinvaders\\4645_wave",
+  "imagesFilenames" : [ "superspaceinvaders_0.png", "superspaceinvaders_1.png", "superspaceinvaders_2.png", "superspaceinvaders_3.png", "superspaceinvaders_4.png" ],
+  "readmeFilename" : "superspaceinvaders_readme.txt",
+  "patchFilename" : "superspaceinvaders_patch.zip",
+  "notes" : null
+}

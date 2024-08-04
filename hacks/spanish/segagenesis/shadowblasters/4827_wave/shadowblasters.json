@@ -1,0 +1,19 @@
+{
+  "id" : "4827",
+  "releasedBy" : "Wave",
+  "name" : "Shadow Blasters",
+  "altName" : "Shiten Myouou",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Shadow Blasters (U) [c][!].bin\\r\\nMD5: 3593e0995aa5ac87bf54e54da56e4631\\r\\nSHA1: 8485453264fd67ff8e4549a9db50b4f314a6fcb5\\r\\nCRC32: 713d377b 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\07\\15",
+  "gameDate" : "09 August 1990",
+  "version" : "1.0",
+  "downloads" : "137",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\shadowblasters\\4827_wave",
+  "imagesFilenames" : [ "shadowblasters_0.png", "shadowblasters_1.png", "shadowblasters_2.png", "shadowblasters_3.png", "shadowblasters_4.png" ],
+  "readmeFilename" : "shadowblasters_readme.txt",
+  "patchFilename" : "shadowblasters_patch.zip",
+  "notes" : null
+}

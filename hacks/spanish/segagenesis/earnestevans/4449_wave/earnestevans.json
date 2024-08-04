@@ -1,0 +1,19 @@
+{
+  "id" : "4449",
+  "releasedBy" : "Wave",
+  "name" : "Earnest Evans",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Earnest Evans (U) [!].bin\\r\\nMD5: 6a2d2ac410a424fcb66a72ec0dff9484\\r\\nSHA1: cb5a2a928e2c2016f915e07e1d148672563183f0\\r\\nCRC32: a243816d 1.048.576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\04\\22",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "161",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\earnestevans\\4449_wave",
+  "imagesFilenames" : [ "earnestevans_0.png", "earnestevans_1.png", "earnestevans_2.png", "earnestevans_3.png", "earnestevans_4.png" ],
+  "readmeFilename" : "earnestevans_readme.txt",
+  "patchFilename" : "earnestevans_patch.zip",
+  "notes" : null
+}

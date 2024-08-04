@@ -1,0 +1,19 @@
+{
+  "id" : "5222",
+  "releasedBy" : "Wave",
+  "name" : "Actman",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Actman (1984) (Mass Tael) (J).rom\\r\\nMD5: 399552677f6eceb94f6c86878f4acb12\\r\\nSHA1: cb48969f27eaebf24c61f651399ec2433d85bcbc\\r\\nCRC32: e4dbcdbd 16384 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\24",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "30",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\actman\\5222_wave",
+  "imagesFilenames" : [ "actman_0.png", "actman_1.png", "actman_2.png", "actman_3.png", "actman_4.png" ],
+  "readmeFilename" : "actman_readme.txt",
+  "patchFilename" : "actman_patch.zip",
+  "notes" : null
+}

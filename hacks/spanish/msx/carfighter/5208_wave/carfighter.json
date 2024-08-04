@@ -1,0 +1,19 @@
+{
+  "id" : "5208",
+  "releasedBy" : "Wave",
+  "name" : "Car Fighter",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Car Fighter (1985) (Casio) (J).rom\\r\\nMD5: afb607270f33db1915766b58108c6af7\\r\\nSHA1: e93c396649bf6328103e8da0247952ebef2a04e9\\r\\nCRC32: 303187f5 16384 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\11\\19",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "30",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\carfighter\\5208_wave",
+  "imagesFilenames" : [ "carfighter_0.png", "carfighter_1.png", "carfighter_2.png", "carfighter_3.png" ],
+  "readmeFilename" : "carfighter_readme.txt",
+  "patchFilename" : "carfighter_patch.zip",
+  "notes" : null
+}

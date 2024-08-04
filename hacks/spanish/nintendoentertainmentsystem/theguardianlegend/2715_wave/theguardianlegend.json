@@ -1,0 +1,19 @@
+{
+  "id" : "2715",
+  "releasedBy" : "Wave",
+  "name" : "The Guardian Legend",
+  "altName" : "Gaurdic Gaiden",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Guardian Legend, The (U) [!].nes 131.088 bytes\\r\\nCRC32: c94ac75f\\r\\nMD5: 5acfc9d45b94f82f97e04c4434adbf36\\r\\nSHA1: d00d73c7764a4c3513892b97afb939f30e522245",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2016\\09\\04",
+  "gameDate" : "05 February 1988",
+  "version" : "1.0",
+  "downloads" : "576",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\theguardianlegend\\2715_wave",
+  "imagesFilenames" : [ "theguardianlegend_0.png", "theguardianlegend_1.png", "theguardianlegend_2.png", "theguardianlegend_3.png", "theguardianlegend_4.png" ],
+  "readmeFilename" : "theguardianlegend_readme.txt",
+  "patchFilename" : "theguardianlegend_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5350",
+  "releasedBy" : "Wave",
+  "name" : "Stormlord",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Stormlord (U) [!].bin\\r\\nMD5: 73070170122193915b7f8af945ef426c\\r\\nSHA1: 1bf4b58d50fdc0fdc173ce3dcadcc5d9b58f0723\\r\\nCRC32: 39ab50a5 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2020\\01\\22",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "96",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\stormlord\\5350_wave",
+  "imagesFilenames" : [ "stormlord_0.png", "stormlord_1.png", "stormlord_2.png", "stormlord_3.png", "stormlord_4.png" ],
+  "readmeFilename" : "stormlord_readme.txt",
+  "patchFilename" : "stormlord_patch.zip",
+  "notes" : null
+}

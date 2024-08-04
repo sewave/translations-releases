@@ -1,0 +1,19 @@
+{
+  "id" : "5239",
+  "releasedBy" : "Wave",
+  "name" : "Home Alone",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Home Alone (U) (REVA) [!].nes\\r\\nMD5: 7d128a68a09d852cb9da9dff1c466070\\r\\nSHA1: e9eafc223336e93665571158ad8f2dd8a229248a\\r\\nCRC32: d98e3e31 262160 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\11\\27",
+  "gameDate" : "October 1991",
+  "version" : "1.0",
+  "downloads" : "60",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\homealone\\5239_wave",
+  "imagesFilenames" : [ "homealone_0.png", "homealone_1.png", "homealone_2.png", "homealone_3.png" ],
+  "readmeFilename" : "homealone_readme.txt",
+  "patchFilename" : "homealone_patch.zip",
+  "notes" : null
+}

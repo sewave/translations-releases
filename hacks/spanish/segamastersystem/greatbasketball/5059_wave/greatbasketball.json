@@ -1,0 +1,19 @@
+{
+  "id" : "5059",
+  "releasedBy" : "Wave",
+  "name" : "Great Basketball",
+  "altName" : "Great Basket",
+  "system" : "Sega Master System",
+  "romDesc" : "Great Basketball (JUEB) [!].sms\\r\\nMD5: 450d68460d4ae07a7cc98d36491fd4f8\\r\\nSHA1: 2fdb7ebce61e316ded27b575535d4f475c9dd822\\r\\nCRC32: 2ac001eb 131072 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\10\\08",
+  "gameDate" : "29 March 1987",
+  "version" : "1.0",
+  "downloads" : "45",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\greatbasketball\\5059_wave",
+  "imagesFilenames" : [ "greatbasketball_0.png", "greatbasketball_1.png", "greatbasketball_2.png", "greatbasketball_3.png", "greatbasketball_4.png" ],
+  "readmeFilename" : "greatbasketball_readme.txt",
+  "patchFilename" : "greatbasketball_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "4037",
+  "releasedBy" : "Wave",
+  "name" : "The Flash",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Flash, The (E) [!].sms\\r\\nMD5: a96908fab5f599b11fe8107c3f93b6b1\\r\\nSHA1: 1732b4c13fd00dd5efc5bf1ccb1ab6ed3889c8ba\\r\\nCRC32: be31d63f 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\27",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "108",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\theflash\\4037_wave",
+  "imagesFilenames" : [ "theflash_0.png", "theflash_1.png", "theflash_2.png", "theflash_3.png", "theflash_4.png" ],
+  "readmeFilename" : "theflash_readme.txt",
+  "patchFilename" : "theflash_patch.zip",
+  "notes" : null
+}

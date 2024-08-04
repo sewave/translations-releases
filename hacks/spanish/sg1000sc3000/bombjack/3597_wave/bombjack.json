@@ -1,0 +1,19 @@
+{
+  "id" : "3597",
+  "releasedBy" : "Wave",
+  "name" : "Bomb Jack",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Bomb Jack (SG-1000).sg 32.768 bytes\\r\\nCRC32: ea0f2691\\r\\nMD5: 0bf5b6959fc1b58d8e37f9647f47a0b3\\r\\nSHA1: 7859b9ee5614c595cb57a832ef7a8f1ab473b45b",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\05\\18",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "77",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\bombjack\\3597_wave",
+  "imagesFilenames" : [ "bombjack_0.png", "bombjack_1.png", "bombjack_2.png", "bombjack_3.png", "bombjack_4.png" ],
+  "readmeFilename" : "bombjack_readme.txt",
+  "patchFilename" : "bombjack_patch.zip",
+  "notes" : null
+}

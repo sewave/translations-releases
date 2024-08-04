@@ -1,0 +1,19 @@
+{
+  "id" : "3071",
+  "releasedBy" : "Wave",
+  "name" : "RoboCop",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Robocop (U) (V1.0) [M][!].gb 131.072 bytes\\r\\nCRC32: 6088b426\\r\\nMD5: 421a923ba483f65a967b8455500b8880\\r\\nSHA1: 39b92e019134dfd4480b957509c3eb64920cecb3",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\06\\12",
+  "gameDate" : "December 1990",
+  "version" : "1.0",
+  "downloads" : "201",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\robocop\\3071_wave",
+  "imagesFilenames" : [ "robocop_0.png", "robocop_1.png", "robocop_2.png", "robocop_3.png", "robocop_4.png" ],
+  "readmeFilename" : "robocop_readme.txt",
+  "patchFilename" : "robocop_patch.zip",
+  "notes" : null
+}

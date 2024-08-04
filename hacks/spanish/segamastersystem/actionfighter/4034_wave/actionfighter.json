@@ -1,0 +1,19 @@
+{
+  "id" : "4034",
+  "releasedBy" : "Wave",
+  "name" : "Action Fighter",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Action Fighter (UE) [!].sms\\r\\nMD5: 47d736575f9a22f7490d62c76ed7c933\\r\\nSHA1: b462246fed3cbb9dc3909a2d5befaec65d7a0014\\r\\nCRC32: 3658f3e0 131.072 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\27",
+  "gameDate" : "17 August 1986",
+  "version" : "1.0",
+  "downloads" : "116",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\actionfighter\\4034_wave",
+  "imagesFilenames" : [ "actionfighter_0.png", "actionfighter_1.png", "actionfighter_2.png", "actionfighter_3.png", "actionfighter_4.png" ],
+  "readmeFilename" : "actionfighter_readme.txt",
+  "patchFilename" : "actionfighter_patch.zip",
+  "notes" : null
+}

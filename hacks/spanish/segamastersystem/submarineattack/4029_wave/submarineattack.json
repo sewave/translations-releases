@@ -1,0 +1,19 @@
+{
+  "id" : "4029",
+  "releasedBy" : "Wave",
+  "name" : "Submarine Attack",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Submarine Attack (UE) [!].sms\\r\\nMD5: 5eaa50519e87d57f40f50731caff5f62\\r\\nSHA1: 44384ec8bf91e1ca5512ff88bbcf1ae1ce5a1a35\\r\\nCRC32: d8f2f1b9 262.144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\23",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "110",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\submarineattack\\4029_wave",
+  "imagesFilenames" : [ "submarineattack_0.png", "submarineattack_1.png", "submarineattack_2.png", "submarineattack_3.png", "submarineattack_4.png" ],
+  "readmeFilename" : "submarineattack_readme.txt",
+  "patchFilename" : "submarineattack_patch.zip",
+  "notes" : null
+}

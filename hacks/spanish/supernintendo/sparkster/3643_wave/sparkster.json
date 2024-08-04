@@ -1,0 +1,19 @@
+{
+  "id" : "3643",
+  "releasedBy" : "Wave",
+  "name" : "Sparkster",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Sparkster (U).smc 1.048.576 bytes\\r\\nCRC32: 40d11c94\\r\\nMD5: e00ef4c1b9e17d5fa2d8367402d28a08\\r\\nSHA1: 0ac5326401903212c6565a7a982f60a56017c1ef",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\08",
+  "gameDate" : "15 September 1994",
+  "version" : "1.0",
+  "downloads" : "355",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\sparkster\\3643_wave",
+  "imagesFilenames" : [ "sparkster_0.png", "sparkster_1.png", "sparkster_2.png", "sparkster_3.png", "sparkster_4.png" ],
+  "readmeFilename" : "sparkster_readme.txt",
+  "patchFilename" : "sparkster_patch.zip",
+  "notes" : null
+}

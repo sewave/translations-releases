@@ -1,0 +1,19 @@
+{
+  "id" : "4383",
+  "releasedBy" : "Wave",
+  "name" : "Venom - Spider-Man: Separation Anxiety",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Spider-Man and Venom - Separation Anxiety (U) [!].gen\\r\\nMD5: 41d79267b01e983c0956151de10d9646\\r\\nSHA1: 563b45254c168aa0de0bba8fadd75a2d1e8e094b\\r\\nCRC32: 512ade32 3.145.728 bytes",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2019\\04\\09",
+  "gameDate" : "21 June 1995",
+  "version" : "1.0",
+  "downloads" : "195",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\venomspidermanseparationanxiety\\4383_wave",
+  "imagesFilenames" : [ "venomspidermanseparationanxiety_0.png", "venomspidermanseparationanxiety_1.png", "venomspidermanseparationanxiety_2.png", "venomspidermanseparationanxiety_3.png", "venomspidermanseparationanxiety_4.png" ],
+  "readmeFilename" : "venomspidermanseparationanxiety_readme.txt",
+  "patchFilename" : "venomspidermanseparationanxiety_patch.zip",
+  "notes" : null
+}

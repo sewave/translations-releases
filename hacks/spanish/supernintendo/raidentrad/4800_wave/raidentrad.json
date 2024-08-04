@@ -1,0 +1,19 @@
+{
+  "id" : "4800",
+  "releasedBy" : "Wave",
+  "name" : "Raiden Trad",
+  "altName" : "Raiden Densetsu",
+  "system" : "Super Nintendo",
+  "romDesc" : "Raiden Trad (USA).sfc\\r\\nMD5: 4e3a04e52dddc4e8a676386bea87d3ad\\r\\nSHA1: b80ab440635c149f86b7cb8ab39d19fce2ea934c\\r\\nCRC32: 02ce6c96 1048576 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\07\\08",
+  "gameDate" : "29 November 1991",
+  "version" : "1.0",
+  "downloads" : "124",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\raidentrad\\4800_wave",
+  "imagesFilenames" : [ "raidentrad_0.png", "raidentrad_1.png", "raidentrad_2.png", "raidentrad_3.png", "raidentrad_4.png" ],
+  "readmeFilename" : "raidentrad_readme.txt",
+  "patchFilename" : "raidentrad_patch.zip",
+  "notes" : null
+}

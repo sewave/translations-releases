@@ -1,0 +1,19 @@
+{
+  "id" : "4733",
+  "releasedBy" : "Wave",
+  "name" : "Cobra Command",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Cobra Command (U) [!].nes\\r\\nMD5: 16fc376d9130acdac01fe1598ad32c83\\r\\nSHA1: b17031a2294fc8b1b3d54b7bde7963370627b496\\r\\nCRC32: 40c6e687 262160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\06\\17",
+  "gameDate" : "21 October 1988",
+  "version" : "1.0",
+  "downloads" : "111",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\cobracommand\\4733_wave",
+  "imagesFilenames" : [ "cobracommand_0.png", "cobracommand_1.png", "cobracommand_2.png", "cobracommand_3.png", "cobracommand_4.png" ],
+  "readmeFilename" : "cobracommand_readme.txt",
+  "patchFilename" : "cobracommand_patch.zip",
+  "notes" : null
+}

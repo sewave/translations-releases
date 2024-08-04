@@ -1,0 +1,19 @@
+{
+  "id" : "2883",
+  "releasedBy" : "Wave",
+  "name" : "Desert Strike: Return to the Gulf",
+  "altName" : "Desert Strike: Wangan Sakusen",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Desert Strike - Return to the Gulf (UE) [!].gen 1.048.576 bytes\\r\\nCRC32: d7e7d8c358eb845b84fb08f904cc0b95d0a4053d\\r\\nMD5: 6f37f036c8de2bf78d11079cd2424370\\r\\nSHA1: d7e7d8c358eb845b84fb08f904cc0b95d0a4053d",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\02\\05",
+  "gameDate" : "04 June 1992",
+  "version" : "1.1",
+  "downloads" : "546",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\desertstrikereturntothegulf\\2883_wave",
+  "imagesFilenames" : [ "desertstrikereturntothegulf_0.png", "desertstrikereturntothegulf_1.png", "desertstrikereturntothegulf_2.png", "desertstrikereturntothegulf_3.png", "desertstrikereturntothegulf_4.png" ],
+  "readmeFilename" : "desertstrikereturntothegulf_readme.txt",
+  "patchFilename" : "desertstrikereturntothegulf_patch.zip",
+  "notes" : null
+}

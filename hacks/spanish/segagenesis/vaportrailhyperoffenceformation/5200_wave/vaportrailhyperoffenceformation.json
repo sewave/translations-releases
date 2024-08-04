@@ -1,0 +1,19 @@
+{
+  "id" : "5200",
+  "releasedBy" : "Wave",
+  "name" : "Vapor Trail: Hyper Offence Formation",
+  "altName" : "Kuhga: Operation Code \"Vapor Trail\"",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Vapor Trail (U) [!].bin\\r\\nMD5: cff6076504b1097bb89848c0698ef2a2\\r\\nSHA1: d8eb087eeda31f202e6a1a0c4de891ced162abc5\\r\\nCRC32: c49e3a0a 1048576 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\20",
+  "gameDate" : "02 August 1991",
+  "version" : "1.2",
+  "downloads" : "119",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\vaportrailhyperoffenceformation\\5200_wave",
+  "imagesFilenames" : [ "vaportrailhyperoffenceformation_0.png", "vaportrailhyperoffenceformation_1.png", "vaportrailhyperoffenceformation_2.png", "vaportrailhyperoffenceformation_3.png", "vaportrailhyperoffenceformation_4.png" ],
+  "readmeFilename" : "vaportrailhyperoffenceformation_readme.txt",
+  "patchFilename" : "vaportrailhyperoffenceformation_patch.zip",
+  "notes" : null
+}

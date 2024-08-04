@@ -1,0 +1,19 @@
+{
+  "id" : "3537",
+  "releasedBy" : "Wave",
+  "name" : "RoboCop Versus The Terminator",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Robocop versus The Terminator (U) [!].gg 524.288 bytes\\r\\nCRC32: 4ab7fa4e\\r\\nMD5: d19dc027e7aff95a1abfd0db074e1cf2\\r\\nSHA1: 13286df11fc66a8974a73a82e8478fa382fa2b43",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\04\\13",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "109",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\robocopversustheterminator\\3537_wave",
+  "imagesFilenames" : [ "robocopversustheterminator_0.png", "robocopversustheterminator_1.png", "robocopversustheterminator_2.png", "robocopversustheterminator_3.png", "robocopversustheterminator_4.png" ],
+  "readmeFilename" : "robocopversustheterminator_readme.txt",
+  "patchFilename" : "robocopversustheterminator_patch.zip",
+  "notes" : null
+}

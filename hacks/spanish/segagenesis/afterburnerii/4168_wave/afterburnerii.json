@@ -1,0 +1,19 @@
+{
+  "id" : "4168",
+  "releasedBy" : "Wave",
+  "name" : "After Burner II",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "After Burner II (UE) [!].bin\\r\\nMD5: 75458e38c278f61c06dabacc744b5fe1\\r\\nSHA1: 523e4abdf19794a167a347b7eeca79907416e084\\r\\nCRC32: ccafe00e 524.288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\01\\11",
+  "gameDate" : "22 March 1990",
+  "version" : "1.0",
+  "downloads" : "212",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\afterburnerii\\4168_wave",
+  "imagesFilenames" : [ "afterburnerii_0.png", "afterburnerii_1.png", "afterburnerii_2.png", "afterburnerii_3.png", "afterburnerii_4.png" ],
+  "readmeFilename" : "afterburnerii_readme.txt",
+  "patchFilename" : "afterburnerii_patch.zip",
+  "notes" : null
+}

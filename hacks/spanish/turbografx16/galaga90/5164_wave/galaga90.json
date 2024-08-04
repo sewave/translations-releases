@@ -1,0 +1,19 @@
+{
+  "id" : "5164",
+  "releasedBy" : "Wave",
+  "name" : "Galaga '90",
+  "altName" : "Galaga '88",
+  "system" : "PC Engine",
+  "romDesc" : "Galaga '90 (U).pce\\r\\nMD5: 94814db23e163dbfc7d7505170e145c2\\r\\nSHA1: ff73a144eb2da537d0e1a3c8c56ef197fd6ce1ce\\r\\nCRC32: 2909dec6 262144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\05",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "60",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\galaga90\\5164_wave",
+  "imagesFilenames" : [ "galaga90_0.png", "galaga90_1.png", "galaga90_2.png", "galaga90_3.png", "galaga90_4.png" ],
+  "readmeFilename" : "galaga90_readme.txt",
+  "patchFilename" : "galaga90_patch.zip",
+  "notes" : null
+}

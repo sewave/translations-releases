@@ -1,0 +1,19 @@
+{
+  "id" : "4297",
+  "releasedBy" : "Wave",
+  "name" : "Clu Clu Land",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Clu Clu Land (W) [!].nes\\r\\nMD5: ad7b5cd8de1e173598c4af91b23e6e26\\r\\nSHA1: ceb12245283a1cbc98141d0109192f9cde2a3be8\\r\\nCRC32: c36a135a 24.592 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\03\\06",
+  "gameDate" : "22 November 1984",
+  "version" : "1.0",
+  "downloads" : "121",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\clucluland\\4297_wave",
+  "imagesFilenames" : [ "clucluland_0.png", "clucluland_1.png", "clucluland_2.png" ],
+  "readmeFilename" : "clucluland_readme.txt",
+  "patchFilename" : "clucluland_patch.zip",
+  "notes" : null
+}

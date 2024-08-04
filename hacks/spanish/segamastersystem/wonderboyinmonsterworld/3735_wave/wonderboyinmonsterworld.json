@@ -1,0 +1,19 @@
+{
+  "id" : "3735",
+  "releasedBy" : "Wave",
+  "name" : "Wonder Boy in Monster World",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Wonder Boy in Monster World (E) [!].sms 524.288 bytes\\r\\nMD5: 5837764c172c8c43c8c7b21f2144cf27\\r\\nSHA1: da0acdb1b9e806aa67a0216a675cb02ed24abf8b\\r\\nCRC32: 7d7ce80b",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\08\\03",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "459",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\wonderboyinmonsterworld\\3735_wave",
+  "imagesFilenames" : [ "wonderboyinmonsterworld_0.png", "wonderboyinmonsterworld_1.png", "wonderboyinmonsterworld_2.png", "wonderboyinmonsterworld_3.png", "wonderboyinmonsterworld_4.png" ],
+  "readmeFilename" : "wonderboyinmonsterworld_readme.txt",
+  "patchFilename" : "wonderboyinmonsterworld_patch.zip",
+  "notes" : null
+}

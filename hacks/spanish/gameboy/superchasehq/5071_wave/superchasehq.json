@@ -1,0 +1,19 @@
+{
+  "id" : "5071",
+  "releasedBy" : "Wave",
+  "name" : "Super Chase H.Q.",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Super Chase H.Q. (UE) [!].gb\\r\\nMD5: ebdb99bf19c9066be71485c3c9187b82\\r\\nSHA1: d5184c1849d8e0addd4e1d31812068931bf98adc\\r\\nCRC32: 630e0e00 131072 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\10\\14",
+  "gameDate" : "January 1994",
+  "version" : "1.0",
+  "downloads" : "54",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\superchasehq\\5071_wave",
+  "imagesFilenames" : [ "superchasehq_0.png", "superchasehq_1.png", "superchasehq_2.png", "superchasehq_3.png", "superchasehq_4.png" ],
+  "readmeFilename" : "superchasehq_readme.txt",
+  "patchFilename" : "superchasehq_patch.zip",
+  "notes" : null
+}

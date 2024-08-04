@@ -1,0 +1,19 @@
+{
+  "id" : "2850",
+  "releasedBy" : "Wave",
+  "name" : "Dossun! Stone Battle",
+  "altName" : "Dossun! Ganseki Battle",
+  "system" : "Super Nintendo",
+  "romDesc" : "Dossun! Ganseki Battle (Japan).sfc 1.048.576 bytes\\r\\nCRC32: 1aa002d6\\r\\nMD5: 663fbb07dcd22c366cf940bbb9a5db85\\r\\nSHA1: 544201ff2f0ad09a14142d3d7c02a2e07cfc7c5a",
+  "genre" : "Puzle",
+  "releaseDate" : "2018\\04\\14",
+  "gameDate" : "16 December 1994",
+  "version" : "1.1",
+  "downloads" : "471",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\dossunstonebattle\\2850_wave",
+  "imagesFilenames" : [ "dossunstonebattle_0.png", "dossunstonebattle_1.png", "dossunstonebattle_2.png", "dossunstonebattle_3.png", "dossunstonebattle_4.png" ],
+  "readmeFilename" : "dossunstonebattle_readme.txt",
+  "patchFilename" : "dossunstonebattle_patch.zip",
+  "notes" : null
+}

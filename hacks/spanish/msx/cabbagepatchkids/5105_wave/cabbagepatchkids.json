@@ -1,0 +1,19 @@
+{
+  "id" : "5105",
+  "releasedBy" : "Wave",
+  "name" : "Cabbage Patch Kids",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Cabbage Patch Kids (1983) (Konami) (J).rom\\r\\nMD5: a46dbb59535bf812574bd8cef354b491\\r\\nSHA1: c06de0eda82e1daa3ea3cbc5eba5d884fd0ce8e8\\r\\nCRC32: 057d2790 16384 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\10\\24",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "37",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\cabbagepatchkids\\5105_wave",
+  "imagesFilenames" : [ "cabbagepatchkids_0.png", "cabbagepatchkids_1.png", "cabbagepatchkids_2.png", "cabbagepatchkids_3.png", "cabbagepatchkids_4.png" ],
+  "readmeFilename" : "cabbagepatchkids_readme.txt",
+  "patchFilename" : "cabbagepatchkids_patch.zip",
+  "notes" : null
+}

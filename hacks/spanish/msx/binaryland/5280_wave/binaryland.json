@@ -1,0 +1,19 @@
+{
+  "id" : "5280",
+  "releasedBy" : "Wave",
+  "name" : "Binary Land",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Binary Land (1984)(Kuma Computers).rom\\r\\nMD5: 817fc937ad606961da6637d38430bb3e\\r\\nSHA1: ef476e25fb6b7221ca778a379117885450dd36f0\\r\\nCRC32: fbacbc7a 16384 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\12\\08",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "28",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\binaryland\\5280_wave",
+  "imagesFilenames" : [ "binaryland_0.png", "binaryland_1.png", "binaryland_2.png", "binaryland_3.png", "binaryland_4.png" ],
+  "readmeFilename" : "binaryland_readme.txt",
+  "patchFilename" : "binaryland_patch.zip",
+  "notes" : null
+}

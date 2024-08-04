@@ -1,0 +1,19 @@
+{
+  "id" : "5272",
+  "releasedBy" : "Wave",
+  "name" : "The Goonies",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Goonies, The (1986) (Konami) (J).rom\\r\\nMD5: 24a6d9cfa9e38e120678a538663e8ad2\\r\\nSHA1: b1248f7b9d4e16a894555c51c533d3fd9a90802e\\r\\nCRC32: db327847 32768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\12\\05",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "37",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\thegoonies\\5272_wave",
+  "imagesFilenames" : [ "thegoonies_0.png", "thegoonies_1.png", "thegoonies_2.png", "thegoonies_3.png", "thegoonies_4.png" ],
+  "readmeFilename" : "thegoonies_readme.txt",
+  "patchFilename" : "thegoonies_patch.zip",
+  "notes" : null
+}

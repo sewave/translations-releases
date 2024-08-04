@@ -1,0 +1,19 @@
+{
+  "id" : "5166",
+  "releasedBy" : "Wave",
+  "name" : "Side Arms: Hyper Dyne",
+  "altName" : "Hyper Dyne Side Arms",
+  "system" : "PC Engine",
+  "romDesc" : "Side Arms - Hyper Dyne (U).pce\\r\\nMD5: a97b9af7e814deb4e4358a466e7cd3c2\\r\\nSHA1: 773a372ef5ee599ebd6f048fddb86739e255583e\\r\\nCRC32: d1993c9f 262144 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\11\\05",
+  "gameDate" : "14 July 1989",
+  "version" : "1.0",
+  "downloads" : "67",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\sidearmshyperdyne\\5166_wave",
+  "imagesFilenames" : [ "sidearmshyperdyne_0.png", "sidearmshyperdyne_1.png", "sidearmshyperdyne_2.png", "sidearmshyperdyne_3.png", "sidearmshyperdyne_4.png" ],
+  "readmeFilename" : "sidearmshyperdyne_readme.txt",
+  "patchFilename" : "sidearmshyperdyne_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "2920",
+  "releasedBy" : "Wave",
+  "name" : "Adventure Island III",
+  "altName" : "Takahashi Meijin no Bouken Jima III",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Hudson's Adventure Island III (U) [!].nes 262.160 bytes\\r\\nCRC32: 952cdacf\\r\\nMD5: f15d5835041c4b28b98b9551fb3ce764\\r\\nSHA1: 9f8d51762125df0c1a6ab6eff41fbf7d0e65d465",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2017\\03\\11",
+  "gameDate" : "31 July 1992",
+  "version" : "1.1",
+  "downloads" : "865",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\adventureislandiii\\2920_wave",
+  "imagesFilenames" : [ "adventureislandiii_0.png", "adventureislandiii_1.png", "adventureislandiii_2.png", "adventureislandiii_3.png", "adventureislandiii_4.png" ],
+  "readmeFilename" : "adventureislandiii_readme.txt",
+  "patchFilename" : "adventureislandiii_patch.zip",
+  "notes" : null
+}

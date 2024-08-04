@@ -1,0 +1,19 @@
+{
+  "id" : "3932",
+  "releasedBy" : "Wave",
+  "name" : "Sonic Chaos",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Sonic Chaos (E) [!].sms\\r\\nMD5: 1d661134b14eedf6b4ae1c907581fd96\\r\\nSHA1: f64c8eea26a103582f09831c3e02c6045a6aff94\\r\\nCRC32: aedf3bdf 524.288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\18",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "162",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\sonicchaos\\3932_wave",
+  "imagesFilenames" : [ "sonicchaos_0.png", "sonicchaos_1.png", "sonicchaos_2.png", "sonicchaos_3.png", "sonicchaos_4.png" ],
+  "readmeFilename" : "sonicchaos_readme.txt",
+  "patchFilename" : "sonicchaos_patch.zip",
+  "notes" : null
+}

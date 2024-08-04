@@ -1,0 +1,19 @@
+{
+  "id" : "5171",
+  "releasedBy" : "Wave",
+  "name" : "Indiana Jones and the Last Crusade",
+  "altName" : "Indiana Jones: Saigo no Seisen",
+  "system" : "Game Boy",
+  "romDesc" : "Indiana Jones and the Last Crusade (UE) [!].gb\\r\\nMD5: a27e15cde0a8fbfc4489e0f599a53a9a\\r\\nSHA1: b656ba6c03d0cb5c81c2ed8c5c64ea8e36660aaa\\r\\nCRC32: 9189921a 131072 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\08",
+  "gameDate" : "July 1994",
+  "version" : "1.0",
+  "downloads" : "59",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\indianajonesandthelastcrusade\\5171_wave",
+  "imagesFilenames" : [ "indianajonesandthelastcrusade_0.png", "indianajonesandthelastcrusade_1.png", "indianajonesandthelastcrusade_2.png", "indianajonesandthelastcrusade_3.png", "indianajonesandthelastcrusade_4.png" ],
+  "readmeFilename" : "indianajonesandthelastcrusade_readme.txt",
+  "patchFilename" : "indianajonesandthelastcrusade_patch.zip",
+  "notes" : null
+}

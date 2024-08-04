@@ -1,0 +1,19 @@
+{
+  "id" : "4443",
+  "releasedBy" : "Wave",
+  "name" : "Burai Fighter Deluxe",
+  "altName" : "Burai Senshi Deluxe",
+  "system" : "Game Boy",
+  "romDesc" : "Burai Fighter Deluxe (UE) [!].gb\\r\\nMD5: dd5aa6e85827a3ce6e4b7500e75a3262\\r\\nSHA1: 178e18b7e6e65e726b4e06f80d89c55332ea868b\\r\\nCRC32: 3c86f5db 65.536 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\22",
+  "gameDate" : "27 June 1990",
+  "version" : "1.0",
+  "downloads" : "74",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\buraifighterdeluxe\\4443_wave",
+  "imagesFilenames" : [ "buraifighterdeluxe_0.png", "buraifighterdeluxe_1.png", "buraifighterdeluxe_2.png", "buraifighterdeluxe_3.png", "buraifighterdeluxe_4.png" ],
+  "readmeFilename" : "buraifighterdeluxe_readme.txt",
+  "patchFilename" : "buraifighterdeluxe_patch.zip",
+  "notes" : null
+}

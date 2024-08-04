@@ -1,0 +1,19 @@
+{
+  "id" : "4759",
+  "releasedBy" : "Wave",
+  "name" : "Archon: The Light and the Dark",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Archon (U) [!].nes\\r\\nMD5: 4777689bfc7ad9e36136235fc774a36d\\r\\nSHA1: a0a7008f1fb953cf436c47fe814be10f8fc3ba77\\r\\nCRC32: c00d228d 131088 bytes",
+  "genre" : "Juego de Mesa",
+  "releaseDate" : "2019\\06\\22",
+  "gameDate" : "December 1989",
+  "version" : "1.0",
+  "downloads" : "105",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\archonthelightandthedark\\4759_wave",
+  "imagesFilenames" : [ "archonthelightandthedark_0.png", "archonthelightandthedark_1.png", "archonthelightandthedark_2.png", "archonthelightandthedark_3.png", "archonthelightandthedark_4.png" ],
+  "readmeFilename" : "archonthelightandthedark_readme.txt",
+  "patchFilename" : "archonthelightandthedark_patch.zip",
+  "notes" : null
+}

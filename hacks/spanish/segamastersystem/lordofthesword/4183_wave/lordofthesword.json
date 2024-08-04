@@ -1,0 +1,19 @@
+{
+  "id" : "4183",
+  "releasedBy" : "Wave",
+  "name" : "Lord of the Sword",
+  "altName" : "Lord of Sword",
+  "system" : "Sega Master System",
+  "romDesc" : "Lord of the Sword (USA, Europe).sms\\r\\nMD5: b80f87887881343e5705ff3cce93c5f1\\r\\nSHA1: a5326a0029f7c3101add3335a599a01ccd7634c5\\r\\nCRC32: e8511b08 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\01\\16",
+  "gameDate" : "02 June 1988",
+  "version" : "1.0",
+  "downloads" : "161",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\lordofthesword\\4183_wave",
+  "imagesFilenames" : [ "lordofthesword_0.png", "lordofthesword_1.png", "lordofthesword_2.png", "lordofthesword_3.png", "lordofthesword_4.png" ],
+  "readmeFilename" : "lordofthesword_readme.txt",
+  "patchFilename" : "lordofthesword_patch.zip",
+  "notes" : null
+}

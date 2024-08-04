@@ -1,0 +1,19 @@
+{
+  "id" : "4251",
+  "releasedBy" : "Wave",
+  "name" : "Tetsudou Ou: Famicom Boardgame",
+  "altName" : "Railroad Baron: Famicom Boardgame",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Tetsudou Ou - Famicom Boardgame (J) [!].nes\\r\\nMD5: fff69b962158a8b4084700572365595f\\r\\nSHA1: 45d30cad96b471910f656c4df8df05cd2397b891\\r\\nCRC32: 774f460d 65.552 bytes",
+  "genre" : "Juego de Mesa",
+  "releaseDate" : "2019\\02\\12",
+  "gameDate" : "12 December 1987",
+  "version" : "1.0",
+  "downloads" : "138",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\tetsudououfamicomboardgame\\4251_wave",
+  "imagesFilenames" : [ "tetsudououfamicomboardgame_0.png", "tetsudououfamicomboardgame_1.png", "tetsudououfamicomboardgame_2.png", "tetsudououfamicomboardgame_3.png", "tetsudououfamicomboardgame_4.png" ],
+  "readmeFilename" : "tetsudououfamicomboardgame_readme.txt",
+  "patchFilename" : "tetsudououfamicomboardgame_patch.zip",
+  "notes" : null
+}

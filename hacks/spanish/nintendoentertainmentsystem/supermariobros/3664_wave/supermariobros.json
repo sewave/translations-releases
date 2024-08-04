@@ -1,0 +1,19 @@
+{
+  "id" : "3664",
+  "releasedBy" : "Wave",
+  "name" : "Super Mario Bros.",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Super Mario Bros. (W) [!].nes 40.976 bytes\\r\\nCRC32: 3337ec46\\r\\nMD5: 811b027eaf99c2def7b933c5208636de\\r\\nSHA1: ea343f4e445a9050d4b4fbac2c77d0693b1d0922",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\22",
+  "gameDate" : "13 September 1985",
+  "version" : "1.0",
+  "downloads" : "637",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\supermariobros\\3664_wave",
+  "imagesFilenames" : [ "supermariobros_0.png", "supermariobros_1.png", "supermariobros_2.png", "supermariobros_3.png", "supermariobros_4.png" ],
+  "readmeFilename" : "supermariobros_readme.txt",
+  "patchFilename" : "supermariobros_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5281",
+  "releasedBy" : "Wave",
+  "name" : "Break In",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Break In (1987) (Jaleco) (J).rom\\r\\nMD5: eab747201237ef95c210148a3888a0b1\\r\\nSHA1: bcfdb43b275c62a76856aab94fb1b53bd92b2db2\\r\\nCRC32: 8801b31e 65536 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\12\\08",
+  "gameDate" : "1987",
+  "version" : "1.0",
+  "downloads" : "31",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\breakin\\5281_wave",
+  "imagesFilenames" : [ "breakin_0.png", "breakin_1.png", "breakin_2.png", "breakin_3.png", "breakin_4.png" ],
+  "readmeFilename" : "breakin_readme.txt",
+  "patchFilename" : "breakin_patch.zip",
+  "notes" : null
+}

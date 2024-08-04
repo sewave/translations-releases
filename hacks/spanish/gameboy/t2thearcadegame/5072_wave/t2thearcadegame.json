@@ -1,0 +1,19 @@
+{
+  "id" : "5072",
+  "releasedBy" : "Wave",
+  "name" : "T2: The Arcade Game",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "T2 - The Arcade Game (U) [!].gb\\r\\nMD5: 43e26f216d50106a8fccbcc04cda0c29\\r\\nSHA1: a362a05b2616bca1375d3f4f979d12bdb9bca53a\\r\\nCRC32: 00f09c7f 131072 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\14",
+  "gameDate" : "November 1992",
+  "version" : "1.0",
+  "downloads" : "54",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\t2thearcadegame\\5072_wave",
+  "imagesFilenames" : [ "t2thearcadegame_0.png", "t2thearcadegame_1.png", "t2thearcadegame_2.png", "t2thearcadegame_3.png", "t2thearcadegame_4.png" ],
+  "readmeFilename" : "t2thearcadegame_readme.txt",
+  "patchFilename" : "t2thearcadegame_patch.zip",
+  "notes" : null
+}

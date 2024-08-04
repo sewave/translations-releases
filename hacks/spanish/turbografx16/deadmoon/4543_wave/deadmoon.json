@@ -1,0 +1,19 @@
+{
+  "id" : "4543",
+  "releasedBy" : "Wave",
+  "name" : "Dead Moon",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Dead Moon (U).pce\\r\\nMD5: 47e3d20a759659e30cef20aaaa5731b0\\r\\nSHA1: b289533a795ef874cc9bac158e3035101f892475\\r\\nCRC32: f5d98b0b 524288 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\05\\15",
+  "gameDate" : "22 February 1991",
+  "version" : "1.0",
+  "downloads" : "79",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\deadmoon\\4543_wave",
+  "imagesFilenames" : [ "deadmoon_0.png", "deadmoon_1.png", "deadmoon_2.png", "deadmoon_3.png", "deadmoon_4.png" ],
+  "readmeFilename" : "deadmoon_readme.txt",
+  "patchFilename" : "deadmoon_patch.zip",
+  "notes" : null
+}

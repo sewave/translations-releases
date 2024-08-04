@@ -1,0 +1,19 @@
+{
+  "id" : "5373",
+  "releasedBy" : "Wave",
+  "name" : "Flappy",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Flappy (Japan).nes\\r\\nMD5: e82ef1763b81bfcab9c95c0258347512\\r\\nSHA1: 4e7af113b95299e5e0e6020486498fd7f55a9694\\r\\nCRC32: 31ad3838 40976 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2020\\02\\01",
+  "gameDate" : "14 June 1985",
+  "version" : "1.0",
+  "downloads" : "48",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\flappy\\5373_wave",
+  "imagesFilenames" : [ "flappy_0.png", "flappy_1.png", "flappy_2.png", "flappy_3.png", "flappy_4.png" ],
+  "readmeFilename" : "flappy_readme.txt",
+  "patchFilename" : "flappy_patch.zip",
+  "notes" : null
+}

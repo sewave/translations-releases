@@ -1,0 +1,19 @@
+{
+  "id" : "4554",
+  "releasedBy" : "Wave",
+  "name" : "Konami's Soccer",
+  "altName" : "Konami's Football",
+  "system" : "MSX",
+  "romDesc" : "Konami's Soccer (1985) (Konami) (J).rom\\r\\nMD5: a113021087cc957f6bd64600a315e44d\\r\\nSHA1: fd7518a6aedb51630364082c27bdfe4411adfd4c\\r\\nCRC32: 74bc8295 32768 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\05\\19",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "40",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\konamissoccer\\4554_wave",
+  "imagesFilenames" : [ "konamissoccer_0.png", "konamissoccer_1.png", "konamissoccer_2.png", "konamissoccer_3.png", "konamissoccer_4.png" ],
+  "readmeFilename" : "konamissoccer_readme.txt",
+  "patchFilename" : "konamissoccer_patch.zip",
+  "notes" : null
+}

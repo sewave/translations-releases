@@ -1,0 +1,19 @@
+{
+  "id" : "3577",
+  "releasedBy" : "Wave",
+  "name" : "ClayFighter: Tournament Edition",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Clay Fighter - Tournament Edition (U).smc 3.145.728 bytes\\r\\nCRC32: b360f7af\\r\\nMD5: a6637ccb145e42bbce94fbce3a1bb5e7\\r\\nSHA1: a7d9a90f792c90d3d51f62db6279e9533dab5ca8",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2018\\05\\03",
+  "gameDate" : "May 1994",
+  "version" : "1.0",
+  "downloads" : "251",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\clayfightertournamentedition\\3577_wave",
+  "imagesFilenames" : [ "clayfightertournamentedition_0.png", "clayfightertournamentedition_1.png", "clayfightertournamentedition_2.png", "clayfightertournamentedition_3.png", "clayfightertournamentedition_4.png" ],
+  "readmeFilename" : "clayfightertournamentedition_readme.txt",
+  "patchFilename" : "clayfightertournamentedition_patch.zip",
+  "notes" : null
+}

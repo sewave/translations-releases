@@ -1,0 +1,19 @@
+{
+  "id" : "5258",
+  "releasedBy" : "Wave",
+  "name" : "Gyrodine",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Gyrodine (1986) (Taito) (J).rom\\r\\nMD5: 99e8e6260b5b42069b64e281209a1143\\r\\nSHA1: 99a8631cdc37f0dd9d8793ea8eadd3f34e0bba51\\r\\nCRC32: 0e89433b 32768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\12\\01",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "27",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\gyrodine\\5258_wave",
+  "imagesFilenames" : [ "gyrodine_0.png", "gyrodine_1.png", "gyrodine_2.png", "gyrodine_3.png" ],
+  "readmeFilename" : "gyrodine_readme.txt",
+  "patchFilename" : "gyrodine_patch.zip",
+  "notes" : null
+}

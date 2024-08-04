@@ -1,0 +1,19 @@
+{
+  "id" : "4405",
+  "releasedBy" : "Wave",
+  "name" : "Garry Kitchen's Battletank",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Battle Tank (U) [!].nes\\r\\nMD5: e9d60e5f653e47976151748cceab5484\\r\\nSHA1: 54a09fd17e0ec8d52f7ef46cf9a8cd198fd4c32d\\r\\nCRC32: 49c9ff12 65.552 bytes",
+  "genre" : "Simulación",
+  "releaseDate" : "2019\\04\\16",
+  "gameDate" : "September 1990",
+  "version" : "1.0",
+  "downloads" : "84",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\garrykitchensbattletank\\4405_wave",
+  "imagesFilenames" : [ "garrykitchensbattletank_0.png", "garrykitchensbattletank_1.png", "garrykitchensbattletank_2.png", "garrykitchensbattletank_3.png", "garrykitchensbattletank_4.png" ],
+  "readmeFilename" : "garrykitchensbattletank_readme.txt",
+  "patchFilename" : "garrykitchensbattletank_patch.zip",
+  "notes" : null
+}

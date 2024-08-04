@@ -1,0 +1,19 @@
+{
+  "id" : "3975",
+  "releasedBy" : "Wave",
+  "name" : "Chuck Rock",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Chuck Rock (U) [!].gg\\r\\nMD5: 86a3221d3d74133c84f658939fd6e928\\r\\nSHA1: 2b08a3231c0504d86caca74c8508d85c8ef6a86a\\r\\nCRC32: 191b1ed8 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\06",
+  "gameDate" : "30 October 1992",
+  "version" : "1.0",
+  "downloads" : "72",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\chuckrock\\3975_wave",
+  "imagesFilenames" : [ "chuckrock_0.png", "chuckrock_1.png", "chuckrock_2.png", "chuckrock_3.png", "chuckrock_4.png" ],
+  "readmeFilename" : "chuckrock_readme.txt",
+  "patchFilename" : "chuckrock_patch.zip",
+  "notes" : null
+}

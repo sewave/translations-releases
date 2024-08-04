@@ -1,0 +1,19 @@
+{
+  "id" : "4016",
+  "releasedBy" : "Wave",
+  "name" : "Rescue: The Embassy Mission",
+  "altName" : "Hostages: The Embassy Mission",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Rescue - The Embassy Mission (U) [!].nes\\r\\nMD5: 40a59ad73d28047df21cec57d8bff399\\r\\nSHA1: 8c3a5f1fff7470618111976cefaea6c41e3e4b31\\r\\nCRC32: 0e4fe1f3 262.160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\11\\19",
+  "gameDate" : "01 December 1989",
+  "version" : "1.0",
+  "downloads" : "146",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\rescuetheembassymission\\4016_wave",
+  "imagesFilenames" : [ "rescuetheembassymission_0.png", "rescuetheembassymission_1.png", "rescuetheembassymission_2.png", "rescuetheembassymission_3.png", "rescuetheembassymission_4.png" ],
+  "readmeFilename" : "rescuetheembassymission_readme.txt",
+  "patchFilename" : "rescuetheembassymission_patch.zip",
+  "notes" : null
+}

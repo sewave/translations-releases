@@ -1,0 +1,19 @@
+{
+  "id" : "5401",
+  "releasedBy" : "Wave",
+  "name" : "The Punisher",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Punisher, The (USA).nes\\r\\nMD5: e300df875430695a5f8680ee1c16b5a4\\r\\nSHA1: e1b29a14727391738b0a48c9ae409a76012ec2ac\\r\\nCRC32: 0d6bd840 262160 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2020\\02\\11",
+  "gameDate" : "November 1990",
+  "version" : "1.0",
+  "downloads" : "59",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\thepunisher\\5401_wave",
+  "imagesFilenames" : [ "thepunisher_0.png", "thepunisher_1.png", "thepunisher_2.png", "thepunisher_3.png", "thepunisher_4.png" ],
+  "readmeFilename" : "thepunisher_readme.txt",
+  "patchFilename" : "thepunisher_patch.zip",
+  "notes" : null
+}

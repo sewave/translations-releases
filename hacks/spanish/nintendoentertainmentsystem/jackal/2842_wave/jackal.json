@@ -1,0 +1,19 @@
+{
+  "id" : "2842",
+  "releasedBy" : "Wave",
+  "name" : "Jackal",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Jackal (U) [!].nes 131.088 bytes\\r\\nCRC32: 2e52d091\\r\\nMD5: 7d02d7a6d89ef993589d1f1d58e2bcda\\r\\nSHA1: 86c392a1d9a731fa48e148afbe60af75f918cb5a",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2017\\01\\09",
+  "gameDate" : "27 June 1986",
+  "version" : "1.0",
+  "downloads" : "481",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\jackal\\2842_wave",
+  "imagesFilenames" : [ "jackal_0.png", "jackal_1.png", "jackal_2.png", "jackal_3.png", "jackal_4.png" ],
+  "readmeFilename" : "jackal_readme.txt",
+  "patchFilename" : "jackal_patch.zip",
+  "notes" : null
+}

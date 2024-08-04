@@ -1,0 +1,19 @@
+{
+  "id" : "3492",
+  "releasedBy" : "Wave",
+  "name" : "Ghosts 'n Goblins",
+  "altName" : "",
+  "system" : "Game Boy",
+  "romDesc" : "Ghosts 'N Goblins (U) [C][!].gbc 1.048.576 bytes\\r\\nCRC32: ae024c23\\r\\nMD5: 9b846e9a4eb6b80cdbc8e6c82f2b9e9e\\r\\nSHA1: af9e69fc65fbe0d4fabe145472c1340e9f541a7b",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\03\\16",
+  "gameDate" : "January 2000",
+  "version" : "1.0",
+  "downloads" : "209",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\gameboy\\ghostsngoblins\\3492_wave",
+  "imagesFilenames" : [ "ghostsngoblins_0.png", "ghostsngoblins_1.png", "ghostsngoblins_2.png", "ghostsngoblins_3.png", "ghostsngoblins_4.png" ],
+  "readmeFilename" : "ghostsngoblins_readme.txt",
+  "patchFilename" : "ghostsngoblins_patch.zip",
+  "notes" : null
+}

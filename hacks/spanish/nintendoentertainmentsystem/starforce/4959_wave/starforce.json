@@ -1,0 +1,19 @@
+{
+  "id" : "4959",
+  "releasedBy" : "Wave",
+  "name" : "Star Force",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Star Force (U) [!].nes\\r\\nMD5: f9faebd9c835619b6df05c03c32b5e46\\r\\nSHA1: 881bd152f6ee107495961abb9fd0fdffbd3ad1a4\\r\\nCRC32: b3cf12b8 65552 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\08\\30",
+  "gameDate" : "25 June 1985",
+  "version" : "1.0",
+  "downloads" : "82",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\starforce\\4959_wave",
+  "imagesFilenames" : [ "starforce_0.png", "starforce_1.png", "starforce_2.png", "starforce_3.png", "starforce_4.png" ],
+  "readmeFilename" : "starforce_readme.txt",
+  "patchFilename" : "starforce_patch.zip",
+  "notes" : null
+}

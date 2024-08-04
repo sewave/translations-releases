@@ -1,0 +1,19 @@
+{
+  "id" : "3906",
+  "releasedBy" : "Wave",
+  "name" : "Wonder Boy",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Wonder Boy (SG-1000) [!].sg\\r\\nMD5: 76f29fee0cd3af921e488a276dace636\\r\\nSHA1: 4a54933135cdff546fd79cbc61a38355f7335f3f\\r\\nCRC32: 160535c5 32.768 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\10\\04",
+  "gameDate" : "1986",
+  "version" : "1.0",
+  "downloads" : "66",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\wonderboy\\3906_wave",
+  "imagesFilenames" : [ "wonderboy_0.png", "wonderboy_1.png", "wonderboy_2.png", "wonderboy_3.png" ],
+  "readmeFilename" : "wonderboy_readme.txt",
+  "patchFilename" : "wonderboy_patch.zip",
+  "notes" : null
+}

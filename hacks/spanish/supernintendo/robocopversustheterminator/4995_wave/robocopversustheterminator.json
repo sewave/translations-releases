@@ -1,0 +1,19 @@
+{
+  "id" : "4995",
+  "releasedBy" : "Wave",
+  "name" : "Robocop Versus The Terminator",
+  "altName" : "",
+  "system" : "Super Nintendo",
+  "romDesc" : "Robocop Versus The Terminator (U).smc\\r\\nMD5: 3683319beeba73ad6deb851ef72bf3d3\\r\\nSHA1: f6b6cd466d1a50a4f8608f4af1b773f317aaf964\\r\\nCRC32: f5ab5d91 1048576 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\09\\11",
+  "gameDate" : "November 1993",
+  "version" : "1.0",
+  "downloads" : "144",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\robocopversustheterminator\\4995_wave",
+  "imagesFilenames" : [ "robocopversustheterminator_0.png", "robocopversustheterminator_1.png", "robocopversustheterminator_2.png", "robocopversustheterminator_3.png", "robocopversustheterminator_4.png" ],
+  "readmeFilename" : "robocopversustheterminator_readme.txt",
+  "patchFilename" : "robocopversustheterminator_patch.zip",
+  "notes" : null
+}

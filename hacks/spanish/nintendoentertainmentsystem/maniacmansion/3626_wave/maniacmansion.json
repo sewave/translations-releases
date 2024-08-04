@@ -1,0 +1,19 @@
+{
+  "id" : "3626",
+  "releasedBy" : "Wave",
+  "name" : "Maniac Mansion",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Maniac Mansion (U) (Prototype) [!].nes 262.160 bytes\\r\\nCRC32: bba3ef7e\\r\\nMD5: 6033f75e5a55e0ec14bc4eb1d915c01f\\r\\nSHA1: ea68e251bad98cc492e5b88b27f19cfa0d981b3e",
+  "genre" : "Aventura",
+  "releaseDate" : "2018\\06\\01",
+  "gameDate" : "September 1991",
+  "version" : "1.0",
+  "downloads" : "336",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\maniacmansion\\3626_wave",
+  "imagesFilenames" : [ "maniacmansion_0.png", "maniacmansion_1.png", "maniacmansion_2.png", "maniacmansion_3.png", "maniacmansion_4.png" ],
+  "readmeFilename" : "maniacmansion_readme.txt",
+  "patchFilename" : "maniacmansion_patch.zip",
+  "notes" : null
+}

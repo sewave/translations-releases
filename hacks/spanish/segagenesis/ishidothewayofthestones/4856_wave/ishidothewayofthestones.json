@@ -1,0 +1,19 @@
+{
+  "id" : "4856",
+  "releasedBy" : "Wave",
+  "name" : "Ishido: The Way of the Stones",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Ishido - The Way of the Stones (U) [c][!].bin\\r\\nMD5: 30ee5ae0e2a4b2995a79173f67278c69\\r\\nSHA1: 3bd159e323d86e69031bf1ee9febeb6f9bb078d4\\r\\nCRC32: b1de7d5e 131072 bytes",
+  "genre" : "Puzle",
+  "releaseDate" : "2019\\07\\24",
+  "gameDate" : "1990",
+  "version" : "1.0",
+  "downloads" : "100",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\ishidothewayofthestones\\4856_wave",
+  "imagesFilenames" : [ "ishidothewayofthestones_0.png", "ishidothewayofthestones_1.png", "ishidothewayofthestones_2.png", "ishidothewayofthestones_3.png", "ishidothewayofthestones_4.png" ],
+  "readmeFilename" : "ishidothewayofthestones_readme.txt",
+  "patchFilename" : "ishidothewayofthestones_patch.zip",
+  "notes" : null
+}

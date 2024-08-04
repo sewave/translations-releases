@@ -1,0 +1,19 @@
+{
+  "id" : "4077",
+  "releasedBy" : "Wave",
+  "name" : "Rambo",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Rambo (U) (PRG1) [!].nes\\r\\nMD5: abfd1a308725b0cc9ab98bde040d4ce2\\r\\nSHA1: ac3031efa78dfd350359382b2df309353a7627d9\\r\\nCRC32: 7c9468d1 131.088 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\12\\10",
+  "gameDate" : "May 1988",
+  "version" : "1.0",
+  "downloads" : "187",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\rambo\\4077_wave",
+  "imagesFilenames" : [ "rambo_0.png", "rambo_1.png", "rambo_2.png", "rambo_3.png", "rambo_4.png" ],
+  "readmeFilename" : "rambo_readme.txt",
+  "patchFilename" : "rambo_patch.zip",
+  "notes" : null
+}

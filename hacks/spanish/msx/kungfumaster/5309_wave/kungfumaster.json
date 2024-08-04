@@ -1,0 +1,19 @@
+{
+  "id" : "5309",
+  "releasedBy" : "Wave",
+  "name" : "Kung Fu Master",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Kung-Fu Master (1983) (Mass Tael) (J).rom\\r\\nMD5: 5c45dcc46e8adb05dafe338132d4439c\\r\\nSHA1: c1dfc86c441e1128194f3ab490c94e29275b5df9\\r\\nCRC32: 08f23b3e 16384 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\12\\16",
+  "gameDate" : "1983",
+  "version" : "1.0",
+  "downloads" : "27",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\kungfumaster\\5309_wave",
+  "imagesFilenames" : [ "kungfumaster_0.png", "kungfumaster_1.png", "kungfumaster_2.png", "kungfumaster_3.png", "kungfumaster_4.png" ],
+  "readmeFilename" : "kungfumaster_readme.txt",
+  "patchFilename" : "kungfumaster_patch.zip",
+  "notes" : null
+}

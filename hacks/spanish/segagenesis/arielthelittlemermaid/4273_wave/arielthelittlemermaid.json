@@ -1,0 +1,19 @@
+{
+  "id" : "4273",
+  "releasedBy" : "Wave",
+  "name" : "Ariel: The Little Mermaid",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Ariel - The Little Mermaid (UE) [!].gen\\r\\nMD5: 4916ade6b213b1f56864239db56fef0d\\r\\nSHA1: 201105569535b7c8f11bd97b93cbee884c7845c4\\r\\nCRC32: 58e297df 524.288 bytes",
+  "genre" : "Aventura de Acción",
+  "releaseDate" : "2019\\02\\24",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "180",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\arielthelittlemermaid\\4273_wave",
+  "imagesFilenames" : [ "arielthelittlemermaid_0.png", "arielthelittlemermaid_1.png", "arielthelittlemermaid_2.png", "arielthelittlemermaid_3.png", "arielthelittlemermaid_4.png" ],
+  "readmeFilename" : "arielthelittlemermaid_readme.txt",
+  "patchFilename" : "arielthelittlemermaid_patch.zip",
+  "notes" : null
+}

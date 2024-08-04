@@ -1,0 +1,19 @@
+{
+  "id" : "3598",
+  "releasedBy" : "Wave",
+  "name" : "Air Rescue",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Air Rescue (E) [!].sms 262.144 bytes\\r\\nCRC32: 8b43d21d\\r\\nMD5: 4f145d617b9191cbc0e005786ca993f6\\r\\nSHA1: 4edd1b62abbbf2220961a06eb139db1838fb700b",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\05\\18",
+  "gameDate" : "1992",
+  "version" : "1.0",
+  "downloads" : "156",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\airrescue\\3598_wave",
+  "imagesFilenames" : [ "airrescue_0.png", "airrescue_1.png", "airrescue_2.png", "airrescue_3.png", "airrescue_4.png" ],
+  "readmeFilename" : "airrescue_readme.txt",
+  "patchFilename" : "airrescue_patch.zip",
+  "notes" : null
+}

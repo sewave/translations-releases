@@ -1,0 +1,19 @@
+{
+  "id" : "3368",
+  "releasedBy" : "Wave",
+  "name" : "Sweet Home",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Sweet Home (J) [!].nes 262.160 bytes\\r\\nCRC32: 40803bc5\\r\\nMD5: 49dd966e8a0e17bae16bc3d393c9d742\\r\\nSHA1: 54bfe479c12247e8b9996c6c5f331977035e1276",
+  "genre" : "Rol",
+  "releaseDate" : "2019\\06\\20",
+  "gameDate" : "15 December 1989",
+  "version" : "1.1",
+  "downloads" : "1880",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\sweethome\\3368_wave",
+  "imagesFilenames" : [ "sweethome_0.png", "sweethome_1.png", "sweethome_2.png", "sweethome_3.png", "sweethome_4.png" ],
+  "readmeFilename" : "sweethome_readme.txt",
+  "patchFilename" : "sweethome_patch.zip",
+  "notes" : null
+}

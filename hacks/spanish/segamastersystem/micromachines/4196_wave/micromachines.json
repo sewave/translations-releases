@@ -1,0 +1,19 @@
+{
+  "id" : "4196",
+  "releasedBy" : "Wave",
+  "name" : "Micro Machines",
+  "altName" : "",
+  "system" : "Sega Master System",
+  "romDesc" : "Micro Machines (E) [!].sms\\r\\nMD5: a90cf8d68fa8b1f0ba00f0ddb9d547b7\\r\\nSHA1: 425621f350d011fd021850238c6de9999625fd69\\r\\nCRC32: a577ce46 262.144 bytes",
+  "genre" : "Carreras",
+  "releaseDate" : "2019\\01\\21",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "96",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segamastersystem\\micromachines\\4196_wave",
+  "imagesFilenames" : [ "micromachines_0.png", "micromachines_1.png", "micromachines_2.png", "micromachines_3.png", "micromachines_4.png" ],
+  "readmeFilename" : "micromachines_readme.txt",
+  "patchFilename" : "micromachines_patch.zip",
+  "notes" : null
+}

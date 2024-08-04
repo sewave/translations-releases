@@ -1,0 +1,19 @@
+{
+  "id" : "5121",
+  "releasedBy" : "Wave",
+  "name" : "Star Force",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Star Force (SG-1000) [!].sg\\r\\nMD5: 2cbd1f9f4927f9618390340f56f116a6\\r\\nSHA1: d38875cb08de0ea892e5ef80f93987bbc445ef8f\\r\\nCRC32: b846b52a 32768 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\10\\27",
+  "gameDate" : "1985",
+  "version" : "1.0",
+  "downloads" : "37",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\starforce\\5121_wave",
+  "imagesFilenames" : [ "starforce_0.png", "starforce_1.png", "starforce_2.png", "starforce_3.png" ],
+  "readmeFilename" : "starforce_readme.txt",
+  "patchFilename" : "starforce_patch.zip",
+  "notes" : null
+}

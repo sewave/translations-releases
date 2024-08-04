@@ -1,0 +1,19 @@
+{
+  "id" : "5017",
+  "releasedBy" : "Wave",
+  "name" : "Ninja Spirit",
+  "altName" : "Saigo no Nindou: Ninja Spirit",
+  "system" : "PC Engine",
+  "romDesc" : "Ninja Spirit (U).pce\\r\\nMD5: adecf9e9d9be8a300818ad2cc09d49fe\\r\\nSHA1: 515eb414fc404d798206faad33fbcc5985fbbccb\\r\\nCRC32: de8af1c1 524288 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\09\\20",
+  "gameDate" : "06 July 1990",
+  "version" : "1.0",
+  "downloads" : "84",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\ninjaspirit\\5017_wave",
+  "imagesFilenames" : [ "ninjaspirit_0.png", "ninjaspirit_1.png", "ninjaspirit_2.png", "ninjaspirit_3.png", "ninjaspirit_4.png" ],
+  "readmeFilename" : "ninjaspirit_readme.txt",
+  "patchFilename" : "ninjaspirit_patch.zip",
+  "notes" : null
+}

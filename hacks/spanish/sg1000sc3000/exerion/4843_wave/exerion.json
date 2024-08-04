@@ -1,0 +1,19 @@
+{
+  "id" : "4843",
+  "releasedBy" : "Wave",
+  "name" : "Exerion",
+  "altName" : "",
+  "system" : "SG-1000/SC-3000",
+  "romDesc" : "Exerion (SG-1000) [!].sg\\r\\nMD5: 7f0ae039dd072d825ebfd2d3bf02a2a0\\r\\nSHA1: 839e19487b96d02222ff397b047cbc6a0fbc08ff\\r\\nCRC32: a2c45b61 16384 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\07\\18",
+  "gameDate" : "1983",
+  "version" : "1.0",
+  "downloads" : "40",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sg1000sc3000\\exerion\\4843_wave",
+  "imagesFilenames" : [ "exerion_0.png", "exerion_1.png", "exerion_2.png", "exerion_3.png", "exerion_4.png" ],
+  "readmeFilename" : "exerion_readme.txt",
+  "patchFilename" : "exerion_patch.zip",
+  "notes" : null
+}

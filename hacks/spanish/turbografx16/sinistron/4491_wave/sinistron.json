@@ -1,0 +1,19 @@
+{
+  "id" : "4491",
+  "releasedBy" : "Wave",
+  "name" : "Sinistron",
+  "altName" : "Violent Soldier",
+  "system" : "PC Engine",
+  "romDesc" : "Sinistron (U).pce\\r\\nMD5: 1c5eb68a65115abaccd9479503fd3a2b\\r\\nSHA1: 65defeeecfe60564a214b6572f94243fcfea78e0\\r\\nCRC32: 4f6e2dbd 393216 bytes",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2019\\04\\30",
+  "gameDate" : "14 December 1990",
+  "version" : "1.0",
+  "downloads" : "66",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\sinistron\\4491_wave",
+  "imagesFilenames" : [ "sinistron_0.png", "sinistron_1.png", "sinistron_2.png", "sinistron_3.png" ],
+  "readmeFilename" : "sinistron_readme.txt",
+  "patchFilename" : "sinistron_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3040",
+  "releasedBy" : "Wave",
+  "name" : "Final Fight 3",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "Final Fight 3 (Unl) [!].nes 786.448 bytes\\r\\nCRC32: 97f05116\\r\\nMD5: a7d7d3e08c226f8c9be9a8e4f72e3e24\\r\\nSHA1: 9c09601acd7a93a3c92600549223e3b72c6576b4",
+  "genre" : "Acción / Beat 'Em Up",
+  "releaseDate" : "2017\\05\\21",
+  "gameDate" : "October 1998",
+  "version" : "1.0",
+  "downloads" : "405",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\finalfight3\\3040_wave",
+  "imagesFilenames" : [ "finalfight3_0.png", "finalfight3_1.png", "finalfight3_2.png", "finalfight3_3.png", "finalfight3_4.png" ],
+  "readmeFilename" : "finalfight3_readme.txt",
+  "patchFilename" : "finalfight3_patch.zip",
+  "notes" : null
+}

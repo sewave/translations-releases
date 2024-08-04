@@ -1,0 +1,19 @@
+{
+  "id" : "3623",
+  "releasedBy" : "Wave",
+  "name" : "Ax Battler: A Legend of Golden Axe",
+  "altName" : "Ax Battler: Golden Axe Densetsu",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Ax Battler - A Legend of Golden Axe (U) (V2.4) [!].gg 262.144 bytes\\r\\nCRC32: 663bcf8a\\r\\nMD5: 71e87c98e849c71dfd9a21a4a9ff56b4\\r\\nSHA1: 9f5bf2973225b8ee337fcec460829724a0c63d9e",
+  "genre" : "Rol",
+  "releaseDate" : "2018\\06\\01",
+  "gameDate" : "01 November 1991",
+  "version" : "1.0",
+  "downloads" : "327",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\axbattleralegendofgoldenaxe\\3623_wave",
+  "imagesFilenames" : [ "axbattleralegendofgoldenaxe_0.png", "axbattleralegendofgoldenaxe_1.png", "axbattleralegendofgoldenaxe_2.png", "axbattleralegendofgoldenaxe_3.png", "axbattleralegendofgoldenaxe_4.png" ],
+  "readmeFilename" : "axbattleralegendofgoldenaxe_readme.txt",
+  "patchFilename" : "axbattleralegendofgoldenaxe_patch.zip",
+  "notes" : null
+}

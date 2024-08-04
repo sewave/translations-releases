@@ -1,0 +1,19 @@
+{
+  "id" : "5094",
+  "releasedBy" : "Wave",
+  "name" : "Buster Fight",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Buster Fight (J).gg\\r\\nMD5: a729ed9b55fd8496b807d39c3bb9299e\\r\\nSHA1: 5c87048082a95acd6bc27b98f85bda731617c739\\r\\nCRC32: a72a1753 262144 bytes",
+  "genre" : "Acción / Lucha",
+  "releaseDate" : "2019\\10\\21",
+  "gameDate" : "11 February 1994",
+  "version" : "1.0",
+  "downloads" : "49",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\busterfight\\5094_wave",
+  "imagesFilenames" : [ "busterfight_0.png", "busterfight_1.png", "busterfight_2.png", "busterfight_3.png", "busterfight_4.png" ],
+  "readmeFilename" : "busterfight_readme.txt",
+  "patchFilename" : "busterfight_patch.zip",
+  "notes" : null
+}

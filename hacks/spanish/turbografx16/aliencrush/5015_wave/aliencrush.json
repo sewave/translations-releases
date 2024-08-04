@@ -1,0 +1,19 @@
+{
+  "id" : "5015",
+  "releasedBy" : "Wave",
+  "name" : "Alien Crush",
+  "altName" : "",
+  "system" : "PC Engine",
+  "romDesc" : "Alien Crush (U).pce\\r\\nMD5: 0088d1d20861490677edb147d2de60bd\\r\\nSHA1: 1bfa4b5139612b0c33e3282c23e56c1dfc08ed52\\r\\nCRC32: ea488494 262144 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\09\\20",
+  "gameDate" : "1989",
+  "version" : "1.0",
+  "downloads" : "71",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\turbografx16\\aliencrush\\5015_wave",
+  "imagesFilenames" : [ "aliencrush_0.png", "aliencrush_1.png", "aliencrush_2.png", "aliencrush_3.png" ],
+  "readmeFilename" : "aliencrush_readme.txt",
+  "patchFilename" : "aliencrush_patch.zip",
+  "notes" : null
+}

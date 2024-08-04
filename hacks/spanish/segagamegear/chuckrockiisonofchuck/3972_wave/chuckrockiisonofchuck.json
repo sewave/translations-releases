@@ -1,0 +1,19 @@
+{
+  "id" : "3972",
+  "releasedBy" : "Wave",
+  "name" : "Chuck Rock II: Son of Chuck",
+  "altName" : "",
+  "system" : "Sega Game Gear",
+  "romDesc" : "Chuck Rock II - Son of Chuck (U) [!].gg\\r\\nMD5: bb6558532d5eda87c93d7fe8eb8ee24c\\r\\nSHA1: f6aa6a9a641b3a588a8091cf44e8b0a55ebbd613\\r\\nCRC32: 3fcc28c9 262.144 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\11\\06",
+  "gameDate" : "1993",
+  "version" : "1.0",
+  "downloads" : "77",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagamegear\\chuckrockiisonofchuck\\3972_wave",
+  "imagesFilenames" : [ "chuckrockiisonofchuck_0.png", "chuckrockiisonofchuck_1.png", "chuckrockiisonofchuck_2.png", "chuckrockiisonofchuck_3.png", "chuckrockiisonofchuck_4.png" ],
+  "readmeFilename" : "chuckrockiisonofchuck_readme.txt",
+  "patchFilename" : "chuckrockiisonofchuck_patch.zip",
+  "notes" : null
+}

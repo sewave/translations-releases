@@ -1,0 +1,19 @@
+{
+  "id" : "5209",
+  "releasedBy" : "Wave",
+  "name" : "Comic Bakery",
+  "altName" : "",
+  "system" : "MSX",
+  "romDesc" : "Comic Bakery (1984) (Konami) (J).rom\\r\\nMD5: df0af27c7fda4d2992a12ff1bd287f01\\r\\nSHA1: fc327d3946366ca75de0d0619eb0917a27e1bd61\\r\\nCRC32: a4097e41 16384 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2019\\11\\19",
+  "gameDate" : "1984",
+  "version" : "1.0",
+  "downloads" : "32",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\msx\\comicbakery\\5209_wave",
+  "imagesFilenames" : [ "comicbakery_0.png", "comicbakery_1.png", "comicbakery_2.png", "comicbakery_3.png", "comicbakery_4.png" ],
+  "readmeFilename" : "comicbakery_readme.txt",
+  "patchFilename" : "comicbakery_patch.zip",
+  "notes" : null
+}

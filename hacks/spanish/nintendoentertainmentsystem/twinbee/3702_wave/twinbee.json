@@ -1,0 +1,19 @@
+{
+  "id" : "3702",
+  "releasedBy" : "Wave",
+  "name" : "TwinBee",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "TwinBee (J) [!].nes 49.168 bytes\\r\\nCRC32: 4433ba0a\\r\\nMD5: 18c3facfdd60c4f4b4e78ecb2c7959cc\\r\\nSHA1: a1c47b356e39e5978839f5276003c3f4c93e2110",
+  "genre" : "Acción / Disparos",
+  "releaseDate" : "2018\\07\\13",
+  "gameDate" : "04 January 1986",
+  "version" : "1.0",
+  "downloads" : "226",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\twinbee\\3702_wave",
+  "imagesFilenames" : [ "twinbee_0.png", "twinbee_1.png", "twinbee_2.png" ],
+  "readmeFilename" : "twinbee_readme.txt",
+  "patchFilename" : "twinbee_patch.zip",
+  "notes" : null
+}

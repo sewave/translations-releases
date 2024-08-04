@@ -1,0 +1,19 @@
+{
+  "id" : "4308",
+  "releasedBy" : "Wave",
+  "name" : "BurgerTime",
+  "altName" : "",
+  "system" : "Nintendo Entertainment System",
+  "romDesc" : "BurgerTime (U) [!].nes\\r\\nMD5: 924f89aad439db0ada794e23075d649f\\r\\nSHA1: 98d432fb86fc1dac95c80180fc3ae51198569091\\r\\nCRC32: 516549f9 24.592 bytes",
+  "genre" : "Acción",
+  "releaseDate" : "2019\\03\\12",
+  "gameDate" : "27 November 1985",
+  "version" : "1.0",
+  "downloads" : "114",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\nintendoentertainmentsystem\\burgertime\\4308_wave",
+  "imagesFilenames" : [ "burgertime_0.png", "burgertime_1.png", "burgertime_2.png", "burgertime_3.png" ],
+  "readmeFilename" : "burgertime_readme.txt",
+  "patchFilename" : "burgertime_patch.zip",
+  "notes" : null
+}

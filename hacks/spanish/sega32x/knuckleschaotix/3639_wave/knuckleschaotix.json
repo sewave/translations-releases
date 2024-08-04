@@ -1,0 +1,19 @@
+{
+  "id" : "3639",
+  "releasedBy" : "Wave",
+  "name" : "Knuckles' Chaotix",
+  "altName" : "Chaotix",
+  "system" : "Sega 32X",
+  "romDesc" : "Knuckles' Chaotix (JU) (32X) [!].32x 3.145.728 bytes\\r\\nCRC32: d0b0b842\\r\\nMD5: 47b1095e68b053125cd2cd5b1ac4eb50\\r\\nSHA1: 0c2fff7bc79ed26507c08ac47464c3af19f7ced7",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\11",
+  "gameDate" : "20 April 1995",
+  "version" : "1.1",
+  "downloads" : "298",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\sega32x\\knuckleschaotix\\3639_wave",
+  "imagesFilenames" : [ "knuckleschaotix_0.png", "knuckleschaotix_1.png", "knuckleschaotix_2.png", "knuckleschaotix_3.png", "knuckleschaotix_4.png" ],
+  "readmeFilename" : "knuckleschaotix_readme.txt",
+  "patchFilename" : "knuckleschaotix_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "5062",
+  "releasedBy" : "Wave",
+  "name" : "Super Soccer",
+  "altName" : "Super Formation Soccer",
+  "system" : "Super Nintendo",
+  "romDesc" : "Super Soccer (U).smc\\r\\nMD5: 15bc713c9464c0e3243d1dbcf75c9bee\\r\\nSHA1: 47f401cf0b5845e129b636d381233c23ba74cef6\\r\\nCRC32: 4fd164d8 524288 bytes",
+  "genre" : "Deportes",
+  "releaseDate" : "2019\\10\\08",
+  "gameDate" : "13 December 1991",
+  "version" : "1.0",
+  "downloads" : "109",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\supernintendo\\supersoccer\\5062_wave",
+  "imagesFilenames" : [ "supersoccer_0.png", "supersoccer_1.png", "supersoccer_2.png", "supersoccer_3.png", "supersoccer_4.png" ],
+  "readmeFilename" : "supersoccer_readme.txt",
+  "patchFilename" : "supersoccer_patch.zip",
+  "notes" : null
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "3637",
+  "releasedBy" : "Wave",
+  "name" : "Flicky",
+  "altName" : "",
+  "system" : "Sega Mega Drive",
+  "romDesc" : "Flicky (UE) [!].gen 131.072 bytes\\r\\nCRC32: 4291c8ab\\r\\nMD5: 805cc0b3724f041126a57a4d956fd251\\r\\nSHA1: 83d8bbf0a9b38c42a0bf492d105cc3abe9644a96",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2018\\06\\08",
+  "gameDate" : "March 1991",
+  "version" : "1.0",
+  "downloads" : "218",
+  "lang" : "Spanish",
+  "path" : "hacks\\spanish\\segagenesis\\flicky\\3637_wave",
+  "imagesFilenames" : [ "flicky_0.png", "flicky_1.png", "flicky_2.png", "flicky_3.png", "flicky_4.png" ],
+  "readmeFilename" : "flicky_readme.txt",
+  "patchFilename" : "flicky_patch.zip",
+  "notes" : null
+}
