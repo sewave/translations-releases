@@ -28153,7 +28153,7 @@ var tableData = [ {
   "complete" : 1,
   "id" : "5487",
   "releasedBy" : "Wave",
-  "name" : "Power Strike II",
+  "name" : "GG Aleste II / Power Strike II",
   "altName" : "GG Aleste II",
   "system" : "Game Gear",
   "romDesc" : "Power Strike II (U).gg<br>MD5: d5836ec389ec2c81bd54728b96b87152<br>SHA1: e4db2140761b43426024bd08c4372bb9b8979d3d<br>CRC32: 09de1528<br>262144 bytes",
