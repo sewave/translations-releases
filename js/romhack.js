@@ -35,7 +35,7 @@ function loadHackData(data) {
 	$('#hackComplete').html(completeToHtmlStars(data.complete));
 
 	$('#hackVersion').html(
-		"<a href=\"" + data.path + "/" + data.patchFilename + "?rnd=" + new Date().getTime() + "\">" + data.version + " - " + data.releaseDate + "</a>");
+		"<a href=\"" + data.path + "/" + data.patchFilename + "?rnd=" + new Date().getTime() + "\">" + data.version + "</a>");
 	$('#hackReadme').html("<a target=\"_blank\" href=\"" + data.path + "/" + data.readmeFilename + "?rnd=" + new Date().getTime() + "\">Descargar</a>");
 	$('#hackRom').html(data.romDesc);
 	$('#hackImageTitle').attr("src", "");

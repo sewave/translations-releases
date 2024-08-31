@@ -10571,18 +10571,18 @@ var tableData = [ {
   "name" : "Sweet Home",
   "altName" : "",
   "system" : "NES",
-  "romDesc" : "Sweet Home (J) [!].nes<br>262.160 bytes<br>CRC32: 40803bc5<br>MD5: 49dd966e8a0e17bae16bc3d393c9d742<br>SHA1: 54bfe479c12247e8b9996c6c5f331977035e1276",
+  "romDesc" : "Sweet Home (Japan).nes<br>MD5: 49dd966e8a0e17bae16bc3d393c9d742<br>SHA1: 54bfe479c12247e8b9996c6c5f331977035e1276<br>CRC32: 40803bc5<br>262160 bytes",
   "genre" : "Rol",
   "releaseDate" : "2019/06/20",
   "gameDate" : "15 December 1989",
-  "version" : "1.1",
+  "version" : "1.2",
   "downloads" : "1880",
   "lang" : "Spanish",
-  "path" : "hacks/spanish/nintendoentertainmentsystem/sweethome/3368_wave",
-  "imagesFilenames" : [ "sweethome_0.png", "sweethome_1.png", "sweethome_2.png", "sweethome_3.png", "sweethome_4.png" ],
-  "readmeFilename" : "sweethome_readme.txt",
-  "patchFilename" : "sweethome_patch.zip",
-  "notes" : null
+  "path" : "hacks/20240831/sweethomenes",
+  "imagesFilenames" : [ "sweethomenes_0.png", "sweethomenes_1.png", "sweethomenes_2.png", "sweethomenes_3.png", "sweethomenes_4.png" ],
+  "readmeFilename" : "sweethomenes_readme.txt",
+  "patchFilename" : "sweethomenes.zip",
+  "notes" : "V1.1:<br>- Arreglada la pantalla de Game Over gracias a Jackic<br><br>V1.2:<br>- Aplicadas correcciones informadas por signatux"
 }, {
   "complete" : 3,
   "id" : "4582",
@@ -13216,14 +13216,14 @@ var tableData = [ {
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2018/12/18",
   "gameDate" : "01 November 1991",
-  "version" : "2.0",
+  "version" : "2.1",
   "downloads" : "109",
   "lang" : "Spanish",
-  "path" : "hacks/20220429/ninjagaidengg",
+  "path" : "hacks/20240831/ninjagaidengg",
   "imagesFilenames" : [ "ninjagaidengg_0.png", "ninjagaidengg_1.png", "ninjagaidengg_2.png", "ninjagaidengg_3.png", "ninjagaidengg_4.png" ],
   "readmeFilename" : "ninjagaidengg_readme.txt",
   "patchFilename" : "ninjagaidengg.zip",
-  "notes" : "V2.0:<br>-Añadidos caracteres especiales<br>-Revisión de guion"
+  "notes" : "V2.0:<br>- Añadidos caracteres especiales<br>- Revisión de guion<br><br>V2.1:<br>- Aplicadas correcciones informadas por signatux"
 }, {
   "complete" : 1,
   "id" : "3661",

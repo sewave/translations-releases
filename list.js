@@ -12059,7 +12059,7 @@ var tableData2= [ {
   "notes" : ""
 },
 {
-  "complete" : 2,
+  "complete" : 3,
   "id" : "6219",
   "releasedBy" : "Wave",
   "name" : "Ninja Gaiden III - The Ancient Ship of Doom",
@@ -12069,17 +12069,17 @@ var tableData2= [ {
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2021/07/24",
   "gameDate" : "",
-  "version" : "1.0",
+  "version" : "1.1",
   "downloads" : "",
   "lang" : "Spanish",
-  "path" : "hacks/20210724/ninjagaideniiitheancientshipofdoomnes",
+  "path" : "hacks/20240831/ninjagaideniiitheancientshipofdoomnes",
   "imagesFilenames" : [ "ninjagaideniiitheancientshipofdoomnes_0.png", "ninjagaideniiitheancientshipofdoomnes_1.png", "ninjagaideniiitheancientshipofdoomnes_2.png", "ninjagaideniiitheancientshipofdoomnes_3.png", "ninjagaideniiitheancientshipofdoomnes_4.png" ],
   "readmeFilename" : "ninjagaideniiitheancientshipofdoomnes_readme.txt",
   "patchFilename" : "ninjagaideniiitheancientshipofdoomnes.zip",
-  "notes" : ""
+  "notes" : "V1.1:<br>- Movido gráfico de coma un poco a la izquierda para no pegarse tanto a la siguiente palabra<br>- Aplicadas correcciones informadas por signatux y Jackic<br>- Aplicados gráficos de la pantalla de título de Terwilf"
 },
 {
-  "complete" : 2,
+  "complete" : 3,
   "id" : "6220",
   "releasedBy" : "Wave",
   "name" : "Ninja Gaiden II - The Dark Sword of Chaos",
@@ -12089,14 +12089,14 @@ var tableData2= [ {
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2021/07/24",
   "gameDate" : "",
-  "version" : "1.0",
+  "version" : "1.1",
   "downloads" : "",
   "lang" : "Spanish",
-  "path" : "hacks/20210724/ninjagaideniithedarkswordofchaosnes",
+  "path" : "hacks/20240831/ninjagaideniithedarkswordofchaosnes",
   "imagesFilenames" : [ "ninjagaideniithedarkswordofchaosnes_0.png", "ninjagaideniithedarkswordofchaosnes_1.png", "ninjagaideniithedarkswordofchaosnes_2.png", "ninjagaideniithedarkswordofchaosnes_3.png", "ninjagaideniithedarkswordofchaosnes_4.png" ],
   "readmeFilename" : "ninjagaideniithedarkswordofchaosnes_readme.txt",
   "patchFilename" : "ninjagaideniithedarkswordofchaosnes.zip",
-  "notes" : ""
+  "notes" : "V1.1:<br>- Mejorado gráfico 'Acto'<br>- Aplicadas correcciones informadas por signatux<br>- Aplicados gráficos de la pantalla de título de Terwilf"
 },
 {
   "complete" : 3,
@@ -12109,14 +12109,14 @@ var tableData2= [ {
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2021/07/24",
   "gameDate" : "",
-  "version" : "1.0",
+  "version" : "1.1",
   "downloads" : "",
   "lang" : "Spanish",
-  "path" : "hacks/20210724/ninjagaidennes",
+  "path" : "hacks/20240831/ninjagaidennes",
   "imagesFilenames" : [ "ninjagaidennes_0.png", "ninjagaidennes_1.png", "ninjagaidennes_2.png", "ninjagaidennes_3.png", "ninjagaidennes_4.png" ],
   "readmeFilename" : "ninjagaidennes_readme.txt",
   "patchFilename" : "ninjagaidennes.zip",
-  "notes" : ""
+  "notes" : "V1.1:<br>- Aplicadas correcciones informadas por signatux<br>- Movido acento a tile propio en el título"
 },
 {
   "complete" : 1,
@@ -14509,14 +14509,14 @@ var tableData2= [ {
   "genre" : "Acción / Rol",
   "releaseDate" : "2022/01/21",
   "gameDate" : "",
-  "version" : "1.1",
+  "version" : "1.2",
   "downloads" : "",
   "lang" : "Spanish",
-  "path" : "hacks/20220121/kouryuudensetsuvillgustgaidennes",
+  "path" : "hacks/20240831/kouryuudensetsuvillgustgaidennes",
   "imagesFilenames" : [ "kouryuudensetsuvillgustgaidennes_0.png", "kouryuudensetsuvillgustgaidennes_1.png", "kouryuudensetsuvillgustgaidennes_2.png", "kouryuudensetsuvillgustgaidennes_3.png", "kouryuudensetsuvillgustgaidennes_4.png" ],
   "readmeFilename" : "kouryuudensetsuvillgustgaidennes_readme.txt",
   "patchFilename" : "kouryuudensetsuvillgustgaidennes.zip",
-  "notes" : "V1.1:<br>- Corregido 'Anitmal' por 'Antimal'<br>- Expandida 'HachaMano'<br>- Expandida 'EspinillerasAntimal'"
+  "notes" : "V1.1:<br>- Corregido 'Anitmal' por 'Antimal'<br>- Expandida 'HachaMano'<br>- Expandida 'EspinillerasAntimal'<br><br>V1.2:<br>- Aplicadas correcciones informadas por signatux"
 },
 {
   "complete" : 1,
