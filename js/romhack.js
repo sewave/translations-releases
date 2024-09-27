@@ -16,11 +16,33 @@ function getUrlParam(parameter, defaultvalue) {
 var images = [];
 
 function completeToHtmlStars(completeData) {
-	complete = '';
-	for(var i = 0; i < completeData; i++) {
-		complete = complete + '<img src="images/star.png" />'; 
+	var complete = '<span title="' + getStarsTitle(completeData) + '">';
+	complete = complete + toEmojiStars(completeData); 
+	return complete + "</span>";
+}
+
+function toEmojiStars(stars) {
+	var complete = '';
+	for(var i = 0; i < stars; i++) {
+		complete = complete + '⭐'; 
 	}
 	return complete;
+}
+
+function getStarsTitle(stars) {
+	var title = 'Todos';
+	switch(stars) {
+	case 1:
+		title = "Casi sin fuentes/gráficos editados";
+	break;
+	case 2:
+		title = "Algunas fuentes/gráficos relevantes editados";
+	break;
+	case 3:
+		title = "Todas las fuentes/gráficos relevantes editados";
+	break;
+	}
+	return title;
 }
 
 function loadHackData(data) {
@@ -84,7 +106,6 @@ function documentReady() {
 					if ( type === "sort" )
 						return data;
 					return completeToHtmlStars(data);
-
 				}
 			},
 			{
@@ -118,6 +139,26 @@ function documentReady() {
                         .sort()
                         .each(function (d, j) {
                             select.append('<option value="' + d + '">' + d + '</option>');
+                        });
+                });
+            this.api()
+                .columns('.selectSearchStars')
+                .every(function () {
+                    var column = this;
+                    var select = $('<select><option value=""></option></select>')
+                        .appendTo($(column.footer()).empty())
+                        .on('change', function () {
+                            var val = toEmojiStars($.fn.dataTable.util.escapeRegex($(this).val()));
+ 
+                            column.search(val ? '^' + val + '$' : '', true, false).draw();
+                        });
+ 
+                    column
+                        .data()
+                        .unique()
+                        .sort()
+                        .each(function (d, j) {
+                            select.append('<option value="' + d + '" title="' + getStarsTitle(d) +'">' + toEmojiStars(d) + '</option>');
                         });
                 });
         },
