@@ -4616,24 +4616,24 @@ var tableData = [ {
   "patchFilename" : "arkanoidii_patch.zip",
   "notes" : null
 }, {
-  "complete" : 1,
+  "complete" : 3,
   "id" : "3929",
   "releasedBy" : "Wave",
   "name" : "Arkista's Ring",
   "altName" : "",
   "system" : "NES",
-  "romDesc" : "Arkista's Ring (U) [!].nes<br>MD5: 99acc5f49d953eafdce418ee21bc63ca<br>SHA1: 940d3dac5144e2a6399bad3bbe260d93270af10e<br>CRC32: cd3aa2a5<br>65.552 bytes",
+  "romDesc" : "Arkista's Ring (USA).nes<br>MD5: 99acc5f49d953eafdce418ee21bc63ca<br>SHA1: 940d3dac5144e2a6399bad3bbe260d93270af10e<br>CRC32: cd3aa2a5<br>65552 bytes",
   "genre" : "Rol / Acción",
   "releaseDate" : "2018/10/18",
   "gameDate" : "June 1990",
-  "version" : "1.0",
+  "version" : "2.0",
   "downloads" : "238",
   "lang" : "Spanish",
-  "path" : "hacks/spanish/nintendoentertainmentsystem/arkistasring/3929_wave",
-  "imagesFilenames" : [ "arkistasring_0.png", "arkistasring_1.png", "arkistasring_2.png", "arkistasring_3.png", "arkistasring_4.png" ],
-  "readmeFilename" : "arkistasring_readme.txt",
-  "patchFilename" : "arkistasring_patch.zip",
-  "notes" : null
+  "path" : "hacks/20240928/arkistasringnes",
+  "imagesFilenames" : [ "arkistasringnes_0.png", "arkistasringnes_1.png", "arkistasringnes_2.png", "arkistasringnes_3.png", "arkistasringnes_4.png" ],
+  "readmeFilename" : "arkistasringnes_readme.txt",
+  "patchFilename" : "arkistasringnes.zip",
+  "notes" : "V2.0:<br>-Corregido orden de objetos<br>-Recolocados textos<br>-Cambiado orden de escritura para arco y flechas<br>-Añadidos É, Ó"
 }, {
   "complete" : 3,
   "id" : "3524",
