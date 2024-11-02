@@ -30,6 +30,7 @@ v1: C5B8DFA7
 v2: ECE045A8
 4-Parchear los archivos restantes dependiendo de la versión usando
 los parches de la carpeta v1 o v2.
+NOTA: DH.ips es para DH.EXE
 
 Recomiendo usar un programa como Flips al incluir parches bps.
 
