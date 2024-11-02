@@ -21478,4 +21478,24 @@ var tableData2= [ {
   "patchFilename" : "kickoffnes.zip",
   "notes" : ""
 },
+{
+  "complete" : 3,
+  "id" : "6685",
+  "releasedBy" : "Wave",
+  "name" : "La Mitad Oscura",
+  "altName" : "The Dark Half",
+  "romDesc" : "-",
+  "system" : "PC",
+  "genre" : "Aventura",
+  "releaseDate" : "2024/11/02",
+  "gameDate" : "",
+  "version" : "1.0",
+  "downloads" : "0",
+  "lang" : "Spanish",
+  "path" : "hacks/20241102/darkhalfpc",
+  "imagesFilenames" : [ "darkhalfpc_0.png", "darkhalfpc_1.png", "darkhalfpc_2.png", "darkhalfpc_3.png", "darkhalfpc_4.png" ],
+  "readmeFilename" : "darkhalfpc_readme.txt",
+  "patchFilename" : "darkhalfpc.zip",
+  "notes" : ""
+},
 ];
