@@ -7649,14 +7649,14 @@ var tableData = [ {
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2016/11/29",
   "gameDate" : "18 December 1987",
-  "version" : "2.0",
+  "version" : "2.1",
   "downloads" : "364",
   "lang" : "Spanish",
-  "path" : "hacks/20220225/karnovjapnes",
+  "path" : "hacks/20241116/karnovjapnes",
   "imagesFilenames" : [ "karnovjapnes_0.png", "karnovjapnes_1.png", "karnovjapnes_2.png", "karnovjapnes_3.png", "karnovjapnes_4.png" ],
   "readmeFilename" : "karnovjapnes_readme.txt",
   "patchFilename" : "karnovjapnes.zip",
-  "notes" : "-V2.0:<br>-Traducido GAME OVER<br>-Retraducción del script<br>-Traducida pantalla de 'STAGE'<br>-Traducido PAUSE<br>-Traducido READY<br>-Traducido THE END"
+  "notes" : "-V2.0:<br>-Traducido GAME OVER<br>-Retraducción del script<br>-Traducida pantalla de 'STAGE'<br>-Traducido PAUSE<br>-Traducido READY<br>-Traducido THE END<br>V2.1:<br>-Arreglada cabecera manualmente para mejorar compatibilidad con algunos emuladores."
 }, {
   "complete" : 3,
   "id" : "5079",

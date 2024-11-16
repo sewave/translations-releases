@@ -21244,19 +21244,19 @@ var tableData2= [ {
   "releasedBy" : "Wave",
   "name" : "Frank N Stein",
   "altName" : "",
-  "romDesc" : "FrankNStein.tzx<br>MD5: 11ebae5c6d163b9772258a4de84702f5<br>SHA1: 3c03df495235bb95dcf9bb1f9d017494132006fa<br>CRC32: f0bad5c8<br>47888 bytes",
+  "romDesc" : "FrankNStein.tzx<br>MD5: 0bf326c895ed9749403a18f36098bfa2<br>SHA1: dfef7becc94586485994a7abd5093372493c2036<br>CRC32: 37c1c1d1<br>47918 bytes",
   "system" : "ZX Spectrum",
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2024/09/14",
   "gameDate" : "",
-  "version" : "1.0",
+  "version" : "1.1",
   "downloads" : "0",
   "lang" : "Spanish",
-  "path" : "hacks/20240914/franknsteintzx",
+  "path" : "hacks/20241116/franknsteintzx",
   "imagesFilenames" : [ "franknsteintzx_0.png", "franknsteintzx_1.png", "franknsteintzx_2.png", "franknsteintzx_3.png", "franknsteintzx_4.png" ],
   "readmeFilename" : "franknsteintzx_readme.txt",
   "patchFilename" : "franknsteintzx.zip",
-  "notes" : ""
+  "notes" : "V1.1:<br>-Adaptada traducción al nuevo TZX"
 },
 {
   "complete" : 2,
