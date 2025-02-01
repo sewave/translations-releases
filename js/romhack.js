@@ -172,7 +172,7 @@ function documentReady() {
 	});
 	var search = getUrlParam('search', '')
 	if (search != '') {
-		table.search(search).draw();
+		table.search(search.replaceAll(',', ' ')).draw();
 	}
 	$("#hackGallery, #hackImageTitle").click(function () {
 		Fresco.show(images, {
