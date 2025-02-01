@@ -13453,24 +13453,24 @@ var tableData = [ {
   "patchFilename" : "roadrash_patch.zip",
   "notes" : null
 }, {
-  "complete" : 1,
+  "complete" : 2,
   "id" : "3050",
   "releasedBy" : "Wave",
   "name" : "RoboCop 3",
   "altName" : "",
   "system" : "Game Gear",
-  "romDesc" : "Robocop 3 (U) [!].gg<br>262.144 bytes<br>CRC32: 069a0704<br>MD5: ae7121e6ce2831e1b700515b6060acaf<br>SHA1: 8de7c9ac95b734af9e3fbe5700ac4c6599799702",
+  "romDesc" : "RoboCop 3 (World).gg<br>MD5: ae7121e6ce2831e1b700515b6060acaf<br>SHA1: 8de7c9ac95b734af9e3fbe5700ac4c6599799702<br>CRC32: 069a0704<br>262144 bytes",
   "genre" : "Acción / Disparos",
   "releaseDate" : "2017/05/29",
   "gameDate" : "1993",
-  "version" : "1.0",
+  "version" : "2.0",
   "downloads" : "137",
   "lang" : "Spanish",
-  "path" : "hacks/spanish/segagamegear/robocop3/3050_wave",
-  "imagesFilenames" : [ "robocop3_0.png", "robocop3_1.png", "robocop3_2.png", "robocop3_3.png", "robocop3_4.png" ],
-  "readmeFilename" : "robocop3_readme.txt",
-  "patchFilename" : "robocop3_patch.zip",
-  "notes" : null
+  "path" : "hacks/20250201/robocop3gg",
+  "imagesFilenames" : [ "robocop3gg_0.png", "robocop3gg_1.png", "robocop3gg_2.png", "robocop3gg_3.png", "robocop3gg_4.png" ],
+  "readmeFilename" : "robocop3gg_readme.txt",
+  "patchFilename" : "robocop3gg.zip",
+  "notes" : "V2.0:<br>-Guion retraducido<br>-Añadidos Á y Ó<br>-Traducido GAME OVER"
 }, {
   "complete" : 1,
   "id" : "3537",
