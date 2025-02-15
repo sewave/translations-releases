@@ -15,10 +15,10 @@ Instrucciones de Parcheo
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
 James Bond 007 (USA).col
-MD5: d6c263a445bbbd87d156ae40fc4b930b
-SHA1: 23823b4f564cb916ab411d8822531eb3a1a57346
-CRC32: a3205f21
-16384 bytes
+MD5: c7ea91d9ac4d4a104d8e7832f8db3962
+SHA1: 22ee76c680e94fa016263473d0ffdbed1ea5ab7b
+CRC32: 561f2530
+12288 bytes
 
 --------
 Créditos

@@ -21924,7 +21924,7 @@ var tableData2= [ {
   "releasedBy" : "Wave",
   "name" : "James Bond 007",
   "altName" : "",
-  "romDesc" : "James Bond 007 (USA).col<br>D5: d6c263a445bbbd87d156ae40fc4b930b<br>SHA1: 23823b4f564cb916ab411d8822531eb3a1a57346<br>CRC32: a3205f21<br>16384 bytes",
+  "romDesc" : "James Bond 007 (USA).col<br>MD5: c7ea91d9ac4d4a104d8e7832f8db3962<br>SHA1: 22ee76c680e94fa016263473d0ffdbed1ea5ab7b<br>CRC32: 561f2530<br>12288 bytes",
   "system" : "ColecoVision",
   "genre" : "Acción / Disparos",
   "releaseDate" : "2025/02/15",
