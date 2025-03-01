@@ -22029,14 +22029,14 @@ var tableData2= [ {
   "genre" : "Aventura",
   "releaseDate" : "2025/02/22",
   "gameDate" : "",
-  "version" : "1.0",
+  "version" : "1.1",
   "downloads" : "0",
   "lang" : "Spanish",
   "path" : "hacks/20250222/mallardgb",
   "imagesFilenames" : [ "mallardgb_0.png", "mallardgb_1.png", "mallardgb_2.png", "mallardgb_3.png", "mallardgb_4.png" ],
   "readmeFilename" : "mallardgb_readme.txt",
   "patchFilename" : "mallardgb.zip",
-  "notes" : ""
+  "notes" : "V1.1:<br>-Arreglado fallo al leer cartel de la oficina"
 },
 {
   "complete" : 2,

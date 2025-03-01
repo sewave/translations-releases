@@ -1,5 +1,5 @@
 Sam Mallard - The Case of the Missing Swan (Game Boy)
-Traducción al Español v1.0 (22/02/2025)
+Traducción al Español v1.1 (01/03/2025)
 (C) 2025 Traducciones Wave
 
 ------------------------
@@ -8,6 +8,8 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+V1.1:
+-Arreglado fallo al leer cartel de la oficina
 
 ------------------------
 Instrucciones de Parcheo
