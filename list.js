@@ -16469,14 +16469,14 @@ var tableData2= [ {
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2022/10/15",
   "gameDate" : "",
-  "version" : "1.1",
+  "version" : "1.2",
   "downloads" : "0",
   "lang" : "Spanish",
   "path" : "hacks/20221015/quackshotsmd",
   "imagesFilenames" : [ "quackshotsmd_0.png", "quackshotsmd_1.png", "quackshotsmd_2.png", "quackshotsmd_3.png", "quackshotsmd_4.png" ],
   "readmeFilename" : "quackshotsmd_readme.txt",
   "patchFilename" : "quackshotsmd.zip",
-  "notes" : "V1.1: Reajustados punteros de la introducción para corregir un puntero erróneo en la rom original y dar más espacio a una frase."
+  "notes" : "V1.1: Reajustados punteros de la introducción para corregir un puntero erróneo en la rom original y dar más espacio a una frase.<br>V1.2: -Arreglada errata de traducción de NIETOS a SOBRINOS."
 },
 {
   "complete" : 3,
