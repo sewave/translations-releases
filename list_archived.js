@@ -15306,7 +15306,7 @@ var tableData = [ {
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2017/12/10",
   "gameDate" : "20 December 1991",
-  "version" : "1.1",
+  "version" : "1.2",
   "downloads" : "521",
   "lang" : "Spanish",
   "path" : "hacks/spanish/segagenesis/dahnamegamitanjou/3326_wave",
