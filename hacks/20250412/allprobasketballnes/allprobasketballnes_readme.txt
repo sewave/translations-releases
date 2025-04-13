@@ -1,5 +1,5 @@
 All-Pro Basketball (NES)
-Traducción al Español v1.0 (12/04/2025)
+Traducción al Español v1.1 (13/04/2025)
 (C) 2025 Traducciones Wave
 
 ------------------------
@@ -8,6 +8,9 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
+V1.1:
+-Arreglada pantalla de título
 
 ------------------------
 Instrucciones de Parcheo

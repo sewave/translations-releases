@@ -22229,14 +22229,14 @@ var tableData2= [ {
   "genre" : "Deportes",
   "releaseDate" : "2025/04/12",
   "gameDate" : "",
-  "version" : "1.0",
+  "version" : "1.1",
   "downloads" : "0",
   "lang" : "Spanish",
   "path" : "hacks/20250412/allprobasketballnes",
   "imagesFilenames" : [ "allprobasketballnes_0.png", "allprobasketballnes_1.png", "allprobasketballnes_2.png", "allprobasketballnes_3.png", "allprobasketballnes_4.png" ],
   "readmeFilename" : "allprobasketballnes_readme.txt",
   "patchFilename" : "allprobasketballnes.zip",
-  "notes" : ""
+  "notes" : "V1.1: -Arreglada pantalla de título"
 },
 {
   "complete" : 1,
