@@ -21829,14 +21829,14 @@ var tableData2= [ {
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2025/01/18",
   "gameDate" : "",
-  "version" : "1.0",
+  "version" : "1.1",
   "downloads" : "0",
   "lang" : "Spanish",
   "path" : "hacks/20250118/megamanworld2gbc",
   "imagesFilenames" : [ "megamanworld2gbc_0.png", "megamanworld2gbc_1.png", "megamanworld2gbc_2.png", "megamanworld2gbc_3.png", "megamanworld2gbc_4.png" ],
   "readmeFilename" : "megamanworld2gbc_readme.txt",
   "patchFilename" : "megamanworld2gbc.zip",
-  "notes" : ""
+  "notes" : "V1.1: Arreglado error en clave y game over."
 },
 {
   "complete" : 3,
