@@ -5,7 +5,7 @@ Traducción al Español v2.0 (08/06/2025)
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducción y hacking es completamente original.
+Esta traducción y hacking está basado en el de cccmar.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 
