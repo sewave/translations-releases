@@ -15296,24 +15296,24 @@ var tableData = [ {
   "patchFilename" : "cutthroatisland_patch.zip",
   "notes" : null
 }, {
-  "complete" : 1,
+  "complete" : 3,
   "id" : "3326",
   "releasedBy" : "Wave",
   "name" : "Dahna: Megami Tanjou",
   "altName" : "Dahna: Goddess' Birth",
   "system" : "Mega Drive",
-  "romDesc" : "Dahna - Megami Tanjou (J) [!].bin<br>1.048.576 bytes<br>CRC32: 4602584f<br>MD5: 731b77ec3acab4aaf3b76cd3c8d82a41<br>SHA1: da0246a063e6f70933e251b9ae84587fe620d4f0",
+  "romDesc" : "Dahna - Megami Tanjou (Japan).md<br>MD5: 731b77ec3acab4aaf3b76cd3c8d82a41<br>SHA1: da0246a063e6f70933e251b9ae84587fe620d4f0<br>CRC32: 4602584f<br>1048576 bytes",
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2017/12/10",
   "gameDate" : "20 December 1991",
-  "version" : "1.2",
+  "version" : "2.0",
   "downloads" : "521",
   "lang" : "Spanish",
-  "path" : "hacks/spanish/segagenesis/dahnamegamitanjou/3326_wave",
-  "imagesFilenames" : [ "dahnamegamitanjou_0.png", "dahnamegamitanjou_1.png", "dahnamegamitanjou_2.png", "dahnamegamitanjou_3.png", "dahnamegamitanjou_4.png" ],
-  "readmeFilename" : "dahnamegamitanjou_readme.txt",
-  "patchFilename" : "dahnamegamitanjou_patch.zip",
-  "notes" : null
+  "path" : "hacks/20250608/dahnamegamitanjousmd",
+  "imagesFilenames" : [ "dahnamegamitanjousmd_0.png", "dahnamegamitanjousmd_1.png", "dahnamegamitanjousmd_2.png", "dahnamegamitanjousmd_3.png", "dahnamegamitanjousmd_4.png" ],
+  "readmeFilename" : "dahnamegamitanjousmd_readme.txt",
+  "patchFilename" : "dahnamegamitanjousmd.zip",
+  "notes" : "V2.0:<br>-Añadidos caracteres españoles<br>-Traducido PAUSE<br>-Traducido GAME OVER<br>-Traducido ETAPA<br>-Traducido subtítulo<br>-Traducido H.P. por P.S."
 }, {
   "complete" : 2,
   "id" : "4447",
