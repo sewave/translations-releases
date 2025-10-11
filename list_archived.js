@@ -6632,24 +6632,24 @@ var tableData = [ {
   "patchFilename" : "fantasyzonetengen_patch.zip",
   "notes" : null
 }, {
-  "complete" : 1,
+  "complete" : 3,
   "id" : "2821",
   "releasedBy" : "Wave",
   "name" : "Felix the Cat",
   "altName" : "",
   "system" : "NES",
-  "romDesc" : "Felix the Cat (U) [!].nes<br>262.160 bytes<br>CRC32: 0639e88e<br>MD5: 2f037c1da6a59f56a0f65c6971f8b3bd<br>SHA1: d98426b4955ae9ec4feaedb2538aab35b8209c06",
+  "romDesc" : "Felix the Cat (USA) (Hudson).nes<br>MD5: 9ac05a0ec9d615e18c74b4c0b16844e6<br>SHA1: b57b1c6e6933432694e920694cfa10dae5c5961b<br>CRC32: 3856f581<br>262160 bytes",
   "genre" : "Acción / Plataformas",
   "releaseDate" : "2016/12/12",
   "gameDate" : "October 1992",
-  "version" : "1.0",
+  "version" : "2.0",
   "downloads" : "541",
   "lang" : "Spanish",
-  "path" : "hacks/spanish/nintendoentertainmentsystem/felixthecat/2821_wave",
-  "imagesFilenames" : [ "felixthecat_0.png", "felixthecat_1.png", "felixthecat_2.png", "felixthecat_3.png", "felixthecat_4.png" ],
-  "readmeFilename" : "felixthecat_readme.txt",
-  "patchFilename" : "felixthecat_patch.zip",
-  "notes" : null
+  "path" : "hacks/20251011/felixthecatnes",
+  "imagesFilenames" : [ "felixthecatnes_0.png", "felixthecatnes_1.png", "felixthecatnes_2.png", "felixthecatnes_3.png", "felixthecatnes_4.png" ],
+  "readmeFilename" : "felixthecatnes_readme.txt",
+  "patchFilename" : "felixthecatnes.zip",
+  "notes" : "V2.0:<br>-Felix => Félix<br>-1UP => 1VD<br>-Pantalla de título<br>-Añadidos caracteres españoles<br>-Nueva traducción<br>-Traducido FELIX WORLD<br>-Traducido GAME OVER<br>-Traducido cartel GOAL<br>-Traducido TIME UP<br>-Traducido THE END<br>-Parche de smoke_th para devolver el brillo"
 }, {
   "complete" : 3,
   "id" : "4781",
