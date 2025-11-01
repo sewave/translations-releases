@@ -22638,4 +22638,24 @@ var tableData2= [ {
   "patchFilename" : "wrigglertzx.zip",
   "notes" : ""
 },
+{
+  "complete" : 3,
+  "id" : "6743",
+  "releasedBy" : "Wave",
+  "name" : "Ninja JaJaMaru - Operation Milky Way",
+  "altName" : "",
+  "system" : "NES",
+  "romDesc" : "Ninja JaJaMaru - Operation Milky Way (USA, Europe) (Ninja JaJaMaru Retro Collection) (Switch).nes<br>MD5: ae3863d5c9d80747b58a049a9307dac1<br>SHA1: 0568557d33f24e59429b2f9a9ce53f70c0481bf8<br>CRC32: 65120fe2<br>262160 bytes",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2025/11/01",
+  "gameDate" : "",
+  "version" : "1.0",
+  "downloads" : "0",
+  "lang" : "Spanish",
+  "path" : "hacks/20251101/ninjajajamaruoperationmilkywaynes",
+  "imagesFilenames" : [ "ninjajajamaruoperationmilkywaynes_0.png", "ninjajajamaruoperationmilkywaynes_1.png", "ninjajajamaruoperationmilkywaynes_2.png", "ninjajajamaruoperationmilkywaynes_3.png", "ninjajajamaruoperationmilkywaynes_4.png" ],
+  "readmeFilename" : "ninjajajamaruoperationmilkywaynes_readme.txt",
+  "patchFilename" : "ninjajajamaruoperationmilkywaynes.zip",
+  "notes" : ""
+},
 ];
