@@ -10755,24 +10755,24 @@ var tableData = [ {
   "patchFilename" : "teenagemutantninjaturtlesiines.zip",
   "notes" : "V2.0:<br>-Traducida pantalla de licencia<br>-Ampliadas opciones en título<br>-Traducido Selector 1P-1J<br>-Guion ampliado y retraducido<br>-Mejorada la traducción de los créditos"
 }, {
-  "complete" : 1,
+  "complete" : 3,
   "id" : "2826",
   "releasedBy" : "Wave",
   "name" : "Teenage Mutant Ninja Turtles: Tournament Fighters",
   "altName" : "Teenage Mutant Hero Turtles: Tournament Fighters",
   "system" : "NES",
-  "romDesc" : "Teenage Mutant Ninja Turtles - Tournament Fighters (U) [!].nes<br>262.160 bytes<br>CRC32: ac05464f<br>MD5: 2029e6af90f987fa2ac7aa5d19edfdb4<br>SHA1: 182f901142530a509a7c9f5831b5a7f7f4c923a8",
+  "romDesc" : "Teenage Mutant Ninja Turtles - Tournament Fighters (USA).nes<br>MD5: 1b04aff093c89068fe1c86d8c061ee79<br>SHA1: 85873ccfafe233309bacfb8d5d30a3721ee4508f<br>CRC32: 3d2face7<br>262160 bytes",
   "genre" : "Acción / Lucha",
   "releaseDate" : "2016/12/20",
   "gameDate" : "January 1994",
-  "version" : "1.0",
+  "version" : "2.0",
   "downloads" : "492",
   "lang" : "Spanish",
-  "path" : "hacks/spanish/nintendoentertainmentsystem/teenagemutantninjaturtlestournamentfighters/2826_wave",
-  "imagesFilenames" : [ "teenagemutantninjaturtlestournamentfighters_0.png", "teenagemutantninjaturtlestournamentfighters_1.png", "teenagemutantninjaturtlestournamentfighters_2.png", "teenagemutantninjaturtlestournamentfighters_3.png", "teenagemutantninjaturtlestournamentfighters_4.png" ],
-  "readmeFilename" : "teenagemutantninjaturtlestournamentfighters_readme.txt",
-  "patchFilename" : "teenagemutantninjaturtlestournamentfighters_patch.zip",
-  "notes" : null
+  "path" : "hacks/20251129/teenagemutantninjaturtlestournamentfightersnes",
+  "imagesFilenames" : [ "teenagemutantninjaturtlestournamentfightersnes_0.png", "teenagemutantninjaturtlestournamentfightersnes_1.png", "teenagemutantninjaturtlestournamentfightersnes_2.png", "teenagemutantninjaturtlestournamentfightersnes_3.png", "teenagemutantninjaturtlestournamentfightersnes_4.png" ],
+  "readmeFilename" : "teenagemutantninjaturtlestournamentfightersnes_readme.txt",
+  "patchFilename" : "teenagemutantninjaturtlestournamentfightersnes.zip",
+  "notes" : "V2.0:<br>Traducidos créditos<br>-Añadidos caracteres españoles<br>-Guion retraducido<br>-Mejorada traducción de opciones<br>-Traducidos gráficos de batalla, FIGHT, WIN, etc.<br>-Traducido SCORE<br>-Traducida etapa de bonos<br>-Mejorada pantalla de elección de fase"
 }, {
   "complete" : 1,
   "id" : "4301",
