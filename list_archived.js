@@ -10765,14 +10765,14 @@ var tableData = [ {
   "genre" : "Acción / Lucha",
   "releaseDate" : "2016/12/20",
   "gameDate" : "January 1994",
-  "version" : "2.0",
+  "version" : "2.1",
   "downloads" : "492",
   "lang" : "Spanish",
   "path" : "hacks/20251129/teenagemutantninjaturtlestournamentfightersnes",
   "imagesFilenames" : [ "teenagemutantninjaturtlestournamentfightersnes_0.png", "teenagemutantninjaturtlestournamentfightersnes_1.png", "teenagemutantninjaturtlestournamentfightersnes_2.png", "teenagemutantninjaturtlestournamentfightersnes_3.png", "teenagemutantninjaturtlestournamentfightersnes_4.png" ],
   "readmeFilename" : "teenagemutantninjaturtlestournamentfightersnes_readme.txt",
   "patchFilename" : "teenagemutantninjaturtlestournamentfightersnes.zip",
-  "notes" : "V2.0:<br>Traducidos créditos<br>-Añadidos caracteres españoles<br>-Guion retraducido<br>-Mejorada traducción de opciones<br>-Traducidos gráficos de batalla, FIGHT, WIN, etc.<br>-Traducido SCORE<br>-Traducida etapa de bonos<br>-Mejorada pantalla de elección de fase"
+  "notes" : "V2.0:<br>Traducidos créditos<br>-Añadidos caracteres españoles<br>-Guion retraducido<br>-Mejorada traducción de opciones<br>-Traducidos gráficos de batalla, FIGHT, WIN, etc.<br>-Traducido SCORE<br>-Traducida etapa de bonos<br>-Mejorada pantalla de elección de fase<br>V2.1:<br>-Adaptados nombres de escenarios para evitar cambio de color en texto"
 }, {
   "complete" : 1,
   "id" : "4301",

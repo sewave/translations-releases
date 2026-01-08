@@ -1,6 +1,6 @@
 Teenage Mutant Ninja Turtles - Tournament Fighters (NES)
-Traducción al Español v2.0 (29/11/2025)
-(C) 2025 Traducciones Wave
+Traducción al Español v2.1 (08/01/2026)
+(C) 2026 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -18,6 +18,9 @@ V2.0:
 -Traducido SCORE
 -Traducida etapa de bonos
 -Mejorada pantalla de elección de fase
+
+V2.1:
+-Adaptados nombres de escenarios para evitar cambio de color en texto
 
 ------------------------
 Instrucciones de Parcheo
