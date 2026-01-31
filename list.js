@@ -22658,4 +22658,24 @@ var tableData2= [ {
   "patchFilename" : "ninjajajamaruoperationmilkywaynes.zip",
   "notes" : ""
 },
+{
+  "complete" : 3,
+  "id" : "6744",
+  "releasedBy" : "Wave",
+  "name" : "Ultimate Air Combat",
+  "altName" : "",
+  "system" : "NES",
+  "romDesc" : "Ultimate Air Combat (USA).nes<br>MD5: 39db9f419c23b9b4cd458f453abe5f59<br>SHA1: 17b38017afba646f75eca9f328c37dfc00fa0083<br>CRC32: 83590206<br>524304 bytes",
+  "genre" : "Acción / Simulación / Vuelo",
+  "releaseDate" : "2026/01/31",
+  "gameDate" : "",
+  "version" : "1.0",
+  "downloads" : "0",
+  "lang" : "Spanish",
+  "path" : "hacks/20260131/ultimateaircombatnes",
+  "imagesFilenames" : [ "ultimateaircombatnes_0.png", "ultimateaircombatnes_1.png", "ultimateaircombatnes_2.png", "ultimateaircombatnes_3.png", "ultimateaircombatnes_4.png" ],
+  "readmeFilename" : "ultimateaircombatnes_readme.txt",
+  "patchFilename" : "ultimateaircombatnes.zip",
+  "notes" : ""
+},
 ];
