@@ -22678,4 +22678,24 @@ var tableData2= [ {
   "patchFilename" : "ultimateaircombatnes.zip",
   "notes" : ""
 },
+{
+  "complete" : 3,
+  "id" : "6745",
+  "releasedBy" : "Wave",
+  "name" : "Flame Dragon 2: Legend of Golden Castle",
+  "altName" : "炎龍騎士團2",
+  "system" : "PC",
+  "romDesc" : "Ver readme.",
+  "genre" : "RPG / Estrategia / Turnos",
+  "releaseDate" : "2026/05/23",
+  "gameDate" : "",
+  "version" : "1.0",
+  "downloads" : "0",
+  "lang" : "Spanish",
+  "path" : "hacks/20260523/flamedragon2pc",
+  "imagesFilenames" : [ "flamedragon2pc_00.png", "flamedragon2pc_01.png", "flamedragon2pc_02.png", "flamedragon2pc_03.png", "flamedragon2pc_04.png", "flamedragon2pc_05.png", "flamedragon2pc_06.png", "flamedragon2pc_07.png", "flamedragon2pc_08.png", "flamedragon2pc_09.png" ],
+  "readmeFilename" : "flamedragon2pc_readme.txt",
+  "patchFilename" : "flamedragon2pc.zip",
+  "notes" : ""
+},
 ];
