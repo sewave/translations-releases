@@ -3899,7 +3899,7 @@ var tableData2= [ {
   "notes" : null
 },
 {
-  "complete" : 1,
+  "complete" : 2,
   "id" : "5815",
   "releasedBy" : "Wave",
   "name" : "Quarth",
@@ -3909,14 +3909,14 @@ var tableData2= [ {
   "genre" : "Acción / Puzle",
   "releaseDate" : "2020/07/22",
   "gameDate" : "",
-  "version" : "1.0",
+  "version" : "1.1",
   "downloads" : "",
   "lang" : "Spanish",
-  "path" : "hacks/20200722/quarthgb",
+  "path" : "hacks/20261024/quarthgb",
   "imagesFilenames" : [ "quarthgb_0.png", "quarthgb_1.png", "quarthgb_2.png", "quarthgb_3.png", "quarthgb_4.png" ],
   "readmeFilename" : "quarthgb_readme.txt",
   "patchFilename" : "quarthgb.zip",
-  "notes" : null
+  "notes" : "V1.1:<br>-Mejorada pantalla de licencia<br>-Arreglado bug \"1900\" y \"TM\" en pantalla de título<br>-Traducidos finales de etapa sin traducir<br>-Traducidos nombres de naves para el final"
 },
 {
   "complete" : 1,
@@ -22936,6 +22936,26 @@ var tableData2= [ {
   "imagesFilenames" : [ "landofillusionstarringmickeymousesms_0.png", "landofillusionstarringmickeymousesms_1.png", "landofillusionstarringmickeymousesms_2.png", "landofillusionstarringmickeymousesms_3.png", "landofillusionstarringmickeymousesms_4.png", "landofillusionstarringmickeymousesms_5.png", "landofillusionstarringmickeymousesms_6.png", "landofillusionstarringmickeymousesms_7.png" ],
   "readmeFilename" : "landofillusionstarringmickeymousesms_readme.txt",
   "patchFilename" : "landofillusionstarringmickeymousesms.zip",
+  "notes" : ""
+},
+{
+  "complete" : 3,
+  "id" : "6758",
+  "releasedBy" : "Wave",
+  "name" : "Star Wars - The Empire Strikes Back",
+  "altName" : "",
+  "romDesc" : "Star Wars - The Empire Strikes Back (USA).nes<br>MD5: 8091f4d2818a52998dce845cf4dc85da<br>SHA1: 3b672a315488d60a9ab44a314668f553e54f436f<br>CRC32: a7409fbc<br>524304 bytes",
+  "system" : "NES",
+  "genre" : "Acción / Plataformas",
+  "releaseDate" : "2026/10/24",
+  "gameDate" : "",
+  "version" : "1.0",
+  "downloads" : "0",
+  "lang" : "Spanish",
+  "path" : "hacks/20261024/starwarstheempirestrikesbacknes",
+  "imagesFilenames" : [ "starwarstheempirestrikesbacknes_0.png", "starwarstheempirestrikesbacknes_1.png", "starwarstheempirestrikesbacknes_2.png", "starwarstheempirestrikesbacknes_3.png", "starwarstheempirestrikesbacknes_4.png" ],
+  "readmeFilename" : "starwarstheempirestrikesbacknes_readme.txt",
+  "patchFilename" : "starwarstheempirestrikesbacknes.zip",
   "notes" : ""
 },
 ];
