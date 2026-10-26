@@ -8576,7 +8576,7 @@ var tableData = [ {
   "name" : "Punch Out!!",
   "altName" : "Mike Tyson's Punch Out!!",
   "system" : "NES",
-  "romDesc" : "Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1).nes<br>MD5: 2e3d646eecbcdb6e7da3d0a6edfb325b<br>SHA1: 61c3a89eef9dd09790d22a897ae876ceeec944a3<br>CRC32: acd20bd8<br>262160 bytes",
+  "romDesc" : "Punch-Out!! (USA).nes<br>MD5: 207d7d37d0af3525f3bb2d90e280b339<br>SHA1: 0dbc137e7ba18dea3006d028c09227cd636e349b<br>CRC32: 390d15b3<br>262160 bytes",
   "genre" : "Deportes",
   "releaseDate" : "2019/06/04",
   "gameDate" : "October 1987",
